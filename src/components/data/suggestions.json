@@ -1,0 +1,2546 @@
+[
+    {
+      "text": "analogy signs", 
+      "referredentries": ["83", "84", "85", "86", "87", "88", "89", "90", "793-850", "881"]
+    },
+    {
+      "text": "abdominal wall",
+      "referredentries": ["443i", "443j", "443p", "443t", "444a", "444e", "927g", "927h", "927i"]
+    },
+    {
+      "text": "similar sign (ad libitum, unspecified)",
+      "referredentries": ["87", "670m", "756", "807", "810d", "822e", "834-844", "853h"]
+    },
+    {
+      "text": "above something or somebody",
+      "referredentries": ["129a", "129c", "150d", "607a", "607b", "939", "985a"]
+    },
+    {
+      "text": "dot above a joint sign",
+      "referredentries": ["316e", "360b", "360b′", "360d", "360d′", "393b", "393b′", "393d", "393d′"]
+    },
+    {
+      "text": "staccato", 
+      "referredentries": ["115c", "722a", "722b", "742"]
+    },
+    {
+      "text": "accent signs", 
+      "referredentries": ["69", "77b", "199a", "286", "521d′", "547b", "548f", "627", "657a", "657b", "715-724", "783a", "783b", "783c"]
+    },
+    {
+      "text": "action stroke (vertical lines of various lengths in the inner and outer columns of the staff)",
+      "referredentries": ["5a", "126a", "182b", "183b", "184c", "185b", "186a", "195a", "209", "232b", "234b", "246a", "246b", "540", "759", "782m", "789d", "789g′"]
+    },
+    {
+      "text": "active parts of the body in a movement",
+      "referredentries": ["137", "150", "569", "606a"]
+    },
+    {
+      "text": "Adam’s apple",
+      "referredentries": ["344w"]
+    },
+    {
+      "text": "addressing",
+      "referredentries": ["50", "150c", "341c", "528g", "605-612", "785g", "870"]
+    },
+    {
+      "text": "aerial turns",
+      "referredentries": ["245", "246", "253", "255", "390f", "908"]
+    },
+    {
+      "text": "approaching an aim",
+      "referredentries": ["126c", "126e", "126g", "126i"]
+    },
+    {
+      "text": "angular movements",
+      "referredentries": ["114", "557e"]
+    },
+    {
+      "text": "ankle",
+      "referredentries": ["315h", "383c"]
+    },
+    {
+      "text": "rolling the ankle",
+      "referredentries": ["405"]
+    },
+    {
+      "text": "rotation of the ankle (turning the ankle, twisting the ankle)",
+      "referredentries": ["404"]
+    },
+    {
+      "text": "feet slightly apart",
+      "referredentries": ["141", "485a", "485b", "485d", "487c", "489a", "501e", "501f", "504b", "904"]
+    },
+    {
+      "text": "approaching an area",
+      "referredentries": ["126c", "276a", "276c", "728d", "728j", "728k", "758l", "911c"]
+    },
+    {
+      "text": "approaching a body part",
+      "referredentries": ["126i", "728c", "758j"]
+    },
+    {
+      "text": "approaching a focal point",
+      "referredentries": ["126e", "272a", "272e", "272f", "728b", "728e", "728h", "728i", "868g"]
+    },
+    {
+      "text": "approaching a partner",
+      "referredentries": ["126g", "276e", "276g"]
+    },
+    {
+      "text": "area sign (areas of the room, partially blacked square, stage areas)",
+      "referredentries": ["96", "554", "566", "795e", "844c", "856a", "862-870"]
+    },
+    {
+      "text": "area sign in a path sign",
+      "referredentries": ["126c", "126d", "276a", "276b", "276c", "276d", "868a", "868b", "868c", "868d", "911a", "911c", "911d"]
+    },
+    {
+      "text": "column for arm gestures",
+      "referredentries": ["9", "110a", "116b", "142", "143", "144", "145", "146", "347", "896g"]
+    },
+    {
+      "text": "movements of the arm and its parts",
+      "referredentries": ["347", "348", "349", "350", "351", "352", "353", "354", "355", "356", "357", "358", "359", "360", "361", "362", "363", "364", "365"]
+    },
+    {
+      "text": "planes and edges of the arm (and its parts)",
+      "referredentries": ["375", "376", "377", "378", "379", "380", "381"]
+    },
+    {
+      "text": "retentions for the arm (and its parts)",
+      "referredentries": ["357", "358"]
+    },
+    {
+      "text": "rotation of the arm and its parts (twisting the arm, turning the arm)",
+      "referredentries": ["366", "367", "368", "369", "370", "371", "372", "373", "374"]
+    },
+    {
+      "text": "rotation of the arm as a unit",
+      "referredentries": ["371d"]
+    },
+    {
+      "text": "arm twisted in itself",
+      "referredentries": ["371e"]
+    },
+    {
+      "text": "arm signs",
+      "referredentries": ["316n", "364a", "364a′", "364a″", "364f"]
+    },
+    {
+      "text": "black pin with arm signs",
+      "referredentries": ["142", "143", "144", "145", "146"]
+    },
+    {
+      "text": "flat pin with arm signs",
+      "referredentries": ["145"]
+    },
+    {
+      "text": "arrangement graphs",
+      "referredentries": ["158g", "158h", "318c", "318d", "318e", "318f", "880"]
+    },
+    {
+      "text": "arrangement of the group",
+      "referredentries": ["100", "880"]
+    },
+    {
+      "text": "as fast and as often as possible",
+      "referredentries": ["77a", "802b", "803a"]
+    },
+    {
+      "text": "astride (2nd position)",
+      "referredentries": ["135"]
+    },
+    {
+      "text": "augmented body sections",
+      "referredentries": ["43", "316g′", "316h′", "440", "462f", "462g", "464a″", "464b″", "464c″", "466a", "472a", "472b", "488a", "488c", "489c", "489d", "491c","492a", "492b", "492c", "492d", "492e", "492f", "493a", "493b", "493c", "493d", "493e", "493f", "493h", "498d", "498e", "499b", "499b′", "501a", "501b′", "501d", "501f", "502d", "502e", "504b", "507c", "5007d", "523d′", "523f", "523f′", "526b", "926", "923"]
+    },
+    {
+      "text": "reversed sign for augmented body sections",
+      "referredentries": ["44b", "441", "468", "474a′", "474b", "478a", "478b", "479a", "479b", "480a", "480b", "480c", "480d", "482", "489g", "498d", "498e", "501f", "502c", "502d", "502e", "503b", "512a′", "502b′", "515′", "523e′" ]
+    },
+    {
+      "text": "axis of revolution",
+      "referredentries": ["152d", "499a", "503"]
+    },
+    {
+      "text": "back",
+      "referredentries": ["442b", "446c"]
+    },
+    {
+      "text": "back of the hand",
+      "referredentries": ["316i", "381a", "381b", "916c"]
+    },
+    {
+      "text": "back of the head",
+      "referredentries": ["344g", "344h", "344i", "344p", "344q", "344r"]
+    },
+    {
+      "text": "back of the knee",
+      "referredentries": ["411h"]
+    },
+    {
+      "text": "movable parts of the back",
+      "referredentries": ["443f", "443g", "443h", "443m", "443n", "443o", "443p", "443q", "443r", "443s"]
+    },
+    {
+      "text": "bar numbers (or measure numbers)",
+      "referredentries": ["102", "755a", "797a", "875d", "883", "884", "885"]
+    },
+    {
+      "text": "base of the skull",
+      "referredentries": ["344q"]
+    },
+    {
+      "text": "battement",
+      "referredentries": ["137a"]
+    },
+    {
+      "text": "battu",
+      "referredentries": ["141c", "194b", "529c", "545"]
+    },
+    {
+      "text": "beard",
+      "referredentries": ["344m′"]
+    },
+    {
+      "text": "below a joint",
+      "referredentries": ["316d", "360a", "360c", "360e", "361a", "361c", "361e", "393a", "393c", "393e", "393g"]
+    },
+    {
+      "text": "below something or somebody",
+      "referredentries": ["131", "606e", "606f", "607c", "607d"]
+    },
+    {
+      "text": "bending the ankle (flexing the ankle)",
+      "referredentries": ["410a", "410c", "410d", "410e", "689a"]
+    },
+    {
+      "text": "between directions",
+      "referredentries": ["119", "121", "441e", "454a", "559f", "903"]
+    },
+    {
+      "text": "between degrees of a turn",
+      "referredentries": ["154a", "259"]
+    },
+    {
+      "text": "between front indications",
+      "referredentries": ["156c", "854e"]
+    },
+    {
+      "text": "biting",
+      "referredentries": ["346g", "578d"]
+    },
+    {
+      "text": "black disk in a square or in a rectangle or on their outlines (square with black disk)",
+      "referredentries": ["38c", "39b", "39d", "99", "293", "315j", "315m", "316b′", "316f′", "316i′", "316j′", "418c", "418e", "418g", "418j", "442l", "442m", "442n", "442r′", "443j", "443k", "443l", "443m", "443n", "443o", "443p", "443q", "443s", "443t", "878", "879"]
+    },
+    {
+      "text": "reversed signs for body sections",
+      "referredentries": ["316i′", "316j′", "427", "428", "441", "471d", "474a", "474a′", "474b", "478a", "478b", "479a", "479b", "480", "481", "482", "973"]
+    },
+    {
+      "text": "shifting body sections",
+      "referredentries": ["148", "330", "423", "526", "925", "957"]
+    },
+    {
+      "text": "body signs (parts of the body) in addition bracket",
+      "referredentries": ["356a", "356c", "380b", "380d", "380f", "380g′", "381a", "381b", "389e", "562d", "562e"]
+    },
+    {
+      "text": "body signs (parts of the body) with a dash",
+      "referredentries": ["375d", "375e", "375h", "375i", "375j", "375k′", "379c", "379d", "379g", "379i", "379o", "379p", "379q", "379r", "408d", "408e", "408h", "408i", "411c", "411g", "411h", "442"]
+    },
+    {
+      "text": "body signs (parts of the body) below a direction sign",
+      "referredentries": ["317", "385", "751a", "751b", "751c"]
+    },
+    {
+      "text": "body signs (parts of the body) with double lines",
+      "referredentries": ["345", "364", "395b", "395c", "395d", "395e"]
+    },
+    {
+      "text": "body signs (parts of the body) in inclusion bow",
+      "referredentries": ["319c", "319d", "356b", "356d", "356e", "389f", "389g", "389h", "401b", "401d", "412a′", "412n", "416a", "416b", "416c", "416e", "416f", "416g", "416h", "417b", "417c", "417d", "417d′", "425a", "425b", "425c", "425e", "425f", "425h", "433a′", "437d", "437e", "564a", "564c"]
+    },
+    {
+      "text": "body signs (parts of the body) below a pin sign",
+      "referredentries": ["151b", "151c", "151g", "318", "387"]
+    },
+    {
+      "text": "body signs (parts of the body) in conjunction with relation signs",
+      "referredentries": ["320", "529a", "568c", "568d", "568e", "584a", "592", "593", "594", "606"]
+    },
+    {
+      "text": "body signs (parts of the body) with retention signs (hold signs)",
+      "referredentries": ["323a", "327b", "332b"]
+    },
+    {
+      "text": "body signs (parts of the body) below space measurement signs",
+      "referredentries": ["321", "675a", "675d", "675f", "675h", "675j", "675l", "675n", "675o", "675p", "675q", "675r", "675s", "675-693"]
+    },
+    {
+      "text": "body signs (parts of the body) below a strength measurement sign (strength measurement signs above body signs)",
+      "referredentries": ["324", "354a", "354d", "395h", "410g", "722d", "723a", "723b", "724d", "727b", "746c"]
+    },
+    {
+      "text": "body signs (parts of the body) in support columns",
+      "referredentries": ["325", "440o", "440p", "440r", "441e", "441f", "441g", "442x", "442y", "442z", "446-504", "511b", "512", "513", "514", "515", "519", "521e", "521f", "523b", "523c", "523d", "523e", "523f", "524b", "525"]
+    },
+    {
+      "text": "body signs (parts of the body) in a vertical bow",
+      "referredentries": ["76", "319a", "319b", "319e", "319h", "355a", "355b", "377d", "380a", "380c", "380e", "380g", "381a", "381b", "389a", "389b", "389c", "389d", "389i", "411i", "426a", "426c", "432p", "432q", "563f", "563g", "563h", "711c", "712b", "712c", "712d", "713a", "760a", "760b"]
+    },
+    {
+      "text": "bow-legged",
+      "referredentries": ["403b"]
+    },
+    {
+      "text": "vertical bows",
+      "referredentries": ["55", "56", "557", "558", "559", "563", "564", "565", "566", "567", "727d", "727e", "757a", "757e", "760", "783d", "783g", "783h", "982"]
+    },
+    {
+      "text": "vertical bows with body signs",
+      "referredentries": ["319", "711c", "712b", "712c", "712d", "712f", "713a", "735a", "760a", "760b", "783g"]
+    },
+    {
+      "text": "vertical bows with decrease sign",
+      "referredentries": ["355d", "432r", "713c", "730b"]
+    },
+    {
+      "text": "vertical bows with increase sign",
+      "referredentries": ["355c", "389j", "432s", "465a", "730a"]
+    },
+    {
+      "text": "vertical bows with pin signs",
+      "referredentries": ["118", "151d", "151e", "151f", "151g", "563d", "563e", "710c", "712d", "783h"]
+    },
+    {
+      "text": "vertical bows with straight midddle part (inclusion bow)",
+      "referredentries": ["56", "74e", "223a", "223b", "319c", "319d", "327c", "356b", "356d", "356e", "359d", "389f", "389g", "389h", "398e", "401b", "401d", "412a′", "412n", "416", "417", "425a", "425b", "425c", "425e", "425f", "425h", "433a′", "437d", "437e", "489b", "489e", "489h", "501f", "564a", "564b", "564c", "760′a", "760′b", "782h", "784c"]
+    },
+    {
+      "text": "horizontal brackets with diagonal ends (carrying sign)",
+      "referredentries": ["49", "528", "583", "584", "585", "586", "587", "588", "628b", "628c", "628d", "785d"]
+    },
+    {
+      "text": "caret (small angular bracket)",
+      "referredentries": ["175b", "175c", "175j", "175l", "205e", "211a", "211b", "244d", "317g", "323c", "341a", "351", "352d", "384", "386d", "388", "389g", "390a", "392", "400b", "403c", "403d", "406", "419e", "419m", "420a", "423f", "428c", "428d", "432a", "432b", "432f", "432g", "432j", "432k", "432l", "432l′", "436a", "436b", "439", "442w", "447c", "458b", "460", "461d", "471b", "480b", "488a", "488b", "488d", "501d", "502c", "508a", "517a", "519e", "523e", "523e′", "526", "543g", "560a", "560b", "560f", "561"]
+    },
+    {
+      "text": "small horizontal bracket-like symbols (lateral narrowing and spreading sign)",
+      "referredentries": ["65a", "65b", "67a", "67b", "639c", "639d", "639i", "639j"]
+    },
+    {
+      "text": "vertical rectangular bracket (addition bracket)",
+      "referredentries": ["57", "389e", "562", "665a", "665c", "665d", "711e", "942c", "942d"]
+    },
+    {
+      "text": "small vertical rectangular bracket (staple)",
+      "referredentries": ["59", "137g", "208b", "560c", "560d", "560e"]
+    },
+    {
+      "text": "breast-bone (sternum)",
+      "referredentries": ["443b", "444b"]
+    },
+    {
+      "text": "breathing",
+      "referredentries": ["445"]
+    },
+    {
+      "text": "bridge of nose",
+      "referredentries": ["344y"]
+    },
+    {
+      "text": "bridge position",
+      "referredentries": ["419n", "479b", "480b", "489b", "489c", "489d", "489e", "489f", "489g", "489h"]
+    },
+    {
+      "text": "gliding touch (brushing)",
+      "referredentries": ["399a", "399b", "549", "550", "786b", "808a"]
+    },
+    {
+      "text": "curving out parts of the body (bulging out parts of the body, displacing a joint)",
+      "referredentries": ["151b", "151c", "318", "319", "356a", "356c", "389a", "389b", "389c", "389d", "389e", "389f", "389i", "389j", "414", "564a", "711c", "712c", "712d", "713a", "713b", "727b", "760a"]
+    },
+    {
+      "text": "buttock",
+      "referredentries": ["443m", "443o", "927f′"]
+    },
+    {
+      "text": "letter C (head sign)",
+      "referredentries": ["29" ,"315a", "326", "327", "328", "329", "330", "331", "332", "333", "334", "335", "336", "337", "338", "339", "340", "341", "342", "343"]
+    },
+    {
+      "text": "letter C (head sign) in inclusion bow",
+      "referredentries": ["327c"]
+    },
+    {
+      "text": "letter C (head sign) in a rectangle",
+      "referredentries": ["418g", "418h", "418k", "419g′", "419g″", "419h′", "419j", "420b", "421b", "427b", "427d", "427e", "428b", "428c", "433", "435b", "435d", "435e", "435f", "437c", "440g"]
+    },
+    {
+      "text": "letter C (head sign) in a square",
+      "referredentries": ["316c′", "338a", "418f", "923b"]
+    },
+    {
+      "text": "letter C (head sign) in a square with stroke (planes and edges of the head)",
+      "referredentries": ["316c′", "338c", "338d", "338e", "339a","339b", "339c", "339d", "339e", "339i" , "340", "341", "412q", "437b"]
+    },
+    {
+      "text": "letter C (head sign) with pin signs",
+      "referredentries": ["35a", "316a", "316b", "316c", "344", "346", "504a", "573e", "573f", "573g", "578d", "608c", "692", "693", "694"]
+    },
+    {
+      "text": "letter C (head sign) in vertical bow",
+      "referredentries": ["426c", "432p"]
+    },
+    {
+      "text": "letter C (head sign) above a double line",
+      "referredentries": ["345", "691a", "691b", "691c", "691d", "691e"]
+    },
+    {
+      "text": "letter C (head sign) with a narrow sign",
+      "referredentries": ["316b","344d′", "344g′", "344h′", "344n", "346g", "573f", "578d", "694a", "694b"]
+    },
+    {
+      "text": "letter C (head sign) with a wide sign",
+      "referredentries": ["344l′", "344m′", "344n′", "694c", "694d"]
+    },
+    {
+      "text": "cabriole",
+      "referredentries": ["425c", "529e"]
+    },
+    {
+      "text": "automatic cancellation",
+      "referredentries": ["322b", "322c", "322f", "322g", "352c", "386c", "386d", "386e", "543a", "543c", "543d"]
+    },
+    {
+      "text": "cancellation of bending or stretching",
+      "referredentries": ["322h", "356a", "666e", "666f", "667a", "667b", "674", "675r", "675s", "789g", "789g′"]
+    },
+    {
+      "text": "cancellation of contacts",
+      "referredentries": ["79c", "323c", "364f", "364h", "536b", "537", "543e", "543f", "549c", "577g", "581a", "581b", "584a", "584b", "585a", "586a", "603", "604", "628c", "638", "789c", "789d", "938"]
+    },
+    {
+      "text": "cancellation of directions for parts of the arm",
+      "referredentries": ["322b", "322d", "322e", "322f", "353", "354a", "354c", "354d", "356c", "357a"]
+    },
+    {
+      "text": "cancellation of directions for the chest",
+      "referredentries": ["359d", "428c"]
+    },
+    {
+      "text": "cancellation of directions for the face",
+      "referredentries": ["340"]
+    },
+    {
+      "text": "cancellation of directions for the head",
+      "referredentries": ["322a", "329c"]
+    },
+    {
+      "text": "cancellation of directions for parts of the leg",
+      "referredentries": ["322c", "322g", "384", "387a", "400c"]
+    },
+    {
+      "text": "cancellation of directions for the pelvis",
+      "referredentries": ["423f"]
+    },
+    {
+      "text": "cancellation of directions for the trunk (torso)",
+      "referredentries": ["419m", "424"]
+    },
+    {
+      "text": "cancellation of directions for the upper body",
+      "referredentries": ["413"]
+    },
+    {
+      "text": "cancellation of rigid carriage",
+      "referredentries": ["323a", "357f", "390d"]
+    },
+    {
+      "text": "cancellation signs",
+      "referredentries": ["79", "726b", "782i", "782j", "789", "917c"]
+    },
+    {
+      "text": "candle position",
+      "referredentries": ["419p", "471d", "514b", "514b′"]
+    },
+    {
+      "text": "canon",
+      "referredentries": ["91", "92", "93", "845", "846", "847", "848", "849", "850", "1000"]
+    },
+    {
+      "text": "simultaneous canon",
+      "referredentries": ["92", "845d", "849"]
+    },
+    {
+      "text": "canon in space",
+      "referredentries": ["93", "589c", "836c", "850", "900m"]
+    },
+    {
+      "text": "canon in time",
+      "referredentries": ["91", "845", "846", "847", "848", "849"]
+    },
+    {
+      "text": "carrying",
+      "referredentries": ["49", "283b", "583", "584", "585", "586", "587", "588", "782k", "808b"]
+    },
+    {
+      "text": "cartwheel",
+      "referredentries": ["46", "496", "497", "499", "567c", "933", "978a"]
+    },
+    {
+      "text": "cartwheeling body parts: head",
+      "referredentries": ["342c", "342d"]
+    },
+    {
+      "text": "cartwheeling body parts: pelvis",
+      "referredentries": ["438d"]
+    },
+    {
+      "text": "cast identification",
+      "referredentries": ["97", "157", "874", "875", "876", "877", "878"]
+    },
+    {
+      "text": "central guidance or leading",
+      "referredentries": ["355a", "355b", "355c", "389b", "389c", "389d", "389e", "389f", "712a", "712b", "712c", "712f", "712g", "713a", "713b"]
+    },
+    {
+      "text": "centre of gravity",
+      "referredentries": ["47", "190", "227a", "509-527", "896l", "914"]
+    },
+    {
+      "text": "shift of the centre of gravity",
+      "referredentries": ["423c", "479b", "488f", "501f", "526a", "957d", "995"]
+    },
+    {
+      "text": "centre position sign",
+      "referredentries": ["130", "608"]
+    },
+    {
+      "text": "changement",
+      "referredentries": ["137b", "194a"]
+    },
+    {
+      "text": "cheek",
+      "referredentries": ["344j", "344l", "573g"]
+    },
+    {
+      "text": "chest",
+      "referredentries": ["315k", "418a", "915"]
+    },
+    {
+      "text": "inclination of the chest",
+      "referredentries": ["419l", "419n", "420", "921a"]
+    },
+    {
+      "text": "inclusion of the chest (participation of the chest)",
+      "referredentries": ["425f", "437e", "489b", "489e"]
+    },
+    {
+      "text": "movable parts of the chest",
+      "referredentries": ["434e", "435c", "435d", "443a", "443b", "443c", "443d", "443e", "443f", "443g", "443h", "443q", "443r", "444b", "444c", "444d", "444i", "675o′", "675p′", "927j"]
+    },
+    {
+      "text": "planes and edges of the chest",
+      "referredentries": ["442e", "442f", "442g", "442o", "442p", "442q", "442r", "927a", "927b", "927c"]
+    },
+    {
+      "text": "retentions for the chest",
+      "referredentries": ["430c"]
+    },
+    {
+      "text": "rotation of the chest (turning the chest)",
+      "referredentries": ["435", "436", "915c"]
+    },
+    {
+      "text": "shifting the chest",
+      "referredentries": ["148a", "423d", "423e", "957b"]
+    },
+    {
+      "text": "chest plus waist",
+      "referredentries": ["418", "427f"]
+    },
+    {
+      "text": "chest wheeling",
+      "referredentries": ["436"]
+    },
+    {
+      "text": "circle above or in an addition bracket",
+      "referredentries": ["356c", "779b′", "784a", "784b"]
+    },
+    {
+      "text": "rigid carriage (circle above body sign)",
+      "referredentries": ["167f", "323a′", "357f", "371c", "390d", "434e", "435c", "435d", "667c", "667d", "788a", "853f", "888d"]
+    },
+    {
+      "text": "circle in gesture column",
+      "referredentries": ["217b", "217e′", "332d", "341a", "357a", "357h", "390a", "413d", "429a", "430a", "430b", "433b", "435e", "492d", "508a", "523e", "778b", "778e", "778j", "779b", "779d″", "779g"]
+    },
+    {
+      "text": "circle above an inclusion bow",
+      "referredentries": ["319d", "389h", "564c", "784c"]
+    },
+    {
+      "text": "circle in an inclusion bow",
+      "referredentries": ["417b", "417c", "417d"]
+    },
+    {
+      "text": "circle above doubled relation sign",
+      "referredentries": ["364f", "364h", "395f", "549c", "549d", "610", "786b"]
+    },
+    {
+      "text": "circle in support column",
+      "referredentries": ["21", "181", "183", "184", "185", "186", "187", "188", "218a", "218b", "218d", "487b", "777c"]
+    },
+    {
+      "text": "circle in a turn sign",
+      "referredentries": ["257l", "371e", "372a", "372b", "374b", "434g", "435c″", "780i"]
+    },
+    {
+      "text": "circles (as parts of symbols) around a number",
+      "referredentries": ["98a", "278", "279", "282c", "284a", "289b", "289c", "290d", "291", "296a", "296b", "297", "298", "299", "300b", "302", "305", "307", "844a", "875a", "877j", "879g", "880", "881a", "884b", "884c"]
+    },
+    {
+      "text": "circles (as parts of symbols) around pin signs (pin sign in a circle, position sign in a circle",
+      "referredentries": ["97", "157", "877a", "877b", "877c", "877d", "877e", "877j", "877k", "877l"]
+    },
+    {
+      "text": "circles (as parts of symbols) in signs for planes and edges of the foot",
+      "referredentries": ["408c", "408m", "409b", "410j", "454e′"]
+    },
+    {
+      "text": "circles (as parts of symbols) in signs for planes and edges of the hand",
+      "referredentries": ["375c", "375j", "375l", "376b", "376h", "381a", "381b"]
+    },
+    {
+      "text": "circles (as parts of symbols) in and at square or rectangle",
+      "referredentries": ["315j", "315k", "316a′", "316b′", "316e′", "316g′", "316i′", "418a", "418e", "418h", "418i", "418l", "427a", "427c", "427d", "427f", "443a", "443b", "443c", "443d", "443e", "443f", "443g", "443h", "443q", "443r", "444b", "444c", "444d", "444i", "445", "921b"]
+    },
+    {
+      "text": "circular gestures (circling) of the arm (arm circling)",
+      "referredentries": ["357f", "373", "377c", "377d", "377e", "702", "703", "776a", "776b"]
+    },
+    {
+      "text": "circular gestures (circling) of the foot",
+      "referredentries": ["406"]
+    },
+    {
+      "text": "circular gestures (circling) of the head",
+      "referredentries": ["326f", "326g"]
+    },
+    {
+      "text": "circular gestures (circling) of the leg (rond de jambe)",
+      "referredentries": ["388a", "388b", "399a", "399b", "399b′"]
+    },
+    {
+      "text": "circular paths (curved paths)",
+      "referredentries": ["24", "27a", "153", "154b", "260-271a", "274c", "275b", "276c", "276d", "276g", "276h", "277c", "277g", "278b", "279b", "280e", "280f", "280g", "280h", "280i", "280j", "961"]
+    },
+    {
+      "text": "axes of the body",
+      "referredentries": ["101c", "124c", "124g", "124h", "258f", "343q", "359c", "359d", "391a", "431a", "489g", "491a", "491d", "492a′", "492b′", "492e", "493g", "495c", "498d", "498e", "501a′", "501c", "502d", "502e", "889b", "889i", "889j", "951"]
+    },
+    {
+      "text": "axes of individual body parts (body-twisted-part key)",
+      "referredentries": ["124d", "124j", "343a", "343b", "343c", "343d", "343e", "343f", "343g", "343h", "343i", "343j", "343k", "343l", "343m", "359g", "359i", "359j", "359k", "359l", "359m", "889d", "1002"]
+    },
+    {
+      "text": "constant axes, axes of a room",
+      "referredentries": ["101d", "124b", "124e", "124f", "258d", "274", "343n", "359e", "391b", "431b", "889c", "889g", "889h", "889k"]
+    },
+    {
+      "text": "aiming at fixed points",
+      "referredentries": ["125b", "890b", "890e", "890f"]
+    },
+    {
+      "text": "going away from fixed points",
+      "referredentries": ["126k"]
+    },
+    {
+      "text": "fixed point signs",
+      "referredentries": ["125a", "125c", "125d", "890a", "890c", "890d"]
+    },
+    {
+      "text": "relating to the front of the performer (standard cross of axes)",
+      "referredentries": ["101b", "124a", "124i", "258b", "343o", "343p", "359b", "432k", "432n", "436a", "889a", "889g", "890b"]
+    },
+    {
+      "text": "relating to the front of individual body sections (front-of-twisted-part key)",
+      "referredentries": ["335d", "359n", "359o′", "433c", "435f", "889e", "889e′", "889e″", "975c", "1002"]
+    },
+    {
+      "text": "relating to the front of the untwisted end of the body (stance)",
+      "referredentries": ["359o″", "432l", "432o", "436b", "436c", "436d", "889f", "975b"]
+    },
+    {
+      "text": "staff",
+      "referredentries": ["9", "895", "896", "897", "898", "899"]
+    },
+    {
+      "text": "columns of the staff",
+      "referredentries": ["9", "895d", "895e", "895f", "895g", "896"]
+    },
+    {
+      "text": "subsidiary columns of the staff",
+      "referredentries": ["9′", "9″", "895f", "895g"]
+    },
+    {
+      "text": "turns to a common front (turns in relation to constant axes, turns relating to areas of the room)",
+      "referredentries": ["152b", "258c", "258d", "289", "334g", "432c", "491d", "493h", "913"]
+    },
+    {
+      "text": "constant cross of axes (fixed axes)",
+      "referredentries": ["101d", "124b", "124e", "124f", "343n", "359e", "391b", "431b"]
+    },
+    {
+      "text": "continuation of an activity",
+      "referredentries": ["151a", "301a", "783f", "783i", "791", "802a", "802b", "992"]
+    },
+    {
+      "text": "contracting the neck",
+      "referredentries": ["342", "691", "947a′"]
+    },
+    {
+      "text": "contracting the trunk (contracting the torso)",
+      "referredentries": ["414", "675a", "675b", "675c", "675d", "675e", "675f", "675g", "675h", "675i", "675j"]
+    },
+    {
+      "text": "corners of the mouth (sides of the mouth)",
+      "referredentries": ["344s", "344u", "346a"]
+    },
+    {
+      "text": "couple (pair)",
+      "referredentries": ["97c", "157d", "301c", "877d", "880a"]
+    },
+    {
+      "text": "each couple in couples (each pair in pairs)",
+      "referredentries": ["157f", "801d", "877h"]
+    },
+    {
+      "text": "increase sign (crescendo)",
+      "referredentries": ["75a", "151c", "725", "727", "730a", "731a", "731d", "731g", "731i", "758a", "758b", "758c", "758d", "758e", "758f", "758h", "758j", "758l", "760f", "763a", "763b", "765a", "765c", "765f", "765i", "766a", "899c"]
+    },
+    {
+      "text": "cross shaped symbols",
+      "referredentries": ["315f", "624", "881e", "881f", "63", "64", "639a", "640a"]
+    },
+    {
+      "text": "crossing gestures",
+      "referredentries": ["142b", "142c", "142d"]
+    },
+    {
+      "text": "crossing steps",
+      "referredentries": ["146"]
+    },
+    {
+      "text": "crown of the head",
+      "referredentries": ["344e"]
+    },
+    {
+      "text": "decrease sign (decrescendo)",
+      "referredentries": ["75b", "79a", "126d", "126f", "126h", "126j", "126k", "322a", "322d", "322e", "322h", "323a", "726a", "726b", "729", "730b", "731b", "731e", "731h", "731j", "758g", "758i", "758k", "758m", "758n", "764b′", "764b″", "765b", "765c", "765g", "765i", "766b", "782i", "789a"]
+    },
+    {
+      "text": "inward leg circling (inward circling of the leg, rond de jambe en dedans)",
+      "referredentries": ["388b", "399a′", "399b"]
+    },
+    {
+      "text": "inward leg rotation (inward rotation of the leg, leg rotation en dedans)",
+      "referredentries": ["240e", "396a", "399b′"]
+    },
+    {
+      "text": "degree of turn or twist (amount of turn or twist)",
+      "referredentries": ["152a", "152b", "152c", "153", "154", "238", "241", "242", "257a", "257b", "257c", "257d", "257e", "257f", "257g", "259", "334", "397a", "397b", "397c", "397d", "397e", "397f", "432", "435", "439d", "439e", "439f", "905", "959"]
+    },
+    {
+      "text": "degree of turn in circular paths (amount of turn in circular paths)",
+      "referredentries": ["153a", "153b", "153c", "154b", "262b", "262c", "262d", "262e"]
+    },
+    {
+      "text": "degree of turn, in between",
+      "referredentries": ["154a", "154b", "259"]
+    },
+    {
+      "text": "outward leg circling (outward circling of the leg, rond de jambe en dehors)",
+      "referredentries": ["388a", "399a", "399b′"]
+    },
+    {
+      "text": "outward leg rotation (outward rotation of the leg, leg rotation en dehors)",
+      "referredentries": ["240e", "396b", "397a", "397b" , "399a′"]
+    },
+    {
+      "text": "demi plié",
+      "referredentries": ["111c", "165c"]
+    },
+    {
+      "text": "demi pointe (half point)",
+      "referredentries": ["111a", "165a", "225c", "225d", "225i", "518e", "534c"]
+    },
+    {
+      "text": "detours in gestures (pin signs for deviation in gestures)",
+      "referredentries": ["118", "151e", "151f", "151g", "563d", "563e", "710c", "712d"]
+    },
+    {
+      "text": "pin signs for deviation",
+      "referredentries": ["141", "145", "904"]
+    },
+    {
+      "text": "retention at a spot (spot hold, diamond around black disk)",
+      "referredentries": ["217d", "217g", "332b", "332c", "357d", "430c", "543i", "778d", "778g", "778h", "779c", "907a"]
+    },
+    {
+      "text": "retention at a spot of relationship (diamond around black disk)",
+      "referredentries": ["217d", "217h", "323c", "341c", "358", "390c", "390e", "429e", "431b", "439b", "439e", "778d", "778h", "778l"]
+    },
+    {
+      "text": "diamond around black disk in square",
+      "referredentries": ["125", "126k", "890"]
+    },
+    {
+      "text": "retention in space (space hold, empty diamond)",
+      "referredentries": ["217c", "217f", "323b", "322a", "341b", "357b", "357g", "357h", "370d", "390b", "398f", "401c", "429d", "430a", "432d", "434c", "434d", "437b", "442w", "490a′", "492c", "503b", "778c", "778f", "778k", "779a", "779d", "779f", "779g", "780d", "984"]
+    },
+    {
+      "text": "secret turn (diamond around a pin sign)",
+      "referredentries": ["155", "219c", "456d", "470", "495"]
+    },
+    {
+      "text": "at a large or at a small scale (diamond around space measurement sign)",
+      "referredentries": ["423d", "423e", "526", "699", "701", "702", "704"]
+    },
+    {
+      "text": "front signs (facing pins, direction of the front, square with a pin sign, stage direction)",
+      "referredentries": ["95", "156", "844b", "854", "855", "856", "857", "858b", "858c", "859b", "859c", "860", "955", "1001"]
+    },
+    {
+      "text": "direction of reading and writing (reading direction, writing direction)",
+      "referredentries": ["9" ,"107", "138", "748a", "748b", "895a", "895b"]
+    },
+    {
+      "text": "direction signs",
+      "referredentries": ["1", "2", "4", "11", "12", "13", "14", "15", "16" ,"103", "104", "105", "106", "107", "108", "109", "110", "111", "112", "113", "114", "115", "116", "117", "118", "119", "120", "121", "782a"]
+    },
+    {
+      "text": "empty direction signs with a line across",
+      "referredentries": ["100" ,"279a", "284a", "296", "297", "298", "299", "670e", "670j", "879g", "880c", "880f"]
+    },
+    {
+      "text": "direction signs with pin signs inside",
+      "referredentries": ["121", "149", "441e", "454a", "475", "478a"]
+    },
+    {
+      "text": "direction signs with a retention sign inside (direction signs with a hold sign inside)",
+      "referredentries": ["122", "123", "218c", "219a", "285c", "288a", "358", "390e", "390f", "432i", "481f", "497b′", "497c′", "780a", "780b", "780c", "780d", "780e", "780g", "780h"]
+    },
+    {
+      "text": "distance sign",
+      "referredentries": ["68", "604", "620", "670", "844d", "844e", "875c", "880b", "899b"]
+    },
+    {
+      "text": "divided column",
+      "referredentries": ["352c", "386c"]
+    },
+    {
+      "text": "dorsal spine",
+      "referredentries": ["435c", "435d", "443g", "443r", "444c", "675p′", "927j"]
+    },
+    {
+      "text": "dots below a direction sign",
+      "referredentries": ["119b"]
+    },
+    {
+      "text": "dots between two direction signs",
+      "referredentries": ["119a"]
+    },
+    {
+      "text": "dots with body signs",
+      "referredentries": ["360", "360", "362", "363", "365", "375f", "375g", "375l", "375m", "376d", "376d′", "376g", "376h", "379e", "379f", "379h", "379j", "393", "394", "407", "408f", "408g", "409d", "409d′", "411d", "411e", "916c", "916e", "916f", "916g", "916h", "916i", "916j", "916k"]
+    },
+    {
+      "text": "dots near space measurement signs",
+      "referredentries": ["63c", "640"]
+    },
+    {
+      "text": "double circle",
+      "referredentries": ["98c", "294b", "301c", "390e", "569a", "569b", "578b", "579b", "873c", "873d", "873e", "876b", "880c"]
+    },
+    {
+      "text": "double circle around a number",
+      "referredentries": ["98b", "801a", "876a", "877k"]
+    },
+    {
+      "text": "double lines between body sign and direction sign",
+      "referredentries": ["317e", "479a", "501f", "751c", "798e", "897d′"]
+    },
+    {
+      "text": "double lines with dots (equal sign with dots)",
+      "referredentries": ["84", "85", "86", "794c", "810a", "810b", "810c", "811-833", "881b", "881c", "881d", "898d", "898e", "898f"]
+    },
+    {
+      "text": "double lines across the staff",
+      "referredentries": ["94", "752d", "755a", "755c", "851", "897d", "897e", "897f", "897g", "897h"]
+    },
+    {
+      "text": "vertical double lines above or below a body sign",
+      "referredentries": ["316o", "316p", "345", "364a", "364b", "364c", "395b", "395c", "691a", "691b", "691c", "691d", "691e"]
+    },
+    {
+      "text": "vertical double lines of body signs",
+      "referredentries": ["364d", "364e", "364h", "364i", "364k", "371a", "371b", "371c"]
+    },
+    {
+      "text": "duration of a change",
+      "referredentries": ["7", "74" ,"105", "239", "317c", "317d", "317e", "647", "748", "749", "750", "751", "752", "753", "754", "756-792"]
+    },
+    {
+      "text": "each person",
+      "referredentries": ["98c", "873c", "873d", "873e", "876b", "880c"]
+    },
+    {
+      "text": "ear",
+      "referredentries": ["344m", "344o", "346d"]
+    },
+    {
+      "text": "edges of the arm and its parts",
+      "referredentries": ["379c", "379d", "379e", "379f", "379g", "379h", "379i", "379j"]
+    },
+    {
+      "text": "edges of the foot",
+      "referredentries": ["408d", "408e", "408f", "408g", "408h", "408i"]
+    },
+    {
+      "text": "edges of the hand",
+      "referredentries": ["375d", "375e", "375f", "375g", "375h", "375i", "375j", "375k", "375l", "375m"]
+    },
+    {
+      "text": "edges of the leg and its parts",
+      "referredentries": ["411c", "411d", "411e"]
+    },
+    {
+      "text": "edges of the trunk and its parts (edges of the torso and its parts)",
+      "referredentries": ["442d", "442g", "442k", "442n"]
+    },
+    {
+      "text": "elasticity (spiral-shaped symbols with accent)",
+      "referredentries": ["71", "563c", "715e", "716", "732c", "733c", "733d", "733e", "733f", "734f", "738c", "743c", "747a", "747b", "783c", "783f", "783j", "989a", "989b"]
+    },
+    {
+      "text": "elbow",
+      "referredentries": ["315c", "317a", "348b", "349a", "349b", "352b", "352d"]
+    },
+    {
+      "text": "rotations of the elbow (turning the elbow)",
+      "referredentries": ["370", "790", "888f"]
+    },
+    {
+      "text": "elbow stand",
+      "referredentries": ["441g", "473", "474", "475", "476"]
+    },
+    {
+      "text": "entrance",
+      "referredentries": ["81b", "590a", "869a", "898b", "900h"]
+    },
+    {
+      "text": "entrechat quatre",
+      "referredentries": ["141c", "194b", "545"]
+    },
+    {
+      "text": "épaulement",
+      "referredentries": ["437a"]
+    },
+    {
+      "text": "equal sign",
+      "referredentries": ["83", "793", "794", "795", "796", "797", "798", "799", "800", "801", "802", "803", "804", "805", "806", "807", "880f", "881a", "882", "886", "887", "899b", "899c"]
+    },
+    {
+      "text": "equal sign in a turn sign",
+      "referredentries": ["257m", "371d", "434f", "435c′", "803c"]
+    },
+    {
+      "text": "subsidiary columns (expanded staff)",
+      "referredentries": ["9′", "9″", "895f", "895g"]
+    },
+    {
+      "text": "inner subsidiary columns (expanded staff)",
+      "referredentries": ["9′", "895f"]
+    },
+    {
+      "text": "outer subsidiary columns (expanded staff)",
+      "referredentries": ["9′'", "895g"]
+    },
+    {
+      "text": "eye",
+      "referredentries": ["344a", "344c", "344e′"]
+    },
+    {
+      "text": "eyeball",
+      "referredentries": ["344i′", "344j′", "344k′"]
+    },
+    {
+      "text": "face",
+      "referredentries": ["338c", "923"]
+    },
+    {
+      "text": "addressing the face (looking at)",
+      "referredentries": ["341c", "605h", "606g", "609"]
+    },
+    {
+      "text": "directing the face",
+      "referredentries": ["339a", "339b", "339c", "339d", "339e", "339i", "340", "341", "609"]
+    },
+    {
+      "text": "fanning fingers",
+      "referredentries": ["372c", "372d", "372e", "372f", "574b′"]
+    },
+    {
+      "text": "fanning hands",
+      "referredentries": ["372a", "372b", "374b"]
+    },
+    {
+      "text": "fingers",
+      "referredentries": ["316f", "316g", "348e", "348e′", "348e″", "362", "363", "577"]
+    },
+    {
+      "text": "movements of the fingers",
+      "referredentries": ["362h", "362i", "362j", "362k", "362l", "362m"]
+    },
+    {
+      "text": "parts of the fingers (finger segment)",
+      "referredentries": ["316g", "362f", "362g", "362i", "362j", "362l", "363e", "363f", "363g", "365"]
+    },
+    {
+      "text": "planes and edges of the fingers",
+      "referredentries": ["365f", "365g", "376g"]
+    },
+    {
+      "text": "rotation of the fingers (twist of the fingers)",
+      "referredentries": ["372c", "372d", "372e", "372f", "574b′"]
+    },
+    {
+      "text": "tip of the fingers",
+      "referredentries": ["316l", "375h", "376e", "380f", "543h"]
+    },
+    {
+      "text": "finishing position in sketches",
+      "referredentries": ["127d", "127e", "127f", "158d", "158e", "158f", "158j"]
+    },
+    {
+      "text": "fixed points",
+      "referredentries": ["125", "126k", "890"]
+    },
+    {
+      "text": "sign for the floor",
+      "referredentries": ["62", "505c", "533b", "584a", "682c", "872a"]
+    },
+    {
+      "text": "parts of the foot touching the floor and supporting (hooks, touching the floor with parts of the foot)",
+      "referredentries": ["52", "533-542"]
+    },
+    {
+      "text": "floor pattern and arrangement sketch (plan, stage plan)",
+      "referredentries": ["158g", "158h", "158i", "158j", "161", "164e", "235", "236", "244h", "254c", "261", "262b", "262c", "262e", "268", "271", "274", "275", "276", "277a", "277b", "277c", "278", "279", "282a", "282c", "284b", "287b", "289b", "289c", "290d", "291-301", "302", "305", "308a", "308g", "311", "313a", "313b", "491d", "493h", "889g", "889h", "890b", "901"]
+    },
+    {
+      "text": "fluent movements",
+      "referredentries": ["112", "115a", "115b", "557a", "557b", "557c", "557d"]
+    },
+    {
+      "text": "going away from a focal point",
+      "referredentries": ["126f", "272b", "272g", "272h", "729c", "729h", "729i"]
+    },
+    {
+      "text": "folding the arms",
+      "referredentries": ["361b", "572a"]
+    },
+    {
+      "text": "following with the eyes",
+      "referredentries": ["341c", "609"]
+    },
+    {
+      "text": "foot",
+      "referredentries": ["315i", "315i′", "315i″", "383d", "383d′", "383d″", "385c", "390a", "390b", "688"]
+    },
+    {
+      "text": "walking on the edges of the feet",
+      "referredentries": ["405c"]
+    },
+    {
+      "text": "movements of the foot",
+      "referredentries": ["385c"]
+    },
+    {
+      "text": "planes and edges of the foot",
+      "referredentries": ["316y", "390c", "408", "409", "410", "916b", "916f", "916h", "916j", "916k", "919"]
+    },
+    {
+      "text": "rotation of the foot (turning the foot)",
+      "referredentries": ["405"]
+    },
+    {
+      "text": "instep (top of the foot)",
+      "referredentries": ["408c", "409b", "916d"]
+    },
+    {
+      "text": "foot circling",
+      "referredentries": ["406"]
+    },
+    {
+      "text": "contact with parts of the foot in gestures",
+      "referredentries": ["410g", "410h", "410i", "410j", "550"]
+    },
+    {
+      "text": "forearm (lower arm)",
+      "referredentries": ["316p", "316q", "360c", "360d", "364c", "364e"]
+    },
+    {
+      "text": "movements of the forearm",
+      "referredentries": ["317b", "350a", "352", "353"]
+    },
+    {
+      "text": "rotation of the forearm",
+      "referredentries": ["368", "371a", "371b", "371c", "374a"]
+    },
+    {
+      "text": "forehead",
+      "referredentries": ["344b", "346e", "504a"]
+    },
+    {
+      "text": "group arrangements (formations)",
+      "referredentries": ["100", "158g", "158h", "158k", "313c", "313d", "313e", "313f", "614", "615", "616", "617", "618", "619", "620b", "620c", "620d", "850", "855c", "873", "879a", "879g", "880", "902l"]
+    },
+    {
+      "text": "saggital (forward-backward) symmetry",
+      "referredentries": ["85", "810b", "825", "826", "827", "828", "881c", "898e", "954b", "954e"]
+    },
+    {
+      "text": "turns without friction (blind turns)",
+      "referredentries": ["254", "256e", "268b", "271b", "281c", "390b", "434c", "434d", "490a′", "909"]
+    },
+    {
+      "text": "front in relation to focal point",
+      "referredentries": ["95b", "260i", "266", "267", "268", "278b", "279b", "289b", "289c", "292", "296d", "299b", "300", "490b", "491d", "493h", "857b", "857c", "857d", "857e"]
+    },
+    {
+      "text": "gap in both support columns",
+      "referredentries": ["19", "180", "777b"]
+    },
+    {
+      "text": "gesture columns",
+      "referredentries": ["9"]
+    },
+    {
+      "text": "gesture on a straight line",
+      "referredentries": ["115e", "380g", "380g′", "557e", "563k", "711d", "760h", "960j", "960k"]
+    },
+    {
+      "text": "gliding support",
+      "referredentries": ["123", "218c", "233", "524b", "604", "780e", "808b"]
+    },
+    {
+      "text": "going away from an area",
+      "referredentries": ["126d", "276b", "276d"]
+    },
+    {
+      "text": "going away from a body part",
+      "referredentries": ["126j"]
+    },
+    {
+      "text": "going away from a fixed point",
+      "referredentries": ["126k"]
+    },
+    {
+      "text": "going away from a partner",
+      "referredentries": ["126h", "276f", "276h", "277f"]
+    },
+    {
+      "text": "going away from the point of relation",
+      "referredentries": ["126f"]
+    },
+    {
+      "text": "grimace",
+      "referredentries": ["346a"]
+    },
+    {
+      "text": "parts of a group",
+      "referredentries": ["99", "878", "879"]
+    },
+    {
+      "text": "group turns",
+      "referredentries": ["289", "290", "305", "432c", "491d", "493h", "913"]
+    },
+    {
+      "text": "hand",
+      "referredentries": ["315e", "315e′", "315e″", "384d", "384d′", "384d″", "349", "350c", "353", "354b", "357a", "357b", "357c", "357d"]
+    },
+    {
+      "text": "back of the hand",
+      "referredentries": ["316i", "375c", "375j", "375l", "376b", "381", "916c"]
+    },
+    {
+      "text": "palm of the hand",
+      "referredentries": ["316h", "319e", "319f", "319h", "319i", "375b", "375k", "375m", "376a", "377a", "377b", "377c", "377f", "377g", "378", "380a", "380b", "380e", "380g", "380g′", "543i", "548", "574c", "592b", "592d", "606d", "610" , "723b", "916"]
+    },
+    {
+      "text": "planes and edges of the hand",
+      "referredentries": ["316j", "316k", "316l", "316m", "318a", "375", "376", "377", "378", "380", "381", "543h", "543i", "563g", "563h", "916a"]
+    },
+    {
+      "text": "rotation of the hand",
+      "referredentries": ["368"]
+    },
+    {
+      "text": "twist of the hand",
+      "referredentries": ["372a", "372b", "374b"]
+    },
+    {
+      "text": "hand signs",
+      "referredentries": ["315e", "315e′", "315e″", "348d", "348d′", "348d″"]
+    },
+    {
+      "text": "hand signs with dots",
+      "referredentries": ["36a", "316f", "316g", "354d", "362", "363", "577", "606b", "608c", "612"]
+    },
+    {
+      "text": "handstand",
+      "referredentries": ["411f", "478", "479a", "479b", "480", "481", "482", "497b′", "497c′", "498d", "498e", "501f", "502d", "502e", "512a", "600"]
+    },
+    {
+      "text": "head",
+      "referredentries": ["29", "315a", "326", "327", "328", "329", "330","331", "332", "333", "334", "335", "336", "337", "338", "339", "340", "341", "342", "343", "344", "345", "346", "419f", "419g", "419h"]
+    },
+    {
+      "text": "circling the head",
+      "referredentries": ["326f", "326g"]
+    },
+    {
+      "text": "using clefs for the head",
+      "referredentries": ["343", "1002d"]
+    },
+    {
+      "text": "leading with the head",
+      "referredentries": ["426c", "432p"]
+    },
+    {
+      "text": "nodding the head",
+      "referredentries": ["331"]
+    },
+    {
+      "text": "parts of the head",
+      "referredentries": ["35", "159a", "316a", "316b", "316c", "344", "346", "504a", "573e", "573f", "573g", "578d", "608c"]
+    },
+    {
+      "text": "retentions for the head",
+      "referredentries": ["332"]
+    },
+    {
+      "text": "rotations of the head",
+      "referredentries": ["333", "334", "335", "336", "337", "342", "433a′", "437d", "437e"]
+    },
+    {
+      "text": "shifting the head",
+      "referredentries": ["148b", "330", "957a"]
+    },
+    {
+      "text": "spiral head tilt",
+      "referredentries": ["335d", "343m", "1002d", "1002d′"]
+    },
+    {
+      "text": "tilting the head (bending the head)",
+      "referredentries": ["326"]
+    },
+    {
+      "text": "tilting and rotating the head",
+      "referredentries": ["335", "336", "337"]
+    },
+    {
+      "text": "the head in tilts of the trunk (the head in tilts of the torso)",
+      "referredentries": ["328", "329", "332d"]
+    },
+    {
+      "text": "the head in upper body movements",
+      "referredentries": ["327"]
+    },
+    {
+      "text": "head wheeling",
+      "referredentries": ["343o", "343p", "343q", "960l"]
+    },
+    {
+      "text": "sign for the heel",
+      "referredentries": ["316m", "408i", "408l", "409f"]
+    },
+    {
+      "text": "high supports",
+      "referredentries": ["111a"]
+    },
+    {
+      "text": "hip sign (plus sign inside the staff)",
+      "referredentries": ["315f", "315f′", "383a", "383a′", "383a″"]
+    },
+    {
+      "text": "inclusion of the hip (participation of the hip)",
+      "referredentries": ["319c", "319d" ,"356b", "389f", "389g", "389h", "401d","564a", "564c","659a", "659b", "712h" ,"966", "967"]
+    },
+    {
+      "text": "leading with the hip",
+      "referredentries": ["389b", "389d", "389e", "389i", "563f"]
+    },
+    {
+      "text": "movements of the hip",
+      "referredentries": ["384", "400c", "925a", "925b"]
+    },
+    {
+      "text": "hip sign with dot",
+      "referredentries": ["393a", "393a′", "393e", "610", "968"]
+    },
+    {
+      "text": "hooks with small circles at the free end",
+      "referredentries": ["52e", "225b", "225h", "225o", "225v", "225t", "534b", "534k"]
+    },
+    {
+      "text": "identification of the sexes",
+      "referredentries": ["97", "157", "158", "312", "877", "902k", "963"]
+    },
+    {
+      "text": "empty inclusion bow",
+      "referredentries": ["56", "223a", "223b", "243c", "417a", "564b"]
+    },
+    {
+      "text": "inclusion bow with white and/or black disk",
+      "referredentries": ["417b", "417d"]
+    },
+    {
+      "text": "inclusion of the head (participation of the head)",
+      "referredentries": ["327c"]
+    },
+    {
+      "text": "inclusion of the hip and shoulder (participation of the hip and shoulder)",
+      "referredentries": ["356b", "389g", "389h", "401d", "564c", "659b", "966", "967"]
+    },
+    {
+      "text": "inclusion of the pelvis (participation of the pelvis)",
+      "referredentries": ["398e", "401b", "659c", "712g"]
+    },
+    {
+      "text": "inclusion of the shoulder (participation of the shoulder)",
+      "referredentries": ["356d"]
+    },
+    {
+      "text": "inclusion of the shoulder area (participation of the shoulder area)",
+      "referredentries": ["356e", "416a", "416b", "416c", "416e", "416f", "416g", "416h", "655"]
+    },
+    {
+      "text": "inclusion of the trunk (participation of the trunk, participation of the torso)",
+      "referredentries": ["74e", "425a", "425b", "425c", "425e", "425h", "433a′"]
+    },
+    {
+      "text": "inner edge of the foot",
+      "referredentries": ["408d", "408e", "409c", "410h", "916f", "916h", "916j"]
+    },
+    {
+      "text": "walking on the inner edge of the foot",
+      "referredentries": ["405c"]
+    },
+    {
+      "text": "inside something",
+      "referredentries": ["130", "132b", "608"]
+    },
+    {
+      "text": "touching the floor with the instep (top of the foot)",
+      "referredentries": ["410j", "454d", "454e", "454e′", "534q", "919"]
+    },
+    {
+      "text": "interweaving the arms",
+      "referredentries": ["361b", "572a"]
+    },
+    {
+      "text": "inverted positions",
+      "referredentries": ["419p", "428a", "428b", "441e", "441f", "441g", "478", "489a", "479b", "482", "489g", "489h", "497b′", "497c′", "498d", "498e", "501f", "502d", "502e", "503b", "504a", "512a", "512a′", "514b", "514b′"]
+    },
+    {
+      "text": "jaw",
+      "referredentries": ["344v", "344x", "693m", "693n"]
+    },
+    {
+      "text": "jump over something or somebody",
+      "referredentries": ["150d", "607a", "607b"]
+    },
+    {
+      "text": "key signature graphs (pre-sign graphs)",
+      "referredentries": ["101a", "708", "747", "790", "844g", "844h", "888"]
+    },
+    {
+      "text": "knee",
+      "referredentries": ["31", "315g", "315g′", "315g″", "383b", "383b′", "383b″"]
+    },
+    {
+      "text": "knee bend (plié)",
+      "referredentries": ["111c", "510a", "510c", "517", "935"]
+    },
+    {
+      "text": "kneecap",
+      "referredentries": ["411g", "920"]
+    },
+    {
+      "text": "knee gestures",
+      "referredentries": ["317f", "317g", "322c", "385a", "386b", "386d", "386e", "387b", "392a", "393f", "393g", "400b"]
+    },
+    {
+      "text": "leading with the knee",
+      "referredentries": ["389a", "389i"]
+    },
+    {
+      "text": "planes and edges of the knee",
+      "referredentries": ["411g", "411h"]
+    },
+    {
+      "text": "rigid knee",
+      "referredentries": ["323a", "390d", "667c", "667d"]
+    },
+    {
+      "text": "rotation of the knee",
+      "referredentries": ["403"]
+    },
+    {
+      "text": "kneeling",
+      "referredentries": ["164d", "325", "410j", "446a", "447b", "447c", "448", "449", "450", "451", "452", "453", "454", "465b′", "471e", "483b", "484d", "484e", "485b", "485d", "487a", "519a", "519d", "519e"]
+    },
+    {
+      "text": "knock-kneed",
+      "referredentries": ["403a"]
+    },
+    {
+      "text": "lateral narrowing of the hand",
+      "referredentries": ["321d", "678a", "678a′", "683a", "683a′", "683c", "683c′"]
+    },  
+    {
+      "text": "lateral spreading of the hand",
+      "referredentries": ["321c", "678b", "678c", "678d", "678e", "678f", "678g", "683b", "696a"]
+    },
+    {
+      "text": "leading with body sections",
+      "referredentries": ["389c", "426a", "432q"]
+    },
+    {
+      "text": "leading with joints",
+      "referredentries": ["76", "319a", "319b", "355a", "355b", "356a", "356c", "377d", "389a", "389b", "389d", "389e", "389i", "711c", "712b", "712c", "712d", "713a", "760a"]
+    },   
+    {
+      "text": "leading with planes and edges",
+      "referredentries": ["319e", "319f", "319g", "319h", "319i", "380", "381", "411i", "712f"]
+    },
+    {
+      "text": "leaning against",
+      "referredentries": ["440o", "525a", "525b", "588"]
+    },
+    {
+      "text": "left direction",
+      "referredentries": ["103b"]
+    },
+    {
+      "text": "left half of the body",
+      "referredentries": ["9", "896d"]
+    },
+    {
+      "text": "turn to the left",
+      "referredentries": ["22", "237a"]
+    },
+    {
+      "text": "clefs for the leg (and its parts)",
+      "referredentries": ["391", "491d", "495c", "889e″", "889g", "889j", "889k"]
+    },
+    {
+      "text": "leg gestures",
+      "referredentries": ["9", "110b", "116c", "382", "896f", "891"]
+    },
+    {
+      "text": "gestures of parts of the leg",
+      "referredentries": ["384", "385", "386", "387", "388", "389c", "389i", "389j", "390", "391", "392", "393f", "393g", "393h", "982"]
+    },
+    {
+      "text": "pin signs for the leg (and its parts)",
+      "referredentries": ["137a", "137c", "141c", "192b", "192c", "193b", "194b", "387", "388"]
+    },
+    {
+      "text": "planes and edges of the leg (and its parts)",
+      "referredentries": ["319g", "411a", "411b", "411c", "411d", "411e", "411f", "411i"]
+    },
+    {
+      "text": "retentions for the leg (and its parts)",
+      "referredentries": ["251c", "253a", "253c", "254", "256e", "390"]
+    },
+    {
+      "text": "rotation of the leg (and its parts)",
+      "referredentries": ["396", "397", "398", "399a′", "399b′", "399c′", "400a", "400b", "402", "403", "404", "405", "406", "407", "790", "888f", "888g"]
+    },
+    {
+      "text": "resulting leg rotation",
+      "referredentries": ["392", "400b", "400c"]
+    },
+    {
+      "text": "signs for the leg (and its parts)",
+      "referredentries": ["395a", "395a′", "395a″"]
+    },
+    {
+      "text": "signs for parts of the leg",
+      "referredentries": ["315f", "315g", "315h", "315i", "383", "393", "394", "395b", "395b′", "395b″", "395c", "395c′", "395c″", "395d", "395d′", "395d″", "395e", "395e′", "395e″", "969"]
+    },
+    {
+      "text": "legato (curved, fluent, flow of movement)",
+      "referredentries": ["112", "115a", "115b", "115d", "557a", "557b", "557c", "557d"]
+    },
+    {
+      "text": "length of signs",
+      "referredentries": ["7", "749", "758", "759", "760", "761"]
+    },
+    {
+      "text": "levels",
+      "referredentries": ["4"]
+    },
+    {
+      "text": "levels of arm getures",
+      "referredentries": ["110a"]
+    },
+    {
+      "text": "change of levels while stepping",
+      "referredentries": ["112a", "112b"]
+    },
+    {
+      "text": "levels of leg gestures",
+      "referredentries": ["110b"]
+    },
+    {
+      "text": "levels of pin signs",
+      "referredentries": ["127a", "127b", "127c"]
+    },
+    {
+      "text": "levels of steps and supports",
+      "referredentries": ["111"]
+    },
+    {
+      "text": "light",
+      "referredentries": ["69b", "70a", "715b", "715c", "716b", "721b", "721c", "722b", "722d", "723c", "723d", "724c", "724d", "732b", "732b′", "733b", "733e", "734b", "736b", "739", "741a", "742", "747a"]
+    },
+    {
+      "text": "basic signs for the limbs",
+      "referredentries": ["33", "315o"]
+    },
+    {
+      "text": "modifications of basic signs for the limbs",
+      "referredentries": ["316n", "316o", "316p", "316q"]
+    },
+    {
+      "text": "planes and edges of the limbs",
+      "referredentries": ["316r", "316s", "316t", "316u", "316v", "316w", "379a", "379b", "379c", "379d", "379e", "379f", "379g", "379h", "379i", "379j", "411a", "411b", "411c", "411d", "411e", "411f", "411i", "969e", "969f"]
+    },
+    {
+      "text": "regions or sections of the limbs",
+      "referredentries": ["316d", "316e", "360", "361", "364i", "364i′", "364i″", "364k", "364k′", "364k″", "393", "395d", "395d′", "395d″", "395e", "395e′", "395e″"]
+    },
+    {
+      "text": "signs for the arm (and its parts)",
+      "referredentries": ["316n", "316p", "316q", "364", "380c", "380d", "501d", "503b", "503b′", "796h", "843b"]
+    },
+    {
+      "text": "signs for the fingers (and their parts and surfaces)",
+      "referredentries": ["365"]
+    },
+    {
+      "text": "the three staff lines",
+      "referredentries": ["9", "895c", "895d", "895e", "895f", "895g"]
+    },
+    {
+      "text": "vertical dotted lines (passive or resulting movements)",
+      "referredentries": ["5b" ,"126b", "543h", "550k", "744a", "745b", "745c", "745d"]
+    },
+    {
+      "text": "short lines across direction signs (group arrangement on lines)",
+      "referredentries": ["100", "279a", "284a", "296", "297", "298", "299", "879g", "880c", "880f"]
+    },
+    {
+      "text": "dash attached to body signs",
+      "referredentries": ["316l", "316m", "316a′", "316b′", "316c′", "316d′", "338c", "338d", "338e", "345d", "345e", "375d", "375e", "375h", "375i", "375j", "375k", "376e", "376f", "379c", "379d", "379g", "379i", "379o", "379p", "379q", "379r", "408d", "408e", "408h", "408i", "409c", "409e", "409f", "442a", "442b", "442c", "442d", "442e", "442f", "442g", "442h", "442i", "442j", "442k", "442l", "442m", "442n", "442o", "462"]
+    },
+    {
+      "text": "diagonal dashes attached to short vertical lines (parts of the arms)",
+      "referredentries": ["314", "315b", "315c", "315d", "315e", "315b′", "315c′", "315d′", "315e′",  "315b″", "315c″", "315d″", "315e″", "316d", "316f", "316ff", "316g", "316gg", "316p", "316v", "316h′", "348", "360", "362", "363"]
+    },
+    {
+      "text": "diagonal dashes attached to short vertical double line (limb signs)",
+      "referredentries": ["316t", "316w", "364a", "364a′", "364a″", "364d", "364d′", "364e", "364e′", "365"]
+    },
+    {
+      "text": "diagonal dashes attached to basic sign for the planes and edges of the hand",
+      "referredentries": ["316x", "316z", "316z′", "376"]
+    },
+    {
+      "text": "horizontal dashes attached to or across short vertical lines (parts of the legs)",
+      "referredentries": ["314", "315f", "315f′", "315f″", "315g", "315g′", "315g″", "315h", "315h′", "315h″", "315i", "315i′", "315i″", "316e", "383", "393", "394"]
+    },
+    {
+      "text": "horizontal dashes attached to short vertical double line (limb signs)",
+      "referredentries": ["395a", "395a′", "395a″", "395b", "395b′", "395c", "395c′", "395e", "395e′", "395e″"]
+    },
+    {
+      "text": "horizontal dashes attached to basic sign for the planes and edges of the foot",
+      "referredentries": ["316y", "409"]
+    },
+    {
+      "text": "lip",
+      "referredentries": ["344a′", "344z", "346f"]
+    },
+    {
+      "text": "little finger edge",
+      "referredentries": ["316k", "316u", "316v", "316z", "316z′", "375f", "375g", "375l", "375m", "376d", "376d′", "379e", "379f", "381a", "381b"]
+    },
+    {
+      "text": "looking towards",
+      "referredentries": ["341c", "609", "870"]
+    },
+    {
+      "text": "low supports",
+      "referredentries": ["111c", "165c"]
+    },
+    {
+      "text": "lower jaw (chin)",
+      "referredentries": ["344t", "608c", "693m", "693n"]
+    },
+    {
+      "text": "back of the lower leg",
+      "referredentries": ["411f"]
+    },
+    {
+      "text": "movements of the lower leg",
+      "referredentries": ["322c", "322g", "385b", "386c", "386d", "388", "392b"]
+    },
+    {
+      "text": "regions of the lower leg",
+      "referredentries": ["393c", "393c′", "393d", "393d′", "393g", "393h", "395e", "395e′"]
+    },
+    {
+      "text": "rotation of the lower leg",
+      "referredentries": ["404"]
+    },
+    {
+      "text": "symbols for the lower leg",
+      "referredentries": ["395c", "395c′", "395c″", "395h"]
+    },
+    {
+      "text": "lumbar spine",
+      "referredentries": ["443n", "443s", "444e", "675b", "675e", "675q", "927e′"]
+    },
+    {
+      "text": "lungs",
+      "referredentries": ["418l", "445"]
+    },
+    {
+      "text": "man",
+      "referredentries": ["97b", "157b", "158b", "158e", "312a", "312d", "877b", "877g", "902k", "963b","963e", "963h"]
+    },
+    {
+      "text": "medium level supports",
+      "referredentries": ["111b", "165b"]
+    },
+    {
+      "text": "meeting from above",
+      "referredentries": ["150d", "607a", "607b", "939"]
+    },
+    {
+      "text": "meeting signs", 
+      "referredentries": ["51", "528h", "613", "785h"]
+    },
+    {
+      "text": "moustache",
+      "referredentries": ["344l′"]
+    },
+    {
+      "text": "mouth",
+      "referredentries": ["344f′", "573e", "608c", "693"]
+    },
+    {
+      "text": "parts in the mouth",
+      "referredentries": ["344n", "344d′", "344g′", "344h′", "346g", "573f", "578d", "694a", "694b"]
+    },
+    {
+      "text": "narrow sign",
+      "referredentries": ["63a", "639a"]
+    },
+    {
+      "text": "narrow sign with horizontal crossing line",
+      "referredentries": ["64a", "639e"]
+    },
+    {
+      "text": "narrow sign with dots",
+      "referredentries": ["63c", "640a2", "640a3"]
+    },
+    {
+      "text": "narrow sign in a horizontal bow (grasping, surrounding)",
+      "referredentries": ["150b", "528b", "568a", "568c", "569", "570", "571", "573", "574", "575", "576", "577", "580", "582a", "582c", "697b", "785b", "786c"]
+    },
+    {
+      "text": "narrow sign in a chest sign (narrow sign in a circle placed in a square)",
+      "referredentries": ["418l", "445"]
+    },
+    {
+      "text": "narrow sign in a diamond",
+      "referredentries": ["423e", "526", "699a", "699b", "701", "702a", "702c", "704b", "704c", "948c"]
+    },
+    {
+      "text": "narrow sign in or at a rectangle",
+      "referredentries": ["418i", "418j", "422b", "427f", "427g", "428d", "443p", "444a"]
+    },
+    {
+      "text": "narrow sign in or at a square",
+      "referredentries": ["315l", "316j","418b", "418l", "427i", "442i", "442j", "442k", "442t", "442u", "443i", "444e", "445", "573a", "582c", "597", "599", "611"]
+    },
+    {
+      "text": "narrow sign in a turn sign",
+      "referredentries": ["257a", "257b", "280a", "280g", "397g", "397j", "437a", "705a", "705g"]
+    },
+    {
+      "text": "neck and its parts",
+      "referredentries": ["316o", "345", "691", "918", "947"]
+    },
+    {
+      "text": "neither outward nor inward rotation, neither to the right nor to the left",
+      "referredentries": ["28", "237c", "336a", "336c", "366e", "374", "396c", "400a", "403e", "404c", "405e", "407c", "432a", "436b", "965"]
+    },
+    {
+      "text": "nose",
+      "referredentries": ["35a", "344k", "346c", "346d", "346f"]
+    },
+    {
+      "text": "number of people (number in a circle, number in a double circle)",
+      "referredentries": ["98", "624b", "794f", "801a", "844a", "844f", "875a", "875e", "875f", "876", "877j", "877k", "879g", "880", "881a"]
+    },
+    {
+      "text": "number in a diamond",
+      "referredentries": ["102", "277d", "797a", "868g", "875d", "883b", "883c"]
+    },
+    {
+      "text": "reprise sign (roman number in a square, letter in a square)",
+      "referredentries": ["81a", "88", "590b", "809", "810", "898a"]
+    },
+    {
+      "text": "numbering measures (numbering bars)",
+      "referredentries": ["102", "755a", "875d", "883", "884", "885", "991a"]
+    },
+    {
+      "text": "identification of an object (sketches for objects, props)",
+      "referredentries": ["60", "61", "62", "523e", "524a", "525a", "531", "532", "542a", "547b", "571", "573d", "578c", "578d", "584a", "585a", "586b", "588", "592a", "592c", "592d", "593c", "607b", "607d", "608a", "608b", "625", "626", "627", "629b", "631a", "782k", "795d", "795e", "882"]
+    },
+    {
+      "text": "outer edge",
+      "referredentries": ["316k", "316u"]
+    },
+    {
+      "text": "overcrossing steps and gestures",
+      "referredentries": ["134c", "146"]
+    },
+    {
+      "text": "palm-section of the hand",
+      "referredentries": ["360e", "360e′", "916c"]
+    },
+    {
+      "text": "planes and edges of the palm-section of the hand",
+      "referredentries": ["376h"]
+    },
+    {
+      "text": "parallel feet",
+      "referredentries": ["396c", "397d"]
+    },
+    {
+      "text": "parietal bone",
+      "referredentries": ["344d", "344f"]
+    },
+    {
+      "text": "movable parts of the trunk (movable parts of the torso)",
+      "referredentries": ["316e′", "316f", "443", "444", "445"]
+    },
+    {
+      "text": "passive movements",
+      "referredentries": ["5b", "126b", "744a", "745b", "950b"]
+    },
+    {
+      "text": "passive path",
+      "referredentries": ["27", "260f", "260g", "260h", "283", "287", "494", "502c", "744b", "744c", "744d", "745a"]
+    },
+    {
+      "text": "resulting path",
+      "referredentries": ["27", "230", "260f", "260g", "260h", "491b", "498c", "499a′", "501d", "503a′", "744b", "744c", "744d", "745a", "950a"]
+    },
+    {
+      "text": "path signs",
+      "referredentries": ["24", "25", "26", "27", "260-288", "291-302", "782c", "782d", "910"]
+    },
+    {
+      "text": "path signs with empty directioin signs",
+      "referredentries": ["25", "274", "275", "278b", "279", "283a", "745a"]
+    },
+    {
+      "text": "dotted path signs",
+      "referredentries": ["27", "260f", "260g", "260h", "283b", "284b", "287", "491b", "494", "498c", "499a′", "501d", "502c", "503a′", "744b", "744c", "744d", "745a", "910", "590a"]
+    },
+    {
+      "text": "straight path (path signs with horizontal top and bottom lines)",
+      "referredentries": ["25", "26", "235", "260e", "274a", "274b", "275a", "277a", "277b", "277d", "277e", "277f", "278a", "279a", "287a"]
+    },
+    {
+      "text": "pelvis",
+      "referredentries": ["315m", "418c", "194a", "914c", "925"]
+    },
+    {
+      "text": "circling of the pelvis",
+      "referredentries": ["428d", "925"]
+    },
+    {
+      "text": "free leg during rotation of the pelvis",
+      "referredentries": ["439", "975"]
+    },
+    {
+      "text": "inclination of the pelvis",
+      "referredentries": ["422", "924"]
+    },
+    {
+      "text": "leading with the pelvis",
+      "referredentries": ["426a", "432q"]
+    },
+    {
+      "text": "planes and edges of the pelvis",
+      "referredentries": ["442l", "442m", "442n", "476", "493a", "493b"]
+    },
+    {
+      "text": "rotation of the pelvis",
+      "referredentries": ["438", "439", "925b", "925c", "925d"]
+    },
+    {
+      "text": "shifting the pelvis",
+      "referredentries": ["148c", "419q", "423f", "957c"]
+    },
+    {
+      "text": "somersault of the pelvis",
+      "referredentries": ["438b", "438c"]
+    },
+    {
+      "text": "pelvis plus waist",
+      "referredentries": ["418j", "422b", "427g"]
+    },
+    {
+      "text": "penetrating without touching",
+      "referredentries": ["130a", "130b", "605f", "608", "612"]
+    },
+    {
+      "text": "identification of people (persons)",
+      "referredentries": ["97", "98", "99", "157", "158", "874", "875", "876", "877", "878", "963"]
+    },
+    {
+      "text": "guidance or leading people (persons)",
+      "referredentries": ["355d", "380f", "712f", "713c"]
+    },
+    {
+      "text": "phrasing bow",
+      "referredentries": ["115b"]
+    },
+    {
+      "text": "pin sign near an addressing sign (position sign near an addressing sign)",
+      "referredentries": ["150c", "606a", "606d", "606e", "606f", "607", "608", "610", "611"]
+    },
+    {
+      "text": "pin sign above body signs (position sign above body signs)",
+      "referredentries": ["151b", "151c", "354", "424", "526b", "767b"]
+    },
+    {
+      "text": "pin sign in body signs (position sign in body signs)",
+      "referredentries": ["159", "344", "346", "364i", "364i′", "364i″", "364k", "364k′", "364k″", "395d", "395d′", "395d″", "395e", "395e′", "395e″", "427h", "442p", "442q", "442r", "442r′", "443r", "443s", "443t", "445e", "445f", "445g", "445h"]
+    },
+    {
+      "text": "pin sign in cartwheel signs (position sign in cartwheel signs)",
+      "referredentries": ["152d", "497", "499a"]
+    },
+    {
+      "text": "pin sign in a circular path signs (position sign in a circular path signs)",
+      "referredentries": ["153", "154b", "262b", "262c", "262d", "262e", "262f", "300"]
+    },
+    {
+      "text": "pin sign in a diamond (position sign in a diamond)",
+      "referredentries": ["155", "219c", "456d", "470", "495"]
+    },
+    {
+      "text": "pin sign beside direction signs (position sign beside direction signs)",
+      "referredentries": ["133", "134", "135", "136", "137", "138", "139", "140", "141", "142", "143", "144", "145", "146", "147", "148"]
+    },
+    {
+      "text": "pin sign in direction signs (position sign in direction signs)",
+      "referredentries": ["121", "149", "441e", "454a", "981"]
+    },
+    {
+      "text": "elongated pin sign (elongated position sign)",
+      "referredentries": ["158g", "158h", "158i"]
+    },
+    {
+      "text": "pin sign in floor pattern and arrangement sketches (position sign in floor pattern and arrangement sketches)",
+      "referredentries": ["158", "274", "275", "276", "277", "278", "279", "289-301", "302", "305", "311", "312", "313", "963"]
+    },
+    {
+      "text": "pin sign in grasping and surrounding (position sign in grasping and surrounding)",
+      "referredentries": ["150b", "570", "571", "573a", "573b", "574", "575", "576", "577a", "577b", "577c", "577d", "577g", "577h"]
+    },
+    {
+      "text": "pin sign in the head sign (position sign in the head sign)",
+      "referredentries": ["159", "344", "346", "573e", "573f", "573g", "608c"]
+    },
+    {
+      "text": "pin sign in the increase sign (position sign in the increase sign)",
+      "referredentries": ["151c", "318b", "423c", "424", "526", "727b", "758e"]
+    },
+    {
+      "text": "pin sign indicating shifts (position sign indicating shifts)",
+      "referredentries": ["148", "330", "423", "479b", "488f", "501f", "526a"]
+    },
+    {
+      "text": "isolated pin sign (isolated position sign)",
+      "referredentries": ["151a", "151b", "331", "354a", "354b", "354c", "354d", "387a", "684a′", "684b′"]
+    },
+    {
+      "text": "pin sign in leaning against (position sign in leaning against)",
+      "referredentries": ["440o", "525a", "525b", "588"]
+    },
+    {
+      "text": "pin sign in meeting from above or below (position sign in meeting from above or below)",
+      "referredentries": ["150d", "607"]
+    },
+    {
+      "text": "pin sign for minute movements (position sign for minute movements, small movements)",
+      "referredentries": ["118", "151a", "151b", "151d", "151e", "151f", "151g", "151c", "318b", "331", "354a", "354b", "354c", "354d", "354e", "387a", "388", "423c", "424", "526", "563d", "563e", "684a′", "684b′", "710c", "712d", "727b", "758e", "783h", "990e", "990f", "995"]
+    },
+    {
+      "text": "pin sign in a vertical bow (position sign in a vertical bow)",
+      "referredentries": ["118", "151d", "151e", "151f", "151g", "354e", "388", "563d", "563e", "710c", "712d", "783h"]
+    },
+    {
+      "text": "pin sign next to relation signs (position sign next to relation signs)",
+      "referredentries": ["150"]
+    },
+    {
+      "text": "pin sign in a square (position sign in a square)",
+      "referredentries": ["156", "308b", "308c", "308d", "308g", "309", "310", "854", "855", "856", "857", "859", "860", "861", "955a", "955b"]
+    },
+    {
+      "text": "pin sign in a tension sign (position sign in a tension sign)",
+      "referredentries": ["151d"]
+    },
+    {
+      "text": "pin sign near a touching sign (position sign near a touching sign)",
+      "referredentries": ["150a", "531a", "532", "543g", "544", "545", "546", "548", "549b", "549d"]
+    },
+    {
+      "text": "pin sign below the trill sign (position sign below the trill sign)",
+      "referredentries": ["151a", "767b", "783i"]
+    },
+    {
+      "text": "black pin sign in turn signs (black position sign in turn signs)",
+      "referredentries": ["152a", "154a", "238", "258a", "259", "334b", "334d", "343p", "397f", "432b", "491b", "493a", "493c", "493e", "493f", "493g"]
+    },
+    {
+      "text": "flat pin sign in turn signs (flat position sign in turn signs)",
+      "referredentries": ["152b", "258c", "289", "334g", "432c", "491d", "493h"]
+    },
+    {
+      "text": "white pin sign in turn signs (white position sign in turn signs, sign for twist)",
+      "referredentries": ["152c", "258e", "334a", "343o", "397a", "397b", "397c", "397d", "397e", "432a"]
+    },
+    {
+      "text": "place",
+      "referredentries": ["116"]
+    },
+    {
+      "text": "place problems in arm gestures",
+      "referredentries": ["116b", "558", "656g", "709a", "709b"]
+    },
+    {
+      "text": "place problems in leg gestures",
+      "referredentries": ["116c", "607b", "608b", "660g", "709e"]
+    },
+    {
+      "text": "place problems in steps",
+      "referredentries": ["116c", "169", "170", "171", "172", "173", "174", "175", "176", "177", "178", "649f"]
+    },
+    {
+      "text": "place problems for movable parts of the trunk (movable parts of the torso)",
+      "referredentries": ["444a", "444b", "444c", "444d", "444e", "444f", "444g"]
+    },
+    {
+      "text": "place problems in movements of the upper part of the body",
+      "referredentries": ["414a", "414b", "675c", "675i", "709i"]
+    },
+    {
+      "text": "planes and edges of joints",
+      "referredentries": ["379k", "379l", "379m", "379n", "379o", "379p", "379q", "379r", "411g", "411h"]
+    },
+    {
+      "text": "planes and edges of the neck",
+      "referredentries": ["345"]
+    },
+    {
+      "text": "planes and edges of the trunk and its parts (planes and edges of the torso and its parts)",
+      "referredentries": ["316a′", "316b′", "442"]
+    },
+    {
+      "text": "ballet positions",
+      "referredentries": ["133", "134", "135"]
+    },
+    {
+      "text": "pressing",
+      "referredentries": ["151d", "714a", "740a"]
+    },
+    {
+      "text": "pulling",
+      "referredentries": ["151d", "740b"]
+    },
+    {
+      "text": "pulling out the shoulder area",
+      "referredentries": ["369c", "369d", "415a", "415b", "416d", "922"]
+    },
+    {
+      "text": "relationship without bodily contact",
+      "referredentries": ["50", "51", "150c", "341c", "528g", "528h", "605-612", "613", "785h", "785g", "870"]
+    },
+    {
+      "text": "repetition signs (repeat signs)",
+      "referredentries": ["89", "90", "590c", "793b", "796", "803a", "803b", "807a", "809b", "809c", "809d", "817", "818", "819", "820", "822c", "822d", "828", "832", "953", "954", "997", "998"]
+    },
+    {
+      "text": "resulting movement",
+      "referredentries": ["5b", "126b", "550k", "744a", "754b", "754c", "754d", "950b"]
+    },
+    {
+      "text": "retention in the body (body hold)",
+      "referredentries": ["78a", "217b", "217e", "323a", "332d", "341a", "357a", "357h", "371c", "390a", "390d", "413d", "429a", "430a", "430b", "433b", "434e", "435e", "439f", "492d", "508a", "778b", "778e", "778j", "779b", "779b′", "779g"]
+    },
+    {
+      "text": "retention of support",
+      "referredentries": ["21", "181", "183", "184", "185", "186", "187", "188", "189b", "189c", "191d", "218a", "218b", "777c", "906"]
+    },
+    {
+      "text": "retention signs above body signs (hold signs above body signs)",
+      "referredentries": ["323a", "357f", "371c", "390b", "390d", "434e", "435c", "667c", "667d", "788a", "788b′", "788c′", "853f", "888d"]
+    },
+    {
+      "text": "retention signs in direction signs (hold signs in direction signs)",
+      "referredentries": ["122a", "122b", "123"]
+    },
+    {
+      "text": "retention signs above relation signs (hold signs above relation signs)",
+      "referredentries": ["217h", "364f", "364h", "395f", "429e", "543f", "543g", "543h", "549c", "549d", "582", "609", "610", "778h", "778l", "786", "853d", "853d′", "853h", "853k", "853k′"]
+    },
+    {
+      "text": "retention signs above vertical brackets (hold signs above vertical brackets)",
+      "referredentries": ["356c", "389h", "737a", "737d"]
+    },
+    {
+      "text": "retention signs in vertical brackets (hold signs in vertical brackets)",
+      "referredentries": ["332c", "357d", "543i", "562f", "562g", "562h"]
+    },
+    {
+      "text": "reversed body signs",
+      "referredentries": ["316i′", "316j′", "419p", "427", "428", "441", "478", "479a", "479b", "480", "481", "482", "489g", "489h", "497b′", "497c′", "498d", "498e", "501f", "502c", "502d", "502e", "503b", "512a′", "514b′", "515′", "523e′"]
+    },
+    {
+      "text": "reversed position",
+      "referredentries": ["138", "139", "141g"]
+    },
+    {
+      "text": "revoltade",
+      "referredentries": ["390f"]
+    },
+    {
+      "text": "right direction",
+      "referredentries": ["103b"]
+    },
+    {
+      "text": "turn to the right",
+      "referredentries": ["23", "237b", "260d", "264"]
+    },
+    {
+      "text": "right half of the body",
+      "referredentries": ["9", "896d"]
+    },
+    {
+      "text": "leading with the right half of the body",
+      "referredentries": ["356b", "389g", "389h", "401d", "412n", "416e", "966b"]
+    },
+    {
+      "text": "rolling the head",
+      "referredentries": ["326f", "326g"]
+    },
+    {
+      "text": "rond de jambe en l’air",
+      "referredentries": ["388"]
+    },
+    {
+      "text": "rond detour in gesture",
+      "referredentries": ["151f"]
+    },
+    {
+      "text": "root of the nose",
+      "referredentries": ["344y"]
+    },
+    {
+      "text": "same body part performing",
+      "referredentries": ["317g", "341a", "386d", "390a", "428c", "428d", "432j", "432k", "432l", "432l′", "436a", "436b", "560f"]
+    },
+    {
+      "text": "same point of support",
+      "referredentries": ["137g", "560d", "560e"]
+    },
+    {
+      "text": "different shading within a single sign",
+      "referredentries": ["16", "112", "113a"]
+    },
+    {
+      "text": "shading of direction signs",
+      "referredentries": ["4", "103"]
+    },
+    {
+      "text": "shaking",
+      "referredentries": ["387b", "722d", "724c"]
+    },
+    {
+      "text": "angular shapes",
+      "referredentries": ["114", "557e"]
+    },
+    {
+      "text": "curved shapes (curved gestures)",
+      "referredentries": ["112", "115a", "115b", "115d", "557a", "557b", "557c", "557d"]
+    },
+    {
+      "text": "straight shapes",
+      "referredentries": ["115e", "380g", "380g′", "557e", "563k", "711d", "760h"]
+    },
+    {
+      "text": "shifting the shoulder section",
+      "referredentries": ["423g"]
+    },
+    {
+      "text": "shifting the whole trunk (shifting the whole torso)",
+      "referredentries": ["423b", "957d"]
+    },
+    {
+      "text": "shoulder",
+      "referredentries": ["315b", "348a"]
+    },
+    {
+      "text": "movements of the shoulder",
+      "referredentries": ["351"]
+    },
+    {
+      "text": "shoulder area",
+      "referredentries": ["443u", "443v"]
+    },
+    {
+      "text": "shoulder section",
+      "referredentries": ["38d", "315n", "418d"]
+    },
+    {
+      "text": "front of the shoulder section",
+      "referredentries": ["442h"]
+    },
+    {
+      "text": "inclination of the shoulder section",
+      "referredentries": ["421"]
+    },
+    {
+      "text": "retention for the shoulder section",
+      "referredentries": ["430b"]
+    },
+    {
+      "text": "rotation of the shoulder section",
+      "referredentries": ["437a", "437b", "437c", "437d"]
+    },
+    {
+      "text": "rotation of the shoulder region",
+      "referredentries": ["412e", "412f", "412g", "412h", "412k", "412l", "412m", "412n", "412p", "412q"]
+    },
+    {
+      "text": "simultaneousness of two actions",
+      "referredentries": ["6b", "167e", "197a", "248", "399c′", "415c", "559", "567", "748c", "757", "774a", "836", "840b", "840d", "841c", "900a", "900b"]
+    },
+    {
+      "text": "sideways",
+      "referredentries": ["444h", "456a", "930"]
+    },
+    {
+      "text": "sideways up",
+      "referredentries": ["419o", "471c"]
+    },
+    {
+      "text": "pin signs in sketches",
+      "referredentries": ["158", "312", "963"]
+    },
+    {
+      "text": "skew head-tilt or bend",
+      "referredentries": ["335d", "343m", "1002d", "1002d′"]
+    },
+    {
+      "text": "slightly open postition",
+      "referredentries": ["141a", "904a"]
+    },
+    {
+      "text": "sole of foot",
+      "referredentries": ["408b", "409a"]
+    },
+    {
+      "text": "somersault",
+      "referredentries": ["45", "500", "501", "503", "567b", "978b", "979a", "979b", "979c", "979d"]
+    },
+    {
+      "text": "somersault of the head",
+      "referredentries": ["342a", "342b"]
+    },
+    {
+      "text": "bending the spine",
+      "referredentries": ["419g", "419g′", "419h", "419h′", "489b", "489c", "489d", "489e", "489f", "489g", "489h", "675k", "675k′", "675l", "675l′", "675m", "675m′", "675n", "675n′"]
+    },
+    {
+      "text": "stretching the spine",
+      "referredentries": ["419i", "419j", "444i", "675o", "675p", "675q"]
+    },
+    {
+      "text": "whole spine",
+      "referredentries": ["434e", "443q", "444i", "675o′"]
+    },
+    {
+      "text": "square with a body sign (body sign in a square)",
+      "referredentries": ["315n", "316c′", "316d′", "316g′", "316h′", "338", "379k", "379l", "379m", "379n", "379o", "379p", "379q", "379r", "418d", "418f", "418g", "418h", "418k", "427b", "427c", "427d", "427e", "440", "441", "442h", "443u", "443v"]
+    },
+    {
+      "text": "standing still",
+      "referredentries": ["21", "218a", "777c"]
+    },
+    {
+      "text": "starting postition in sketches (beginning)",
+      "referredentries": ["127a", "127b", "127c", "158a", "158b", "158c"]
+    },
+    {
+      "text": "starting postition graph (beginning)",
+      "referredentries": ["94", "851", "852", "853"]
+    },
+    {
+      "text": "stiff knees",
+      "referredentries": ["167f", "323a", "390d", "667c", "667d", "888d"]
+    },
+    {
+      "text": "straddling walk",
+      "referredentries": ["141b", "904b"]
+    },
+    {
+      "text": "straight path for gestures",
+      "referredentries": ["115e", "380g", "380g′", "557e", "563k", "711d", "760h"]
+    },
+    {
+      "text": "straightened path",
+      "referredentries": ["26", "282", "301", "780c", "879e", "962a", "962b", "962c", "962d", "962e"]
+    },
+    {
+      "text": "inward succession",
+      "referredentries": ["355d", "432r", "563j", "713c", "730b", "760g", "990b"]
+    },
+    {
+      "text": "outward succession",
+      "referredentries": ["355c", "389i", "389j", "432s", "465a", "466b", "468", "470", "480d", "501b′", "501f", "563i", "675j", "683d", "713a", "713b", "730a", "760f", "990a"]
+    },
+    {
+      "text": "supine situation",
+      "referredentries": ["441e", "476", "489"]
+    },
+    {
+      "text": "support columns",
+      "referredentries": ["9", "160"]
+    },
+    {
+      "text": "levels of support on the feet",
+      "referredentries": ["111", "165", "516"]
+    },
+    {
+      "text": "lateral symmetry",
+      "referredentries": ["84", "90", "794c", "810a", "811", "812", "813", "814", "815", "816", "817", "818", "819", "820", "821", "822", "823", "824", "881b", "898d", "954a", "997c", "997d"]
+    },
+    {
+      "text": "teeth",
+      "referredentries": ["344d′", "345g", "573f", "578d", "694b"]
+    },
+    {
+      "text": "temple",
+      "referredentries": ["344b′", "344c′"]
+    },
+    {
+      "text": "tension signs",
+      "referredentries": ["72", "563a", "563b", "563c", "665d", "732", "733", "734", "735", "736", "737", "738", "739", "740", "743e", "760c", "761b", "783d", "888c", "988"]
+    },
+    {
+      "text": "movements of the thigh (and its regions)",
+      "referredentries": ["385a", "386c"]
+    },
+    {
+      "text": "outside surface of the thigh (and its regions)",
+      "referredentries": ["411e"]
+    },
+    {
+      "text": "signs for the thigh (and its regions)",
+      "referredentries": ["393a", "393b", "395b", "610", "762"]
+    },
+    {
+      "text": "throat",
+      "referredentries": ["344w"]
+    },
+    {
+      "text": "thumb",
+      "referredentries": ["36a", "362b", "362k", "608c", "677g"]
+    },
+    {
+      "text": "thumb-edge of the hand",
+      "referredentries": ["316j", "318a", "375d", "375e", "376c", "377d", "377e", "381", "563h", "916e"]
+    },
+    {
+      "text": "tip of the toes",
+      "referredentries": ["316l", "480h"]
+    },
+    {
+      "text": "rotation of the toes",
+      "referredentries": ["407"]
+    },
+    {
+      "text": "signs for the toes",
+      "referredentries": ["394", "969"]
+    },
+    {
+      "text": "tongue",
+      "referredentries": ["344n", "694a"]
+    },
+    {
+      "text": "top of the head",
+      "referredentries": ["344e"]
+    },
+    {
+      "text": "tortillé",
+      "referredentries": ["151e", "399c", "399c′"]
+    },
+    {
+      "text": "touching (horizontal bows)",
+      "referredentries": ["48", "150a", "528a", "529-550", "627", "628a", "785a"]
+    },
+    {
+      "text": "sliding",
+      "referredentries": ["399a", "399b", "549", "550", "808a"]
+    },
+    {
+      "text": "tremolo or trill",
+      "referredentries": ["77a", "151a", "354b", "657b", "661c", "722c", "722d", "722e", "724c", "724d", "767a", "767b", "767c", "767d", "783f", "783i", "802b"]
+    },
+    {
+      "text": "trunk inclination (trunk bends with a straight spine, trunk tilts, torso inclination)",
+      "referredentries": ["419b", "419c", "419d", "419f", "419j", "419k", "419l′", "419m", "429", "430a", "430b", "431b", "431b′", "431b″", "896m"]
+    },
+    {
+      "text": "trunk bends with a flexed spine (torso bends with a flexed spine)",
+      "referredentries": ["419g", "419g′", "419g″", "419h", "419h′", "489b", "489c", "489d", "489e", "489f", "489g", "489h", "675k", "675k′", "675l", "675l′", "675m", "675m′", "675n", "675n′"]
+    },
+    {
+      "text": "trunk circling (torso circling)",
+      "referredentries": ["419e", "432j", "960n", "960o"]
+    },
+    {
+      "text": "use of clefs with the trunk (torso)",
+      "referredentries": ["431b", "432k", "432l", "432n", "432o"]
+    },
+    {
+      "text": "combined sections of the trunk (torso)",
+      "referredentries": ["418g", "418h", "418i", "418j", "418k"]
+    },
+    {
+      "text": "minute inclinations of the trunk (torso)",
+      "referredentries": ["424"]
+    },
+    {
+      "text": "retentions for the trunk and its sections (retentions for the torso and its sections)",
+      "referredentries": ["425g", "429", "430", "974"]
+    },
+    {
+      "text": "reversed signs for the trunk and its sections (reversed signs for the torso and its sections)",
+      "referredentries": ["427", "428"]
+    },
+    {
+      "text": "rotation of the trunk and its sections (rotation of the torso and its sections)",
+      "referredentries": ["419k", "432", "433", "434", "975"]
+    },
+    {
+      "text": "signs for the trunk and its sections (signs for the torso and its sections)",
+      "referredentries": ["315j", "315k", "315l", "315m", "315n", "316a′", "316b′", "316e′", "316f′", "316g′", "316h′", "316i′", "316j′", "418", "427", "440a", "440b", "440c", "440d", "440e", "440f", "440g", "440h", "440i", "440j", "440k", "440l", "440m", "442a", "442b", "442c", "442d", "442e", "442f", "442g", "442h", "442i", "442j", "442k", "442l", "442m", "442n", "442o", "442p", "442q", "442r", "442r′", "443", "445a", "915"]
+    },
+    {
+      "text": "spiral inclination of the trunk (torso)",
+      "referredentries": ["432h"]
+    },
+    {
+      "text": "successive inclination of the trunk (torso)",
+      "referredentries": ["426b", "426d"]
+    },
+    {
+      "text": "successive twist of the trunk (torso)",
+      "referredentries": ["432r", "432s"]
+    },
+    {
+      "text": "undeviating tilt of the trunk (torso)",
+      "referredentries": ["432i"]
+    },
+    {
+      "text": "trunk wheeling (torso wheeling)",
+      "referredentries": ["432k", "432l", "432m", "432n", "960m"]
+    },
+    {
+      "text": "turns around the chief axis of a body part",
+      "referredentries": ["240d", "240e", "333", "438a"]
+    },
+    {
+      "text": "turn to the right and/or to the left",
+      "referredentries": ["28", "237c", "238d", "289c", "290d"]
+    },
+    {
+      "text": "untwisted (unrotated, cancellation of rotation, turn neither to the right nor left)",
+      "referredentries": ["28", "237c", "333c", "366e", "374", "396c", "403e", "404c", "405e", "965"]
+    },
+    {
+      "text": "turns relating to the standard cross of axes (turns around a vertical axis)",
+      "referredentries": ["343o", "343p", "432k", "432l", "432m", "432n", "436a", "493"]
+    },
+    {
+      "text": "turn signs (direction of twist)",
+      "referredentries": ["22", "23", "237", "782b"]
+    },
+    {
+      "text": "turn signs with body axes sign",
+      "referredentries": ["343q"]
+    },
+    {
+      "text": "turning the body as a whole",
+      "referredentries": ["22", "23", "264e", "237-258"]
+    },
+    {
+      "text": "twist of a body part within itself",
+      "referredentries": ["218e", "257l", "371e", "372a", "372b", "374b", "434g", "435c″", "780i"]
+    },
+    {
+      "text": "cancellation of twist (turn, rotation)",
+      "referredentries": ["237c", "333c", "334e", "343o", "343q", "366e", "371c", "374", "396c", "403e", "404c", "405e", "432a", "432k", "432l", "432l′"]
+    },
+    {
+      "text": "travelling by means of twist (turn, rotation)",
+      "referredentries": ["230a", "230b", "402"]
+    },
+    {
+      "text": "rotation of the upper body",
+      "referredentries": ["369b", "369c", "369d", "415"]
+    },
+    {
+      "text": "undeviating movements",
+      "referredentries": ["122"]
+    },
+    {
+      "text": "undeviating movement towards an aim (undeviating aiming)",
+      "referredentries": ["122b", "780g", "780h"]
+    },
+    {
+      "text": "undeviating curve",
+      "referredentries": ["122", "252a", "252b", "253b", "343l", "358", "390e", "390f", "432i", "780a", "780d", "853i"]
+    },
+    {
+      "text": "uninterrupted flow",
+      "referredentries": ["115a", "115b"]
+    },
+    {
+      "text": "upper arm",
+      "referredentries": ["360a", "360b", "364b", "364d"]
+    },
+    {
+      "text": "upper body (upper part of the body)",
+      "referredentries": ["9", "315q", "327", "412", "413", "414", "415", "416e", "896h", "972"]
+    },
+    {
+      "text": "columns for the upper body (columns for the upper part of the body)",
+      "referredentries": ["9", "412", "896h"]
+    },
+    {
+      "text": "inclusion of the upper body (inclusion of the upper part of the body)",
+      "referredentries": ["417"]
+    },
+    {
+      "text": "vibrating",
+      "referredentries": ["77a", "151a", "354b", "722c", "722d", "722e", "767a", "767b", "783f", "783i"]
+    },
+    {
+      "text": "waist",
+      "referredentries": ["315l", "418b", "573a", "611"]
+    },
+    {
+      "text": "planes and edges of the waist",
+      "referredentries": ["442i", "442j", "442k", "927d", "927e", "927f"]
+    },
+    {
+      "text": "wavy line",
+      "referredentries": ["77a", "151a", "354b", "657b", "661c", "722c", "722d", "722e", "724c", "724d", "767a", "767b", "767c", "767d", "783f", "783i", "802b", "87", "670m", "756", "807", "810d", "822e", "834-844", "853h"]
+    },
+    {
+      "text": "weak",
+      "referredentries": ["70", "715c", "715d", "743b", "747c", "758d", "760d", "783b", "783e"]
+    },
+    {
+      "text": "wedge-shaped symbols",
+      "referredentries": ["158d", "158e", "158f", "312d", "312e", "312f", "715a", "715b", "963g", "963h", "963i"]
+    },
+    {
+      "text": "whiskers",
+      "referredentries": ["344n′"]
+    },
+    {
+      "text": "wide sign",
+      "referredentries": ["66a", "639b", "940a", "940b", "940c"]
+    },
+    {
+      "text": "wide sign with dots",
+      "referredentries": ["66c", "640b2", "640b3"]
+    },
+    {
+      "text": "double wide sign",
+      "referredentries": ["66b", "639h", "940f", "940g"]
+    },
+    {
+      "text": "wide sign in a diamond",
+      "referredentries": ["423d", "526", "699c", "699d", "701", "702b", "704a", "948d"]
+    },
+    {
+      "text": "wide sign in a turn sign",
+      "referredentries": ["257c", "280b", "280h", "397h", "705b", "705h"]
+    },
+    {
+      "text": "within something",
+      "referredentries": ["130", "608"]
+    },
+    {
+      "text": "woman",
+      "referredentries": ["97a", "157a", "158a", "158d", "312b", "312e", "877a", "877f", "902k", "963a", "963d", "963g"]
+    },
+    {
+      "text": "wrist",
+      "referredentries": ["151b", "151c", "315d", "317b", "348c", "348c′", "348c″", "355a", "355b", "356a", "356c"]
+    },
+    {
+      "text": "rotation of the wrist",
+      "referredentries": ["367", "368a", "368b"]
+    },
+    {
+      "text": "supporting on the whole foot",
+      "referredentries": ["111b", "111c", "165b", "165c", "225l", "225q"]
+    }
+  ]

@@ -1,0 +1,24 @@
+html {
+    margin-top: 1.5rem;
+    margin-right: 2vw;
+    margin-left: 2vw;
+}
+
+body {
+    font-size: 18px;
+}
+
+h3 {
+    font-size: 1.5rem;
+}
+
+h4 {
+    font-size: 1.4rem;
+}
+
+::selection {
+    background: #fdde83; /* WebKit/Blink Browsers */
+  }
+::-moz-selection {
+    background: #fdde83; /* Gecko Browsers */
+  }
