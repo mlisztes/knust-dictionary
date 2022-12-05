@@ -1,0 +1,15 @@
+.scroll.to.top {
+    position: fixed;
+    bottom: 40px;
+    right: 40px;
+    width: 40px;
+    height: 40px;
+    border-radius: 100%;
+    z-index: 1;
+}
+
+.scroll.to.top .chevron.circle.up.icon{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-size: 3rem;
+}
