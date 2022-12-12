@@ -7,7 +7,7 @@ const EntryCard = (props) => {
     return (
         <div className={`ui yellow card ${props.entrytype}`}>
             <div className="image">
-                <img src={props.image} alt={props.id}/>
+                <img src={props.image} alt={props.id} loading="lazy"/>
             </div>
             <div className="content">
                 <div className="meta">
