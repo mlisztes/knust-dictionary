@@ -94,7 +94,7 @@ class App extends React.Component{
                                 </div>
                             )}
                         />
-                        <Route path="/entries/:id" exact component={EntryShow} />
+                        <Route path="/entries/:id" exact component={(props) => <EntryShow {...props} key={window.location.pathname}/>} />
                         <Route path="/fourprinciples" exact component={StartHere} />
                         <Route path="/about" exact component={About} />
                         </Switch>
