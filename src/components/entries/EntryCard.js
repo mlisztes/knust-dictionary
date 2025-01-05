@@ -9,18 +9,10 @@ const EntryCard = (props) => {
             <div className="image">
                 <img src={props.image} alt={props.id} loading="lazy"/>
             </div>
-            <div className="content">
-                <div className="meta">
-                    {props.category}
-                </div>
-                <div className="description">
-                    {props.outline}
-                </div>
-            </div>
             <div className="extra content">
                 <span className="right floated">
                     <Link to={`/entries/${props.id}`}>
-                    <button className="tiny ui yellow button">View</button>
+                    <button className="tiny ui button">View</button>
                     </Link>
                 </span>
                 <span>
