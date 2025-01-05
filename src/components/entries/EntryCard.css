@@ -28,6 +28,12 @@
     -webkit-box-orient: vertical;
 }
 
+.ui.card>.extra,
+.ui.cards>.card>.extra {
+    border-top: 0px solid rgba(0,0,0,.05) !important;
+    margin-top: auto;
+}
+
 .ui.card>.content>.description,
 .ui.cards>.card>.content>.description {
  color:rgba(0,0,0,.87);

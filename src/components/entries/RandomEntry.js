@@ -8,7 +8,7 @@ const RandomEntry = (props) => {
         <div className="ui stackable eight column centered grid" style={{marginTop:'1.5vh'}}>    
         <div className="seven wide tablet four wide computer column">
             <h3>Welcome to Albrecht Knust's <br/>Dictionary of Kinetography Laban!</h3>
-            Search for a symbol, <br />browse the dictionary, <br />or check out a random entry:
+            Search the text of the dictionary, <br />browse the individual chapters, <br />or check out a random entry:
             <EntryCard id={props.getRandomEntry.id} category={props.getRandomEntry.category} image={props.getRandomEntry.image} outline={props.getRandomEntry.outline} outlinerefs={props.getRandomEntry.outlinerefs} detail={props.getRandomEntry.detail}/>
         </div>
         <div className="seven wide tablet four wide computer column">            
