@@ -6,7 +6,7 @@ import { Popup } from 'semantic-ui-react';
 const EntryShowItemDetail = (props) => {
 
     const includedoutlinerefs = props.outlinerefs.filter((reference) =>{
-        return Number(reference) < Number(159) || (Number(313) < Number(reference) && Number(reference) < Number(446))  
+        return Number(reference) < Number(159) || (Number(313) < Number(reference) && Number(reference) < Number(446)) || (Number(792) < Number(reference) && Number(reference) < Number(851)) || Number(894) < Number(reference) 
     });
 
     let outlinerefs = includedoutlinerefs.map((ref, i) => {
@@ -15,7 +15,7 @@ const EntryShowItemDetail = (props) => {
 
     let details = props.detail.map((detail, j) => {
         const includedsubentryrefs = detail.subentryrefs.filter((reference) => {
-            return Number(reference) < Number(159) || (Number(313) < Number(reference) && Number(reference) < Number(446))  
+            return Number(reference) < Number(159) || (Number(313) < Number(reference) && Number(reference) < Number(446)) || (Number(792) < Number(reference) && Number(reference) < Number(851)) || Number(894) < Number(reference) 
         });
         return(
             <div key={j} className="subentry">
@@ -27,6 +27,13 @@ const EntryShowItemDetail = (props) => {
             </div>
         );
     })
+
+    let interval1 = Array.from(Array(159).keys(), n => n + 1);
+    let interval2 = Array.from(Array(132).keys(), n => n + 314);
+    let interval3 = Array.from(Array(58).keys(), n => n + 793);
+    let interval4 = Array.from(Array(108).keys(), n => n + 895);
+    let availableentries = interval1.concat(interval2).concat(interval3).concat(interval4);
+    console.log(availableentries.indexOf(props.id));
 
     return (
         <div className="ui container grid">
@@ -43,7 +50,13 @@ const EntryShowItemDetail = (props) => {
                     <div>{props.outline}</div>
                     <div>{outlinerefs}</div>
                     <hr></hr>
-                    <div>{details}</div>             
+                    <div>{details}</div>
+                    <div className='navigation link'>
+                        <span>
+                            <Link target="_self" to={`/entries/${availableentries[(availableentries.indexOf(props.id))-1]}`}>{ (props.id == 1 ? '' : 'Previous entry ' + '('  + availableentries[availableentries.indexOf(props.id)-1] + ')' ) }</Link>
+                            <Link target="_self" to={`/entries/${availableentries[(availableentries.indexOf(props.id))+1]}`}>{ (props.id == 1002 ? '' : '\u00A0\u00A0\u00A0\u00A0\u00A0 Next entry ' + '('  + availableentries[availableentries.indexOf(props.id)+1] + ')' ) }</Link>
+                        </span>
+                    </div>             
                 </div>
             </div>
         </div>    

@@ -22,6 +22,11 @@
   font-weight: bold;
 }
 
+.navigation.link{
+  font-weight: bold;
+  padding-top: 1rem;
+}
+
 .outlinerefs{
   font-weight: bold;
 }
