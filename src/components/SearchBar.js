@@ -46,11 +46,21 @@ const SearchBar = ({ onSubmit }) => {
   const inputRef = useRef(null);
   const navigate = useNavigate(); 
 
+  const [error, setError] = useState(false);
+
   const handleSubmit = (event) => {
     event.preventDefault();
+
+    if (term.trim().length < 2) {
+      setError(true);
+      return;
+    }
+  
+    setError(false);
+  
     onSubmit(term, searchedType);
     console.log(searchedType);
-    navigate('/entries'); // instead of history.push
+    navigate('/entries'); 
   };
 
   const handleChange = (event, { newValue }) => {
@@ -78,13 +88,15 @@ const SearchBar = ({ onSubmit }) => {
     value,
     onChange: handleChange,
     ref: inputRef,
+    name: 'searchTerm',
+    id: 'searchTerm',
   };
 
   const renderInputComponent = (inputProps) => (
     <Form.Field>
       <Input transparent fluid action>
         <input {...inputProps} />
-        <Button id="cancelsearchterm" type="button" icon link onClick={handleClearForm}>
+        <Button id="cancelsearchterm" type="button" icon onClick={handleClearForm}>
           <Icon className="cancel icon" />
         </Button>
         <Button icon type="submit" color="yellow">
@@ -106,6 +118,14 @@ const SearchBar = ({ onSubmit }) => {
             }}
           />
         </Form.Field>
+
+        {error && (
+          <Form.Field>
+            <div style={{ color: 'red', fontSize: '0.9em', marginBottom: '0.3em' }}>
+              Please enter at least two characters to search.
+            </div>
+          </Form.Field>
+        )}
 
         <Autosuggest
           suggestions={suggestions}
