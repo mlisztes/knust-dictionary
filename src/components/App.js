@@ -1,6 +1,5 @@
 import React from 'react';
-import {BrowserRouter, Route, Switch } from 'react-router-dom';
-import ScrollMemory from 'react-router-scroll-memory';
+import {BrowserRouter, Route, Routes } from 'react-router-dom';
 import EntryCardList from './entries/EntryCardList';
 import EntryShow from './entries/EntryShow';
 import About from './About';
@@ -27,13 +26,15 @@ class App extends React.Component{
     }
 
     componentDidMount() {
-        const randomentry = this.state.entries[Math.floor(Math.random() * (this.state.entries.length)-1)];
-        this.setState({randomentry: randomentry})
+        const randomentry = this.state.entries[Math.floor(Math.random() * this.state.entries.length)];
+        this.setState({ randomentry: randomentry });
+      
         const defaultbrowse = this.state.entries.filter((entry) => {
-            return entry.category === "Direction Sign"
+          return entry.category === "Direction Sign";
         });  
-        this.setState({filteredEntries: defaultbrowse});
-    }
+        this.setState({ filteredEntries: defaultbrowse });
+      }
+      
 
     filterByCategory = (e) => {
         this.setState({searchedCategory: e})
@@ -64,40 +65,38 @@ class App extends React.Component{
     }
 
     render(){
+        console.log("Render App, path:", window.location.pathname);
         return(
             <div>
                 <div>    
                 <BrowserRouter>
                     <div>
-                        <ScrollMemory />
                         <Header onClick={this.filterByCategory}/>
                         <div id="searchfilter">
                                 <SearchBar onSubmit={this.filterByText} />
                         </div>  
 
-                        <Switch>      
+                        <Routes>      
                         <Route
-                            exact
                             path="/"
-                            render={(props) => (
+                            element={
                                 <div>
                                 <RandomEntry getRandomEntry={this.state.randomentry} />
                                 </div>
-                            )}
+                            }
                         />
                         <Route
-                            exact
                             path="/entries"
-                            render={(props) => (
+                            element={
                                 <div>    
                                 <EntryCardList filteredEntries={this.state.filteredEntries} />
                                 </div>
-                            )}
+                            }
                         />
-                        <Route path="/entries/:id" exact component={(props) => <EntryShow {...props} key={window.location.pathname}/>} />
-                        <Route path="/fourprinciples" exact component={StartHere} />
-                        <Route path="/about" exact component={About} />
-                        </Switch>
+                        <Route path="/entries/:id" element={<EntryShow entries={this.state.entries} key={window.location.pathname} />} />
+                        <Route path="/fourprinciples" element={<StartHere />} />
+                        <Route path="/about" element={<About />} />
+                        </Routes>
                         <ScrollToTop />
                     </div>
                 </BrowserRouter>
