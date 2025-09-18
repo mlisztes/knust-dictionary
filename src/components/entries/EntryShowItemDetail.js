@@ -1,5 +1,6 @@
 import React from 'react';
 import './EntryShowItemDetail.css';
+import { getCloudinaryUrl } from '../../cloudinaryConfig'; 
 import { Link } from 'react-router-dom';
 import { Popup } from 'semantic-ui-react';
 
@@ -10,7 +11,13 @@ const EntryShowItemDetail = (props) => {
     });
 
     let outlinerefs = includedoutlinerefs.map((ref, i) => {
-        return <span key={i} className="outlinerefs"><Link key={i} target="_blank" to={`/entries/${ref}`}><Popup trigger={<span>{ (i ? ', ' : '') + ref }</span>} position="bottom center"><img className="popupimage" src={`/img/${ref}.png`}></img></Popup></Link></span>
+        return <span key={i} className="outlinerefs">
+            <Link key={i} target="_blank" to={`/entries/${ref}`}>
+                <Popup trigger={<span>{ (i ? ', ' : '') + ref }</span>} position="bottom center">
+                    <img className="popupimage" src={getCloudinaryUrl(ref, "popup")} alt={ref}/>
+                </Popup>
+            </Link>
+        </span>
     });
 
     let details = props.detail.map((detail, j) => {
@@ -21,7 +28,13 @@ const EntryShowItemDetail = (props) => {
             <div key={j} className="subentry">
                 <div className="subentrymain"> <span className="subentryid"> {detail.subentryid}</span> {detail.content}</div>
                 <div className="subentryrefs">{includedsubentryrefs.map((ref, k) => {
-                    return <span key={k}><Link key={k} target="_blank" to={`/entries/${ref}`}><Popup trigger={<span>{ (k ? ', ' : '') + ref }</span>} position="bottom center"><img className="popupimage" src={`/img/${ref}.png`}></img></Popup></Link></span>
+                    return <span key={k}>
+                        <Link key={k} target="_blank" to={`/entries/${ref}`}>
+                            <Popup trigger={<span>{ (k ? ', ' : '') + ref }</span>} osition="bottom center">
+                                <img className="popupimage" src={getCloudinaryUrl(ref, "popup")} alt={ref}/>
+                            </Popup>
+                        </Link>
+                    </span>
                 })}
                 </div>
             </div>
@@ -43,7 +56,7 @@ const EntryShowItemDetail = (props) => {
                         <i className="hashtag icon">{props.id}</i>{props.category}
                     </div>
                     <div className="ui image sticky">
-                        <img src={props.image} alt={props.id}/>
+                        <img src={getCloudinaryUrl(props.id, "full")} alt={props.id} />
                     </div>
                 </div>
                 <div className="column">
@@ -53,8 +66,12 @@ const EntryShowItemDetail = (props) => {
                     <div>{details}</div>
                     <div className='navigation link'>
                         <span>
-                            <Link target="_self" to={`/entries/${availableentries[(availableentries.indexOf(props.id))-1]}`}>{ (props.id == 1 ? '' : 'Previous entry ' + '('  + availableentries[availableentries.indexOf(props.id)-1] + ')' ) }</Link>
-                            <Link target="_self" to={`/entries/${availableentries[(availableentries.indexOf(props.id))+1]}`}>{ (props.id == 1002 ? '' : '\u00A0\u00A0\u00A0\u00A0\u00A0 Next entry ' + '('  + availableentries[availableentries.indexOf(props.id)+1] + ')' ) }</Link>
+                            <Link target="_self" to={`/entries/${availableentries[availableentries.indexOf(props.id) - 1]}`}>
+                                {props.id === 1 ? '' : `Previous entry (${availableentries[availableentries.indexOf(props.id) - 1]})`}
+                            </Link>
+                            <Link target="_self" to={`/entries/${availableentries[availableentries.indexOf(props.id) + 1]}`}>
+                                {props.id === 1002 ? '' : `\u00A0\u00A0\u00A0\u00A0\u00A0 Next entry (${availableentries[availableentries.indexOf(props.id) + 1]})`}
+                            </Link>
                         </span>
                     </div>             
                 </div>

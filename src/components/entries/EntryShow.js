@@ -1,6 +1,5 @@
 import React from 'react';
 import { useParams } from 'react-router-dom';
-import data from '../data/entries.json';
 import EntryShowItem from './EntryShowItem';
 
 const EntryShow = ({ entries }) => {
