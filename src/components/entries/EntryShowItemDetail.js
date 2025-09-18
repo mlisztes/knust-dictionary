@@ -3,6 +3,7 @@ import './EntryShowItemDetail.css';
 import { getCloudinaryUrl } from '../../cloudinaryConfig'; 
 import { Link } from 'react-router-dom';
 import { Popup } from 'semantic-ui-react';
+import ReactMarkdown from 'react-markdown';
 
 const EntryShowItemDetail = (props) => {
 
@@ -60,7 +61,7 @@ const EntryShowItemDetail = (props) => {
                     </div>
                 </div>
                 <div className="column">
-                    <div>{props.outline}</div>
+                    <div><ReactMarkdown>{props.outline}</ReactMarkdown></div>
                     <div>{outlinerefs}</div>
                     <hr></hr>
                     <div>{details}</div>
