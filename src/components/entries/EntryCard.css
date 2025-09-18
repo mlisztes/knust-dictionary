@@ -8,14 +8,6 @@
     max-width: fit-content;
 }
 
-.ui.card>.image>img,
-.ui.cards>.card>.image>img {
-    object-fit: scale-down;
-    max-height: 220px;
-    max-width: 100%;
-    width:unset;
-}
-
 .ui.card {
     margin:1em 0;
     min-width: 18rem;
