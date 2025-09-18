@@ -31,7 +31,7 @@ const About = () => {
             <div className="content">
               <div className="header">Copyright</div>
                 <p>Content: <i className="ui copyright outline icon"></i>Anthony Lange <br/>
-                Code and database: <i className="ui copyright outline icon"></i>2020 Mónika Éva Lisztes</p>
+                Code and database: <i className="ui copyright outline icon"></i>2025 Mónika Éva Lisztes</p>
                 <p>The content is published with the permission of the copyright owner. In line with the expressed permission, all
                     content on this website can solely be used for non-profit purposes, especially for education and research.</p>
             </div>
