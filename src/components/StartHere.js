@@ -26,11 +26,11 @@ const StartHere = () => {
                             by the direction signs. These signs are self explanatory, as they are stylised
                             direction arrows.</p>
                         <img src="/img/principle1_1-3.png" alt="first principle"></img>
-                        <p>For example, a triangle pointing to the right (Figure 1) means the direction
-                            towards the right, and a sign with a sloping line towards right-forward (Figure 2)
+                        <p>For example, a triangle pointing to the right (Figure <b>1</b>) means the direction
+                            towards the right, and a sign with a sloping line towards right-forward (Figure <b>2</b>)
                             means the right-forward diagonal direction. Also in turns the shape of the sign
                             shows what should happen, i.e. first, the fact that one should turn and, second,
-                            the direction in which one should turn. Figure 3 shows the sign for a turn to the
+                            the direction in which one should turn. Figure <b>3</b> shows the sign for a turn to the
                             right.</p>   
                         <p>The shading of the direction sign is part of the form of the sign. This
                             expresses the level and, thereby, the third dimension.</p>   
@@ -38,31 +38,31 @@ const StartHere = () => {
                         <p>The shading of the direction sign is part of the form of the sign. This
                             expresses the level and, thereby, the third dimension.</p>
                         <ul>
-                            <li>Figure 4a: high direction signs are hatched.</li>
-                            <li>Figure 4b: medium level is indicated by a dot in an otherwise empty
+                            <li>Figure <b>4a</b>: high direction signs are hatched.</li>
+                            <li>Figure <b>4b</b>: medium level is indicated by a dot in an otherwise empty
                                 direction sign.</li>
-                            <li>Figure 4c: low direction signs are filled in in black.</li>    
+                            <li>Figure <b>4c</b>: low direction signs are filled in in black.</li>    
                         </ul>
                         <img src="/img/principle1_5.png" alt="first principle"></img>
                         <p>The action stroke, a vertical line, is also a movement sign. It represents an
-                            unspecified movement (Figure 5a). The dotted action stroke is the way of writing
-                             passive or resulting movements (Figure 5b).</p>
+                            unspecified movement (Figure <b>5a</b>). The dotted action stroke is the way of writing
+                             passive or resulting movements (Figure <b>5b</b>).</p>
                         <h4>Second Principle</h4>
                         <img src="/img/principle1_6.png" alt="second principle"></img>
                         <p>Kinetography is written and read from below upwards. All movements found
                             one above the other in the reading direction occur one after the other, as with
-                            single tones in a melody (Figure 6a). All movements written one beside another 
+                            single tones in a melody (Figure <b>6a</b>). All movements written one beside another 
                             occur at the same moment, as with single tones in a
-                            chord (Figure 6b).</p>
+                            chord (Figure <b>6b</b>).</p>
                         <h4>Third Principle</h4>  
                         <img src="/img/7.png" alt="third principle"></img>
                         <p>The length of the symbol indicates how long the movement lasts. 
                             For example, if a centimetre is chosen for the length of a crochet (quarter note), 
                             a semi-breve (whole note) will be 4 cm long, a minim (half note) 2 cm, a crochet 1
-                            cm, a quaver (eighth note) 0.5 cm, and so on (Figure 7).</p>
+                            cm, a quaver (eighth note) 0.5 cm, and so on (Figure <b>7</b>).</p>
                         <img src="/img/8.png" alt="third principle"></img> 
                         <p> One can actually see the rhythm in the kinetogram and understand it even if one does not understand
-                            music notes (Figure 8).</p>   
+                            music notes (Figure <b>8</b>).</p>   
                         <h4>Fourth Principle</h4>
                         <img src="/img/9.png" alt="fourth principle"></img> 
                         <p>From the arrangement of the symbols on the different staves of a score, one can
@@ -74,7 +74,7 @@ const StartHere = () => {
                             degrees, standing it on end. From this staff only the first, third, and fifth lines
                             are written. The second and fourth lines, together with an indefinite number of
                             subsidiary lines to the right and left of the staff, are imaginary. These imaginary
-                            lines are shown as dotted lines in Figure 9. The spaces between two drawn or
+                            lines are shown as dotted lines in Figure <b>9</b>. The spaces between two drawn or
                             imaginary lines are called columns.</p>  
                         <p>The middle line of the staff is regarded as the middle line of the body. The
                             movements of the right body half are written to the right of the middle line, and
@@ -91,10 +91,10 @@ const StartHere = () => {
                         <p>Note: If additional symbols such as pin signs, signs for touching the floor, or 
                             dynamic signs must be inserted between the first and second columns, i.e. between
                             the support column and the leg gesture column, an unnumbered "inner subsidiary column" 
-                            can be inserted.</p>
+                            can be inserted (Figure <b>9′</b>).</p>
                         <p>Likewise, an unnumbered "outer subsidiary column" can be inserted between
                             the third and fourth columns, i.e. between the upper body column and the arm
-                            gesture column.</p>
+                            gesture column (Figure <b>9″</b>).</p>
                         <p>From these four principles in Kinetography, one can now answer the four
                             main questions clearly and simply by means of a movement symbol and the
                             staff.</p>
@@ -107,7 +107,7 @@ const StartHere = () => {
                                 or in the columns of the staves.</li>
                         </ol>
                         <img src="/img/10.png" alt="fourth principle" style={{maxHeight:'220px'}}></img>
-                        <p>In Example 10, four fairly quick steps forward are made while the right arm 
+                        <p>In Example <b>10</b>, four fairly quick steps forward are made while the right arm 
                             is lifted slowly to the right, and the left arm is lifted at medium speed forwards 
                             and then high.</p>
                 </div>

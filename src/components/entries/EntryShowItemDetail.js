@@ -27,11 +27,11 @@ const EntryShowItemDetail = (props) => {
         });
         return(
             <div key={j} className="subentry">
-                <div className="subentrymain"> <span className="subentryid"> {detail.subentryid}</span> {detail.content}</div>
+                <div className="subentrymain"> <span className="subentryid"> {detail.subentryid}</span>{" "}<ReactMarkdown>{detail.content}</ReactMarkdown></div>
                 <div className="subentryrefs">{includedsubentryrefs.map((ref, k) => {
                     return <span key={k}>
                         <Link key={k} target="_blank" to={`/entries/${ref}`}>
-                            <Popup trigger={<span>{ (k ? ', ' : '') + ref }</span>} osition="bottom center">
+                            <Popup trigger={<span>{ (k ? ', ' : '') + ref }</span>} position="bottom center">
                                 <img className="popupimage" src={getCloudinaryUrl(ref, "popup")} alt={ref}/>
                             </Popup>
                         </Link>
