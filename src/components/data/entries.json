@@ -8660,7 +8660,7 @@
       "detail": [
         {
           "subentryid": "417a",
-          "content": "Inclusion of upper body. The empty inclusion bow placed in the third column is the general indication for the participation of the upper body in an arm gesture. The degree and the particular kind of the participation is left to the performer, who may use a participation in the sense of an upper body inclination (*see* 412a–q) or in the sense of pulling out a shoulder area (*see* 416a–h), or may perform both at the same time, as in *Examples* 416g,h. (*Compare with* 223a,b, and *see* 546b.)",
+          "content": "**Inclusion of upper body.** The empty inclusion bow placed in the third column is the general indication for the participation of the upper body in an arm gesture. The degree and the particular kind of the participation is left to the performer, who may use a participation in the sense of an upper body inclination (*see* 412a–q) or in the sense of pulling out a shoulder area (*see* 416a–h), or may perform both at the same time, as in *Examples* 416g,h. (*Compare with* 223a,b, and *see* 546b.)",
           "subentryrefs": [412, 416, 223, 546]
         },
         {
@@ -8706,7 +8706,7 @@
       "entrytype": "symbol",
       "image": "/img/418.png",
       "keywords": ["black disk in a square or in a rectangle or on their outlines (square with black disk)", "letter C (head sign) in a rectangle", "letter C (head sign) in a square", "chest", "circles (as parts of symbols) in and at square or rectangle", "lungs", "narrow sign in a chest sign (narrow sign in a circle placed in a square)", "narrow sign in or at a rectangle", "narrow sign in or at a square", "pelvis", "pelvis plus waist", "shoulder section", "square with a body sign (body sign in a square)", "combined sections of the trunk (torso)", "signs for the trunk and its sections (signs for the torso and its sections)", "waist", "chest plus waist"],
-      "outline": "Signs for the trunk and its sections.",
+      "outline": "**Signs for the trunk and its sections.**",
       "outlinerefs": [],
       "detail": [
         {
@@ -8731,7 +8731,7 @@
         },
         {
           "subentryid": "Note",
-          "content": "It should be noticed that the black disc is placed in a square in the sign for the pelvis (418c, 315m), while in the sign for the palm of the hand or sole of the foot (F 375b, 408b)it is placed in a rectangle open at the base, and in the sign for the retention at a spot it appears in a diamond (D 217d,g,h, L III 778d,g,h).",
+          "content": "It should be noticed that the black disc is placed in a square in the sign for the pelvis (418c, 315m), while in the sign for the palm of the hand or sole of the foot (F 375b, 408b)it is placed in a rectangle open at the base, and in the sign for the retention at a spot it appears in a diamond (217d,g,h, 778d,g,h).",
           "subentryrefs": [315, 375, 408, 217, 778]
         },
         {
@@ -8981,7 +8981,7 @@
       "detail": [
         {
           "subentryid": "423a",
-          "content": "Shifting the trunk and its sections, in which the shifting section remains upright, is expressed bythe direction sign “high” with an added pin sign. This way of writing shows clearly that this is a change of the situation, and not a change of the direction of the body section. The pin sign shows the new situation of the section in relation to its own normal situation. (*Compare with* shifting the head, *Example* 330.) (*See* 148.)",
+          "content": "**Shifting the trunk and its sections**, in which the shifting section remains upright, is expressed bythe direction sign “high” with an added pin sign. This way of writing shows clearly that this is a change of the situation, and not a change of the direction of the body section. The pin sign shows the new situation of the section in relation to its own normal situation. (*Compare with* shifting the head, *Example* 330.) (*See* 148.)",
           "subentryrefs": [330, 148]
         },
         {
@@ -9017,7 +9017,7 @@
       "entrytype": "symbol",
       "image": "/img/424.png",
       "keywords": ["cancellation of directions for the trunk (torso)", "pin sign above body signs (position sign above body signs)", "pin sign in the increase sign (position sign in the increase sign)", "pin sign for minute movements (position sign for minute movements, small movements)", "minute inclinations of the trunk (torso)"],
-      "outline": "Minute inclinations of a body section, in which its direction is not noticeably changed, are expressed by isolated pin signs (i.e. without a direction sign). These can be placed in an increase sign in order to express the duration of the movement. A decrease sign which is written above this indication means the return to the original situation. *Example* 424 means a minute forward tilt of the trunk. (*Compare with* nodding the head, 331; also 151a—c, 526b.)",
+      "outline": "**Minute inclinations** of a body section, in which its direction is not noticeably changed, are expressed by isolated pin signs (i.e. without a direction sign). These can be placed in an increase sign in order to express the duration of the movement. A decrease sign which is written above this indication means the return to the original situation. *Example* 424 means a minute forward tilt of the trunk. (*Compare with* nodding the head, 331; also 151a—c, 526b.)",
       "outlinerefs": [331, 151, 536],
       "detail": [
         {
@@ -9033,7 +9033,7 @@
       "entrytype": "example",
       "image": "/img/425.png",
       "keywords": ["body signs (parts of the body) in inclusion bow", "vertical bows with straight midddle part (inclusion bow)", "cabriole", "inclusion of the chest (participation of the chest)", "inclusion of the trunk (participation of the trunk, participation of the torso)", "retentions for the trunk and its sections (retentions for the torso and its sections)"],
-      "outline": "Including the trunk or the chest in a movement. The marked inclusion of the trunk in the direction of a step, or in opposition to the free leg, which means the same thing, is expressed by the trunk sign placed in the inclusion bow (*see* 319c,d, 564a). (*Compare with* the inclusion of the head, 327c, and “upper body”, 417.)",
+      "outline": "**Including the trunk** or the chest in a movement. The marked inclusion of the trunk in the direction of a step, or in opposition to the free leg, which means the same thing, is expressed by the trunk sign placed in the inclusion bow (*see* 319c,d, 564a). (*Compare with* the inclusion of the head, 327c, and “upper body”, 417.)",
       "outlinerefs": [319, 564, 327, 417],
       "detail": [
         {
@@ -9069,7 +9069,7 @@
       "entrytype": "symbol",
       "image": "/img/426.png",
       "keywords": ["body signs (parts of the body) in a vertical bow", "letter C (head sign) in vertical bow", "leading with the head", "leading with body sections", "leading with the pelvis", "successive inclination of the trunk (torso)"],
-      "outline": "Guidances in a tilt of the trunk.",
+      "outline": "**Guidances in a tilt of the trunk.**",
       "outlinerefs": [],
       "detail": [
         {
@@ -9100,7 +9100,7 @@
       "entrytype": "symbol",
       "image": "/img/427.png",
       "keywords": ["reversed signs for body sections", "letter C (head sign) in a rectangle", "chest plus waist", "circles (as parts of symbols) in and at square or rectangle", "narrow sign in or at a rectangle", "narrow sign in or at a square", "pin sign in body signs (position sign in body signs)", "reversed body signs", "square with a body sign (body sign in a square)", "reversed signs for the trunk and its sections (reversed signs for the torso and its sections)", "signs for the trunk and its sections (signs for the torso and its sections)", "pelvis plus waist"],
-      "outline": "Reversed symbols for sections ofthe trunk.(*See* reversed body signs, 316i′j′, 441.)",
+      "outline": "**Reversed symbols for sections ofthe trunk.**(*See* reversed body signs, 316i′j′, 441.)",
       "outlinerefs": [316, 441],
       "detail": [
         {
@@ -9140,7 +9140,7 @@
         },
         {
           "subentryid": "427h",
-          "content": "The lower rim of the pelvis is free, and its upper rim is fixed. *Compare with* the use of pin signs for the identification of upper, middle, and lower zones of a body part, 364i–k″, 395d,e, 442p–r, 443r—t, 445e–h, C 159b.",
+          "content": "The lower rim of the pelvis is free, and its upper rim is fixed. *Compare with* the use of pin signs for the identification of upper, middle, and lower zones of a body part, 364i–k″, 395d,e, 442p–r, 443r—t, 445e–h, 159b.",
           "subentryrefs": [364, 395, 442, 443, 445, 159]
         },
         {
@@ -9187,7 +9187,7 @@
       "entrytype": "example",
       "image": "/img/429.png",
       "keywords": ["circle in gesture column", "retention at a spot of relationship (diamond around black disk)", "retention in space (space hold, empty diamond)", "retention in the body (body hold)", "retention signs above relation signs (hold signs above relation signs)", "trunk inclination (trunk bends with a straight spine, trunk tilts, torso inclination)", "retentions for the trunk and its sections (retentions for the torso and its sections)"],
-      "outline": "Retentions in trunk movements. (*See* 217, 778.)",
+      "outline": "**Retentions in trunk movements.** (*See* 217, 778.)",
       "outlinerefs": [217, 778],
       "detail": [
         {
@@ -9213,7 +9213,7 @@
       "entrytype": "example",
       "image": "/img/430.png",
       "keywords": ["retentions for the chest", "circle in gesture column", "retention at a spot (spot hold, diamond around black disk)", "retention in space (space hold, empty diamond)", "retention in the body (body hold)", "retention for the shoulder section", "trunk inclination (trunk bends with a straight spine, trunk tilts, torso inclination)", "retentions for the trunk and its sections (retentions for the torso and its sections)"],
-      "outline": "Retentions for the trunk and its parts. (*See* 217, 778.)",
+      "outline": "**Retentions for the trunk and its parts.** (*See* 217, 778.)",
       "outlinerefs": [217, 778],
       "detail": [
         {
@@ -9239,7 +9239,7 @@
       "entrytype": "example",
       "image": "/img/431.png",
       "keywords": ["axes of the body", "constant axes, axes of a room", "constant cross of axes (fixed axes)", "trunk inclination (trunk bends with a straight spine, trunk tilts, torso inclination)", "use of clefs with the trunk (torso)"],
-      "outline": "Use of clefs for notating the movements of the trunk and chest. (*See* 101b—d, 124, 889.)",
+      "outline": "**Use of clefs for notating the movements of the trunk and chest.** (*See* 101b—d, 124, 889.)",
       "outlinerefs": [101, 124, 889],
       "detail": [
         {
@@ -9260,7 +9260,7 @@
       "entrytype": "example",
       "image": "/img/432.png",
       "keywords": ["body signs (parts of the body) in a vertical bow", "vertical bows with decrease sign", "vertical bows with increase sign", "caret (small angular bracket)", "letter C (head sign) in vertical bow", "relating to the front of the performer (standard cross of axes)", "relating to the front of the untwisted end of the body (stance)", "turns to a common front (turns in relation to constant axes, turns relating to areas of the room)", "degree of turn or twist (amount of turn or twist)", "retention in space (space hold, empty diamond)", "direction signs with a retention sign inside (direction signs with a hold sign inside)", "group turns", "leading with the head", "leading with body sections", "neither outward nor inward rotation, neither to the right nor to the left", "leading with the pelvis", "black pin sign in turn signs (black position sign in turn signs)", "flat pin sign in turn signs (flat position sign in turn signs)", "white pin sign in turn signs (white position sign in turn signs, sign for twist)", "same body part performing", "inward succession", "outward succession", "trunk circling (torso circling)", "use of clefs with the trunk (torso)", "rotation of the trunk and its sections (rotation of the torso and its sections)", "spiral inclination of the trunk (torso)", "successive twist of the trunk (torso)", "undeviating tilt of the trunk (torso)", "trunk wheeling (torso wheeling)", "turns relating to the standard cross of axes (turns around a vertical axis)", "cancellation of twist (turn, rotation)", "undeviating curve"],
-      "outline": "Trunk rotations. The result of a rotation of the trunk is a twisted position of the body as a whole, in which all body sections from the knee of the supporting leg to the shoulder line participate according to their individual degree of mobility. The front of the foot of the supporting leg (the starting front) is known, and, provided that one particular degree of rotation is indicated, the front of the shoulder section is known also. The fronts of the intermediate body sections can only be estimated. *Old way of writing: App. I 915c.",
+      "outline": "**Trunk rotations.** The result of a rotation of the trunk is a twisted position of the body as a whole, in which all body sections from the knee of the supporting leg to the shoulder line participate according to their individual degree of mobility. The front of the foot of the supporting leg (the starting front) is known, and, provided that one particular degree of rotation is indicated, the front of the shoulder section is known also. The fronts of the intermediate body sections can only be estimated. *Old way of writing: App. I 915c.",
       "outlinerefs": [915],
       "detail": [
         {
@@ -9391,7 +9391,7 @@
       "entrytype": "example",
       "image": "/img/433.png",
       "keywords": ["body signs (parts of the body) in inclusion bow", "vertical bows with straight midddle part (inclusion bow)", "circle in gesture column", "relating to the front of individual body sections (front-of-twisted-part key)", "rotations of the head", "letter C (head sign) in a rectangle", "inclusion of the trunk (participation of the trunk, participation of the torso)", "retention in the body (body hold)", "rotation of the trunk and its sections (rotation of the torso and its sections)"],
-      "outline": "Inclusion of the head in trunk rotations. If the head is included in a rotation of the trunk, rotation occurs also in the neck vertebrae, and the head turns further than the shoulder section. In this case the head is the free end of the body, which has the highest degree of turn. The pin sign within the turn sign indicates which front the face should acquire in relation to the front of the untwisted lower end of the body. In this case the exact fronts of the shoulder section and the other body sections which are between the fixed and the free end of the body are unknown. In this kind of rotation of the trunk, the directions of the trunk, the chest, the shoulder section, the arms, the head, and all parts thereof are related to the front of the head. It should be noticed that a higher degree of rotation can be reached by including the head.",
+      "outline": "**Inclusion of the head in trunk rotations.** If the head is included in a rotation of the trunk, rotation occurs also in the neck vertebrae, and the head turns further than the shoulder section. In this case the head is the free end of the body, which has the highest degree of turn. The pin sign within the turn sign indicates which front the face should acquire in relation to the front of the untwisted lower end of the body. In this case the exact fronts of the shoulder section and the other body sections which are between the fixed and the free end of the body are unknown. In this kind of rotation of the trunk, the directions of the trunk, the chest, the shoulder section, the arms, the head, and all parts thereof are related to the front of the head. It should be noticed that a higher degree of rotation can be reached by including the head.",
       "outlinerefs": [],
       "detail": [
         {
@@ -9422,7 +9422,7 @@
       "entrytype": "example",
       "image": "/img/434.png",
       "keywords": ["movable parts of the chest", "rigid carriage (circle above body sign)", "circle in a turn sign", "retention in space (space hold, empty diamond)", "equal sign in a turn sign", "turns without friction (blind turns)", "retention signs above body signs (hold signs above body signs)", "whole spine", "rotation of the trunk and its sections (rotation of the torso and its sections)", "twist of a body part within itself", "retention in the body (body hold)"],
-      "outline": "Rotation of the rigid, untwisted trunk maybe analysed and written in several ways.",
+      "outline": "**Rotation of the rigid, untwisted trunk** maybe analysed and written in several ways.",
       "outlinerefs": [],
       "detail": [
         {
@@ -9473,7 +9473,7 @@
       "detail": [
         {
           "subentryid": "435a",
-          "content": "Rotation of the chest. In this rotation the pelvis is the unrotated lower end, and the shoulder section the free upper end. The new front of the shoulder section is indicated by the pin sign placed in the turn sign. All rotation occurs in the spine. Because the pelvis does not participate, only a smaller degree of turn can be reached than that in the rotation of the whole trunk. More than the 1/16 turn (*see* 259) shown in this example can rarely be expected. *Old way of writing: App. I 915c.",
+          "content": "**Rotation of the chest.** In this rotation the pelvis is the unrotated lower end, and the shoulder section the free upper end. The new front of the shoulder section is indicated by the pin sign placed in the turn sign. All rotation occurs in the spine. Because the pelvis does not participate, only a smaller degree of turn can be reached than that in the rotation of the whole trunk. More than the 1/16 turn (*see* 259) shown in this example can rarely be expected. *Old way of writing: App. I 915c.",
           "subentryrefs": [259, 915]
         },
         {
@@ -9524,7 +9524,7 @@
       "entrytype": "example",
       "image": "/img/436.png",
       "keywords": ["caret (small angular bracket)", "rotation of the chest (turning the chest)", "chest wheeling", "relating to the front of the performer (standard cross of axes)", "relating to the front of the untwisted end of the body (stance)", "neither outward nor inward rotation, neither to the right nor to the left", "same body part performing", "turns relating to the standard cross of axes (turns around a vertical axis)"],
-      "outline": "Chest wheeling. The considerations and problems of the notation of this movement are the same as in trunk wheeling, which is discussed under 432k—n.",
+      "outline": "**Chest wheeling.** The considerations and problems of the notation of this movement are the same as in trunk wheeling, which is discussed under 432k—n.",
       "outlinerefs": [432],
       "detail": [
         {
@@ -9555,7 +9555,7 @@
       "entrytype": "example",
       "image": "/img/437.png",
       "keywords": ["body signs (parts of the body) in inclusion bow", "vertical bows with straight midddle part (inclusion bow)", "letter C (head sign) in a rectangle", "letter C (head sign) in a square with stroke (planes and edges of the head)", "inclusion of the chest (participation of the chest)", "retention in space (space hold, empty diamond)", "épaulement", "rotations of the head", "narrow sign in a turn sign", "rotation of the shoulder section"],
-      "outline": "In a rotation of the shoulder section the movement occurs in the upper region of the spine. The head is carried along, so that it keeps the same front as the shoulder section.",
+      "outline": "**In a rotation of the shoulder section** the movement occurs in the upper region of the spine. The head is carried along, so that it keeps the same front as the shoulder section.",
       "outlinerefs": [],
       "detail": [
         {
@@ -9591,7 +9591,7 @@
       "entrytype": "symbol",
       "image": "/img/438.png",
       "keywords": ["cartwheeling body parts: pelvis", "rotation of the pelvis", "somersault of the pelvis", "turns around the chief axis of a body part"],
-      "outline": "Rotations of the pelvis.",
+      "outline": "**Rotations of the pelvis.**",
       "outlinerefs": [],
       "detail": [
         {
@@ -9683,7 +9683,7 @@
       "detail": [
         {
           "subentryid": "440a–m",
-          "content": "Symbols for augmented body sections.",
+          "content": "**Symbols for augmented body sections.**",
           "subentryrefs": []
         },
         {
@@ -9794,7 +9794,7 @@
       "entrytype": "example",
       "image": "/img/441.png",
       "keywords": ["reversed sign for augmented body sections", "between directions", "reversed signs for body sections", "body signs (parts of the body) in support columns", "direction signs with pin signs inside", "elbow stand", "inverted positions", "pin sign in direction signs (position sign in direction signs)", "reversed body signs", "square with a body sign (body sign in a square)", "supine situation"],
-      "outline": "Reversed signs for augmented body sections. In the symbol for augmented body sections, the lower symbol identifies the fixed end and the upper symbol identifies the free end. Normally the fixed end is a lower body section and the free end is an upper section. What distinguishes the reversed sign for augmented body sections is that the fixed end is an upper body section and the free end is a lower section. (*See* reversed signs for body sections, 44a,b, 316i′,j′, 427.)",
+      "outline": "**Reversed signs for augmented body sections.** In the symbol for augmented body sections, the lower symbol identifies the fixed end and the upper symbol identifies the free end. Normally the fixed end is a lower body section and the free end is an upper section. What distinguishes the reversed sign for augmented body sections is that the fixed end is an upper body section and the free end is a lower section. (*See* reversed signs for body sections, 44a,b, 316i′,j′, 427.)",
       "outlinerefs": [44, 316, 427],
       "detail": [
         {
@@ -10021,7 +10021,7 @@
       "entrytype": "symbol",
       "image": "/img/443.png",
       "keywords": ["abdominal wall", "movable parts of the back", "black disk in a square or in a rectangle or on their outlines (square with black disk)", "breast-bone (sternum)", "buttock", "movable parts of the chest", "circles (as parts of symbols) in and at square or rectangle", "dorsal spine", "lumbar spine", "narrow sign in or at a rectangle", "narrow sign in or at a square", "movable parts of the trunk (movable parts of the torso)", "pin sign in body signs (position sign in body signs)", "shoulder area", "whole spine", "square with a body sign (body sign in a square)", "signs for the trunk and its sections (signs for the torso and its sections)"],
-      "outline": "Signs for the movable parts of the trunk.",
+      "outline": "**Signs for the movable parts of the trunk.**",
       "outlinerefs": [],
       "detail": [
         {
@@ -10253,7 +10253,7 @@
       "entrytype": "symbol",
       "image": "/img/445.png",
       "keywords": ["breathing", "circles (as parts of symbols) in and at square or rectangle", "lungs", "narrow sign in a chest sign (narrow sign in a circle placed in a square)", "narrow sign in or at a square", "movable parts of the trunk (movable parts of the torso)", "pin sign in body signs (position sign in body signs)", "signs for the trunk and its sections (signs for the torso and its sections)"],
-      "outline": "Breathing is analysed and written as movement of the lungs.",
+      "outline": "**Breathing** is analysed and written as movement of the lungs.",
       "outlinerefs": [],
       "detail": [
         {
@@ -10335,7 +10335,7 @@
       "entrytype": "example",
       "image": "/img/794.png",
       "keywords": [],
-      "outline": "Equal signs in indications for people and groups.",
+      "outline": "**Equal signs in indications for people and groups.**",
       "outlinerefs": [],
       "detail": [
         {
@@ -10361,7 +10361,7 @@
       "entrytype": "symbol",
       "image": "/img/795.png",
       "keywords": [],
-      "outline": "The equal sign as part of various explanations.",
+      "outline": "**The equal sign as part of various explanations.**",
       "outlinerefs": [],
       "detail": [
         {
@@ -10407,7 +10407,7 @@
       "entrytype": "example",
       "image": "/img/796.png",
       "keywords": [],
-      "outline": "The equal sign as a repeat sign (*compare with* the other analogy signs as repeat signs, 817, 828, 832, 838). ** The repeat signs of Labanotation: 997. ** The en-croix repetition: 998.",
+      "outline": "**The equal sign as a repeat sign** (*compare with* the other analogy signs as repeat signs, 817, 828, 832, 838). ** The repeat signs of Labanotation: 997. ** The en-croix repetition: 998.",
       "outlinerefs": [817, 828, 832, 838],
       "detail": [
         {
@@ -10562,7 +10562,7 @@
       "entrytype": "symbol",
       "image": "/img/801.png",
       "keywords": [],
-      "outline": "Doubled lines surrounding symbols are derived from the equal sign. The following examples mean:",
+      "outline": "**Doubled lines surrounding symbols** are derived from the equal sign. The following examples mean:",
       "outlinerefs": [],
       "detail": [
         {
@@ -10619,7 +10619,7 @@
       "entrytype": "symbol",
       "image": "/img/803.png",
       "keywords": [],
-      "outline": "The equal sign as part of a turn or circular path sign.",
+      "outline": "**The equal sign as part of a turn or circular path sign.**",
       "outlinerefs": [],
       "detail": [
         {
@@ -10655,7 +10655,7 @@
       "entrytype": "example",
       "image": "/img/804.png",
       "keywords": [],
-      "outline": "Equal signs near and within path signs.",
+      "outline": "**Equal signs near and within path signs.**",
       "outlinerefs": [],
       "detail": [
         {
@@ -10701,7 +10701,7 @@
       "entrytype": "example",
       "image": "/img/805.png",
       "keywords": [],
-      "outline": "The equal sign in the explanation of “formulas”. Formulas are simplified ways of writing, which must be explained to the reader through an equalisation. These explanations mean that the indication written before the equal sign represents the simplified way of writing (the formula) and that this indication should be performed according to the indication which follows the equal sign. (*See* 886.) In this example the knees should be slightly bent in all high supports. (*See* 666a,c.)",
+      "outline": "**The equal sign in the explanation of “formulas”.** Formulas are simplified ways of writing, which must be explained to the reader through an equalisation. These explanations mean that the indication written before the equal sign represents the simplified way of writing (the formula) and that this indication should be performed according to the indication which follows the equal sign. (*See* 886.) In this example the knees should be slightly bent in all high supports. (*See* 666a,c.)",
       "outlinerefs": [886, 666],
       "detail": [
         {
@@ -10733,7 +10733,7 @@
       "entrytype": "symbol",
       "image": "/img/807.png",
       "keywords": [],
-      "outline": "Doubling the similar sign.",
+      "outline": "**Doubling the similar sign.**",
       "outlinerefs": [],
       "detail": [
         {
@@ -10754,7 +10754,7 @@
       "entrytype": "example",
       "image": "/img/808.png",
       "keywords": [],
-      "outline": "Doubling a relation sign indicates a sliding or a gliding relationship.",
+      "outline": "**Doubling a relation sign indicates a sliding or a gliding relationship.**",
       "outlinerefs": [],
       "detail": [
         {
@@ -10842,7 +10842,7 @@
       "entrytype": "symbol",
       "image": "/img/811.png",
       "keywords": [],
-      "outline": "The symmetry sign is used to indicate that right and left are exchanged in directions, directions of turn, and for body parts. Therefore, the symmetry sign indicates both body symmetry (*see* 813a) and space symmetry (*see* 813b). * Old way of writing: 954a. ** Other way of writing: 997c,d.",
+      "outline": "**The symmetry sign** is used to indicate that right and left are exchanged in directions, directions of turn, and for body parts. Therefore, the symmetry sign indicates both body symmetry (*see* 813a) and space symmetry (*see* 813b). * Old way of writing: 954a. ** Other way of writing: 997c,d.",
       "outlinerefs": [954, 997, 813],
       "detail": [
         {
@@ -10968,7 +10968,7 @@
       "entrytype": "example",
       "image": "/img/817.png",
       "keywords": [],
-      "outline": "The symmetry sign as a repeat sign.",
+      "outline": "**The symmetry sign as a repeat sign.**",
       "outlinerefs": [],
       "detail": [
         {
@@ -11072,7 +11072,7 @@
       "entrytype": "example",
       "image": "/img/821.png",
       "keywords": [],
-      "outline": "Symmetrical circular paths on which identical movement sequences are performed can be written:",
+      "outline": "**Symmetrical circular paths** on which identical movement sequences are performed can be written:",
       "outlinerefs": [],
       "detail": [
         {
@@ -11093,7 +11093,7 @@
       "entrytype": "example",
       "image": "/img/822.png",
       "keywords": [],
-      "outline": "The sign for body symmetry placed in the sign for a straight path means beginning the same step pattern with the other foot.",
+      "outline": "The **sign for body symmetry placed in the sign for a straight path** means beginning the same step pattern with the other foot.",
       "outlinerefs": [],
       "detail": [
         {
@@ -11129,7 +11129,7 @@
       "entrytype": "example",
       "image": "/img/823.png",
       "keywords": [],
-      "outline": "The sign for space symmetry written in the sign for a straight path means that the symmetrical step pattern should be performed starting with the same foot. In this case the gestures of the free leg are understood to be part of the step motif, and therefore, they are also performed symmetrically.",
+      "outline": "The **sign for space symmetry written in the sign for a straight path** means that the symmetrical step pattern should be performed starting with the same foot. In this case the gestures of the free leg are understood to be part of the step motif, and therefore, they are also performed symmetrically.",
       "outlinerefs": [],
       "detail": [
         {
@@ -11155,7 +11155,7 @@
       "entrytype": "example",
       "image": "/img/824.png",
       "keywords": [],
-      "outline": "The sign for full symmetry (i.e. space and body symmetry) written in the sign for a straight path means that the step pattern including the leg gestures (*see* 823) should be performed symmetrically, while the other body parts perform the movements indicated in the kinetogram.",
+      "outline": "The **sign for full symmetry (i.e. space and body symmetry) written in the sign for a straight path** means that the step pattern including the leg gestures (*see* 823) should be performed symmetrically, while the other body parts perform the movements indicated in the kinetogram.",
       "outlinerefs": [823],
       "detail": [
         {
@@ -11181,7 +11181,7 @@
       "entrytype": "symbol",
       "image": "/img/825.png",
       "keywords": [],
-      "outline": "The symbol for forward-backward symmetry is a symmetry sign designed vertically. It is used to express exchanging forward or diagonally-forward directions for the respective backward or diagonally-backward directions, and vice versa. In this symmetry the direction of the turn is also reversed, however, there is no exchange of the performing body part. This symmetry sign is rarely used, because such cases do not occur as often as lateral symmetry (*see* 811) or “opposition” (*see* 829). * Old way of writing: 954b.",
+      "outline": "The **symbol for forward-backward symmetry is a symmetry** sign designed vertically. It is used to express exchanging forward or diagonally-forward directions for the respective backward or diagonally-backward directions, and vice versa. In this symmetry the direction of the turn is also reversed, however, there is no exchange of the performing body part. This symmetry sign is rarely used, because such cases do not occur as often as lateral symmetry (*see* 811) or “opposition” (*see* 829). * Old way of writing: 954b.",
       "outlinerefs": [811, 829, 954],
       "detail": [
         {
@@ -11239,7 +11239,7 @@
       "entrytype": "example",
       "image": "/img/828.png",
       "keywords": [],
-      "outline": "Forward-backward symmetry signs as repeat signs.",
+      "outline": "**Forward-backward symmetry signs as repeat signs.**",
       "outlinerefs": [],
       "detail": [
         {
@@ -11270,7 +11270,7 @@
       "entrytype": "symbol",
       "image": "/img/829.png",
       "keywords": [],
-      "outline": "The combination of lateral and forward-backward symmetry is called opposition. The opposition sign, like the other analogy signs, is derived from the equal sign, and it should be regarded as a combination of the lateral and forward-backward symmetry signs. * Old ways of writing: 954c,c′.",
+      "outline": "The combination of lateral and forward-backward symmetry is called opposition. **The opposition sign,** like the other analogy signs, is derived from the equal sign, and it should be regarded as a combination of the lateral and forward-backward symmetry signs. * Old ways of writing: 954c,c′.",
       "outlinerefs": [],
       "detail": [
         {
@@ -11328,7 +11328,7 @@
       "entrytype": "example",
       "image": "/img/832.png",
       "keywords": [],
-      "outline": "The opposition sign used as a repetition sign. Like other repetition signs, it is placed above the starting line extended to the left, and below the finishing line extended to the right. (*Compare with* 796a, 817a, 828a.) * Old way of writing: 954f.",
+      "outline": "**The opposition sign used as a repetition sign.** Like other repetition signs, it is placed above the starting line extended to the left, and below the finishing line extended to the right. (*Compare with* 796a, 817a, 828a.) * Old way of writing: 954f.",
       "outlinerefs": [796, 817, 828, 954],
       "detail": [
         {
@@ -11375,7 +11375,7 @@
       "entrytype": "example",
       "image": "/img/834.png",
       "keywords": [],
-      "outline": "The similar sign (ad libitum) is used if a performer is given the liberty to vary the basic form which is written in the kinetogram. It is also written to express that the notation in question only gives an approximate indication. According to the situation, the sign can be read as “something like that”, “more or less”, or “ad libitum”. The sign is taken from mathematics. ** The exact performance sign: 999a.",
+      "outline": "**The similar sign (ad libitum)** is used if a performer is given the liberty to vary the basic form which is written in the kinetogram. It is also written to express that the notation in question only gives an approximate indication. According to the situation, the sign can be read as “something like that”, “more or less”, or “ad libitum”. The sign is taken from mathematics. ** The exact performance sign: 999a.",
       "outlinerefs": [999],
       "detail": [
         {
@@ -11401,7 +11401,7 @@
       "entrytype": "example",
       "image": "/img/835.png",
       "keywords": [],
-      "outline": "Similar signs beside a direction sign are chiefly used if the movement sequence is not set, as may happen in mime scenes, in unspecified entrances and exits, or in a role which is subordinate to the main action.",
+      "outline": "**Similar signs beside a direction sign** are chiefly used if the movement sequence is not set, as may happen in mime scenes, in unspecified entrances and exits, or in a role which is subordinate to the main action.",
       "outlinerefs": [],
       "detail": [
         {
@@ -11432,7 +11432,7 @@
       "entrytype": "example",
       "image": "/img/836.png",
       "keywords": [],
-      "outline": "A double vertical similar sign means that the single members of a group are free to vary the movement and, therefore, that several variations will be performed at the same time.",
+      "outline": "**A double vertical similar sign** means that the single members of a group are free to vary the movement and, therefore, that several variations will be performed at the same time.",
       "outlinerefs": [],
       "detail": [
         {
@@ -11463,7 +11463,7 @@
       "entrytype": "example",
       "image": "/img/837.png",
       "keywords": [],
-      "outline": "A similar sign within turn sign indicates that the degree of the turn is left to the performer. (*See* 257d,e.) (*Compare with* 841e, 844b.)",
+      "outline": "**A similar sign within turn sign** indicates that the degree of the turn is left to the performer. (*See* 257d,e.) (*Compare with* 841e, 844b.)",
       "outlinerefs": [257, 841, 844],
       "detail": [
         {
@@ -11499,7 +11499,7 @@
       "entrytype": "example",
       "image": "/img/838.png",
       "keywords": [],
-      "outline": "The similar sign as a repeat sign means that the performer may vary the sequence as he wishes during the repetition. In this case the similar sign is doubled and designed horizontally above the starting line extended to the left, and below the finishing line extended to the right. (*See* 807a, *compare with* 796a.) ***Compare with* 992.",
+      "outline": "**The similar sign as a repeat sign** means that the performer may vary the sequence as he wishes during the repetition. In this case the similar sign is doubled and designed horizontally above the starting line extended to the left, and below the finishing line extended to the right. (*See* 807a, *compare with* 796a.) ***Compare with* 992.",
       "outlinerefs": [807, 796, 992],
       "detail": [
         {
@@ -11520,7 +11520,7 @@
       "entrytype": "symbol",
       "image": "/img/839.png",
       "keywords": [],
-      "outline": "The similar sign combined with repeat signs.",
+      "outline": "**The similar sign combined with repeat signs.**",
       "outlinerefs": [],
       "detail": [
         {
@@ -11541,7 +11541,7 @@
       "entrytype": "example",
       "image": "/img/840.png",
       "keywords": [],
-      "outline": "Timing ad libitum is written with the variation of the similar sign shown in 834c. (*See* 756, dealing with the same problem.)",
+      "outline": "**Timing ad libitum** is written with the variation of the similar sign shown in 834c. (*See* 756, dealing with the same problem.)",
       "outlinerefs": [834, 756],
       "detail": [
         {
@@ -11607,7 +11607,7 @@
         },
         {
           "subentryid": "841e–f",
-          "content": "Similar signs within path signs.",
+          "content": "**Similar signs within path signs.**",
           "subentryrefs": []
         },
         {
@@ -11705,7 +11705,7 @@
       "entrytype": "symbol",
       "image": "/img/844.png",
       "keywords": [],
-      "outline": "Similar signs in and beside preliminary indications.",
+      "outline": "**Similar signs in and beside preliminary indications.**",
       "outlinerefs": [],
       "detail": [
         {
@@ -11892,7 +11892,7 @@
       "entrytype": "example",
       "image": "/img/895.png",
       "keywords": [],
-      "outline": "The staff",
+      "outline": "**The staff**",
       "outlinerefs": [],
       "detail": [
         {
@@ -11953,7 +11953,7 @@
       "entrytype": "example",
       "image": "/img/896.png",
       "keywords": [],
-      "outline": "The meaning of the columns. By distributing the symbols over the various columns of the staff, the following important differentiations are made.",
+      "outline": "**The meaning of the columns.** By distributing the symbols over the various columns of the staff, the following important differentiations are made.",
       "outlinerefs": [],
       "detail": [
         {
@@ -12009,7 +12009,7 @@
       "entrytype": "example",
       "image": "/img/897.png",
       "keywords": [],
-      "outline": "Continuity of the staves shows the steady flow of time. (*See* 748a,b.)",
+      "outline": "**Continuity of the staves** shows the steady flow of time. (*See* 748a,b.)",
       "outlinerefs": [748],
       "detail": [
         {
@@ -12147,7 +12147,7 @@
       "entrytype": "example",
       "image": "/img/900.png",
       "keywords": [],
-      "outline": "The score line.",
+      "outline": "**The score line.**",
       "outlinerefs": [],
       "detail": [
         {
@@ -12310,7 +12310,7 @@
       "entrytype": "symbol",
       "image": "/img/903.png",
       "keywords": [],
-      "outline": "Re 120a,b.",
+      "outline": "*Re* **120a,b**",
       "outlinerefs": [120],
       "detail": [
         {
@@ -12326,7 +12326,7 @@
       "entrytype": "example",
       "image": "/img/904.png",
       "keywords": [],
-      "outline": "Re 141a,b.",
+      "outline": "*Re* **141a,b**",
       "outlinerefs": [141],
       "detail": [
         {
@@ -12347,7 +12347,7 @@
       "entrytype": "example",
       "image": "/img/905.png",
       "keywords": [],
-      "outline": "Re 152c, 334a, 397a–e, 432a.",
+      "outline": "*Re* **152c, 334a, 397a–e, 432a**",
       "outlinerefs": [152, 334, 397, 432],
       "detail": [
         {
@@ -12363,7 +12363,7 @@
       "entrytype": "example",
       "image": "/img/906.png",
       "keywords": [],
-      "outline": "Re 181. There was originally an additional rule for retentions, according to which a gap in both support columns did not mean a jump, as long as the free leg performs gestures.",
+      "outline": "*Re* **181.** There was originally an additional rule for retentions, according to which a gap in both support columns did not mean a jump, as long as the free leg performs gestures.",
       "outlinerefs": [181],
       "detail": [
         {
@@ -12399,7 +12399,7 @@
       "entrytype": "symbol",
       "image": "/img/907.png",
       "keywords": [],
-      "outline": "Re 217d,g, 778d,g",
+      "outline": "*Re* **217d,g, 778d,g**",
       "outlinerefs": [217, 778],
       "detail": [
         {
@@ -12420,7 +12420,7 @@
       "entrytype": "example",
       "image": "/img/908.png",
       "keywords": [],
-      "outline": "Re 246a,b. ",
+      "outline": "*Re* **246a,b** ",
       "outlinerefs": [246],
       "detail": [
         {
@@ -12436,7 +12436,7 @@
       "entrytype": "example",
       "image": "/img/909.png",
       "keywords": [],
-      "outline": "Re 254b, 271b. ",
+      "outline": "*Re* **254b, 271b**",
       "outlinerefs": [254, 271],
       "detail": [
         {
@@ -12452,7 +12452,7 @@
       "entrytype": "symbol",
       "image": "/img/910.png",
       "keywords": [],
-      "outline": "Re 260c–h",
+      "outline": "*Re* **260c–h**",
       "outlinerefs": [260],
       "detail": [
         {
@@ -12468,7 +12468,7 @@
       "entrytype": "symbol",
       "image": "/img/911.png",
       "keywords": [],
-      "outline": "274, 276",
+      "outline": "*Re* **274, 276**",
       "outlinerefs": [274, 276],
       "detail": [
         {
@@ -12489,17 +12489,17 @@
       "entrytype": "symbol",
       "image": "/img/912.png",
       "keywords": [],
-      "outline": "Re 278, 705s; 279, 705r.",
+      "outline": "*Re* **278, 705s; 279, 705r**",
       "outlinerefs": [278, 705, 279],
       "detail": [
         {
           "subentryid": "912a",
-          "content": "Re 278, 705s. The old way of writing opening ranks.",
+          "content": "*Re* **278, 705s.** The old way of writing opening ranks.",
           "subentryrefs": []
         },
         {
           "subentryid": "912b",
-          "content": "Re 279, 705r. The old way of writing closing ranks.",
+          "content": "*Re* **279, 705r.** The old way of writing closing ranks.",
           "subentryrefs": []
         }
       ]
@@ -12510,7 +12510,7 @@
       "entrytype": "symbol",
       "image": "/img/913.png",
       "keywords": [],
-      "outline": "Re 152b, 248h, 289. In Kinetography the old way of writing turns in relation to fixed axes consisted of blackening the respective side or corner of the turn sign.",
+      "outline": "*Re* **152b, 248h, 289.** In Kinetography the old way of writing turns in relation to fixed axes consisted of blackening the respective side or corner of the turn sign.",
       "outlinerefs": [152, 248, 289],
       "detail": [
         {
@@ -12531,7 +12531,7 @@
       "entrytype": "symbol",
       "image": "/img/914.png",
       "keywords": [],
-      "outline": "Re 293, 315, 418, 509, 878.",
+      "outline": "*Re* **293, 315, 418, 509, 878**",
       "outlinerefs": [293, 315, 418, 509, 878],
       "detail": [
         {
@@ -12557,7 +12557,7 @@
       "entrytype": "symbol",
       "image": "/img/915.png",
       "keywords": [],
-      "outline": "Re 315j, 418a, 432, 435.",
+      "outline": "*Re* **315j, 418a, 432, 435**",
       "outlinerefs": [315, 418, 432, 435],
       "detail": [
         {
@@ -12578,7 +12578,7 @@
       "entrytype": "symbol",
       "image": "/img/916.png",
       "keywords": [],
-      "outline": "Re 316h–m, 375, 408–410, 360e,e′. The old signs of Kinetography for the planes and edges of the hands and feet, which have been given up in favour of the signs developed by Sigurd Leeder.",
+      "outline": "*Re* **316h–m, 375, 408–410, 360e,e′.** The old signs of Kinetography for the planes and edges of the hands and feet, which have been given up in favour of the signs developed by Sigurd Leeder.",
       "outlinerefs": [316, 375, 408, 409, 410, 360],
       "detail": [
         {
@@ -12654,27 +12654,27 @@
       "entrytype": "example",
       "image": "/img/917.png",
       "keywords": [],
-      "outline": "Re 322, 789, 126i, 696b, 728c, 543e, 581a, 584a, 604b.",
+      "outline": "*Re* **322, 789, 126i, 696b, 728c, 543e, 581a, 584a, 604b**",
       "outlinerefs": [322, 789, 126, 696, 728, 543, 581, 584, 604],
       "detail": [
         {
           "subentryid": "917a",
-          "content": "Re 322, 789. At the Berlin conference on Kinetography, 1934, it was agreed that an isolated body sign without a movement sign above it should mean the return of the respective body part to its normal position. In *Example* a the head should return to its normal position as an extension of the trunk, at the beginning of the trunk inclination. (*Compare with* the new way of writing using the decrease sign, in 322a, and the “”back to normal” sign of Labanotation, 789b.)",
+          "content": "*Re* **322, 789.** At the Berlin conference on Kinetography, 1934, it was agreed that an isolated body sign without a movement sign above it should mean the return of the respective body part to its normal position. In *Example* a the head should return to its normal position as an extension of the trunk, at the beginning of the trunk inclination. (*Compare with* the new way of writing using the decrease sign, in 322a, and the “”back to normal” sign of Labanotation, 789b.)",
           "subentryrefs": [322, 789]
         },
         {
           "subentryid": "917b",
-          "content": "Re 126i, 696b, 728c. Until the decrease sign was introduced as the cancellation sign in order to express the duration of the return to normal, the body sign was placed in an increase sign of an appropriate length (*see* 322a, 789a). (*Compare with* “duration line” above the “back to normal” sign of Labanotation, 789b′",
+          "content": "*Re* **126i, 696b, 728c.** Until the decrease sign was introduced as the cancellation sign in order to express the duration of the return to normal, the body sign was placed in an increase sign of an appropriate length (*see* 322a, 789a). (*Compare with* “duration line” above the “back to normal” sign of Labanotation, 789b′",
           "subentryrefs": [126, 696, 728, 322, 789]
         },
         {
           "subentryid": "Note 1",
-          "content": "Re 126i, 728c. It should be noticed that a body sign placed in an increase sign now means that one should approach the respective body part. (*See* 126i, 728c, 758j.)",
+          "content": "*Re* **126i, 728c.** It should be noticed that a body sign placed in an increase sign now means that one should approach the respective body part. (*See* 126i, 728c, 758j.)",
           "subentryrefs": [126, 728, 758]
         },
         {
           "subentryid": "917c",
-          "content": "Re 543e, 581a, 584a, 604b. Before the introduction of the release sign in Kinetography, the cancellation of a contract was also expressed by an isolated body sign. In *Example* c the mutual touch of both hands should be maintained until it is cancelled.",
+          "content": "*Re* **543e, 581a, 584a, 604b.** Before the introduction of the release sign in Kinetography, the cancellation of a contract was also expressed by an isolated body sign. In *Example* c the mutual touch of both hands should be maintained until it is cancelled.",
           "subentryrefs": [543, 581, 584, 604]
         }
       ]
@@ -12685,7 +12685,7 @@
       "entrytype": "symbol",
       "image": "/img/918.png",
       "keywords": [],
-      "outline": "Re 344v,x, 345. The planes and edges of the neck were originally expressed by appropriate pin signs placed in the head sign. These signs have been abandoned since the introduction of new signs for these planes and edges (*see* 345).",
+      "outline": "*Re* **344v,x, 345.** The planes and edges of the neck were originally expressed by appropriate pin signs placed in the head sign. These signs have been abandoned since the introduction of new signs for these planes and edges (*see* 345).",
       "outlinerefs": [344, 345],
       "detail": [
         {
@@ -12726,7 +12726,7 @@
       "entrytype": "symbol",
       "image": "/img/919.png",
       "keywords": [],
-      "outline": "Re 225v, 410i,j, 454d,e, 472b, 534k.",
+      "outline": "*Re* **225v, 410i,j, 454d,e, 472b, 534k**",
       "outlinerefs": [225, 410, 454, 472, 534],
       "detail": [
         {
@@ -12742,7 +12742,7 @@
       "entrytype": "symbol",
       "image": "/img/920.png",
       "keywords": [],
-      "outline": "Re 411g",
+      "outline": "*Re* **411g**",
       "outlinerefs": [411],
       "detail": [
         {
@@ -12758,7 +12758,7 @@
       "entrytype": "example",
       "image": "/img/921.png",
       "keywords": [],
-      "outline": "Re 412, 420a.",
+      "outline": "*Re* **412, 420a**",
       "outlinerefs": [412, 420],
       "detail": [
         {
@@ -12779,7 +12779,7 @@
       "entrytype": "example",
       "image": "/img/922.png",
       "keywords": [],
-      "outline": "Re 416a,c.",
+      "outline": "*Re* **416a,c**",
       "outlinerefs": [416],
       "detail": [
         {
@@ -12795,7 +12795,7 @@
       "entrytype": "symbol",
       "image": "/img/923.png",
       "keywords": [],
-      "outline": "Re 338a,c, 418f.",
+      "outline": "*Re* **338a,c, 418f**",
       "outlinerefs": [],
       "detail": [
         {
@@ -12821,7 +12821,7 @@
       "entrytype": "example",
       "image": "/img/924.png",
       "keywords": [],
-      "outline": "Re 422c",
+      "outline": "*Re* **422c**",
       "outlinerefs": [422],
       "detail": [
         {
@@ -12837,7 +12837,7 @@
       "entrytype": "example",
       "image": "/img/925.png",
       "keywords": [],
-      "outline": "Re 423f, 438a–c. All movements of the pelvis were originally written as hip movements.",
+      "outline": "*Re* **423f, 438a–c.** All movements of the pelvis were originally written as hip movements.",
       "outlinerefs": [423,438],
       "detail": [
         {
@@ -12863,7 +12863,7 @@
       "entrytype": "example",
       "image": "/img/926.png",
       "keywords": [],
-      "outline": "Re 440a,c,n, 466a, 488a, 523d′,f,f′. Old way of writing movements of augmented body sections.",
+      "outline": "*Re* **440a,c,n, 466a, 488a, 523d′,f,f′.** Old way of writing movements of augmented body sections.",
       "outlinerefs": [],
       "detail": [
         {
@@ -12884,7 +12884,7 @@
       "entrytype": "symbol",
       "image": "/img/927.png",
       "keywords": [],
-      "outline": "Re 442, 443.",
+      "outline": "*Re* **442, 443**",
       "outlinerefs": [442, 443],
       "detail": [
         {
@@ -12975,7 +12975,7 @@
       "entrytype": "example",
       "image": "/img/928.png",
       "keywords": [],
-      "outline": "Re 447a, 452a, 471a and 447b,c, 452f, 453b.",
+      "outline": "*Re* **447a, 452a, 471a and 447b,c, 452f, 453b**",
       "outlinerefs": [447, 452, 471, 447, 452, 453],
       "detail": [
         {
@@ -12991,7 +12991,7 @@
       "entrytype": "example",
       "image": "/img/929.png",
       "keywords": [],
-      "outline": "Re 455a,b,.",
+      "outline": "*Re* **455a,b**",
       "outlinerefs": [455],
       "detail": [
         {
@@ -13007,7 +13007,7 @@
       "entrytype": "example",
       "image": "/img/930.png",
       "keywords": [],
-      "outline": "Re 456a–d, 444h",
+      "outline": "*Re* **456a–d, 444h**",
       "outlinerefs": [456, 444],
       "detail": [
         {
@@ -13023,7 +13023,7 @@
       "entrytype": "example",
       "image": "/img/931.png",
       "keywords": [],
-      "outline": "Re 463, 464",
+      "outline": "*Re* **463, 464**",
       "outlinerefs": [463, 464],
       "detail": [
         {
@@ -13039,7 +13039,7 @@
       "entrytype": "example",
       "image": "/img/932.png",
       "keywords": [],
-      "outline": "Re 493.",
+      "outline": "*Re* **493**",
       "outlinerefs": [493],
       "detail": [
         {
@@ -13065,7 +13065,7 @@
       "entrytype": "symbol",
       "image": "/img/933.png",
       "keywords": [],
-      "outline": "Re 496a,b",
+      "outline": "*Re* **496a,b**",
       "outlinerefs": [496],
       "detail": [
         {
@@ -13096,7 +13096,7 @@
       "entrytype": "example",
       "image": "/img/934.png",
       "keywords": [],
-      "outline": "Re 501e.",
+      "outline": "*Re* **501e**",
       "outlinerefs": [501],
       "detail": [
         {
@@ -13112,7 +13112,7 @@
       "entrytype": "example",
       "image": "/img/935.png",
       "keywords": [],
-      "outline": "Re 518.",
+      "outline": "*Re* **518**",
       "outlinerefs": [518],
       "detail": [
         {
