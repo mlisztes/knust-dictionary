@@ -13143,7 +13143,7 @@
       "entrytype": "example",
       "image": "/img/936.png",
       "keywords": [],
-      "outline": "Re 561a,b.",
+      "outline": "*Re* **561a,b**",
       "outlinerefs": [561],
       "detail": [
         {
@@ -13159,7 +13159,7 @@
       "entrytype": "example",
       "image": "/img/937.png",
       "keywords": [],
-      "outline": "Re 568b,d",
+      "outline": "*Re* **568b,d**",
       "outlinerefs": [568],
       "detail": [
         {
@@ -13175,7 +13175,7 @@
       "entrytype": "example",
       "image": "/img/938.png",
       "keywords": [],
-      "outline": "Re 586a.",
+      "outline": "*Re* **586a**",
       "outlinerefs": [586],
       "detail": [
         {
@@ -13191,7 +13191,7 @@
       "entrytype": "symbol",
       "image": "/img/939.png",
       "keywords": [],
-      "outline": "Re 607",
+      "outline": "*Re* **607**",
       "outlinerefs": [607],
       "detail": [
         {
@@ -13207,7 +13207,7 @@
       "entrytype": "symbol",
       "image": "/img/940.png",
       "keywords": [],
-      "outline": "Re 639b,g,h.",
+      "outline": "*Re* **639b,g,h**",
       "outlinerefs": [639],
       "detail": [
         {
@@ -13238,7 +13238,7 @@
       "entrytype": "symbol",
       "image": "/img/941.png",
       "keywords": [],
-      "outline": "Re 639i,j, 673f, 678a′,e,f,g.",
+      "outline": "*Re* **639i,j, 673f, 678a′,e,f,g**",
       "outlinerefs": [639],
       "detail": [
         {
@@ -13254,7 +13254,7 @@
       "entrytype": "symbol",
       "image": "/img/942.png",
       "keywords": [],
-      "outline": "Re 665a,c,d.",
+      "outline": "*Re* **665a,c,d**",
       "outlinerefs": [665],
       "detail": [
         {
@@ -13270,7 +13270,7 @@
       "entrytype": "symbol",
       "image": "/img/943.png",
       "keywords": [],
-      "outline": "Re 671, 673, 728f,g, 758a,b, 759a,b.",
+      "outline": "*Re* **671, 673, 728f,g, 758a,b, 759a,b**",
       "outlinerefs": [671, 673, 728, 758, 759],
       "detail": [
         {
@@ -13296,7 +13296,7 @@
       "entrytype": "symbol",
       "image": "/img/944.png",
       "keywords": [],
-      "outline": "Re 676f.",
+      "outline": "*Re* **676f**",
       "outlinerefs": [676],
       "detail": [
         {
@@ -13312,7 +13312,7 @@
       "entrytype": "symbol",
       "image": "/img/945.png",
       "keywords": [],
-      "outline": "Re 684c,d.",
+      "outline": "*Re* **684c,d**",
       "outlinerefs": [684],
       "detail": [
         {
@@ -13333,7 +13333,7 @@
       "entrytype": "symbol",
       "image": "/img/946.png",
       "keywords": [],
-      "outline": "Re 687a,b.",
+      "outline": "*Re* **687a,b**",
       "outlinerefs": [687],
       "detail": [
         {
@@ -13354,7 +13354,7 @@
       "entrytype": "symbol",
       "image": "/img/947.png",
       "keywords": [],
-      "outline": "Re 691b,e.",
+      "outline": "*Re* **691b,e**",
       "outlinerefs": [691],
       "detail": [
         {
@@ -13375,12 +13375,12 @@
       "entrytype": "symbol",
       "image": "/img/948.png",
       "keywords": [],
-      "outline": "Re 699, 700.",
+      "outline": "*Re* **699, 700**",
       "outlinerefs": [699, 700],
       "detail": [
         {
           "subentryid": "948a,b",
-          "content": "Space measurement signs placed in a circle, which now express body narrowness and width (*Examples* a,b)(*see* 700), were originally used to express performance at a small or large scale.",
+          "content": "Space measurement signs placed in a circle, which now express body narrowness and width (*Examples* a,b) (*see* 700), were originally used to express performance at a small or large scale.",
           "subentryrefs": [700]
         },
         {
@@ -13401,7 +13401,7 @@
       "entrytype": "symbol",
       "image": "/img/949.png",
       "keywords": [],
-      "outline": "Re 705e,f,k,l, 280e,f,k,l.",
+      "outline": "*Re* **705e,f,k,l, 280e,f,k,l**",
       "outlinerefs": [705, 280],
       "detail": [
         {
@@ -13422,17 +13422,17 @@
       "entrytype": "example",
       "image": "/img/950.png",
       "keywords": [],
-      "outline": "Re 745a,b.",
+      "outline": "*Re* **745a,b**",
       "outlinerefs": [745],
       "detail": [
         {
           "subentryid": "950a",
-          "content": "Re 745a. The old way of writing passive paths consisted of joining by means of the horizontal bow thesign for the passive path to the signs for those movements of the active person which produce the passive path (*Example* 950a).",
+          "content": "*Re* **745a**. The old way of writing passive paths consisted of joining by means of the horizontal bow thesign for the passive path to the signs for those movements of the active person which produce the passive path (*Example* 950a).",
           "subentryrefs": [745]
         },
         {
           "subentryid": "950b",
-          "content": "Re 745b. The old way of writing passive movements consisted of joining by means of a horizontal bow the signs for passive movements to the signs for those movements of the active person which produce the passive movements (*Example* 950b).",
+          "content": "*Re* **745b**. The old way of writing passive movements consisted of joining by means of a horizontal bow the signs for passive movements to the signs for those movements of the active person which produce the passive movements (*Example* 950b).",
           "subentryrefs": [745]
         }
       ]
@@ -13443,7 +13443,7 @@
       "entrytype": "example",
       "image": "/img/951.png",
       "keywords": [],
-      "outline": "Re 123, 124g,h, 359d, 391a, 431a, 780e,f, 889b.",
+      "outline": "*Re* **123, 124g,h, 359d, 391a, 431a, 780e,f, 889b**",
       "outlinerefs": [123, 124, 359, 391, 431, 780,889],
       "detail": [
         {
@@ -13459,7 +13459,7 @@
       "entrytype": "symbol",
       "image": "/img/952.png",
       "keywords": [],
-      "outline": "Re 782o,p.",
+      "outline": "*Re* **782o,p**",
       "outlinerefs": [782],
       "detail": [
         {
@@ -13475,7 +13475,7 @@
       "entrytype": "symbol",
       "image": "/img/953.png",
       "keywords": [],
-      "outline": "Re 796a.",
+      "outline": "*Re* **796a**",
       "outlinerefs": [796],
       "detail": [
         {
@@ -13491,7 +13491,7 @@
       "entrytype": "symbol",
       "image": "/img/954.png",
       "keywords": [],
-      "outline": "Re 811, 825, 828, 829, 832.",
+      "outline": "*Re* **811, 825, 828, 829, 832**",
       "outlinerefs": [811, 825, 828, 829, 832],
       "detail": [
         {
@@ -13542,7 +13542,7 @@
       "entrytype": "symbol",
       "image": "/img/955.png",
       "keywords": [],
-      "outline": "Re 156, 238b, 308, 310, 854, 859, 861.",
+      "outline": "*Re* **156, 238b, 308, 310, 854, 859, 861**",
       "outlinerefs": [156, 238, 308, 310, 854, 859, 861],
       "detail": [
         {
@@ -13563,7 +13563,7 @@
       "entrytype": "example",
       "image": "/img/956.png",
       "keywords": [],
-      "outline": "Re 120.",
+      "outline": "*Re* **120**",
       "outlinerefs": [120],
       "detail": [
         {
@@ -13584,7 +13584,7 @@
       "entrytype": "symbol",
       "image": "/img/957.png",
       "keywords": [],
-      "outline": "Re 148, 330, 423, 526.",
+      "outline": "*Re* **148, 330, 423, 526**",
       "outlinerefs": [148, 330, 423, 526],
       "detail": [
         {
@@ -13620,7 +13620,7 @@
       "entrytype": "example",
       "image": "/img/958.png",
       "keywords": [],
-      "outline": "Re 228a,b.",
+      "outline": "*Re* **228a,b**",
       "outlinerefs": [228],
       "detail": [
         {
@@ -13630,7 +13630,7 @@
         },
         {
           "subentryid": "Note",
-          "content": "This way of writing means that the part of the foot which carries the weight continues supporting during the heel drop (*Example* b) or the toe drop (*Example* d). This way of writing is used in kinetograms of the Spanish Zapateado and of tap dancing, especially if the heel drop or toe drop is accentuated.",
+          "content": "This way of writing means that the part of the foot which carries the weight continues supporting during the heel drop (*Example* b) or the toe drop (*Example* d). This way of writing is used in kinetograms of the Spanish *Zapateado* and of tap dancing, especially if the heel drop or toe drop is accentuated.",
           "subentryrefs": []
         },
         {
@@ -13646,7 +13646,7 @@
       "entrytype": "symbol",
       "image": "/img/959.png",
       "keywords": [],
-      "outline": "Re 257g, 803a.",
+      "outline": "*Re* **257g, 803a**",
       "outlinerefs": [257, 803],
       "detail": [
         {
@@ -13662,7 +13662,7 @@
       "entrytype": "example",
       "image": "/img/960.png",
       "keywords": [],
-      "outline": "Re 260c–e, 498, 502; 115e, 380g,g′, 557e, 711d;343o,p, 432k–n;282b, 419e.",
+      "outline": "*Re* **260c–e, 498, 502; 115e, 380g,g′, 557e, 711d;343o,p, 432k–n;282b, 419e**",
       "outlinerefs": [260, 498, 502, 115, 380, 557, 711, 343, 432, 282, 419],
       "detail": [
         {
@@ -13737,7 +13737,7 @@
         },
         {
           "subentryid": "960i",
-          "content": "The second reason not to omit the retention sign in the symbol for the arm and leg circles is as follows. In theatrical works illusory representations of ghost-like apparitions whose body parts become independent may occur. For instance, in the ballet The Devil in the Village by P. and P. Mlakar, the parted Mirko, whose limbs separate from his body, is represented. One must be able to distinguish the paths of the body parts which become independent (*Example* i) from the paths of limbs which are attached to the body (*Example* e). *Compare with* the same problem in writing head or trunk wheeling with path signs, *Examples* l,m.",
+          "content": "The second reason not to omit the retention sign in the symbol for the arm and leg circles is as follows. In theatrical works illusory representations of ghost-like apparitions whose body parts become independent may occur. For instance, in the ballet *The Devil in the Village* by P. and P. Mlakar, the *parted Mirko*, whose limbs separate from his body, is represented. One must be able to distinguish the paths of the body parts which become independent (*Example* i) from the paths of limbs which are attached to the body (*Example* e). *Compare with* the same problem in writing head or trunk wheeling with path signs, *Examples* l,m.",
           "subentryrefs": []
         },
         {
@@ -13747,7 +13747,7 @@
         },
         {
           "subentryid": "960j",
-          "content": "Re 115e, 380g,g′, 557e, 711d. It should be noticed that the symbol for a straight path placed beside an arm or leg gesture indication and joined to it by a vertical bow has essentially another meaning than the symbol dealt with in *Example* i. In this case it means that the free end of the limb progresses on straight line (not on a curve) to its new position.",
+          "content": "*Re* **115e, 380g,g′, 557e, 711d**. It should be noticed that the symbol for a straight path placed beside an arm or leg gesture indication and joined to it by a vertical bow has essentially another meaning than the symbol dealt with in *Example* i. In this case it means that the free end of the limb progresses on straight line (not on a curve) to its new position.",
           "subentryrefs": [115, 380, 557, 711]
         },
         {
@@ -13757,7 +13757,7 @@
         },
         {
           "subentryid": "960l–m",
-          "content": "Re 343o,p, 432k–n. In the book *Labanotation* the use of circular path signs is explained as another way of writing the wheeling of body sections. Also in this way of writing I think it is necessary to insert the round retention sign in the path sign in order to make it clear that one end of the section is fixed and that only the free end can wheel. Only in this way can this kind of path of a body section or body part which is fixed at one end be distinguished from the path of objects whichare released or of body parts which are separated from the body (*see Examples* h,i).",
+          "content": "*Re* **343o,p, 432k–n**. In the book *Labanotation* the use of circular path signs is explained as another way of writing the wheeling of body sections. Also in this way of writing I think it is necessary to insert the round retention sign in the path sign in order to make it clear that one end of the section is fixed and that only the free end can wheel. Only in this way can this kind of path of a body section or body part which is fixed at one end be distinguished from the path of objects whichare released or of body parts which are separated from the body (*see Examples* h,i).",
           "subentryrefs": [343, 432]
         },
         {
@@ -13772,7 +13772,7 @@
         },
         {
           "subentryid": "960n,o",
-          "content": "Re 282b, 419e. In the book *Labanotation* it is shown how trunk circling can be represented by means of a circular path sign. This is a case of circling without change of front (*see* 282b), therefore, the sign for a retention in space is written in the circular path sign (*Example* n). *Example* o shows the same circling of the trunk written in the usual way, with direction signs.",
+          "content": "*Re* **282b, 419e**. In the book *Labanotation* it is shown how trunk circling can be represented by means of a circular path sign. This is a case of circling without change of front (*see* 282b), therefore, the sign for a retention in space is written in the circular path sign (*Example* n). *Example* o shows the same circling of the trunk written in the usual way, with direction signs.",
           "subentryrefs": [282, 419]
         }
       ]
@@ -13783,7 +13783,7 @@
       "entrytype": "symbol",
       "image": "/img/961.png",
       "keywords": [],
-      "outline": "Re 262a,b.",
+      "outline": "*Re* **262a,b**",
       "outlinerefs": [262],
       "detail": [
         {
@@ -13799,7 +13799,7 @@
       "entrytype": "symbol",
       "image": "/img/962.png",
       "keywords": [],
-      "outline": "Re 281a, 282.",
+      "outline": "*Re* **281a, 282**",
       "outlinerefs": [281, 282],
       "detail": [
         {
@@ -13814,7 +13814,7 @@
         },
         {
           "subentryid": "962b",
-          "content": "Re 282. Using the new way of writing, one has the possibility of combining within a single path sign the indication for deviating on a straight path and the indication of the rotation around one's own axis. *Example* b shows a full revolution on straight path which, judged from the starting position, moves forwards.",
+          "content": "*Re* **282**. Using the new way of writing, one has the possibility of combining within a single path sign the indication for deviating on a straight path and the indication of the rotation around one's own axis. *Example* b shows a full revolution on straight path which, judged from the starting position, moves forwards.",
           "subentryrefs": [282]
         },
         {
@@ -13835,7 +13835,7 @@
       "entrytype": "symbol",
       "image": "/img/963.png",
       "keywords": [],
-      "outline": "Re 158, 312.",
+      "outline": "*Re* **158, 312**",
       "outlinerefs": [158, 312],
       "detail": [
         {
@@ -13901,7 +13901,7 @@
       "entrytype": "symbol",
       "image": "/img/964.png",
       "keywords": [],
-      "outline": "Re 313b.",
+      "outline": "*Re* **313b**",
       "outlinerefs": [313],
       "detail": [
         {
@@ -13917,7 +13917,7 @@
       "entrytype": "symbol",
       "image": "/img/965.png",
       "keywords": [],
-      "outline": "Re 333c, 366e, 396c, 432a, 789f.",
+      "outline": "*Re* **333c, 366e, 396c, 432a, 789f**",
       "outlinerefs": [333, 366, 396, 432, 789],
       "detail": [
         {
@@ -13953,7 +13953,7 @@
       "entrytype": "symbol",
       "image": "/img/966.png",
       "keywords": [],
-      "outline": "Re 356b, 389g,h, 401d.",
+      "outline": "*Re* **356b, 389g,h, 401d**",
       "outlinerefs": [356, 389, 401],
       "detail": [
         {
@@ -13969,7 +13969,7 @@
       "entrytype": "example",
       "image": "/img/967.png",
       "keywords": [],
-      "outline": "Re 356b, 389g,h, 401d.",
+      "outline": "*Re* **356b, 389g,h, 401d**",
       "outlinerefs": [356, 389, 401],
       "detail": [
         {
@@ -13995,7 +13995,7 @@
       "entrytype": "symbol",
       "image": "/img/968.png",
       "keywords": [],
-      "outline": "Re 393a,a′.",
+      "outline": "*Re* **393a,a′**",
       "outlinerefs": [393],
       "detail": [
         {
@@ -14011,7 +14011,7 @@
       "entrytype": "symbol",
       "image": "/img/969.png",
       "keywords": [],
-      "outline": "Re 394, 395.",
+      "outline": "*Re* **394, 395**",
       "outlinerefs": [394, 395],
       "detail": [
         {
@@ -14062,7 +14062,7 @@
       "entrytype": "symbol",
       "image": "/img/970.png",
       "keywords": [],
-      "outline": "Re 397i, 837c.",
+      "outline": "*Re* **397i, 837c**",
       "outlinerefs": [397, 837],
       "detail": [
         {
@@ -14078,7 +14078,7 @@
       "entrytype": "example",
       "image": "/img/971.png",
       "keywords": [],
-      "outline": "Re 399c′.",
+      "outline": "*Re* **399c′**",
       "outlinerefs": [399],
       "detail": [
         {
@@ -14094,7 +14094,7 @@
       "entrytype": "symbol",
       "image": "/img/972.png",
       "keywords": [],
-      "outline": "Re 315q, 417e.",
+      "outline": "*Re* **315q, 417e**",
       "outlinerefs": [315, 417],
       "detail": [
         {
@@ -14110,7 +14110,7 @@
       "entrytype": "symbol",
       "image": "/img/973.png",
       "keywords": [],
-      "outline": "Re 427.",
+      "outline": "*Re* **427**",
       "outlinerefs": [427],
       "detail": [
         {
@@ -14126,7 +14126,7 @@
       "entrytype": "example",
       "image": "/img/974.png",
       "keywords": [],
-      "outline": "Re 429a",
+      "outline": "*Re* **429a**",
       "outlinerefs": [429],
       "detail": [
         {
@@ -14162,7 +14162,7 @@
       "entrytype": "example",
       "image": "/img/975.png",
       "keywords": [],
-      "outline": "Re the introduction to F XIII (Introduction to entries 432–439, Rotation of the trunk and its sections), 432, 439d, 889e,e′,e″.",
+      "outline": "*Re the introduction to* **F XIII (Introduction to entries 432–439, Rotation of the trunk and its sections), 432, 439d, 889e,e′,e″**",
       "outlinerefs": [432, 439, 889],
       "detail": [
         {
@@ -14188,12 +14188,12 @@
       "entrytype": "symbol",
       "image": "/img/976.png",
       "keywords": [],
-      "outline": "Re 434b.",
+      "outline": "*Re* **434b**",
       "outlinerefs": [434],
       "detail": [
         {
           "subentryid": "",
-          "content": "he way of writing a rotation of the rigid trunk (in one piece) by subdividing the trunk sign with a horizontal stroke, as shown in *Example* 434b, has also been proposed as the way of writing an inclination of the rigid trunk, in which no change in the position of the vertebrae in relation to one another occurs.",
+          "content": "The way of writing a rotation of the rigid trunk (in one piece) by subdividing the trunk sign with a horizontal stroke, as shown in *Example* 434b, has also been proposed as the way of writing an inclination of the rigid trunk, in which no change in the position of the vertebrae in relation to one another occurs.",
           "subentryrefs": [434]
         }
       ]
@@ -14204,7 +14204,7 @@
       "entrytype": "example",
       "image": "/img/977.png",
       "keywords": [],
-      "outline": "Re 456d, 458c, 465c, 468, 470, 471c.",
+      "outline": "*Re* **456d, 458c, 465c, 468, 470, 471c**",
       "outlinerefs": [456, 458, 465, 468, 470, 471],
       "detail": [
         {
@@ -14220,22 +14220,22 @@
       "entrytype": "symbol",
       "image": "/img/978.png",
       "keywords": [],
-      "outline": "Re 496, 500, 237a–c.",
+      "outline": "*Re* **496, 500, 237a–c**",
       "outlinerefs": [496, 500, 237],
       "detail": [
         {
           "subentryid": "978a",
-          "content": "Re 496. Any cartwheel, either to the rightor to the left.",
+          "content": "*Re* **496**. Any cartwheel, either to the rightor to the left.",
           "subentryrefs": [496]
         },
         {
           "subentryid": "978b",
-          "content": "Re 500. Any somersault, either forward or backward.",
+          "content": "*Re* **500**. Any somersault, either forward or backward.",
           "subentryrefs": [500]
         },
         {
           "subentryid": "978c",
-          "content": "Re 237a–c. Any turn",
+          "content": "*Re* **237a–c**. Any turn",
           "subentryrefs": [237]
         }
       ]
@@ -14246,7 +14246,7 @@
       "entrytype": "example",
       "image": "/img/979.png",
       "keywords": [],
-      "outline": "Re 501.",
+      "outline": "*Re* **501**",
       "outlinerefs": [501],
       "detail": [
         {
@@ -14282,7 +14282,7 @@
       "entrytype": "example",
       "image": "/img/980.png",
       "keywords": [],
-      "outline": "Re 538a,a′.",
+      "outline": "*Re* **538a,a′**",
       "outlinerefs": [538],
       "detail": [
         {
@@ -14298,7 +14298,7 @@
       "entrytype": "symbol",
       "image": "/img/981.png",
       "keywords": [],
-      "outline": "Re 121, 149, 639c,d,i,j, 640c, 678.",
+      "outline": "*Re* **121, 149, 639c,d,i,j, 640c, 678**",
       "outlinerefs": [121, 149, 639, 640, 678],
       "detail": [
         {
@@ -14364,7 +14364,7 @@
       "entrytype": "example",
       "image": "/img/982.png",
       "keywords": [],
-      "outline": "Re 248, 559.",
+      "outline": "*Re* **248, 559**",
       "outlinerefs": [248, 559],
       "detail": [
         {
@@ -14380,7 +14380,7 @@
       "entrytype": "example",
       "image": "/img/983.png",
       "keywords": [],
-      "outline": "Re 561a,b.",
+      "outline": "*Re* **561a,b**",
       "outlinerefs": [561],
       "detail": [
         {
@@ -14396,7 +14396,7 @@
       "entrytype": "example",
       "image": "/img/984.png",
       "keywords": [],
-      "outline": "Re 562g.",
+      "outline": "*Re* **562g**",
       "outlinerefs": [562],
       "detail": [
         {
@@ -14427,7 +14427,7 @@
       "entrytype": "symbol",
       "image": "/img/985.png",
       "keywords": [],
-      "outline": "Re 607.",
+      "outline": "*Re* **607**",
       "outlinerefs": [607],
       "detail": [
         {
@@ -14443,7 +14443,7 @@
       "entrytype": "symbol",
       "image": "/img/986.png",
       "keywords": [],
-      "outline": "Re 673.",
+      "outline": "*Re* **673**",
       "outlinerefs": [673],
       "detail": [
         {
@@ -14464,7 +14464,7 @@
       "entrytype": "symbol",
       "image": "/img/987.png",
       "keywords": [],
-      "outline": "Re 675s.",
+      "outline": "*Re* **675s**",
       "outlinerefs": [675],
       "detail": [
         {
@@ -14500,7 +14500,7 @@
       "entrytype": "symbol",
       "image": "/img/988.png",
       "keywords": [],
-      "outline": "Re 715.",
+      "outline": "*Re* **715**",
       "outlinerefs": [715],
       "detail": [
         {
@@ -14580,7 +14580,7 @@
         },
         {
           "subentryid": "988j,p",
-          "content": "Re 732a′, 737, 761b, 784a,b. In Labanotation the strong sign placed in the addition bracket means that all gestures and all steps should be accentuated during the time represented by the length of the bracket. In Kinetography the symbol p is the tension sign (*see* 732a′). In Labanotation the symbol j of this paragraph is the tension sign.",
+          "content": "*Re* **732a′, 737, 761b, 784a,b**. In Labanotation the strong sign placed in the addition bracket means that all gestures and all steps should be accentuated during the time represented by the length of the bracket. In Kinetography the symbol p is the tension sign (*see* 732a′). In Labanotation the symbol j of this paragraph is the tension sign.",
           "subentryrefs": [732, 737, 761, 784]
         }
       ]
@@ -14591,7 +14591,7 @@
       "entrytype": "example",
       "image": "/img/989.png",
       "keywords": [],
-      "outline": "Re 716a,d, 720e,e′.",
+      "outline": "*Re* **716a,d, 720e,e′**",
       "outlinerefs": [716, 720],
       "detail": [
         {
@@ -14607,7 +14607,7 @@
       "entrytype": "example",
       "image": "/img/990.png",
       "keywords": [],
-      "outline": "Re 355c,d, 389j, 432r,s.",
+      "outline": "*Re* **355c,d, 389j, 432r,s**",
       "outlinerefs": [355, 389, 432],
       "detail": [
         {
@@ -14643,7 +14643,7 @@
       "entrytype": "example",
       "image": "/img/991.png",
       "keywords": [],
-      "outline": "Re 752e.",
+      "outline": "*Re* **752e**",
       "outlinerefs": [752],
       "detail": [
         {
@@ -14664,7 +14664,7 @@
       "entrytype": "symbol",
       "image": "/img/992.png",
       "keywords": [],
-      "outline": "Re 767a–d, 802b, 838a,b..",
+      "outline": "*Re* **767a–d, 802b, 838a,b**",
       "outlinerefs": [767, 802, 838],
       "detail": [
         {
@@ -14674,7 +14674,7 @@
         },
         {
           "subentryid": "",
-          "content": "While the trill sign of Kinetography means that the movements written underneath should be repeated identically as fast and often as possible, the wavy line of Labanotation means that the movements should be continued in a similar way. (*Compare with* repetitions in a similar way, 838a,b, and the “conditional or optional continuation of an action”, 791.)",
+          "content": "While the trill sign of Kinetography means that the movements written underneath should be repeated *identically* as fast and often as possible, the wavy line of Labanotation means that the movements should be continued *in a similar way*. (*Compare with* repetitions in a similar way, 838a,b, and the “conditional or optional continuation of an action”, 791.)",
           "subentryrefs": [791]
         }
       ]
@@ -14685,7 +14685,7 @@
       "entrytype": "example",
       "image": "/img/993.png",
       "keywords": [],
-      "outline": "Re 332c, 357d, 779c.",
+      "outline": "*Re* **332c, 357d, 779c**",
       "outlinerefs": [332, 357, 779],
       "detail": [
         {
@@ -14706,7 +14706,7 @@
       "entrytype": "example",
       "image": "/img/994.png",
       "keywords": [],
-      "outline": "Re 780d.",
+      "outline": "*Re* **780d**",
       "outlinerefs": [780],
       "detail": [
         {
@@ -14722,7 +14722,7 @@
       "entrytype": "example",
       "image": "/img/995.png",
       "keywords": [],
-      "outline": "Re 354a,c,d, 526, 782o,p.",
+      "outline": "*Re* **354a,c,d, 526, 782o,p**",
       "outlinerefs": [354, 526, 782],
       "detail": [
         {
@@ -14743,7 +14743,7 @@
       "entrytype": "symbol",
       "image": "/img/996.png",
       "keywords": [],
-      "outline": "Re 322h, 789b,b′.",
+      "outline": "*Re* **322h, 789b,b′**",
       "outlinerefs": [322, 789],
       "detail": [
         {
@@ -14759,7 +14759,7 @@
       "entrytype": "example",
       "image": "/img/997.png",
       "keywords": [],
-      "outline": "Re 796, 811, 817.",
+      "outline": "*Re* **796, 811, 817**",
       "outlinerefs": [796, 811, 817],
       "detail": [
         {
@@ -14840,7 +14840,7 @@
       "entrytype": "symbol",
       "image": "/img/998.png",
       "keywords": [],
-      "outline": "Re 796.",
+      "outline": "*Re* **796**",
       "outlinerefs": [796],
       "detail": [
         {
@@ -14881,7 +14881,7 @@
       "entrytype": "symbol",
       "image": "/img/999.png",
       "keywords": [],
-      "outline": "Re 834.",
+      "outline": "*Re* **834**",
       "outlinerefs": [834],
       "detail": [
         {
@@ -14902,7 +14902,7 @@
       "entrytype": "symbol",
       "image": "/img/1000.png",
       "keywords": [],
-      "outline": "Re 845c.",
+      "outline": "*Re* **845c**",
       "outlinerefs": [845],
       "detail": [
         {
@@ -14918,7 +14918,7 @@
       "entrytype": "example",
       "image": "/img/1001.png",
       "keywords": [],
-      "outline": "Re 238b, 855a,b, 867b",
+      "outline": "*Re* **238b, 855a,b, 867b**",
       "outlinerefs": [],
       "detail": [
         {
@@ -14934,12 +14934,12 @@
       "entrytype": "example",
       "image": "/img/1002.png",
       "keywords": [],
-      "outline": "Re 335a–d, 124, 889.",
+      "outline": "*Re* **335a–d, 124, 889**",
       "outlinerefs": [335,124,889],
       "detail": [
         {
           "subentryid": "1002a–d, Example I",
-          "content": "Re 335a–d.",
+          "content": "*Re* **335a–d**",
           "subentryrefs": [335]
         },
         {
