@@ -153,7 +153,7 @@
       "entrytype": "symbol",
       "image": "/img/9.png",
       "keywords": ["staff", "column for arm gestures", "columns of the staff", "subsidiary columns of the staff", "subsidiary columns (expanded staff)", "inner subsidiary columns (expanded staff)", "outer subsidiary columns (expanded staff)", "direction of reading and writing (reading direction, writing direction)", "gesture columns", "left half of the body", "leg gestures", "the three staff lines", "right half of the body", "support columns", "upper body (upper part of the body)", "columns for the upper body (columns for the upper part of the body)"],
-      "outline": "Laban took over the five-lined staff from music notation, but turned it 90 degrees, standing it on end. From this staff only the first, third, and fifth lines are written. The second and fourth lines, together with an indefinite number of subsidiary lines to the right and left of the staff, are imaginary. These imaginary lines are shown as dotted lines in Fig. 9. The spaces between two drawn or imaginary lines are called columns.",
+      "outline": "Laban took over the five-lined staff from music notation, but turned it 90 degrees, standing it on end. From this staff only the first, third, and fifth lines are written. The second and fourth lines, together with an indefinite number of subsidiary lines to the right and left of the staff, are imaginary. These imaginary lines are shown as dotted lines in Figure 9. The spaces between two drawn or imaginary lines are called columns.",
       "outlinerefs": [],
       "detail": [
         {
@@ -183,12 +183,12 @@
         },
         {
           "subentryid": "Note 1",
-          "content": "If additional symbols such as pin signs, signs for touching the floor, or dynamic signs must be inserted between the first and second columns, i.e. between the support column and the leg gesture column, an unnumbered “inner subsidiary column” can be inserted (Figs. 9′, 895f). *Examples* under 486c,d, 487b, 499a,b, 503a,b, 556a,b.)",
+          "content": "If additional symbols such as pin signs, signs for touching the floor, or dynamic signs must be inserted between the first and second columns, i.e. between the support column and the leg gesture column, an unnumbered “inner subsidiary column” can be inserted (Figures 9′, 895f). *Examples* under 486c,d, 487b, 499a,b, 503a,b, 556a,b.)",
           "subentryrefs": [895, 486, 487, 499, 503, 556]
         },
         {
           "subentryid": "Note 2",
-          "content": "Likewise, an unnumbered “outer subsidiary column” can be inserted between the third and fourth columns, i.e. between the upper body column and the arm gesture column (Figs. 9″, 895g).",
+          "content": "Likewise, an unnumbered “outer subsidiary column” can be inserted between the third and fourth columns, i.e. between the upper body column and the arm gesture column (Figures 9″, 895g).",
           "subentryrefs": [895]
         }
       ]
@@ -926,7 +926,7 @@
       "detail": [
         {
           "subentryid": "Note",
-          "content": "If the symbol in Fig. 47 appears outside the actual kinetogram or in a turn sign, it means a focal point, e.g. the focal point of a circular path. *See* 258h, 267, 269c,d, 290a—d, 795f, 857b—e.",
+          "content": "If the symbol in Figure 47 appears outside the actual kinetogram or in a turn sign, it means a focal point, e.g. the focal point of a circular path. *See* 258h, 267, 269c,d, 290a—d, 795f, 857b—e.",
           "subentryrefs": [258, 267, 269, 290, 795, 857]
         }
       ]
@@ -2195,7 +2195,7 @@
       "entrytype": "example",
       "image": "/img/107.png",
       "keywords": ["direction signs","direction of reading and writing (reading direction, writing direction)"],
-      "outline": "The signs are written and read from the bottom upwards, e.g. in Figure 107a, at ﬁrst the path travels forwards and then to the left, and in Fig. 107b), vice versa.",
+      "outline": "The signs are written and read from the bottom upwards, e.g. in Figure 107a, at ﬁrst the path travels forwards and then to the left, and in Figure 107b), vice versa.",
       "outlinerefs": [],
       "detail": [
         {
