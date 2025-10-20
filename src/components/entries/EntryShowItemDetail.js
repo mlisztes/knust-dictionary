@@ -3,6 +3,7 @@ import './EntryShowItemDetail.css';
 import { getCloudinaryUrl } from '../../cloudinaryConfig'; 
 import { Link } from 'react-router-dom';
 import { Popup } from 'semantic-ui-react';
+import ReactMarkdown from 'react-markdown';
 
 const EntryShowItemDetail = (props) => {
 
@@ -26,11 +27,11 @@ const EntryShowItemDetail = (props) => {
         });
         return(
             <div key={j} className="subentry">
-                <div className="subentrymain"> <span className="subentryid"> {detail.subentryid}</span> {detail.content}</div>
+                <div className="subentrymain"> <span className="subentryid"> {detail.subentryid}</span>{" "}<ReactMarkdown>{detail.content}</ReactMarkdown></div>
                 <div className="subentryrefs">{includedsubentryrefs.map((ref, k) => {
                     return <span key={k}>
                         <Link key={k} target="_blank" to={`/entries/${ref}`}>
-                            <Popup trigger={<span>{ (k ? ', ' : '') + ref }</span>} osition="bottom center">
+                            <Popup trigger={<span>{ (k ? ', ' : '') + ref }</span>} position="bottom center">
                                 <img className="popupimage" src={getCloudinaryUrl(ref, "popup")} alt={ref}/>
                             </Popup>
                         </Link>
@@ -60,7 +61,7 @@ const EntryShowItemDetail = (props) => {
                     </div>
                 </div>
                 <div className="column">
-                    <div>{props.outline}</div>
+                    <div><ReactMarkdown>{props.outline}</ReactMarkdown></div>
                     <div>{outlinerefs}</div>
                     <hr></hr>
                     <div>{details}</div>
