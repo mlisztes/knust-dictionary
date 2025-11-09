@@ -17,6 +17,7 @@ const Header = ({ onClick }) => {
   const categories = [
     "Direction Sign",
     "Pin Sign",
+    "Supports",
     "Body Sign",
     "Analogy and Canon Signs",
     "The Score",
@@ -29,6 +30,7 @@ const Header = ({ onClick }) => {
     ["The Alphabet", 91],
     ["Direction Sign", 24],
     ["Pin Sign", 33],
+    ["Supports", 75],
     ["Body Sign", 132],
     ["Analogy and Canon Signs", 58],
     ["The Score", 8],

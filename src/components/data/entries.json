@@ -3923,6 +3923,117 @@
       ]
     },
     {
+      "id": 160,
+      "category": "Supports",
+      "entrytype": "symbol",
+      "image": "/img/160.png",
+      "keywords": [],
+      "outline": "Each change of support means a shifting of the weight and, therefore, a *progression of the body as a whole*. The centre of the body, the centre of gravity, is brought vertically above another point of support. Supports are written in the centre columns of the staff (*see* 9). The independent progression of the body as a whole can only be achieved by means of supports.",
+      "outlinerefs": [9],
+      "detail": [
+        {
+          "subentryid": "",
+          "content": "",
+          "subentryrefs": []
+        }
+      ]
+    },
+    {
+      "id": 161,
+      "category": "Supports",
+      "entrytype": "example",
+      "image": "/img/161.png",
+      "keywords": [],
+      "outline": "Direction signs within the support columns indicate the *direction towards which the whole body will move*, judged from the last point of support. In Example 161 from the starting point (**a**) the first step is forward to the new point of support (**b**), which then becomes the starting point for the second step to the left towards (**c**).",
+      "outlinerefs": [],
+      "detail": [
+        {
+          "subentryid": "",
+          "content": "",
+          "subentryrefs": []
+        }
+      ]
+    },
+    {
+      "id": 162,
+      "category": "Supports",
+      "entrytype": "example",
+      "image": "/img/162.png",
+      "keywords": [],
+      "outline": "A *change of support in place* also involves a shift of the centre of gravity, although this shift is not so obvious as in progression. While stepping from one foot to the other, the weight of the body is shifted slightly sidewards towards the leg which will take the weight.",
+      "outlinerefs": [],
+      "detail": [
+        {
+          "subentryid": "",
+          "content": "",
+          "subentryrefs": []
+        }
+      ]
+    },
+    {
+      "id": 163,
+      "category": "Supports",
+      "entrytype": "example",
+      "image": "/img/163.png",
+      "keywords": [],
+      "outline": "Direction signs written in columns other than the support columns indicate *gestures*, which, unlike progressions of the body as a whole, are limited to the space that can be reached without moving away from the spot.",
+      "outlinerefs": [],
+      "detail": [
+        {
+          "subentryid": "",
+          "content": "",
+          "subentryrefs": []
+        }
+      ]
+    },
+    {
+      "id": 164,
+      "category": "Supports",
+      "entrytype": "example",
+      "image": "/img/164.png",
+      "keywords": [],
+      "outline": "*Three kinds of movements of the body as a whole* are written in the support columns.",
+      "outlinerefs": [],
+      "detail": [
+        {
+          "subentryid": "164a",
+          "content": "First, the most frequently used is *stepping*, that is, the transference of weight from one foot to the other. Ordinary direction signs in the support columns indicate steps.",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "164b–d",
+          "content": "*Second, taking support on other parts of the body* (dealt with in Part G). Examples are lying down (164b,b′), sitting down (164c), and kneeling down (164d).",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "164e",
+          "content": "*Third, turns* are also written in the support columns, as they are movements of the body as a whole. While steps create a progression of the whole body, turns create a revolution of the body and, therefore, a change of front. Turns are an essential factor in creating floor patterns. In *Example* 164e the direction of the path is at first towards the foreground and then, because of the turn, towards the right side of the room. Turns are dealt with in Part E III 237–259.",
+          "subentryrefs": [237, 238, 239, 240, 241, 242, 243, 244, 245, 246, 247, 248, 249, 250, 251, 252, 253, 254, 255, 256, 257, 258, 259]
+        }
+      ]
+    },
+    {
+      "id": 165,
+      "category": "Supports",
+      "entrytype": "symbol",
+      "image": "/img/165.png",
+      "keywords": [],
+      "outline": "Add this next",
+      "outlinerefs": [],
+      "detail": [
+        {
+          "subentryid": "159a",
+          "content": "",
+          "subentryrefs": [35]
+        },
+        {
+          "subentryid": "159b",
+          "content": "",
+          "subentryrefs": [39]
+        }
+      ]
+    },
+    {
       "id": 314,
       "category": "Body Sign",      
       "entrytype": "symbol",
