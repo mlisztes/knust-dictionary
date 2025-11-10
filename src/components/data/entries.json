@@ -4241,6 +4241,490 @@
       ]
     },
     {
+      "id": 173,
+      "category": "Supports",
+      "entrytype": "example",
+      "image": "/img/173.png",
+      "keywords": [],
+      "outline": "*In standing on both feet*, the centre of gravity is above a point between the two feet. Therefore, this point is “place”. In cases of this kind, place must be distinguished from the points of support of the two feet.",
+      "outlinerefs": [],
+      "detail": [
+        {
+          "subentryid": "Principle",
+          "content": "In open positions on both feet, *the step length is measured from* the point of support of *one foot to* the point of support of *the other*.",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "173a–c",
+          "content": "In the 2nd position (**173a**) and 4th position (**173b**) the right foot is one step-length away from the left, and both are a half step-length away from place. Also, if the feet are together in 1st position (**173c**), the true place is between the two points of support, at the spot where the two feet touch each other.",
+          "subentryrefs": []
+        }
+      ]
+    },
+    {
+      "id": 174,
+      "category": "Supports",
+      "entrytype": "example",
+      "image": "/img/174.png",
+      "keywords": [],
+      "outline": "With the two principles of “place” (169) and of the width of open positions on both feet (173), all *steps and jumps in, into, and from double positions* can be written clearly.",
+      "outlinerefs": [169, 173],
+      "detail": [
+        {
+          "subentryid": "",
+          "content": "Simultaneously moving to a support on “place”  from an open position on both feet creates *a sliding movement to the centre*.",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "174a–b",
+          "content": "In *Example* **174a** the feet slide together from 2nd position and in *Example* **174b** from 4th position. Because this sliding is inevitable, it does not need to be specially written.",
+          "subentryrefs": []
+        }
+      ]
+    },
+    {
+      "id": 175,
+      "category": "Supports",
+      "entrytype": "example",
+      "image": "/img/175.png",
+      "keywords": [],
+      "outline": "After standing on both feet in an open position, if one foot should perform a new step, this foot must first be released from the floor in order to be able to move. This means that the whole weight of the body is taken by the other leg, and that the centre of gravity is moved vertically above its point of support, which now becomes “place”. This *preparatory shift of weight* can be expressed with a support sign which is joined to the previous sign by a “caret” (*see* 560a,b). This caret indicates that only a shift of weight occurs but not an actual step (**175b,c**). *Note:* Such a preparatory shift of weight can also be expressed by writing a sign for touching the floor for the leg to be released (**175b′**) (*see* touching the floor, 534-541).",
+      "outlinerefs": [560, 534, 535, 536, 537, 538, 539, 540, 541],
+      "detail": [
+        {
+          "subentryid": "175a",
+          "content": "The preparatory shift of the weight is understood without a support sign plus caret being written. *Example* **175a** begins in 2nd position. The weight must be shifted to the supporting point of the left leg in the upbeat, so that this point becomes “place”, and the right leg becomes free to move into place beside the other leg.",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "175b",
+          "content": "Here, the same event as in **175a** is described in more detail by means of the caret.",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "175b′",
+          "content": "The sign for touching the floor in the right leg gesture column indicates that the right leg becomes free and the left leg takes the whole weight.",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "175c",
+          "content": "In this example the preparatory shift of the weight is emphasised by performing it very slowly.",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "175d",
+          "content": "The right foot crosses over beyond the point of support of the left foot.",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "175e",
+          "content": "From a crossed position the right foot moves to an open position beyond the point of support of the left foot.",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "175f",
+          "content": "The right foot steps in front of the former point of support of the left.",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "175g",
+          "content": "The right foot steps almost in front of the former “place”.",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "175h",
+          "content": "With a large step towards right-forward, the right foot is placed in front of its own former point of support.",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "Note to 175h",
+          "content": "Step-length is dealt with in 649.",
+          "subentryrefs": [649]
+        },
+        {
+          "subentryid": "175i",
+          "content": "The feet change places",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "175j",
+          "content": "The same event as in *Example* **i**, but with the preparatory shift of the weight written.",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "175k",
+          "content": "The feet change places",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "175 l",
+          "content": "The same event as in *Example* **k**, but with the preparatory shift of the weight written.",
+          "subentryrefs": []
+        }
+      ]
+    },
+    {
+      "id": 176,
+      "category": "Supports",
+      "entrytype": "example",
+      "image": "/img/176.png",
+      "keywords": [],
+      "outline": "",
+      "outlinerefs": [],
+      "detail": [
+        {
+          "subentryid": "176a–b",
+          "content": "In *changing the level of support* in 2nd position (**176a**) or 4th position (**176b**), both feet stay on the same points of support. (*Compare with* sliding together to “place”, 174.)",
+          "subentryrefs": [174]
+        }
+      ]
+    },
+    {
+      "id": 177,
+      "category": "Supports",
+      "entrytype": "example",
+      "image": "/img/177.png",
+      "keywords": [],
+      "outline": "If *both feet move at the same time* from an open position on both feet, the step direction is judged from “place”.",
+      "outlinerefs": [],
+      "detail": [
+        {
+          "subentryid": "177a",
+          "content": "Sliding forward while remaining in 2nd position.",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "177b",
+          "content": "Sliding forward while bringing the feet together.",
+          "subentryrefs": []
+        }
+      ]
+    },
+    {
+      "id": 178,
+      "category": "Supports",
+      "entrytype": "example",
+      "image": "/img/178.png",
+      "keywords": [],
+      "outline": "",
+      "outlinerefs": [],
+      "detail": [
+        {
+          "subentryid": "178a",
+          "content": "*Closing to the middle* with two steps.",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "178b",
+          "content": "*Opening to both sides* with two steps. Because “place” is always a half step-length from the two points of support in open positions, it is necessary to take a small (narrow) step in both *Examples* **a** and **b**. (*See* step-length, 649.)",
+          "subentryrefs": [649]
+        }
+      ]
+    },
+    {
+      "id": 179,
+      "category": "Supports",
+      "entrytype": "example",
+      "image": "/img/179.png",
+      "keywords": [],
+      "outline": "**179–191: Jumps, Standing Still (Retentions), and Leg Gestures.**",
+      "outlinerefs": [180, 181, 182, 183, 184, 185, 186, 187, 188, 189, 190, 191],
+      "detail": [
+        {
+          "subentryid": "",
+          "content": "*Rule I.* A gap in one of the gesture columns means a retention, *i.e.* “no change” (*see* 217, 777–778)",
+          "subentryrefs": [217, 777, 778]
+        }
+      ]
+    },
+    {
+      "id": 180,
+      "category": "Supports",
+      "entrytype": "example",
+      "image": "/img/180.png",
+      "keywords": [],
+      "outline": "**179–191: Jumps, Standing Still (Retentions), and Leg Gestures.**",
+      "outlinerefs": [179, 181, 182, 183, 184, 185, 186, 187, 188, 189, 190, 191],
+      "detail": [
+        {
+          "subentryid": "",
+          "content": "*Rule II.* A gap in both support columns means a jump.",
+          "subentryrefs": []
+        }
+      ]
+    },
+    {
+      "id": 181,
+      "category": "Supports",
+      "entrytype": "example",
+      "image": "/img/181.png",
+      "keywords": [],
+      "outline": "**179–191: Jumps, Standing Still (Retentions), and Leg Gestures.**",
+      "outlinerefs": [179, 180, 182, 183, 184, 185, 186, 187, 188, 189, 190, 191],
+      "detail": [
+        {
+          "subentryid": "",
+          "content": "*Rule III.* The round retention sign placed in a support column means that the body part shown retains the weight. *Old way of writing: App. I 906",
+          "subentryrefs": [906]
+        }
+      ]
+    },
+    {
+      "id": 182,
+      "category": "Supports",
+      "entrytype": "example",
+      "image": "/img/182.png",
+      "keywords": [],
+      "outline": "**179–191: Jumps, Standing Still (Retentions), and Leg Gestures.**",
+      "outlinerefs": [179, 180, 181, 183, 184, 185, 186, 187, 188, 189, 190, 191],
+      "detail": [
+        {
+          "subentryid": "",
+          "content": "*Rule IV.* A movement symbol in only one of the support columns means that the body part in question takes the whole weight.",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "Note",
+          "content": "Movement symbols consist of direction signs (**182a**), action strokes (**182b**), and rotation signs (**182c**).",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "182a",
+          "content": "The right leg takes the whole body weight with a step.",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "182b",
+          "content": "The right leg takes the whole body weight with an unspecified step.",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "182c",
+          "content": "The right leg takes the whole body weight for the turn.",
+          "subentryrefs": []
+        }
+      ]
+    },
+    {
+      "id": 183,
+      "category": "Supports",
+      "entrytype": "example",
+      "image": "/img/183.png",
+      "keywords": [],
+      "outline": "**179–191: Jumps, Standing Still (Retentions), and Leg Gestures.**",
+      "outlinerefs": [179, 180, 181, 182, 184, 185, 186, 187, 188, 189, 190, 191],
+      "detail": [
+        {
+          "subentryid": "",
+          "content": "*Consequence of Rule IV.* If a body part which has been supporting is to retain some of the weight during the next transference, a retention sign must be written.",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "183a",
+          "content": "Standing on both legs after the transference.",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "183b",
+          "content": "Standing on the left leg and an unspecified right body part after the transference.",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "183c",
+          "content": "After the turn the weight is distributed on both legs.",
+          "subentryrefs": []
+        }
+      ]
+    },
+    {
+      "id": 184,
+      "category": "Supports",
+      "entrytype": "example",
+      "image": "/img/184.png",
+      "keywords": [],
+      "outline": "**179–191: Jumps, Standing Still (Retentions), and Leg Gestures.**",
+      "outlinerefs": [179, 180, 181, 182, 183, 185, 186, 187, 188, 189, 190, 191],
+      "detail": [
+        {
+          "subentryid": "",
+          "content": "*Consequence of Rule IV* A movement symbol in one support column cancels previous retention signs in both suport columns.",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "184a",
+          "content": "The left leg is released because of the step on to the right.",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "184b",
+          "content": "The left leg is released because of the turn on the right.",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "184c",
+          "content": "The left leg is released because of shifting the weight on to an unspecified right body part.",
+          "subentryrefs": []
+        }
+      ]
+    },
+    {
+      "id": 185,
+      "category": "Supports",
+      "entrytype": "example",
+      "image": "/img/185.png",
+      "keywords": [],
+      "outline": "**179–191: Jumps, Standing Still (Retentions), and Leg Gestures.**",
+      "outlinerefs": [179, 180, 181, 182, 183, 184, 186, 187, 188, 189, 190, 191],
+      "detail": [
+        {
+          "subentryid": "",
+          "content": "*Consequence of Rule IV* A retention sign must be written each time to indicate that some weight is kept on one body part during several transferences on to another body part.",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "185a–b",
+          "content": "In all three movements in *Examples* **185a,b** the weight is distributed on two body parts.",
+          "subentryrefs": []
+        }
+      ]
+    },
+    {
+      "id": 186,
+      "category": "Supports",
+      "entrytype": "example",
+      "image": "/img/186.png",
+      "keywords": [],
+      "outline": "**179–191: Jumps, Standing Still (Retentions), and Leg Gestures.**",
+      "outlinerefs": [179, 180, 181, 182, 183, 184, 185, 187, 188, 189, 190, 191],
+      "detail": [
+        {
+          "subentryid": "",
+          "content": "*Statement:* As soon as a leg performs a gesture it no longer carries the body weight, therefore, a leg gesture cancels a retention sign previously written for that leg in the support column.",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "186a",
+          "content": "The action stroke means that the supporting leg, and therefore the whole body, leaves the floor, *i.e.* a jump occurs. The diretion of the leg gesture is not indicated. One assumes in such cases that a leg gesture is chosen appropriate to a harmonious performance of the jump.",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "186b",
+          "content": "*Example* **186a** shows a hop. The appropriate behaviour of the take-off leg would be to hang vertically down. This can also be expressed by a direction sign.",
+          "subentryrefs": []
+        }
+      ]
+    },
+    {
+      "id": 187,
+      "category": "Supports",
+      "entrytype": "example",
+      "image": "/img/187.png",
+      "keywords": [],
+      "outline": "**179–191: Jumps, Standing Still (Retentions), and Leg Gestures.**",
+      "outlinerefs": [179, 180, 181, 182, 183, 184, 185, 186, 188, 189, 190, 191],
+      "detail": [
+        {
+          "subentryid": "",
+          "content": "*Statement:* There is no reason to assume that the gesture of one leg cancels a retention sign written for the other leg.",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "187a–b",
+          "content": "No jump occurs in spite of the gap in both support columns. The retention sign for the left leg remains valid.",
+          "subentryrefs": []
+        }
+      ]
+    },
+    {
+      "id": 188,
+      "category": "Supports",
+      "entrytype": "example",
+      "image": "/img/188.png",
+      "keywords": [],
+      "outline": "**179–191: Jumps, Standing Still (Retentions), and Leg Gestures.**",
+      "outlinerefs": [179, 180, 181, 182, 183, 184, 185, 186, 187, 189, 190, 191],
+      "detail": [
+        {
+          "subentryid": "",
+          "content": "*Rule V.* If one leg performs a gesture after a support on both legs, the retention sign for the other leg means that this leg takes over the whole weight. (*Examples* 187a,b, **188**.)",
+          "subentryrefs": [187]
+        }
+      ]
+    },
+    {
+      "id": 189,
+      "category": "Supports",
+      "entrytype": "example",
+      "image": "/img/189.png",
+      "keywords": [],
+      "outline": "**179–191: Jumps, Standing Still (Retentions), and Leg Gestures.**",
+      "outlinerefs": [179, 180, 181, 182, 183, 184, 185, 186, 187, 188, 190, 191],
+      "detail": [
+        {
+          "subentryid": "189a–b",
+          "content": "*Statement:* Rotation of the legs does not indicate that the leg in question either takes the weight or is released from weight-bearing (**189a,b**).",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "189b–c",
+          "content": "*Statement:* There is no reason to assume that a rotation sign in the leg gesture column cancels a retention sign in the support column (**189b,c**).",
+          "subentryrefs": []
+        }
+      ]
+    },
+    {
+      "id": 190,
+      "category": "Supports",
+      "entrytype": "example",
+      "image": "/img/190.png",
+      "keywords": [],
+      "outline": "**179–191: Jumps, Standing Still (Retentions), and Leg Gestures.**",
+      "outlinerefs": [179, 180, 181, 182, 183, 184, 185, 186, 187, 188, 189, 191],
+      "detail": [
+        {
+          "subentryid": "",
+          "content": "*Special Note:* In a transition of the centre of gravity into a slanting or horizontal situation, the body ceases to be supported, as in a jump (*see* 523a–d′). Therefore, in the kinetogram of a fall, as in the kinetogram of a jump, there will be a gap in both support columns. One can see from the indication for the centre of gravity that the movement is a fall and not a jump. *Example* **190** means falling backwards into sitting with straight legs.",
+          "subentryrefs": [523]
+        }
+      ]
+    },
+    {
+      "id": 191,
+      "category": "Supports",
+      "entrytype": "example",
+      "image": "/img/191.png",
+      "keywords": [],
+      "outline": "**179–191: Jumps, Standing Still (Retentions), and Leg Gestures.**",
+      "outlinerefs": [179, 180, 181, 182, 183, 184, 185, 186, 187, 188, 189, 190],
+      "detail": [
+        {
+          "subentryid": "",
+          "content": "A hop is a jump returning to the same foot.",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "191a",
+          "content": "Hopping on the spot",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "191b",
+          "content": "Hopping with progression",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "191c",
+          "content": "A hop in which only the gesture of the free leg is written. The gesture of the hopping leg results from the context. The leg will hang vertically down during the hop.",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "191d",
+          "content": "Here, the gesture of the jumping leg is written, and the retention sign for the supporting leg expresses that it does not leave the floor until the gesture for this leg is written.",
+          "subentryrefs": []
+        }
+      ]
+    },
+    {
       "id": 314,
       "category": "Body Sign",      
       "entrytype": "symbol",
