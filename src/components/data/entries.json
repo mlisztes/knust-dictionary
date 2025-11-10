@@ -4015,21 +4015,228 @@
     {
       "id": 165,
       "category": "Supports",
-      "entrytype": "symbol",
+      "entrytype": "example",
       "image": "/img/165.png",
       "keywords": [],
-      "outline": "Add this next",
+      "outline": "**The level of supports** (*see* 111).",
+      "outlinerefs": [111],
+      "detail": [
+        {
+          "subentryid": "165a",
+          "content": "High supports are performed on the toe and ball of the foot, with heels raised and knees stretched. The technical term in classical dance is on *half-point*.",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "165b",
+          "content": "Medium level supports are performed on the whole foot, with straight legs.",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "165c",
+          "content": "Low supports are performed on the whole foot, with slightly bent knees. The technical term in classical dance is *demi-plié*.",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "Note",
+          "content": "The level in supporting on other parts of the body, as in sitting, kneeling, lying, moving on all fours, and handstands, is dealt with in Part G (*see* 448, 457, 467, 473, 477c–e). The level of supports in knee bends is dealt with in H 517b,c, 518.",
+          "subentryrefs": [448, 457, 467, 473, 477, 517, 518]
+        }
+      ]
+    },
+    {
+      "id": 166,
+      "category": "Supports",
+      "entrytype": "example",
+      "image": "/img/166.png",
+      "keywords": [],
+      "outline": "",
       "outlinerefs": [],
       "detail": [
         {
-          "subentryid": "159a",
-          "content": "",
-          "subentryrefs": [35]
+          "subentryid": "166a–c",
+          "content": "In performing a step, *the preparatory gesture* (similar to **166a**) and *the resulting gesture of the other leg* at the completion of the step (similar to **166b**) are natural results. It would be superfluous to write these two gestures. Therefore, a simple direction sign in the support column is sufficient to describe the whole movement (**166c**).",
+          "subentryrefs": []
         },
         {
-          "subentryid": "159b",
+          "subentryid": "166d–e",
+          "content": "However, if something unusual occurs during the step, it must be written, *e.g.* *an especially slow leg gesture* (**166d**) or a *touch of the floor* at the end of the step (**166e**).",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "Note 1.",
+          "content": "The small circle in the support column (**166d**) is a retention sign, the meaning of which is explained in Figure 181.",
+          "subentryrefs": [181]
+        },
+        {
+          "subentryid": "Note 2.",
+          "content": "Touching the floor with the feet (**166e**) is dealt with under Part J 534–541.",
+          "subentryrefs": [534, 535, 536, 537, 538, 539, 540, 541]
+        }
+      ]
+    },
+    {
+      "id": 167,
+      "category": "Supports",
+      "entrytype": "example",
+      "image": "/img/167.png",
+      "keywords": [],
+      "outline": "**Fine points in the notation of steps.**",
+      "outlinerefs": [],
+      "detail": [
+        {
+          "subentryid": "167a",
+          "content": "In a normal step there is no interruption in the shift of the centre of gravity during the preparatory leg gesture for the next step. The shift of the centre of gravity lasts from the beginning to the end of the support sign (**167a**) (*a mobile state*).",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "167b",
+          "content": "Here, the leg gesture is notated separately, and the shift of weight is interrupted during the gesture (*a stable state*).",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "167c",
+          "content": "Here, the shift of the weight is continued during the gesture of the free leg (*mobile state*).",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "167d",
+          "content": "If the centre of gravity is already moving towards the aim of the next step during a leg gesture, the centre of gravity sign within a vertical bracket is added (**167d**) (*see* 527).",
+          "subentryrefs": [527]
+        },
+        {
+          "subentryid": "167e",
+          "content": "If a step on to one leg is made at exactly the same time as a gesture with the other leg, a jump-like step is created (**167e**). The technical term for this is *coupé* (*see* 197a).",
+          "subentryrefs": [197]
+        },
+        {
+          "subentryid": "167f",
+          "content": "In a normal step (**167a**) it is understood that the leg is relaxed in a natural way while it passes the other leg on its path from one point of support to the next. This means that the knee is slightly bent during the course of the gesture, and in the case of a medium level or a high step, it is only stretched immediately before the foot takes the weight. This bending and stretching of the knee is not notated. Therefore, *walking with stiff knees* must be explicitly indicated by retention signs above the knee signs (**167f**) (*compare with* 323a, 788a).",
+          "subentryrefs": [323, 788]
+        }
+      ]
+    },
+    {
+      "id": 168,
+      "category": "Supports",
+      "entrytype": "symbol",
+      "image": "/img/168.png",
+      "keywords": [],
+      "outline": "Explanatory sketches have been added to the examples of the problems of supports (169–178) and to the examples of the problems of the direction of jumps (201–216). They can be distinguished from floor pattern designs by the absence of a surrounding line. The position signs in these sketches have a special meaning which is explained in Figure **168**.",
+      "outlinerefs": [169, 170, 171, 172, 173, 174, 175, 176, 177, 178, 201, 202, 203, 204, 205, 206, 207, 208, 209, 210, 211, 212, 213, 214, 215, 216],
+      "detail": [
+        {
+          "subentryid": "",
           "content": "",
-          "subentryrefs": [39]
+          "subentryrefs": []
+        }
+      ]
+    },
+    {
+      "id": 169,
+      "category": "Supports",
+      "entrytype": "example",
+      "image": "/img/169.png",
+      "keywords": [],
+      "outline": "**169–178** **Problems of change of support.** The key question to ask in all problems of change of support is:  “where is ′place′?” For it is from this spot that the direction of the next step is determined. *Principle:  “Place” is the point vertically beneath the centre of gravity.*",
+      "outlinerefs": [170, 171, 172, 173, 174, 175, 176, 177, 178],
+      "detail": [
+        {
+          "subentryid": "169a",
+          "content": "In standing on one foot the point of support is identical with “place”. In consequence, after a step onto one foot has been completed, this foot is “on place”, for the centre of gravity is vertically above the new point of support.",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "169b",
+          "content": "Consequently, *stepping to place with one foot* always means that this foot is *placed beside the other*.",
+          "subentryrefs": []
+        }
+      ]
+    },
+    {
+      "id": 170,
+      "category": "Supports",
+      "entrytype": "example",
+      "image": "/img/170.png",
+      "keywords": [],
+      "outline": "",
+      "outlinerefs": [],
+      "detail": [
+        {
+          "subentryid": "170a",
+          "content": "The essential factor is always the path made by the whole body (centre of gravity). If there is a change in the step direction, an angle is created in the path. It is understood that the foot takes the shortest way into the first step in the new direction, making a short cut across the corner (*see* the dotted arrow in sketch **170a**).",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "170b",
+          "content": "The extra gesture must be written if one foot joins the other before stepping into the new direction, as in this example, which shows a *pas de basque*.",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "Note",
+          "content": "The narrow low leg gesture (*sur le cou de pied*) is explained in Part L I 660a.",
+          "subentryrefs": [660]
+        }
+      ]
+    },
+    {
+      "id": 171,
+      "category": "Supports",
+      "entrytype": "example",
+      "image": "/img/171.png",
+      "keywords": [],
+      "outline": "",
+      "outlinerefs": [],
+      "detail": [
+        {
+          "subentryid": "171a",
+          "content": "A change of step direction into the opposite direction creates a return to the original point of support, therefore, the motif stays on the spot.",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "171b",
+          "content": "However, if the second foot always follows the first foot to the new point of support (stepping into “place”), progression results.",
+          "subentryrefs": []
+        }
+      ]
+    },
+    {
+      "id": 172,
+      "category": "Supports",
+      "entrytype": "example",
+      "image": "/img/172.png",
+      "keywords": [],
+      "outline": "*Swaying* is the *transference of the weight in opposite directions* with the free foot remaining on the floor. (For the carriage of the trunk in swaying, *see* 425d–g.)",
+      "outlinerefs": [425],
+      "detail": [
+        {
+          "subentryid": "Note",
+          "content": "The signs for touching the floor which are used in Figures **172a–c** are dealt with in Part J 534–541.",
+          "subentryrefs": [534, 535, 536, 537, 538, 539, 540, 541]
+        },
+        {
+          "subentryid": "172a",
+          "content": "Swaying in 1st position.",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "172b",
+          "content": "Swaying in 2nd position.",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "172c",
+          "content": "Swaying in 4th position.",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "172d",
+          "content": "If there are no signs for touching the floor, real steps take place, *i.e.* the free foot is lifted from the floor. The steps may progress or stay on the spot.",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "172e",
+          "content": "The narrow sign in the leg gesture column of the free leg indicates that the foot is more distinctly lifted from the floor (*see* 660, 661).",
+          "subentryrefs": [660, 661]
         }
       ]
     },
