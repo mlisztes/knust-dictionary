@@ -4725,6 +4725,185 @@
       ]
     },
     {
+      "id": 192,
+      "category": "Supports",
+      "entrytype": "example",
+      "image": "/img/192.png",
+      "keywords": [],
+      "outline": "**192–196: The five possible jumps.** With regard to the participation of the legs and the timing of this participation in a jump, there are five possibilities.",
+      "outlinerefs": [193, 194, 195, 196],
+      "detail": [
+        {
+          "subentryid": "",
+          "content": "*First*, jumping from one foot to the other, or leaping; technical term, *jeté*.",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "192a–c",
+          "content": "Figure **192a** shows this jump in a simplified form, and in Figure **192b** one way of performing it is shown in more detail. The sliding touch of the floor made by the leg gesture which initiates the jump should be noted. These touches are dealt with under Part J 550. Note also that in a jump from one foot to the other (*jeté*), the swing of the free leg is usually a preparation for the jump. Figure **192b** is performed in a harmonious energy-saving manner, whereas the jump in **192c**, in which both legs are simultaneously thrown sideways (*écarté*), needs a greater degree of energy.",
+          "subentryrefs": [550]
+        }
+      ]
+    },
+    {
+      "id": 193,
+      "category": "Supports",
+      "entrytype": "example",
+      "image": "/img/193.png",
+      "keywords": [],
+      "outline": "**192–196: The five possible jumps.** With regard to the participation of the legs and the timing of this participation in a jump, there are five possibilities.",
+      "outlinerefs": [192, 194, 195, 196],
+      "detail": [
+        {
+          "subentryid": "",
+          "content": "*Second*, jumping from one foot to both; technical term, *assemblé*.",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "193a–b",
+          "content": "Figure **193a** shows this jump in a simplified form, and in Figure **193b** one way of performing it is shown in more detail.",
+          "subentryrefs": []
+        }
+      ]
+    },
+    {
+      "id": 194,
+      "category": "Supports",
+      "entrytype": "example",
+      "image": "/img/194.png",
+      "keywords": [],
+      "outline": "**192–196: The five possible jumps.** With regard to the participation of the legs and the timing of this participation in a jump, there are five possibilities.",
+      "outlinerefs": [192, 193, 195, 196],
+      "detail": [
+        {
+          "subentryid": "",
+          "content": "*Third*, jumping from both feet to both feet.",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "194a–b",
+          "content": "Examples of such a jump are changement (**194a**) and entrechat (**194b**). Compare with the detailed description of the entrechat in 141c.",
+          "subentryrefs": [141]
+        }
+      ]
+    },
+    {
+      "id": 195,
+      "category": "Supports",
+      "entrytype": "example",
+      "image": "/img/195.png",
+      "keywords": [],
+      "outline": "**192–196: The five possible jumps.** With regard to the participation of the legs and the timing of this participation in a jump, there are five possibilities.",
+      "outlinerefs": [192, 193, 194, 196],
+      "detail": [
+        {
+          "subentryid": "",
+          "content": "*Fourth*, jumping from both feet to one; technical term, *sissonne*.",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "195a–c",
+          "content": "Figure **195a** shows this jump in a simplified form, and in Figure **195b** one way of performing it is shown in more detail. We prefer this more detailed description because it shows the behaviour of both legs, and also because the simultaneous take-off from both legs is emphasised. Figure **195c** shows the same jump written more simply.",
+          "subentryrefs": []
+        }
+      ]
+    },
+    {
+      "id": 196,
+      "category": "Supports",
+      "entrytype": "example",
+      "image": "/img/196.png",
+      "keywords": [],
+      "outline": "**192–196: The five possible jumps.** With regard to the participation of the legs and the timing of this participation in a jump, there are five possibilities.",
+      "outlinerefs": [192, 193, 194, 195],
+      "detail": [
+        {
+          "subentryid": "",
+          "content": "*Fifth*, jumping from one foot to the same foot; technical term, *temps levé* (*see* hopping, 191).",
+          "subentryrefs": [191]
+        }
+      ]
+    },
+    {
+      "id": 197,
+      "category": "Supports",
+      "entrytype": "example",
+      "image": "/img/197.png",
+      "keywords": [],
+      "outline": "**Jump-like steps.**",
+      "outlinerefs": [],
+      "detail": [
+        {
+          "subentryid": "197a",
+          "content": "The *coupé*, in which one foot takes the weight at the same moment as the other leaves the floor, is a mixture between a real jump and a step (*compare with* 167e).",
+          "subentryrefs": [167]
+        },
+        {
+          "subentryid": "197b",
+          "content": "Two or more progressions on the same leg which immediately follow each other result in a *sliding hop*, which also is neither a real step nor a real hop (**197b**) (*compare with* 234). Because the body has no time to leave the floor between the individual steps, one only lifts the weight as much as is necessary to slide forwards.",
+          "subentryrefs": [234]
+        },
+        {
+          "subentryid": "197c",
+          "content": "Also in an *échappé, i.e.* in an immediate transition from a closed to an open position or from an open to a closed position (**197c**), there is no time to leave the ground. In this case also only as much weight is lifted from the floor as will enable one to slide into the new position (*see* 232a,b). Example **197c** shows *échappé* from 5th position (198) to 4th position and back to 5th.",
+          "subentryrefs": [232]
+        }
+      ]
+    },
+    {
+      "id": 198,
+      "category": "Supports",
+      "entrytype": "example",
+      "image": "/img/198.png",
+      "keywords": [],
+      "outline": "The *height of a jump* depends on the length of time in the air (shown by the length of the gap in the support columns) and on the distance covered by the jump.",
+      "outlinerefs": [],
+      "detail": [
+        {
+          "subentryid": "198a–d",
+          "content": "Only a small jump can be performed in a short time (**198a**). It is possible to jump higher and farther in a longer time (**198b**). In the same length of time a jump on the spot can be even higher (**198c**). *Running* is a series of very small leaps (**198d**).",
+          "subentryrefs": []
+        }
+      ]
+    },
+    {
+      "id": 199,
+      "category": "Supports",
+      "entrytype": "example",
+      "image": "/img/199.png",
+      "keywords": [],
+      "outline": "If *the height of a jump deviates* from the natural rule discussed in 198, it must be explicitly written.",
+      "outlinerefs": [198],
+      "detail": [
+        {
+          "subentryid": "199a",
+          "content": "An accent sign written in the support column and pointing directly downwards indicates a jump leaving the floor with vigour, so that a *good height* is reached within a comparatively short time (*see* 720d, 521d′, and *compare with* 521d).",
+          "subentryrefs": [720, 521]
+        },
+        {
+          "subentryid": "199b",
+          "content": "Jumps just skimming the floor are indicated by the round retention sign above the centre of gravity sign; technical term, *terre à terre*. This indicates that the level of the centre of gravity above the floor is not changed (*see* 521c).",
+          "subentryrefs": [521]
+        }
+      ]
+    },
+    {
+      "id": 200,
+      "category": "Supports",
+      "entrytype": "example",
+      "image": "/img/200.png",
+      "keywords": [],
+      "outline": "",
+      "outlinerefs": [],
+      "detail": [
+        {
+          "subentryid": "200a–c",
+          "content": "*Preparatory knee bend and final elasticity* are understood and, hence, are not written. As a rule, the notation in *Example* **200a** is sufficient; however, these details can be added as in **200b**. Only an especially emphasised preparatory and final elasticity must be written (**200c**). *Example* **200c** describes in detail a *pas de chat*.",
+          "subentryrefs": []
+        }
+      ]
+    },
+    {
       "id": 314,
       "category": "Body Sign",      
       "entrytype": "symbol",
