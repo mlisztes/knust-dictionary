@@ -4904,6 +4904,422 @@
       ]
     },
     {
+      "id": 201,
+      "category": "Supports",
+      "entrytype": "example",
+      "image": "/img/201.png",
+      "keywords": [],
+      "outline": "",
+      "outlinerefs": [],
+      "detail": [
+        {
+          "subentryid": "201a",
+          "content": "Jumping to land beside the other foot.",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "201b",
+          "content": "Jumping to the side, followed by a step to the new place.",
+          "subentryrefs": []
+        }
+      ]
+    },
+    {
+      "id": 202,
+      "category": "Supports",
+      "entrytype": "example",
+      "image": "/img/202.png",
+      "keywords": [],
+      "outline": "",
+      "outlinerefs": [],
+      "detail": [
+        {
+          "subentryid": "202a",
+          "content": "Jumping forward with the feet together.",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "202b",
+          "content": "The same finishing position; the left foot leaving and landing a little later.",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "202c",
+          "content": "The left foot lands a little later than the right and in front of it.",
+          "subentryrefs": []
+        }
+      ]
+    },
+    {
+      "id": 203,
+      "category": "Supports",
+      "entrytype": "example",
+      "image": "/img/203.png",
+      "keywords": [],
+      "outline": "",
+      "outlinerefs": [],
+      "detail": [
+        {
+          "subentryid": "203a",
+          "content": "Jumping into 2nd position (*échappé sauté*).",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "203b",
+          "content": "Closing to the middle from the 4th position.",
+          "subentryrefs": []
+        }
+      ]
+    },
+    {
+      "id": 204,
+      "category": "Supports",
+      "entrytype": "example",
+      "image": "/img/204.png",
+      "keywords": [],
+      "outline": "",
+      "outlinerefs": [],
+      "detail": [
+        {
+          "subentryid": "204a",
+          "content": "Closing from the 2nd position to the right side.",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "204b",
+          "content": "Closing to the side with two jumps.",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "204c",
+          "content": "The same result, starting with the left leg.",
+          "subentryrefs": []
+        }
+      ]
+    },
+    {
+      "id": 205,
+      "category": "Supports",
+      "entrytype": "example",
+      "image": "/img/205.png",
+      "keywords": [],
+      "outline": "",
+      "outlinerefs": [],
+      "detail": [
+        {
+          "subentryid": "205a",
+          "content": "Jumping backwards in the 2nd position; the direction of the jump is indicated by support signs.",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "205b",
+          "content": "The same jump; the direction of the jump is indicated by a path sign.",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "205c",
+          "content": "Shifting the 2nd position right-forward with a jump.",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "205d",
+          "content": "With a jump shifting the 4th position left-forward.",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "205e",
+          "content": "The 2nd position is shifted a half step-length to the left.",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "205f",
+          "content": "First a jump, then a step, giving the same result as the previous example, except that the right foot carries no weight.",
+          "subentryrefs": []
+        }
+      ]
+    },
+    {
+      "id": 206,
+      "category": "Supports",
+      "entrytype": "example",
+      "image": "/img/206.png",
+      "keywords": [],
+      "outline": "",
+      "outlinerefs": [],
+      "detail": [
+        {
+          "subentryid": "206a",
+          "content": "Both feet landing in front of the former point of support of the left.",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "206b",
+          "content": "The same result, starting with the right foot.",
+          "subentryrefs": []
+        }
+      ]
+    },
+    {
+      "id": 207,
+      "category": "Supports",
+      "entrytype": "example",
+      "image": "/img/207.png",
+      "keywords": [],
+      "outline": "",
+      "outlinerefs": [],
+      "detail": [
+        {
+          "subentryid": "207a",
+          "content": "Jumping forward from the 2nd position into a closed position.",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "207b",
+          "content": "The same in “position writing”, with the help of a path sign.",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "207c",
+          "content": "Jumping backwards into a second position.",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "207d",
+          "content": "The same in “position writing”, with the help of a path sign.",
+          "subentryrefs": []
+        }
+      ]
+    },
+    {
+      "id": 208,
+      "category": "Supports",
+      "entrytype": "example",
+      "image": "/img/208.png",
+      "keywords": [],
+      "outline": "",
+      "outlinerefs": [],
+      "detail": [
+        {
+          "subentryid": "208a",
+          "content": "Opening to the right from first to second position.",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "208b",
+          "content": "The same jump in “position writing” with the help of the staple (*see* 560c–e).",
+          "subentryrefs": [560]
+        },
+        {
+          "subentryid": "208c",
+          "content": "The same result, the left foot starting a little later.",
+          "subentryrefs": []
+        }
+      ]
+    },
+    {
+      "id": 209,
+      "category": "Supports",
+      "entrytype": "example",
+      "image": "/img/209.png",
+      "keywords": [],
+      "outline": "",
+      "outlinerefs": [],
+      "detail": [
+        {
+          "subentryid": "209a",
+          "content": "The 2nd position travels to the left in two stages.",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "209b",
+          "content": "Closing to the left, passing the former point of support of the left foot.",
+          "subentryrefs": []
+        }
+      ]
+    },
+    {
+      "id": 210,
+      "category": "Supports",
+      "entrytype": "example",
+      "image": "/img/210.png",
+      "keywords": [],
+      "outline": "",
+      "outlinerefs": [],
+      "detail": [
+        {
+          "subentryid": "210a",
+          "content": "Crossing over and jumping forwards in a crossed position.",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "210b",
+          "content": "The same in “position writing”, with the help of a path sign.",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "210c",
+          "content": "Crossing over while jumping backwards.",
+          "subentryrefs": []
+        }
+      ]
+    },
+    {
+      "id": 211,
+      "category": "Supports",
+      "entrytype": "example",
+      "image": "/img/211.png",
+      "keywords": [],
+      "outline": "",
+      "outlinerefs": [],
+      "detail": [
+        {
+          "subentryid": "211a",
+          "content": "Jumping from an open to a crossed 2nd position, taking off from the left foot and landing on both.",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "211b",
+          "content": "Changing from a crossed into an open position, starting with a jump on to the right foot.",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "211c",
+          "content": "Jumping from a crossed to a closed position, landing in front of the former point of support of the left foot.",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "211d",
+          "content": "The same result, starting with the right foot.",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "211e",
+          "content": "Jumping from a crossed to a closed position while travelling to the right beyond the former point of support of the left foot.",
+          "subentryrefs": []
+        }
+      ]
+    },
+    {
+      "id": 212,
+      "category": "Supports",
+      "entrytype": "example",
+      "image": "/img/212.png",
+      "keywords": [],
+      "outline": "",
+      "outlinerefs": [],
+      "detail": [
+        {
+          "subentryid": "212a",
+          "content": "Travelling to the right in 4th position.",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "212b",
+          "content": "The same in “position writing”, with the help of a path sign.",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "212c",
+          "content": "Opening to the left into 4th position, starting with a jump on to the right leg.",
+          "subentryrefs": []
+        }
+      ]
+    },
+    {
+      "id": 213,
+      "category": "Supports",
+      "entrytype": "example",
+      "image": "/img/213.png",
+      "keywords": [],
+      "outline": "",
+      "outlinerefs": [],
+      "detail": [
+        {
+          "subentryid": "213a",
+          "content": "Landing nearly in front of the middle of the former position.",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "213b",
+          "content": "Landing in front of the middle of the former position, jumping in the manner of a *sissonne*.",
+          "subentryrefs": []
+        }
+      ]
+    },
+    {
+      "id": 214,
+      "category": "Supports",
+      "entrytype": "example",
+      "image": "/img/214.png",
+      "keywords": [],
+      "outline": "",
+      "outlinerefs": [],
+      "detail": [
+        {
+          "subentryid": "214a",
+          "content": "Travelling one step-length to the right in 2nd position.",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "214b",
+          "content": "Travelling to the right in 2nd position, written with the help of a path sign.",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "214c",
+          "content": "Jumping to 2nd position, landing to the right of the former point of support.",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "214d",
+          "content": "Travelling a half step-length to the right in 2nd position.",
+          "subentryrefs": []
+        }
+      ]
+    },
+    {
+      "id": 215,
+      "category": "Supports",
+      "entrytype": "example",
+      "image": "/img/215.png",
+      "keywords": [],
+      "outline": "",
+      "outlinerefs": [],
+      "detail": [
+        {
+          "subentryid": "215a",
+          "content": "Travelling one step-length forwards in 4th position.",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "215b",
+          "content": "Opening to a 4th position to land in front of the former point of support.",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "215c",
+          "content": "Travelling a half step-length forwards in 4th position.",
+          "subentryrefs": []
+        }
+      ]
+    },
+    {
+      "id": 216,
+      "category": "Supports",
+      "entrytype": "example",
+      "image": "/img/216.png",
+      "keywords": [],
+      "outline": "",
+      "outlinerefs": [],
+      "detail": [
+        {
+          "subentryid": "",
+          "content": "First, the right foot lands immediately in front of the former point of support of the left; second, the left foot lands immediately behind the former standing point of the right; third and fourth, jumping directly on to the spot the other foot has just left. (*See* 140.)",
+          "subentryrefs": [140]
+        }
+      ]
+    },
+    {
       "id": 314,
       "category": "Body Sign",      
       "entrytype": "symbol",
