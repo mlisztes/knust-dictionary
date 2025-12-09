@@ -5320,6 +5320,164 @@
       ]
     },
     {
+      "id": 217,
+      "category": "Supports",
+      "entrytype": "symbol",
+      "image": "/img/217.png",
+      "keywords": [],
+      "outline": "**217–219: The Five Types of Retentions and Their Uses with Supports** (*Compare with* 78a–d and 778–781.)",
+      "outlinerefs": [218, 219, 78, 778, 779, 780, 781],
+      "detail": [
+        {
+          "subentryid": "",
+          "content": "In addition to the retentions which have been dealt with in *Examples* 181 and 183, which indicate standing still or keeping the weight on a part of the body, four other kinds of retentions and one variation of the third kind are known in Kinetography. These other kinds of retention occur chiefly in connection with gestures. The nature of these retentions is illustrated in sketches **217a–d**.",
+          "subentryrefs": [181, 183]
+        },
+        {
+          "subentryid": "",
+          "content": "Sketch **217a** is the starting position from which one moves each time into the positions shown in sketches **217b–d**. In each of these three movements the arm observes one of the retentions which will now be explained.",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "",
+          "content": "During the movement from position **217a** to **217b**, the position of the arm in relation to the trunk remains unchanged; no movement occurs in the shoulder joint, from where arm movements originate. This maintenance of a body position is called **retention in the body** (also body hold). This retention in the body is written with the round retention sign (**217e**). (*Examples* under 332d, 341a, 357a, 390a, 429a, 430b, 433b, 435e, 492d, 582a, 778j, 779b,b′,d″,g.)",
+          "subentryrefs": [332, 341, 357, 390, 429, 430, 433, 435, 492, 582, 778, 779]
+        },
+                {
+          "subentryid": "Note",
+          "content": "The retention in the body means that no change occurs in relation to the cross of the body axes. The symbol for this cross of axes (101c) contains a small, empty circle. The connection between the two ideas of the retention in the body and the cross of the body axes becomes evident, therefore, in the symbols expressing these ideas.",
+          "subentryrefs": [101]
+        },
+        {
+          "subentryid": "",
+          "content": "During the movement from position (**a**) to (**c**), the arm remains in the same spatial direction; at both the beginning and the end the arm is directed towards forward-low. This maintenance of a direction in relation to a fixed cross of axes is called **retention in space** (also space hold). This retention is written with the symbol shown in Figure **217f**. (*Examples* under 219b, 251c, 253a,c, 254a–c, 255, 282b, 323b, 327b, 328b, 332a, 341b, 357b,g,h, 390b,f, 398f, 425g, 429d, 430a, 432m, 434c,d, 437b, 442w, 492c, 503b, 582b, 778k, 779a,d,d′,d″,f,g, 780c,d.)",
+          "subentryrefs": [219, 251, 253, 254, 255, 282, 323, 327, 328, 332, 341, 357, 390, 398, 425, 429, 430, 432, 434, 437, 442, 492, 503, 582, 778, 779]
+        },
+        {
+          "subentryid": "Note 1",
+          "content": "The retention in space means that no change occurs in relation to the constant cross of axes. The symbol for this cross of axes (101d) contains a small, empty square, while the symbol for the retention in space consists of an empty diamond. The connection between the two ideas of the constant cross of axes and the retention in space becomes evident, therefore, in the symbols expressing them.",
+          "subentryrefs": [101]
+        },
+        {
+          "subentryid": "Note 2",
+          "content": "The diamond is also found as a part of the following symbols: **(1)** the symbol for the central area of a room (see 862e, 865j), **(2)** the symbol for the periphery of a room (see 863f–h), **(3)** the symbol for an area (see 866), **(4)** the symbols for fixed points (see 125, 890), **(5)** the symbol for retention on a spot (see 217d,g, 778d,g), **(6)** the symbol for the standard retention (see 217i, 778i), **(7)** the symbol for the relation to the front of the untwisted end of the body (see 889f), **(8)** the symbol for the number of a measure (see 883c).",
+          "subentryrefs": [862, 865, 863, 866, 125, 890, 217, 778, 889, 883]
+        },
+        {
+          "subentryid": "",
+          "content": "During the movement from position (**a**) to (**d**), the hand remains resting on the ballet bar, resulting in the arm being bent. This retention of one part of the body on the same spot while the rest of the body is moving is called **retention at a spot** (also spot hold). This retention is written with the symbol shown in Figure **217g**. *Old way of writing: Appendix I 907.",
+          "subentryrefs": [907]
+        },
+        {
+          "subentryid": "Note",
+          "content": "In the case of a retention on a spot the small black disc is placed in a diamond (**217d,g,h**, 778d,g,h), while in the symbol for the pelvis (315m, 418c) it is in a square, and in the case of the symbols for the palm of the hand and the sole of the foot (375b, 408b) it is in an open rectangle.",
+          "subentryrefs": [778, 315, 418, 375, 408]
+        },
+        {
+          "subentryid": "",
+          "content": "*Example* **217d** shows a case of a true retention on a spot, *i.e.* retaining a body part on the same place, as well as a special case of this retention, *i.e.* **retention at the spot of relationship**. The spot of relationship in *Example* **217d** is the place were the hand grasps the bar. In the kinetogram this retention at the spot of relationship can be recognised by the fact that the symbol for the retention at a spot is placed above a relation sign, in this case above the symbol for a grasp (**217h**). (For further *Examples see* 277a, 288a,b, 300b, 301a, 323c, 332b,c, 341c, 357d,h, 390c,e, 429e, 430c, 431b, 490c, 521g, 524b, 543g,h,i, 549d, 582c, 609, 778 1, 779c, 780g,h, 781a, 786c, 787d, 853k,k′.)",
+          "subentryrefs": [277, 288, 300, 301, 323, 332, 341, 357, 390, 429, 430, 431, 490, 521, 524, 543, 549, 582, 609, 778, 779, 780, 781, 786, 787, 853]
+        },
+        {
+          "subentryid": "",
+          "content": "During the movement from the starting position (**a**) to position (**c**), another kind of retention occurs in addition to the retention in space. This is the **standard retention**, in which the relationship of the arm to the standard cross of axes (*see* 101b, 889a) does not change, *i.e.* the relation to the front of the performer is not altered.",
+          "subentryrefs": [101, 889]
+        },
+        {
+          "subentryid": "Note",
+          "content": "Because directional indications relate on principle to the front of the performer, *i.e.* to the standard cross of axes (*see* 108), a gap ina gesture column must logically mean the standard retention. However, experience has shown that many colleagues do not grasp the idea and logic of the standard retention. Therefore, they would analyse and write the behaviour of the arm during the transition into position (**c**) as a retention in space.",
+          "subentryrefs": [108]
+        },
+        {
+          "subentryid": "",
+          "content": "If the arms observe the standard retention during a turn of the body, the trunk, or the chest *in a non-upright position*, this retention is not identical with any other retention.",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "",
+          "content": "It has been decided that in such extraordinary cases a special retention sign should be used (**217i**). (*Examples* under 357g, and in log-rolling, 492a,b, 779e,h, 889 l.)",
+          "subentryrefs": [357, 492, 779, 889]
+        }
+      ]
+    },
+    {
+      "id": 218,
+      "category": "Supports",
+      "entrytype": "example",
+      "image": "/img/218.png",
+      "keywords": [],
+      "outline": "**217–219: The Five Types of Retentions and Their Uses with Supports** (*Compare with* 78a–d and 778–781.)",
+      "outlinerefs": [217, 219, 78, 778, 779, 780, 781],
+      "detail": [
+        {
+          "subentryid": "",
+          "content": "**The round retention sign** placed **in a support column** means that the body part in question continues carrying the weight (*see* 181, 183–189). When written in the support column, the round retention sign has basically a different meaning than when it appears in a gesture column, where it represents retention in the body (*see* text for 217b,e). In plain standing still, in which the weight is kept on one part of the body, the differentiation between the three types of retentions (in the body, in space, and on the spot) is not essential; the idea of continued holding of the weight is sufficient.",
+          "subentryrefs": [181, 183, 184, 185, 186, 187, 188, 189, 217]
+        },
+        {
+          "subentryid": "218a",
+          "content": "To round off, it may be mentioned that standing still (**218a**) incorporates all three kinds of retentions, *i.e.* one stays on the spot (retention on a spot), the leg does not change its direction in space (retention in space), and no movement occurs in the hip joint (retention in the body).",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "218b",
+          "content": "However, in Figure *218b*, in which the retention sign indicates that the left leg must keep some of the weight while the right takes part of it, only a “spot hold” occurs. The left foot remains at the old point of support. There is no “space hold”, because the left leg, which was formerly directed vertically down, is towards left-low in the new position; nor is there a “body hold”, because movement has occurred in the left hip joint.",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "218c,d",
+          "content": "**Gliding supports** are recognised from the fact that the foot keeps the whole weight while the body is travelling. Such a movement occurs in skating. This way of moving can be expressed either by placing the round retention sign in a second support sign (**218c**), or by placing the retention sign in the support column and indicating the travelling by a path sign (**218d**). (*See* 233a–c.)",
+          "subentryrefs": [233]
+        },
+        {
+          "subentryid": "218e",
+          "content": "A small circle placed in a turn sign is the way of writing a *twist* of a particular body part in itself. In this case the small circle does not mean a retention in the body in the sense of *Examples* 217b,e, but the fact that the body part is fixed at one end so that the rotation of the free end produces a twist. (*See* 257 l, 371e, 372a,b, 434g, 435c″.) ** *Compare with* the small circle in a path sign: Appendix II 960.",
+          "subentryrefs": [217, 257, 371, 372, 434, 435, 960]
+        }
+      ]
+    },
+    {
+      "id": 219,
+      "category": "Supports",
+      "entrytype": "example",
+      "image": "/img/219.png",
+      "keywords": [],
+      "outline": "**217–219: The Five Types of Retentions and Their Uses with Supports** (*Compare with* 78a–d and 778–781.)",
+      "outlinerefs": [217, 218, 78, 778, 779, 780, 781],
+      "detail": [
+        {
+          "subentryid": "",
+          "content": "**The sign for retention in space written in the support column.** In the following three cases the symbol for the retention in space can appear in a support column.",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "219a",
+          "content": "In an **“amalgamated turn”** (*see* 256a,b, 780b) the progression of the body, *i.e.* the shift of the weight from one foot to the other, and the turn occur at the same time. Therefore, the step direction will change. In *Example* **219a**, one begins with a step backwards, which, however, is converted into a step forwards because of the half turn. The symbol for a retention in space which is placed within the support sign indicates that there is no change in the step direction in relation to the constant cross of axes. For instance, if the shift of the weight starts towards the background, it continues towards the background until the end of the step. Therefore, such a transference of weight is called an **“undeviating transference”** (*see* 256a,b). (*Compare with* the undeviating curve, 252, the circular path on a slanting plane, 285c, and the undeviating straight path, 480c, 481f, 491b, 497b′,c′.)",
+          "subentryrefs": [256, 780, 252, 285, 480, 481, 491, 497]
+        },
+        {
+          "subentryid": "Note",
+          "content": "It should be noticed in this case that the turn sign is written at the side of the kinetogram because there is no space within the staff. This is similar to one way of writing a simultaneous turn and change of level of support (*see* 248c,e,f). -",
+          "subentryrefs": [248]
+        },
+        {
+          "subentryid": "219b",
+          "content": "In *a passive retention in space*, the symbol for a retention in space is written in the empty support column. The symbol expresses that the whole body of the passive person, who is carried by an active partner, remains in the same space direction while the active partner turns.",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "219c",
+          "content": "The symbol for a **“secret turn”** consists of the symbol for a retention in space containing a pin sign, and is written in a support column. The secret turn is purely a mental decision to establish a new front; no movement occurs. In this example the secret turn expresses that from the moment it is written the direction that was formerly to the right of the performer is now regarded as in front (*see* 495,470, 456d).",
+          "subentryrefs": [495, 470, 456]
+        },
+        {
+          "subentryid": "Note",
+          "content": "The sign for a *retention in space* is written *in a meeting sign* if the active partner in a meeting has a change of front at the same time. Figure **219d** means that the partner (P) must be on the left side of the active person, judged from the front of the active person before he turns. (*See* 622.) Figure **219e** means that the partner must be in front of the active person, judged from the front of the active person before the turn.",
+          "subentryrefs": [622]
+        }
+      ]
+    },
+    {
       "id": 314,
       "category": "Body Sign",      
       "entrytype": "symbol",
@@ -11912,7 +12070,7 @@
         {
           "subentryid": "798e",
           "content": "The double line which is placed between a body sign and a movement sign is not an equal sign. It is derived from the double line which indicates the beginning of a kinetogram. (*See* 897d.) In this case the double line indicates that the body sign is not included in the representation of the duration of the movement. (*See* 317e, 479a, 501f, 751c, 897d′.)",
-          "subentryrefs": [897, 317, 479, 501, 751, 897]
+          "subentryrefs": [897, 317, 479, 501, 751]
         }
       ]
     },
