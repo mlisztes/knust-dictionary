@@ -5478,6 +5478,441 @@
       ]
     },
     {
+      "id": 220,
+      "category": "Supports",
+      "entrytype": "example",
+      "image": "/img/220.png",
+      "keywords": [],
+      "outline": "**220–224: Supporting part of the body weight**",
+      "outlinerefs": [221, 222, 223, 224],
+      "detail": [
+        {
+          "subentryid": "220a–e",
+          "content": "If both feet are supporting, each carries only part of the body weight. If both feet have the same level of support (**220c**), each takes half of the weight. The centre of gravity is vertically above the middle of the line connecting the two feet. If there are different levels of support (**220b,d**), the foot with the lower level carries more weight than the other. The centre of gravity is now vertically above a point between the middle of the connecting line and the standing point of the foot with the lower level. If one foot alone carries the whole weight (**220a,e**), the centre of gravity is vertically above the point of support.",
+          "subentryrefs": []
+        }
+      ]
+    },
+    {
+      "id": 221,
+      "category": "Supports",
+      "entrytype": "example",
+      "image": "/img/221.png",
+      "keywords": [],
+      "outline": "**220–224: Supporting part of the body weight**",
+      "outlinerefs": [220, 222, 223, 224],
+      "detail": [
+        {
+          "subentryid": "221b,d",
+          "content": "*A mixture of a support and a leg gesture* (**221b,d**) is written if one foot carries more weight than the other in spite of having the same level of support. The centre of gravity is then vertically above a point between the middle of the connecting line and the point of support of the foot carrying more weight.",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "Note",
+          "content": "Compare with the analogous way of writing the slight lift of the body weight in preparation for the *échappé* (232b) and the sliding hop (234b).",
+          "subentryrefs": [232, 234]
+        }
+      ]
+    },
+    {
+      "id": 222,
+      "category": "Supports",
+      "entrytype": "example",
+      "image": "/img/222.png",
+      "keywords": [],
+      "outline": "**220–224: Supporting part of the body weight**",
+      "outlinerefs": [220, 221, 223, 224],
+      "detail": [
+        {
+          "subentryid": "222",
+          "content": "If *only one foot takes part of the weight, the mixture of a support and a leg gesture* indicates, first, that this foot does not take the whole weight and, second, that the centre of gravity is not shifted vertically above it. Therefore, the *body* is *not properly in balance*, and either the weight must immediately be transferred onto the other foot, as in *Example* **222**, or the body must fall (*compare with* 523–525).",
+          "subentryrefs": [523, 524, 525]
+        }
+      ]
+    },
+        {
+      "id": 223,
+      "category": "Supports",
+      "entrytype": "example",
+      "image": "/img/223.png",
+      "keywords": [],
+      "outline": "**220–224: Supporting part of the body weight**",
+      "outlinerefs": [220, 221, 222, 224],
+      "detail": [
+        {
+          "subentryid": "223",
+          "content": "Carrying part of the body weight can also be expressed by the inclusion bow (*see* 319c,d, 564). The empty inclusion bow means that the body part normally referred to in the column in which the inclusion bow is now placed participates in a chief movement. (*Compare with* 417a.)",
+          "subentryrefs": [319, 564, 417]
+        },
+        {
+          "subentryid": "223a",
+          "content": "In *Example* **223a** the left step is also partly a leg gesture, *i.e.* it does not completely take the weight. The left leg participates with a gesture in a step, *i.e.* in the movement of the body as a whole. This means that two-thirds of the movement is a step, and one-third is a gesture; or, in other words, the foot takes two-thirds of the weight.",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "223b",
+          "content": "In *Example* **223b** the leg gesture is the main movement, in which the body as a whole participates with a support. In this case the foot carries one-third of the weight. (*Example* under 243c.)",
+          "subentryrefs": [243]
+        }
+      ]
+    },
+    {
+      "id": 224,
+      "category": "Supports",
+      "entrytype": "example",
+      "image": "/img/224.png",
+      "keywords": [],
+      "outline": "**220–224: Supporting part of the body weight**",
+      "outlinerefs": [220, 221, 222, 223],
+      "detail": [
+        {
+          "subentryid": "224",
+          "content": "A similar partial support and unstable condition of the centre of gravity as in *Examples* 222–223 occurs if the centre of gravity has *a retention at the spot* during the transference of weight (*compare with* 524b, 521g).",
+          "subentryrefs": [222, 223, 524, 521]
+        },
+        {
+          "subentryid": "Note",
+          "content": "In *Examples* **222–224** the formerly supporting leg is released during the partial shift of the weight, so that an unstable situation of the centre of gravity occurs.",
+          "subentryrefs": [222, 223]
+        }
+      ]
+    },
+    {
+      "id": 225,
+      "category": "Supports",
+      "entrytype": "example",
+      "image": "/img/225.png",
+      "keywords": [],
+      "outline": "**225–230: Supporting on parts of the foot.** The same hooks and dashes which when added to a leg gesture indicate a touch of the floor by various parts of the foot (*see* 534) are also added to a support sign to indicate which part of the foot is taking the weight.",
+      "outlinerefs": [226, 227, 228, 229, 230, 534],
+      "detail": [
+        {
+          "subentryid": "225a–w",
+          "content": "Examples **225a—w** give a survey of the various *possibilities of taking the weight on different parts of the foot*.",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "225a",
+          "content": "Standing on the tips of the toes (*full point*) with the instep arched.",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "225b",
+          "content": "Standing on *3/4 point, i.e.* supporting on the whole of the toes with instep arched.",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "225c",
+          "content": "Usually the normal high support is considered to be *on half point (demi pointe)*. The weight is supported on the toes and ball of the foot, and the heel is lifted so that there is an angle of 45 degrees between the foot and the floor.",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "225d",
+          "content": "If one wants to be particularly sure that the latter position is achieved, one can write it as in *Example* **225d**.",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "225e",
+          "content": "Standing on *1/4 point*.",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "225f",
+          "content": "Standing on *1/8 point, i.e.* standing on the ball of the foot and toes, with the heel only slightly raised.",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "225g–k",
+          "content": "The five foot positions shown in **225a–f** can also be performed in a knee bend. In this case the hooks and dashes are added to the black support signs. (*Compare with* 518.) In the case of half point there is only one way of writing.",
+          "subentryrefs": [518]
+        },
+        {
+          "subentryid": "Note",
+          "content": "The various hooks and dashes indicate two things, first, which part of the foot takes the weight, and second, how high the heel is lifted off the floor. In the case of the high (**a–d**) and medium level supports (**e—f**), the hooks and dashes also indicate how high the whole body is lifted from standing on the whole foot.",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "225 l–p",
+          "content": "In *Examples* **225 l—p** standing on the whole foot and four possibilities of standing on the heel are shown.",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "225 l",
+          "content": "Standing on the whole foot. This contact symbol is only used in exceptional cases, because in medium level and low supports standing on the whole foot is understood (see 111b,c).",
+          "subentryrefs": [111]
+        },
+        {
+          "subentryid": "225m",
+          "content": "Standing on the heels with the feet only slightly lifted from the floor.",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "225n",
+          "content": "Standing on the heels with the feet lifted from the floor.",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "225o",
+          "content": "Standing on the heels with the feet noticeably lifted from the floor.",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "225p",
+          "content": "Standing on the heels with the feet considerably lifted from the floor.",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "Note",
+          "content": "The hooks and dashes indicate, first, which part of the foot takes the weight, and second, how far the toes are lifted away from the floor and, hence, how much the ankle is bent. In contrast to having the weight on the balls of the feet or on the toes, in the case of the heels, the hooks and dashes do not indicate raising or lowering the whole body.",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "225q–u",
+          "content": "The foot positions shown in *Examples* **225 l–p** can also occur in low supports.",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "225v",
+          "content": "In standing on point (*see* **225a,g**), one supports on the actual tip of the toes. If, in exceptional cases, supporting on the toe nails must be indicated, it is written as in *Example* **225v**. *Old way of writing: Appendix I 919.",
+          "subentryrefs": [919]
+        },
+        {
+          "subentryid": "225w",
+          "content": "If supporting on the pads of the toes is needed, it is written as in **225w**.",
+          "subentryrefs": []
+        }
+      ]
+    },
+    {
+      "id": 226,
+      "category": "Supports",
+      "entrytype": "example",
+      "image": "/img/226.png",
+      "keywords": [],
+      "outline": "**225–230: Supporting on parts of the foot.** The same hooks and dashes which when added to a leg gesture indicate a touch of the floor by various parts of the foot (*see* 534) are also added to a support sign to indicate which part of the foot is taking the weight.",
+      "outlinerefs": [225, 227, 228, 229, 230, 534],
+      "detail": [
+        {
+          "subentryid": "226a,b",
+          "content": "*Example* **226a** shows supporting on the points of the toes, as in dancing *on point*, and *Example* **226b** shows walking with no weight on the heels, often described in everyday language as “*walking on tip-toe*”.",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "226c",
+          "content": "*Example* **226c** indicates that, from standing on the balls of the feet, one should twice go down on to the whole foot with an accent and lift again. Because one is already standing on the front part of the foot, only *the heels are dropped and make the sound*. As one can see from this example, the change of the supporting part of the foot can be expressed by placing contact signs in the support column.",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "226d",
+          "content": "*Jump* from first to second position *to land on the heels*.",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "226e,f",
+          "content": "*Swaying forwards and backwards* while standing on both feet. The symbols for touching the floor with the whole foot, which are written in the leg gesture columns (*see*537, 539b), indicate that neither the heels in the first movement nor the front of the foot in the second are released from the floor. The contact of the whole foot with the floor is maintained. The same movement could also be described as shifting the centre of gravity (*see* 526a). In **226f** swaying forwards, backwards, and again forwards is expressed only with contact signs, without the help of new support signs.",
+          "subentryrefs": [537, 539, 526]
+        }
+      ]
+    },
+    {
+      "id": 227,
+      "category": "Supports",
+      "entrytype": "example",
+      "image": "/img/227.png",
+      "keywords": [],
+      "outline": "**225–230: Supporting on parts of the foot.** The same hooks and dashes which when added to a leg gesture indicate a touch of the floor by various parts of the foot (*see* 534) are also added to a support sign to indicate which part of the foot is taking the weight.",
+      "outlinerefs": [225, 226, 228, 229, 230, 534],
+      "detail": [
+        {
+          "subentryid": "227a",
+          "content": "*Supports on bent legs. Example* **227a** shows a low knee bend (*grand piié*), in which the heels are slightly lifted from the floor. It is stressed that the heels leave the floor as little as possible. The knee bend is described by means of the centre of gravity sign (*see* 517a).",
+          "subentryrefs": [517]
+        },
+        {
+          "subentryid": "227b",
+          "content": "A *2/3* knee bend, supporting on the *half point*. The knee bend is expressed by means of narrow signs in the leg gesture columns (see 517a′, 662).",
+          "subentryrefs": [517, 662]
+        },
+        {
+          "subentryid": "227c",
+          "content": "A *5/6* knee bend, supporting on point.",
+          "subentryrefs": []
+        }
+      ]
+    },
+    {
+      "id": 228,
+      "category": "Supports",
+      "entrytype": "example",
+      "image": "/img/228.png",
+      "keywords": [],
+      "outline": "**225–230: Supporting on parts of the foot.** The same hooks and dashes which when added to a leg gesture indicate a touch of the floor by various parts of the foot (*see* 534) are also added to a support sign to indicate which part of the foot is taking the weight.",
+      "outlinerefs": [225, 226, 227, 229, 230, 534],
+      "detail": [
+        {
+          "subentryid": "228",
+          "content": "*Styles of walking*. Several different hooks and dashes added to one support sign describe the transition from one part of the foot to another. The symbols are read, like other symbols, from the bottom upwards. The gap between two contact signs shows the duration of the transition. *Other way of writing this transition: Appendix II 958.",
+          "subentryrefs": [958]
+        },
+        {
+          "subentryid": "228a",
+          "content": "*Everyday walking*, in which the weight passes successively from the heel to the ball of the foot.",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "228b",
+          "content": "A *dance-like walk*, in which the weight passes successively from the toes to the whole foot.",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "228c",
+          "content": "A walk in which the *whole foot is placed flat on the floor*.",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "228d",
+          "content": "The retention sign placed above the contact sign for the heel means that only the heel is supporting during the first part of the transference. The transition to supporting on the whole foot happens suddenly, and not successively as in *Examples* **228a,b**. (*Compare with* the round retention sign above contact signs, 543f, 549c,d, 582a, 786d.)",
+          "subentryrefs": [543, 549, 582, 786]
+        }
+      ]
+    },
+    {
+      "id": 229,
+      "category": "Supports",
+      "entrytype": "example",
+      "image": "/img/229.png",
+      "keywords": [],
+      "outline": "**225–230: Supporting on parts of the foot.** The same hooks and dashes which when added to a leg gesture indicate a touch of the floor by various parts of the foot (*see* 534) are also added to a support sign to indicate which part of the foot is taking the weight.",
+      "outlinerefs": [225, 226, 227, 228, 230, 534],
+      "detail": [
+        {
+          "subentryid": "229",
+          "content": "*Turning on different parts of the feet*. (*Compare with* 250.) If only one part of the foot takes the weight in a turn, the hooks or dashes can either be attached to the preceding support sign (**229a**, *turning on the heel*) or to the turn sign (**229b**, *turning on the ball of the foot*). *Example* **229c** shows the so-called *promenade* of classical ballet, a turn on the ball of the foot, which is interrupted several times by lowering the heel.",
+          "subentryrefs": [250]
+        }
+      ]
+    },
+    {
+      "id": 230,
+      "category": "Supports",
+      "entrytype": "example",
+      "image": "/img/230.png",
+      "keywords": [],
+      "outline": "**225–230: Supporting on parts of the foot.** The same hooks and dashes which when added to a leg gesture indicate a touch of the floor by various parts of the foot (*see* 534) are also added to a support sign to indicate which part of the foot is taking the weight.",
+      "outlinerefs": [225, 226, 227, 228, 229, 534],
+      "detail": [
+        {
+          "subentryid": "230",
+          "content": "*Supporting on parts of the feet with leg rotation*. By inserting leg rotations between supporting on the ball and the heel, a progression of the body is made, although no direction signs appear in the support column to suggest it. This progression can be shown in the kinetogram by adding the symbol for a straight path containing an empty direction sign. (*Compare with* deviations, 275, and leg rotations, 396–398, 402.)",
+          "subentryrefs": [275, 396, 397, 398, 402]
+        },
+        {
+          "subentryid": "230a",
+          "content": "Because of the rotation of both legs to the right while supporting on the heels, and the rotation of both legs to the left while supporting on the balls of the feet, a progression to the right results.",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "230b",
+          "content": "Transition into standing on the balls of the feet, then, rotation of both legs to the right while the heels slide over the floor, followed by a change to standing on the heels, finally returning to the unrotated state of the legs while the balls slide over the floor. (*See* 550, sliding touches of the floor, and 402c, leg rotations.)",
+          "subentryrefs": [550, 402]
+        }
+      ]
+    },
+    {
+      "id": 231,
+      "category": "Supports",
+      "entrytype": "example",
+      "image": "/img/231.png",
+      "keywords": [],
+      "outline": "**231–234: Sliding changes of support** We distinguish among four different kinds of *sliding steps and supports*: the sliding step (**231a,b**), sliding from one double position to another (*échappé*, **232**), a gliding support (**233a–c**), and a sliding hop (**234**).",
+      "outlinerefs": [232, 233, 234],
+      "detail": [
+        {
+          "subentryid": "231",
+          "content": "In a *sliding step* one slides into the step; the stepping foot slides over the floor while the body progresses and the whole weight (**231a**) or part of it (**231b**) is transferred. In a sliding step two hooks or dashes of the *same* kind are attached to the support sign. Two *different* hooks or dashes, however, indicate the style of placing the foot while stepping without sliding (*see* 228a,b). (*Compare with* sliding touches of the floor, 550.)",
+          "subentryrefs": [228, 550]
+        },
+        {
+          "subentryid": "231a",
+          "content": "A *chassé*.",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "231b",
+          "content": "Sliding into a closed position.",
+          "subentryrefs": []
+        }
+      ]
+    },
+    {
+      "id": 232,
+      "category": "Supports",
+      "entrytype": "example",
+      "image": "/img/232.png",
+      "keywords": [],
+      "outline": "**231–234: Sliding changes of support** We distinguish among four different kinds of *sliding steps and supports*: the sliding step (**231a,b**), sliding from one double position to another (*échappé*, **232**), a gliding support (**233a–c**), and a sliding hop (**234**).",
+      "outlinerefs": [231, 233, 234],
+      "detail": [
+        {
+          "subentryid": "232",
+          "content": "An *échappé* is similar to a sliding step in so far as the feet slide into the new position. However, the body does not progress, *i.e.* the centre of gravity stays above the same spot, and there is no transference from one foot to the other, because the movement is from one double position to another. The *échappé* is a stage between a step and a jump. In order to slide from one position to the next, one must make the body light, as in a jump, and release the weight momentarily from the floor. However, one must not actually leave the floor, as in a true jump.",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "232a",
+          "content": "In the simplified way of writing an *échappé*, the support signs are written immediately following one another. From the absence of gaps in the support columns, it can be seen that the body does not leave the floor.",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "232b",
+          "content": "This example shows in detail how the previous example should be performed. The preparatory lifts of the weight, in which contact with the floor is not lost, are identified by the retention signs in the support columns, together with the action strokes in the leg gesture columns. (*Compare with* mixture of a support with a leg gesture, 221b,d, 222.) The transferences of weight which follow are sliding steps, *i.e.* the feet slide over the floor while progressing towards the ew points of support and while taking the weight. (*Compare with* 231a,b.)",
+          "subentryrefs": [221, 222, 231]
+        }
+      ]
+    },
+    {
+      "id": 233,
+      "category": "Supports",
+      "entrytype": "example",
+      "image": "/img/233.png",
+      "keywords": [],
+      "outline": "**231–234: Sliding changes of support** We distinguish among four different kinds of *sliding steps and supports*: the sliding step (**231a,b**), sliding from one double position to another (*échappé*, **232**), a gliding support (**233a–c**), and a sliding hop (**234**).",
+      "outlinerefs": [231, 232, 234],
+      "detail": [
+        {
+          "subentryid": "233",
+          "content": "In *gliding supports*, in contrast to sliding steps, no transference of weight occurs; one is standing on a foot, and this foot keeps the weight while the body as a whole progresses. The way of writing this kind of movement results from the fact that a retention and a progression occur at the same time. One can write either a retention sign within a support sign, as in **233a**, or a retention sign in the support column and a path sign containing an empty direction sign beside the kinetogram, as in **233b**. If one glides on a circular path, as in *skating*, the empty direction sign is placed in a circular path sign, as in **233c**. (*Compare with* 218c,d, 275.)",
+          "subentryrefs": [218, 275]
+        }
+      ]
+    },
+    {
+      "id": 234,
+      "category": "Supports",
+      "entrytype": "example",
+      "image": "/img/234.png",
+      "keywords": [],
+      "outline": "**231–234: Sliding changes of support** We distinguish among four different kinds of *sliding steps and supports*: the sliding step (**231a,b**), sliding from one double position to another (*échappé*, **232**), a gliding support (**233a–c**), and a sliding hop (**234**).",
+      "outlinerefs": [231, 232, 233],
+      "detail": [
+        {
+          "subentryid": "234a,b",
+          "content": "The earthbound *sliding hop* is another way of progressing on a leg which already supports the weight. In contrast to a gliding support, one lightens the body and releases the foot without taking it off the floor, and then takes weight again at the new point of support.",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "234a",
+          "content": "Two or more support signs are written immediately one after the other, because there are several shifts of weight.",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "234b",
+          "content": "In *Example* **234b** the sliding hop is described in detail. Similar to an *échappé* (232b), the preparatory lightening of the body is described as releasing part of the weight, *i.e.* as a stage between a step and a leg gesture. The following shift of weight is a sliding step; the foot slides over the floor while it travels to the new point of support, taking weight at the same time. (*Compare with* 231.)",
+          "subentryrefs": [231, 232]
+        }
+      ]
+    },
+    {
       "id": 314,
       "category": "Body Sign",      
       "entrytype": "symbol",
