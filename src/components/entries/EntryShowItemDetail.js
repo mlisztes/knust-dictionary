@@ -8,7 +8,7 @@ import ReactMarkdown from 'react-markdown';
 const EntryShowItemDetail = (props) => {
 
     const includedoutlinerefs = props.outlinerefs.filter((reference) =>{
-        return Number(reference) < Number(159) || (Number(313) < Number(reference) && Number(reference) < Number(446)) || (Number(792) < Number(reference) && Number(reference) < Number(851)) || Number(894) < Number(reference) 
+        return Number(reference) < Number(235) || (Number(313) < Number(reference) && Number(reference) < Number(446)) || (Number(792) < Number(reference) && Number(reference) < Number(851)) || Number(894) < Number(reference) 
     });
 
     let outlinerefs = includedoutlinerefs.map((ref, i) => {
@@ -23,7 +23,7 @@ const EntryShowItemDetail = (props) => {
 
     let details = props.detail.map((detail, j) => {
         const includedsubentryrefs = detail.subentryrefs.filter((reference) => {
-            return Number(reference) < Number(159) || (Number(313) < Number(reference) && Number(reference) < Number(446)) || (Number(792) < Number(reference) && Number(reference) < Number(851)) || Number(894) < Number(reference) 
+            return Number(reference) < Number(235) || (Number(313) < Number(reference) && Number(reference) < Number(446)) || (Number(792) < Number(reference) && Number(reference) < Number(851)) || Number(894) < Number(reference) 
         });
         return(
             <div key={j} className="subentry">
@@ -42,7 +42,7 @@ const EntryShowItemDetail = (props) => {
         );
     })
 
-    let interval1 = Array.from(Array(159).keys(), n => n + 1);
+    let interval1 = Array.from(Array(234).keys(), n => n + 1);
     let interval2 = Array.from(Array(132).keys(), n => n + 314);
     let interval3 = Array.from(Array(58).keys(), n => n + 793);
     let interval4 = Array.from(Array(108).keys(), n => n + 895);
