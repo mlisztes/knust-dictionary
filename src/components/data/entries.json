@@ -4921,6 +4921,71 @@
           "subentryid": "201b",
           "content": "Jumping to the side, followed by a step to the new place.",
           "subentryrefs": []
+        },
+        {
+          "subentryid": "201–206",
+          "content": "**The direction of a jump.** The direction of a jump is written according to the same rules as the direction of a step (*compare with* problems of supports, 169-178). The meaning of the pin signs in the explanatory sketches beside the examples is explained in Figure 168.",
+          "subentryrefs": [169, 170, 171, 172, 173, 174, 175, 176, 177, 178, 168]
+        },
+        {
+          "subentryid": "",
+          "content": "**In the following examples eleven instructions must be observed.**",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "",
+          "content": "*First:* In order to write and read correctly, it is essential to recognise which leg is the “take-off leg” and which leg is the “landing leg”. In Figure **201a**, one jumps off the right foot and lands on the left, and in Figure **201b** vice versa.",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "",
+          "content": "*Second:* In jumping *from one* leg, the direction is judged from the standing point of the take-off leg.",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "",
+          "content": "*Third:* In jumping *from both* legs simultaneously, the direction is judged from “place”, *i.e.* the point between both feet (**203b, 205a, 206a, 207a, 211c, 212a, 213b**).",
+          "subentryrefs": [203, 205, 206, 207, 211, 212, 213]
+        },
+        {
+          "subentryid": "",
+          "content": "*Fourth:* Te width of open positions on two feet is always judged from the standing point of one foot to that of the other (*see* the principle explained in Figure **173**). (The step-length is dealt with in 649.) In the 2nd position (see Figure **203a**) and the 4th position (*see* Figure **203b**) the right foot is one step-length away from the left, and both are a half step-length from “place” (*compare with* 173a,b).",
+          "subentryrefs": [173, 649, 203]
+        },
+        {
+          "subentryid": "",
+          "content": "*Fifth:* If one leg is lifted before the other, the standing point of the second leg becomes “place”. The release of the first leg can be written either as a leg gesture, as in Figures **204b,c, 205f, 206b, 211d,e, and 213a**; with an action stroke, as in Figsures **209a,b**; or as a preparatory shift of the weight from both feet to one, as in Figures **205e, 211a,b**. The latter way of writing is explained in Figures **175b,c** (*see* 560a,b).",
+          "subentryrefs": [204, 205, 206, 211, 213, 209, 175, 560]
+        },
+        {
+          "subentryid": "",
+          "content": "*Sixth:* Simultaneous landing on both feet in a closed position (*assemblé*) can easily be seen by two identical direction signs in the support columns (**202a, 203b, 204a, 206a,b, 207a,b, 211c,e**).",
+          "subentryrefs": [202, 203, 204, 206, 207, 211]
+        },
+        {
+          "subentryid": "",
+          "content": "*Seventh:* If the feet do not land simultaneously, the landing point of the first foot becomes “place” (**201b, 202b,c, 204b,c, 205f, 208c, 209a,b, 211b,d, 212c**).",
+          "subentryrefs": [202, 204, 205, 208, 209, 211, 212]
+        },
+        {
+          "subentryid": "",
+          "content": "*Eight:* For simultaneous progressions to the right in 2nd position, the direction and the length of the jump are judged for both feet from the standing point of the left foot, and for simultaneous progression to the left, from the standing point of the right foot. This way of writing these movements is visually convincing and can only have one meaning (**214a,d**). (For wide and narrow signs *see* 649.)",
+          "subentryrefs": [214, 649]
+        },
+        {
+          "subentryid": "",
+          "content": "*Ninth:* For simultaneous progression forward in 4th position, the direction and length of the jump are judged for both feet from the standing point of the back foot, and for simultaneous progression backwards, from the standing point of the front foot (**215a,c**).",
+          "subentryrefs": [215]
+        },
+        {
+          "subentryid": "",
+          "content": "*Tenth:* Jumps from both feet to both feet can also be notated by means of “position writing”. In this case the direction signs in the support columns indicate the landing position of the feet. The progression of the body is indicated by the sign for a straight path containing an empty direction sign, written on the right of the staff. This empty direction sign indicates the direction of the jump (**205b,c,d, 207b,d, 210b, 212b, 214b**). (*Compare with* deviating with the indication of step direction, 275, and with the indication of direction in opening ranks, 278b, and closing ranks, 279a,b.) There are some cases in which one can unmistakably notate a jump only by writing in positions with an additional path sign, *e.g.* if a 2nd position (**205c**) or a 4th position (**205d**) is shifted on a diagonal line by a jump.",
+          "subentryrefs": [205, 207, 210, 212, 214, 275, 278, 279]
+        },
+        {
+          "subentryid": "",
+          "content": "*Eleventh:* A second aid in writing jumps in “position writing” is the “staple”, a vertical angular bracket which indicates that the foot is anchored to its former point of support. This means that it returns to the same spot after the jump (**208b**). (Staple, *see* 59 and 560c—e.) While in the way of writing explained in the tenth instruction, the direction of the jump is expressed by the path sign, in the way of writing with the staple, the direction of the jump must be concluded from the relationship between the starting and finishing positions.",
+          "subentryrefs": [208, 59, 560]
         }
       ]
     },
@@ -4947,6 +5012,71 @@
           "subentryid": "202c",
           "content": "The left foot lands a little later than the right and in front of it.",
           "subentryrefs": []
+        },
+        {
+          "subentryid": "201–206",
+          "content": "**The direction of a jump.** The direction of a jump is written according to the same rules as the direction of a step (*compare with* problems of supports, 169-178). The meaning of the pin signs in the explanatory sketches beside the examples is explained in Figure 168.",
+          "subentryrefs": [169, 170, 171, 172, 173, 174, 175, 176, 177, 178, 168]
+        },
+        {
+          "subentryid": "",
+          "content": "**In the following examples eleven instructions must be observed.**",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "",
+          "content": "*First:* In order to write and read correctly, it is essential to recognise which leg is the “take-off leg” and which leg is the “landing leg”. In Figure **201a**, one jumps off the right foot and lands on the left, and in Figure **201b** vice versa.",
+          "subentryrefs": [201]
+        },
+        {
+          "subentryid": "",
+          "content": "*Second:* In jumping *from one* leg, the direction is judged from the standing point of the take-off leg.",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "",
+          "content": "*Third:* In jumping *from both* legs simultaneously, the direction is judged from “place”, *i.e.* the point between both feet (**203b, 205a, 206a, 207a, 211c, 212a, 213b**).",
+          "subentryrefs": [203, 205, 206, 207, 211, 212, 213]
+        },
+        {
+          "subentryid": "",
+          "content": "*Fourth:* Te width of open positions on two feet is always judged from the standing point of one foot to that of the other (*see* the principle explained in Figure **173**). (The step-length is dealt with in 649.) In the 2nd position (see Figure **203a**) and the 4th position (*see* Figure **203b**) the right foot is one step-length away from the left, and both are a half step-length from “place” (*compare with* 173a,b).",
+          "subentryrefs": [173, 649, 203]
+        },
+        {
+          "subentryid": "",
+          "content": "*Fifth:* If one leg is lifted before the other, the standing point of the second leg becomes “place”. The release of the first leg can be written either as a leg gesture, as in Figures **204b,c, 205f, 206b, 211d,e, and 213a**; with an action stroke, as in Figsures **209a,b**; or as a preparatory shift of the weight from both feet to one, as in Figures **205e, 211a,b**. The latter way of writing is explained in Figures **175b,c** (*see* 560a,b).",
+          "subentryrefs": [204, 205, 206, 211, 213, 209, 175, 560]
+        },
+        {
+          "subentryid": "",
+          "content": "*Sixth:* Simultaneous landing on both feet in a closed position (*assemblé*) can easily be seen by two identical direction signs in the support columns (**202a, 203b, 204a, 206a,b, 207a,b, 211c,e**).",
+          "subentryrefs": [203, 204, 206, 207, 211]
+        },
+        {
+          "subentryid": "",
+          "content": "*Seventh:* If the feet do not land simultaneously, the landing point of the first foot becomes “place” (**201b, 202b,c, 204b,c, 205f, 208c, 209a,b, 211b,d, 212c**).",
+          "subentryrefs": [201, 204, 205, 208, 209, 211, 212]
+        },
+        {
+          "subentryid": "",
+          "content": "*Eight:* For simultaneous progressions to the right in 2nd position, the direction and the length of the jump are judged for both feet from the standing point of the left foot, and for simultaneous progression to the left, from the standing point of the right foot. This way of writing these movements is visually convincing and can only have one meaning (**214a,d**). (For wide and narrow signs *see* 649.)",
+          "subentryrefs": [214, 649]
+        },
+        {
+          "subentryid": "",
+          "content": "*Ninth:* For simultaneous progression forward in 4th position, the direction and length of the jump are judged for both feet from the standing point of the back foot, and for simultaneous progression backwards, from the standing point of the front foot (**215a,c**).",
+          "subentryrefs": [215]
+        },
+        {
+          "subentryid": "",
+          "content": "*Tenth:* Jumps from both feet to both feet can also be notated by means of “position writing”. In this case the direction signs in the support columns indicate the landing position of the feet. The progression of the body is indicated by the sign for a straight path containing an empty direction sign, written on the right of the staff. This empty direction sign indicates the direction of the jump (**205b,c,d, 207b,d, 210b, 212b, 214b**). (*Compare with* deviating with the indication of step direction, 275, and with the indication of direction in opening ranks, 278b, and closing ranks, 279a,b.) There are some cases in which one can unmistakably notate a jump only by writing in positions with an additional path sign, *e.g.* if a 2nd position (**205c**) or a 4th position (**205d**) is shifted on a diagonal line by a jump.",
+          "subentryrefs": [205, 207, 210, 212, 214, 275, 278, 279]
+        },
+        {
+          "subentryid": "",
+          "content": "*Eleventh:* A second aid in writing jumps in “position writing” is the “staple”, a vertical angular bracket which indicates that the foot is anchored to its former point of support. This means that it returns to the same spot after the jump (**208b**). (Staple, *see* 59 and 560c—e.) While in the way of writing explained in the tenth instruction, the direction of the jump is expressed by the path sign, in the way of writing with the staple, the direction of the jump must be concluded from the relationship between the starting and finishing positions.",
+          "subentryrefs": [208, 59, 560]
         }
       ]
     },
@@ -4968,6 +5098,71 @@
           "subentryid": "203b",
           "content": "Closing to the middle from the 4th position.",
           "subentryrefs": []
+        },
+        {
+          "subentryid": "201–206",
+          "content": "**The direction of a jump.** The direction of a jump is written according to the same rules as the direction of a step (*compare with* problems of supports, 169-178). The meaning of the pin signs in the explanatory sketches beside the examples is explained in Figure 168.",
+          "subentryrefs": [169, 170, 171, 172, 173, 174, 175, 176, 177, 178, 168]
+        },
+        {
+          "subentryid": "",
+          "content": "**In the following examples eleven instructions must be observed.**",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "",
+          "content": "*First:* In order to write and read correctly, it is essential to recognise which leg is the “take-off leg” and which leg is the “landing leg”. In Figure **201a**, one jumps off the right foot and lands on the left, and in Figure **201b** vice versa.",
+          "subentryrefs": [201]
+        },
+        {
+          "subentryid": "",
+          "content": "*Second:* In jumping *from one* leg, the direction is judged from the standing point of the take-off leg.",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "",
+          "content": "*Third:* In jumping *from both* legs simultaneously, the direction is judged from “place”, *i.e.* the point between both feet (**203b, 205a, 206a, 207a, 211c, 212a, 213b**).",
+          "subentryrefs": [205, 206, 207, 211, 212, 213]
+        },
+        {
+          "subentryid": "",
+          "content": "*Fourth:* Te width of open positions on two feet is always judged from the standing point of one foot to that of the other (*see* the principle explained in Figure **173**). (The step-length is dealt with in 649.) In the 2nd position (see Figure **203a**) and the 4th position (*see* Figure **203b**) the right foot is one step-length away from the left, and both are a half step-length from “place” (*compare with* 173a,b).",
+          "subentryrefs": [173, 649]
+        },
+        {
+          "subentryid": "",
+          "content": "*Fifth:* If one leg is lifted before the other, the standing point of the second leg becomes “place”. The release of the first leg can be written either as a leg gesture, as in Figures **204b,c, 205f, 206b, 211d,e, and 213a**; with an action stroke, as in Figsures **209a,b**; or as a preparatory shift of the weight from both feet to one, as in Figures **205e, 211a,b**. The latter way of writing is explained in Figures **175b,c** (*see* 560a,b).",
+          "subentryrefs": [204, 205, 206, 211, 213, 209, 175, 560]
+        },
+        {
+          "subentryid": "",
+          "content": "*Sixth:* Simultaneous landing on both feet in a closed position (*assemblé*) can easily be seen by two identical direction signs in the support columns (**202a, 203b, 204a, 206a,b, 207a,b, 211c,e**).",
+          "subentryrefs": [202, 204, 206, 207, 211]
+        },
+        {
+          "subentryid": "",
+          "content": "*Seventh:* If the feet do not land simultaneously, the landing point of the first foot becomes “place” (**201b, 202b,c, 204b,c, 205f, 208c, 209a,b, 211b,d, 212c**).",
+          "subentryrefs": [201, 202, 204, 205, 208, 209, 211, 212]
+        },
+        {
+          "subentryid": "",
+          "content": "*Eight:* For simultaneous progressions to the right in 2nd position, the direction and the length of the jump are judged for both feet from the standing point of the left foot, and for simultaneous progression to the left, from the standing point of the right foot. This way of writing these movements is visually convincing and can only have one meaning (**214a,d**). (For wide and narrow signs *see* 649.)",
+          "subentryrefs": [214, 649]
+        },
+        {
+          "subentryid": "",
+          "content": "*Ninth:* For simultaneous progression forward in 4th position, the direction and length of the jump are judged for both feet from the standing point of the back foot, and for simultaneous progression backwards, from the standing point of the front foot (**215a,c**).",
+          "subentryrefs": [215]
+        },
+        {
+          "subentryid": "",
+          "content": "*Tenth:* Jumps from both feet to both feet can also be notated by means of “position writing”. In this case the direction signs in the support columns indicate the landing position of the feet. The progression of the body is indicated by the sign for a straight path containing an empty direction sign, written on the right of the staff. This empty direction sign indicates the direction of the jump (**205b,c,d, 207b,d, 210b, 212b, 214b**). (*Compare with* deviating with the indication of step direction, 275, and with the indication of direction in opening ranks, 278b, and closing ranks, 279a,b.) There are some cases in which one can unmistakably notate a jump only by writing in positions with an additional path sign, *e.g.* if a 2nd position (**205c**) or a 4th position (**205d**) is shifted on a diagonal line by a jump.",
+          "subentryrefs": [205, 207, 210, 212, 214, 275, 278, 279]
+        },
+        {
+          "subentryid": "",
+          "content": "*Eleventh:* A second aid in writing jumps in “position writing” is the “staple”, a vertical angular bracket which indicates that the foot is anchored to its former point of support. This means that it returns to the same spot after the jump (**208b**). (Staple, *see* 59 and 560c—e.) While in the way of writing explained in the tenth instruction, the direction of the jump is expressed by the path sign, in the way of writing with the staple, the direction of the jump must be concluded from the relationship between the starting and finishing positions.",
+          "subentryrefs": [208, 59, 560]
         }
       ]
     },
@@ -4994,6 +5189,71 @@
           "subentryid": "204c",
           "content": "The same result, starting with the left leg.",
           "subentryrefs": []
+        },
+        {
+          "subentryid": "201–206",
+          "content": "**The direction of a jump.** The direction of a jump is written according to the same rules as the direction of a step (*compare with* problems of supports, 169-178). The meaning of the pin signs in the explanatory sketches beside the examples is explained in Figure 168.",
+          "subentryrefs": [169, 170, 171, 172, 173, 174, 175, 176, 177, 178, 168]
+        },
+        {
+          "subentryid": "",
+          "content": "**In the following examples eleven instructions must be observed.**",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "",
+          "content": "*First:* In order to write and read correctly, it is essential to recognise which leg is the “take-off leg” and which leg is the “landing leg”. In Figure **201a**, one jumps off the right foot and lands on the left, and in Figure **201b** vice versa.",
+          "subentryrefs": [201]
+        },
+        {
+          "subentryid": "",
+          "content": "*Second:* In jumping *from one* leg, the direction is judged from the standing point of the take-off leg.",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "",
+          "content": "*Third:* In jumping *from both* legs simultaneously, the direction is judged from “place”, *i.e.* the point between both feet (**203b, 205a, 206a, 207a, 211c, 212a, 213b**).",
+          "subentryrefs": [203, 205, 206, 207, 211, 212, 213]
+        },
+        {
+          "subentryid": "",
+          "content": "*Fourth:* Te width of open positions on two feet is always judged from the standing point of one foot to that of the other (*see* the principle explained in Figure **173**). (The step-length is dealt with in 649.) In the 2nd position (see Figure **203a**) and the 4th position (*see* Figure **203b**) the right foot is one step-length away from the left, and both are a half step-length from “place” (*compare with* 173a,b).",
+          "subentryrefs": [173, 649, 203]
+        },
+        {
+          "subentryid": "",
+          "content": "*Fifth:* If one leg is lifted before the other, the standing point of the second leg becomes “place”. The release of the first leg can be written either as a leg gesture, as in Figures **204b,c, 205f, 206b, 211d,e, and 213a**; with an action stroke, as in Figsures **209a,b**; or as a preparatory shift of the weight from both feet to one, as in Figures **205e, 211a,b**. The latter way of writing is explained in Figures **175b,c** (*see* 560a,b).",
+          "subentryrefs": [205, 206, 211, 213, 209, 175, 560]
+        },
+        {
+          "subentryid": "",
+          "content": "*Sixth:* Simultaneous landing on both feet in a closed position (*assemblé*) can easily be seen by two identical direction signs in the support columns (**202a, 203b, 204a, 206a,b, 207a,b, 211c,e**).",
+          "subentryrefs": [202, 203, 206, 207, 211]
+        },
+        {
+          "subentryid": "",
+          "content": "*Seventh:* If the feet do not land simultaneously, the landing point of the first foot becomes “place” (**201b, 202b,c, 204b,c, 205f, 208c, 209a,b, 211b,d, 212c**).",
+          "subentryrefs": [201, 202, 205, 208, 209, 211, 212]
+        },
+        {
+          "subentryid": "",
+          "content": "*Eight:* For simultaneous progressions to the right in 2nd position, the direction and the length of the jump are judged for both feet from the standing point of the left foot, and for simultaneous progression to the left, from the standing point of the right foot. This way of writing these movements is visually convincing and can only have one meaning (**214a,d**). (For wide and narrow signs *see* 649.)",
+          "subentryrefs": [214, 649]
+        },
+        {
+          "subentryid": "",
+          "content": "*Ninth:* For simultaneous progression forward in 4th position, the direction and length of the jump are judged for both feet from the standing point of the back foot, and for simultaneous progression backwards, from the standing point of the front foot (**215a,c**).",
+          "subentryrefs": [215]
+        },
+        {
+          "subentryid": "",
+          "content": "*Tenth:* Jumps from both feet to both feet can also be notated by means of “position writing”. In this case the direction signs in the support columns indicate the landing position of the feet. The progression of the body is indicated by the sign for a straight path containing an empty direction sign, written on the right of the staff. This empty direction sign indicates the direction of the jump (**205b,c,d, 207b,d, 210b, 212b, 214b**). (*Compare with* deviating with the indication of step direction, 275, and with the indication of direction in opening ranks, 278b, and closing ranks, 279a,b.) There are some cases in which one can unmistakably notate a jump only by writing in positions with an additional path sign, *e.g.* if a 2nd position (**205c**) or a 4th position (**205d**) is shifted on a diagonal line by a jump.",
+          "subentryrefs": [205, 207, 210, 212, 214, 275, 278, 279]
+        },
+        {
+          "subentryid": "",
+          "content": "*Eleventh:* A second aid in writing jumps in “position writing” is the “staple”, a vertical angular bracket which indicates that the foot is anchored to its former point of support. This means that it returns to the same spot after the jump (**208b**). (Staple, *see* 59 and 560c—e.) While in the way of writing explained in the tenth instruction, the direction of the jump is expressed by the path sign, in the way of writing with the staple, the direction of the jump must be concluded from the relationship between the starting and finishing positions.",
+          "subentryrefs": [208, 59, 560]
         }
       ]
     },
@@ -5035,6 +5295,71 @@
           "subentryid": "205f",
           "content": "First a jump, then a step, giving the same result as the previous example, except that the right foot carries no weight.",
           "subentryrefs": []
+        },
+        {
+          "subentryid": "201–206",
+          "content": "**The direction of a jump.** The direction of a jump is written according to the same rules as the direction of a step (*compare with* problems of supports, 169-178). The meaning of the pin signs in the explanatory sketches beside the examples is explained in Figure 168.",
+          "subentryrefs": [169, 170, 171, 172, 173, 174, 175, 176, 177, 178, 168]
+        },
+        {
+          "subentryid": "",
+          "content": "**In the following examples eleven instructions must be observed.**",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "",
+          "content": "*First:* In order to write and read correctly, it is essential to recognise which leg is the “take-off leg” and which leg is the “landing leg”. In Figure **201a**, one jumps off the right foot and lands on the left, and in Figure **201b** vice versa.",
+          "subentryrefs": [201]
+        },
+        {
+          "subentryid": "",
+          "content": "*Second:* In jumping *from one* leg, the direction is judged from the standing point of the take-off leg.",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "",
+          "content": "*Third:* In jumping *from both* legs simultaneously, the direction is judged from “place”, *i.e.* the point between both feet (**203b, 205a, 206a, 207a, 211c, 212a, 213b**).",
+          "subentryrefs": [203, 206, 207, 211, 212, 213]
+        },
+        {
+          "subentryid": "",
+          "content": "*Fourth:* Te width of open positions on two feet is always judged from the standing point of one foot to that of the other (*see* the principle explained in Figure **173**). (The step-length is dealt with in 649.) In the 2nd position (see Figure **203a**) and the 4th position (*see* Figure **203b**) the right foot is one step-length away from the left, and both are a half step-length from “place” (*compare with* 173a,b).",
+          "subentryrefs": [173, 649, 203]
+        },
+        {
+          "subentryid": "",
+          "content": "*Fifth:* If one leg is lifted before the other, the standing point of the second leg becomes “place”. The release of the first leg can be written either as a leg gesture, as in Figures **204b,c, 205f, 206b, 211d,e, and 213a**; with an action stroke, as in Figsures **209a,b**; or as a preparatory shift of the weight from both feet to one, as in Figures **205e, 211a,b**. The latter way of writing is explained in Figures **175b,c** (*see* 560a,b).",
+          "subentryrefs": [204, 206, 211, 213, 209, 175, 560]
+        },
+        {
+          "subentryid": "",
+          "content": "*Sixth:* Simultaneous landing on both feet in a closed position (*assemblé*) can easily be seen by two identical direction signs in the support columns (**202a, 203b, 204a, 206a,b, 207a,b, 211c,e**).",
+          "subentryrefs": [202, 203, 204, 206, 207, 211]
+        },
+        {
+          "subentryid": "",
+          "content": "*Seventh:* If the feet do not land simultaneously, the landing point of the first foot becomes “place” (**201b, 202b,c, 204b,c, 205f, 208c, 209a,b, 211b,d, 212c**).",
+          "subentryrefs": [201, 202, 204, 208, 209, 211, 212]
+        },
+        {
+          "subentryid": "",
+          "content": "*Eight:* For simultaneous progressions to the right in 2nd position, the direction and the length of the jump are judged for both feet from the standing point of the left foot, and for simultaneous progression to the left, from the standing point of the right foot. This way of writing these movements is visually convincing and can only have one meaning (**214a,d**). (For wide and narrow signs *see* 649.)",
+          "subentryrefs": [214, 649]
+        },
+        {
+          "subentryid": "",
+          "content": "*Ninth:* For simultaneous progression forward in 4th position, the direction and length of the jump are judged for both feet from the standing point of the back foot, and for simultaneous progression backwards, from the standing point of the front foot (**215a,c**).",
+          "subentryrefs": [215]
+        },
+        {
+          "subentryid": "",
+          "content": "*Tenth:* Jumps from both feet to both feet can also be notated by means of “position writing”. In this case the direction signs in the support columns indicate the landing position of the feet. The progression of the body is indicated by the sign for a straight path containing an empty direction sign, written on the right of the staff. This empty direction sign indicates the direction of the jump (**205b,c,d, 207b,d, 210b, 212b, 214b**). (*Compare with* deviating with the indication of step direction, 275, and with the indication of direction in opening ranks, 278b, and closing ranks, 279a,b.) There are some cases in which one can unmistakably notate a jump only by writing in positions with an additional path sign, *e.g.* if a 2nd position (**205c**) or a 4th position (**205d**) is shifted on a diagonal line by a jump.",
+          "subentryrefs": [207, 210, 212, 214, 275, 278, 279]
+        },
+        {
+          "subentryid": "",
+          "content": "*Eleventh:* A second aid in writing jumps in “position writing” is the “staple”, a vertical angular bracket which indicates that the foot is anchored to its former point of support. This means that it returns to the same spot after the jump (**208b**). (Staple, *see* 59 and 560c—e.) While in the way of writing explained in the tenth instruction, the direction of the jump is expressed by the path sign, in the way of writing with the staple, the direction of the jump must be concluded from the relationship between the starting and finishing positions.",
+          "subentryrefs": [208, 59, 560]
         }
       ]
     },
@@ -5056,6 +5381,71 @@
           "subentryid": "206b",
           "content": "The same result, starting with the right foot.",
           "subentryrefs": []
+        },
+        {
+          "subentryid": "201–206",
+          "content": "**The direction of a jump.** The direction of a jump is written according to the same rules as the direction of a step (*compare with* problems of supports, 169-178). The meaning of the pin signs in the explanatory sketches beside the examples is explained in Figure 168.",
+          "subentryrefs": [169, 170, 171, 172, 173, 174, 175, 176, 177, 178, 168]
+        },
+        {
+          "subentryid": "",
+          "content": "**In the following examples eleven instructions must be observed.**",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "",
+          "content": "*First:* In order to write and read correctly, it is essential to recognise which leg is the “take-off leg” and which leg is the “landing leg”. In Figure **201a**, one jumps off the right foot and lands on the left, and in Figure **201b** vice versa.",
+          "subentryrefs": [201]
+        },
+        {
+          "subentryid": "",
+          "content": "*Second:* In jumping *from one* leg, the direction is judged from the standing point of the take-off leg.",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "",
+          "content": "*Third:* In jumping *from both* legs simultaneously, the direction is judged from “place”, *i.e.* the point between both feet (**203b, 205a, 206a, 207a, 211c, 212a, 213b**).",
+          "subentryrefs": [203, 205, 207, 211, 212, 213]
+        },
+        {
+          "subentryid": "",
+          "content": "*Fourth:* Te width of open positions on two feet is always judged from the standing point of one foot to that of the other (*see* the principle explained in Figure **173**). (The step-length is dealt with in 649.) In the 2nd position (see Figure **203a**) and the 4th position (*see* Figure **203b**) the right foot is one step-length away from the left, and both are a half step-length from “place” (*compare with* 173a,b).",
+          "subentryrefs": [173, 649, 203]
+        },
+        {
+          "subentryid": "",
+          "content": "*Fifth:* If one leg is lifted before the other, the standing point of the second leg becomes “place”. The release of the first leg can be written either as a leg gesture, as in Figures **204b,c, 205f, 206b, 211d,e, and 213a**; with an action stroke, as in Figsures **209a,b**; or as a preparatory shift of the weight from both feet to one, as in Figures **205e, 211a,b**. The latter way of writing is explained in Figures **175b,c** (*see* 560a,b).",
+          "subentryrefs": [204, 205, 211, 213, 209, 175, 560]
+        },
+        {
+          "subentryid": "",
+          "content": "*Sixth:* Simultaneous landing on both feet in a closed position (*assemblé*) can easily be seen by two identical direction signs in the support columns (**202a, 203b, 204a, 206a,b, 207a,b, 211c,e**).",
+          "subentryrefs": [202, 203, 204, 207, 211]
+        },
+        {
+          "subentryid": "",
+          "content": "*Seventh:* If the feet do not land simultaneously, the landing point of the first foot becomes “place” (**201b, 202b,c, 204b,c, 205f, 208c, 209a,b, 211b,d, 212c**).",
+          "subentryrefs": [201, 202, 204, 205, 208, 209, 211, 212]
+        },
+        {
+          "subentryid": "",
+          "content": "*Eight:* For simultaneous progressions to the right in 2nd position, the direction and the length of the jump are judged for both feet from the standing point of the left foot, and for simultaneous progression to the left, from the standing point of the right foot. This way of writing these movements is visually convincing and can only have one meaning (**214a,d**). (For wide and narrow signs *see* 649.)",
+          "subentryrefs": [214, 649]
+        },
+        {
+          "subentryid": "",
+          "content": "*Ninth:* For simultaneous progression forward in 4th position, the direction and length of the jump are judged for both feet from the standing point of the back foot, and for simultaneous progression backwards, from the standing point of the front foot (**215a,c**).",
+          "subentryrefs": [215]
+        },
+        {
+          "subentryid": "",
+          "content": "*Tenth:* Jumps from both feet to both feet can also be notated by means of “position writing”. In this case the direction signs in the support columns indicate the landing position of the feet. The progression of the body is indicated by the sign for a straight path containing an empty direction sign, written on the right of the staff. This empty direction sign indicates the direction of the jump (**205b,c,d, 207b,d, 210b, 212b, 214b**). (*Compare with* deviating with the indication of step direction, 275, and with the indication of direction in opening ranks, 278b, and closing ranks, 279a,b.) There are some cases in which one can unmistakably notate a jump only by writing in positions with an additional path sign, *e.g.* if a 2nd position (**205c**) or a 4th position (**205d**) is shifted on a diagonal line by a jump.",
+          "subentryrefs": [205, 207, 210, 212, 214, 275, 278, 279]
+        },
+        {
+          "subentryid": "",
+          "content": "*Eleventh:* A second aid in writing jumps in “position writing” is the “staple”, a vertical angular bracket which indicates that the foot is anchored to its former point of support. This means that it returns to the same spot after the jump (**208b**). (Staple, *see* 59 and 560c—e.) While in the way of writing explained in the tenth instruction, the direction of the jump is expressed by the path sign, in the way of writing with the staple, the direction of the jump must be concluded from the relationship between the starting and finishing positions.",
+          "subentryrefs": [208, 59, 560]
         }
       ]
     },
@@ -5087,6 +5477,71 @@
           "subentryid": "207d",
           "content": "The same in “position writing”, with the help of a path sign.",
           "subentryrefs": []
+        },
+        {
+          "subentryid": "201–206",
+          "content": "**The direction of a jump.** The direction of a jump is written according to the same rules as the direction of a step (*compare with* problems of supports, 169-178). The meaning of the pin signs in the explanatory sketches beside the examples is explained in Figure 168.",
+          "subentryrefs": [169, 170, 171, 172, 173, 174, 175, 176, 177, 178, 168]
+        },
+        {
+          "subentryid": "",
+          "content": "**In the following examples eleven instructions must be observed.**",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "",
+          "content": "*First:* In order to write and read correctly, it is essential to recognise which leg is the “take-off leg” and which leg is the “landing leg”. In Figure **201a**, one jumps off the right foot and lands on the left, and in Figure **201b** vice versa.",
+          "subentryrefs": [201]
+        },
+        {
+          "subentryid": "",
+          "content": "*Second:* In jumping *from one* leg, the direction is judged from the standing point of the take-off leg.",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "",
+          "content": "*Third:* In jumping *from both* legs simultaneously, the direction is judged from “place”, *i.e.* the point between both feet (**203b, 205a, 206a, 207a, 211c, 212a, 213b**).",
+          "subentryrefs": [203, 205, 206, 211, 212, 213]
+        },
+        {
+          "subentryid": "",
+          "content": "*Fourth:* Te width of open positions on two feet is always judged from the standing point of one foot to that of the other (*see* the principle explained in Figure **173**). (The step-length is dealt with in 649.) In the 2nd position (see Figure **203a**) and the 4th position (*see* Figure **203b**) the right foot is one step-length away from the left, and both are a half step-length from “place” (*compare with* 173a,b).",
+          "subentryrefs": [173, 649, 203]
+        },
+        {
+          "subentryid": "",
+          "content": "*Fifth:* If one leg is lifted before the other, the standing point of the second leg becomes “place”. The release of the first leg can be written either as a leg gesture, as in Figures **204b,c, 205f, 206b, 211d,e, and 213a**; with an action stroke, as in Figsures **209a,b**; or as a preparatory shift of the weight from both feet to one, as in Figures **205e, 211a,b**. The latter way of writing is explained in Figures **175b,c** (*see* 560a,b).",
+          "subentryrefs": [204, 205, 206, 211, 213, 209, 175, 560]
+        },
+        {
+          "subentryid": "",
+          "content": "*Sixth:* Simultaneous landing on both feet in a closed position (*assemblé*) can easily be seen by two identical direction signs in the support columns (**202a, 203b, 204a, 206a,b, 207a,b, 211c,e**).",
+          "subentryrefs": [202, 203, 204, 206, 211]
+        },
+        {
+          "subentryid": "",
+          "content": "*Seventh:* If the feet do not land simultaneously, the landing point of the first foot becomes “place” (**201b, 202b,c, 204b,c, 205f, 208c, 209a,b, 211b,d, 212c**).",
+          "subentryrefs": [201, 202, 204, 205, 208, 209, 211, 212]
+        },
+        {
+          "subentryid": "",
+          "content": "*Eight:* For simultaneous progressions to the right in 2nd position, the direction and the length of the jump are judged for both feet from the standing point of the left foot, and for simultaneous progression to the left, from the standing point of the right foot. This way of writing these movements is visually convincing and can only have one meaning (**214a,d**). (For wide and narrow signs *see* 649.)",
+          "subentryrefs": [214, 649]
+        },
+        {
+          "subentryid": "",
+          "content": "*Ninth:* For simultaneous progression forward in 4th position, the direction and length of the jump are judged for both feet from the standing point of the back foot, and for simultaneous progression backwards, from the standing point of the front foot (**215a,c**).",
+          "subentryrefs": [215]
+        },
+        {
+          "subentryid": "",
+          "content": "*Tenth:* Jumps from both feet to both feet can also be notated by means of “position writing”. In this case the direction signs in the support columns indicate the landing position of the feet. The progression of the body is indicated by the sign for a straight path containing an empty direction sign, written on the right of the staff. This empty direction sign indicates the direction of the jump (**205b,c,d, 207b,d, 210b, 212b, 214b**). (*Compare with* deviating with the indication of step direction, 275, and with the indication of direction in opening ranks, 278b, and closing ranks, 279a,b.) There are some cases in which one can unmistakably notate a jump only by writing in positions with an additional path sign, *e.g.* if a 2nd position (**205c**) or a 4th position (**205d**) is shifted on a diagonal line by a jump.",
+          "subentryrefs": [205, 210, 212, 214, 275, 278, 279]
+        },
+        {
+          "subentryid": "",
+          "content": "*Eleventh:* A second aid in writing jumps in “position writing” is the “staple”, a vertical angular bracket which indicates that the foot is anchored to its former point of support. This means that it returns to the same spot after the jump (**208b**). (Staple, *see* 59 and 560c—e.) While in the way of writing explained in the tenth instruction, the direction of the jump is expressed by the path sign, in the way of writing with the staple, the direction of the jump must be concluded from the relationship between the starting and finishing positions.",
+          "subentryrefs": [208, 59, 560]
         }
       ]
     },
@@ -5113,6 +5568,71 @@
           "subentryid": "208c",
           "content": "The same result, the left foot starting a little later.",
           "subentryrefs": []
+        },
+        {
+          "subentryid": "201–206",
+          "content": "**The direction of a jump.** The direction of a jump is written according to the same rules as the direction of a step (*compare with* problems of supports, 169-178). The meaning of the pin signs in the explanatory sketches beside the examples is explained in Figure 168.",
+          "subentryrefs": [169, 170, 171, 172, 173, 174, 175, 176, 177, 178, 168]
+        },
+        {
+          "subentryid": "",
+          "content": "**In the following examples eleven instructions must be observed.**",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "",
+          "content": "*First:* In order to write and read correctly, it is essential to recognise which leg is the “take-off leg” and which leg is the “landing leg”. In Figure **201a**, one jumps off the right foot and lands on the left, and in Figure **201b** vice versa.",
+          "subentryrefs": [201]
+        },
+        {
+          "subentryid": "",
+          "content": "*Second:* In jumping *from one* leg, the direction is judged from the standing point of the take-off leg.",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "",
+          "content": "*Third:* In jumping *from both* legs simultaneously, the direction is judged from “place”, *i.e.* the point between both feet (**203b, 205a, 206a, 207a, 211c, 212a, 213b**).",
+          "subentryrefs": [203, 205, 206, 207, 211, 212, 213]
+        },
+        {
+          "subentryid": "",
+          "content": "*Fourth:* Te width of open positions on two feet is always judged from the standing point of one foot to that of the other (*see* the principle explained in Figure **173**). (The step-length is dealt with in 649.) In the 2nd position (see Figure **203a**) and the 4th position (*see* Figure **203b**) the right foot is one step-length away from the left, and both are a half step-length from “place” (*compare with* 173a,b).",
+          "subentryrefs": [173, 649, 203]
+        },
+        {
+          "subentryid": "",
+          "content": "*Fifth:* If one leg is lifted before the other, the standing point of the second leg becomes “place”. The release of the first leg can be written either as a leg gesture, as in Figures **204b,c, 205f, 206b, 211d,e, and 213a**; with an action stroke, as in Figsures **209a,b**; or as a preparatory shift of the weight from both feet to one, as in Figures **205e, 211a,b**. The latter way of writing is explained in Figures **175b,c** (*see* 560a,b).",
+          "subentryrefs": [204, 205, 206, 211, 213, 209, 175, 560]
+        },
+        {
+          "subentryid": "",
+          "content": "*Sixth:* Simultaneous landing on both feet in a closed position (*assemblé*) can easily be seen by two identical direction signs in the support columns (**202a, 203b, 204a, 206a,b, 207a,b, 211c,e**).",
+          "subentryrefs": [202, 203, 204, 206, 207, 211]
+        },
+        {
+          "subentryid": "",
+          "content": "*Seventh:* If the feet do not land simultaneously, the landing point of the first foot becomes “place” (**201b, 202b,c, 204b,c, 205f, 208c, 209a,b, 211b,d, 212c**).",
+          "subentryrefs": [201, 202, 204, 205, 209, 211, 212]
+        },
+        {
+          "subentryid": "",
+          "content": "*Eight:* For simultaneous progressions to the right in 2nd position, the direction and the length of the jump are judged for both feet from the standing point of the left foot, and for simultaneous progression to the left, from the standing point of the right foot. This way of writing these movements is visually convincing and can only have one meaning (**214a,d**). (For wide and narrow signs *see* 649.)",
+          "subentryrefs": [214, 649]
+        },
+        {
+          "subentryid": "",
+          "content": "*Ninth:* For simultaneous progression forward in 4th position, the direction and length of the jump are judged for both feet from the standing point of the back foot, and for simultaneous progression backwards, from the standing point of the front foot (**215a,c**).",
+          "subentryrefs": [215]
+        },
+        {
+          "subentryid": "",
+          "content": "*Tenth:* Jumps from both feet to both feet can also be notated by means of “position writing”. In this case the direction signs in the support columns indicate the landing position of the feet. The progression of the body is indicated by the sign for a straight path containing an empty direction sign, written on the right of the staff. This empty direction sign indicates the direction of the jump (**205b,c,d, 207b,d, 210b, 212b, 214b**). (*Compare with* deviating with the indication of step direction, 275, and with the indication of direction in opening ranks, 278b, and closing ranks, 279a,b.) There are some cases in which one can unmistakably notate a jump only by writing in positions with an additional path sign, *e.g.* if a 2nd position (**205c**) or a 4th position (**205d**) is shifted on a diagonal line by a jump.",
+          "subentryrefs": [205, 207, 210, 212, 214, 275, 278, 279]
+        },
+        {
+          "subentryid": "",
+          "content": "*Eleventh:* A second aid in writing jumps in “position writing” is the “staple”, a vertical angular bracket which indicates that the foot is anchored to its former point of support. This means that it returns to the same spot after the jump (**208b**). (Staple, *see* 59 and 560c—e.) While in the way of writing explained in the tenth instruction, the direction of the jump is expressed by the path sign, in the way of writing with the staple, the direction of the jump must be concluded from the relationship between the starting and finishing positions.",
+          "subentryrefs": [59, 560]
         }
       ]
     },
@@ -5134,6 +5654,71 @@
           "subentryid": "209b",
           "content": "Closing to the left, passing the former point of support of the left foot.",
           "subentryrefs": []
+        },
+        {
+          "subentryid": "201–206",
+          "content": "**The direction of a jump.** The direction of a jump is written according to the same rules as the direction of a step (*compare with* problems of supports, 169-178). The meaning of the pin signs in the explanatory sketches beside the examples is explained in Figure 168.",
+          "subentryrefs": [169, 170, 171, 172, 173, 174, 175, 176, 177, 178, 168]
+        },
+        {
+          "subentryid": "",
+          "content": "**In the following examples eleven instructions must be observed.**",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "",
+          "content": "*First:* In order to write and read correctly, it is essential to recognise which leg is the “take-off leg” and which leg is the “landing leg”. In Figure **201a**, one jumps off the right foot and lands on the left, and in Figure **201b** vice versa.",
+          "subentryrefs": [201]
+        },
+        {
+          "subentryid": "",
+          "content": "*Second:* In jumping *from one* leg, the direction is judged from the standing point of the take-off leg.",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "",
+          "content": "*Third:* In jumping *from both* legs simultaneously, the direction is judged from “place”, *i.e.* the point between both feet (**203b, 205a, 206a, 207a, 211c, 212a, 213b**).",
+          "subentryrefs": [203, 205, 206, 207, 211, 212, 213]
+        },
+        {
+          "subentryid": "",
+          "content": "*Fourth:* Te width of open positions on two feet is always judged from the standing point of one foot to that of the other (*see* the principle explained in Figure **173**). (The step-length is dealt with in 649.) In the 2nd position (see Figure **203a**) and the 4th position (*see* Figure **203b**) the right foot is one step-length away from the left, and both are a half step-length from “place” (*compare with* 173a,b).",
+          "subentryrefs": [173, 649, 203]
+        },
+        {
+          "subentryid": "",
+          "content": "*Fifth:* If one leg is lifted before the other, the standing point of the second leg becomes “place”. The release of the first leg can be written either as a leg gesture, as in Figures **204b,c, 205f, 206b, 211d,e, and 213a**; with an action stroke, as in Figsures **209a,b**; or as a preparatory shift of the weight from both feet to one, as in Figures **205e, 211a,b**. The latter way of writing is explained in Figures **175b,c** (*see* 560a,b).",
+          "subentryrefs": [204, 205, 206, 211, 213, 175, 560]
+        },
+        {
+          "subentryid": "",
+          "content": "*Sixth:* Simultaneous landing on both feet in a closed position (*assemblé*) can easily be seen by two identical direction signs in the support columns (**202a, 203b, 204a, 206a,b, 207a,b, 211c,e**).",
+          "subentryrefs": [202, 203, 204, 206, 207, 211]
+        },
+        {
+          "subentryid": "",
+          "content": "*Seventh:* If the feet do not land simultaneously, the landing point of the first foot becomes “place” (**201b, 202b,c, 204b,c, 205f, 208c, 209a,b, 211b,d, 212c**).",
+          "subentryrefs": [201, 202, 204, 205, 208, 211, 212]
+        },
+        {
+          "subentryid": "",
+          "content": "*Eight:* For simultaneous progressions to the right in 2nd position, the direction and the length of the jump are judged for both feet from the standing point of the left foot, and for simultaneous progression to the left, from the standing point of the right foot. This way of writing these movements is visually convincing and can only have one meaning (**214a,d**). (For wide and narrow signs *see* 649.)",
+          "subentryrefs": [214, 649]
+        },
+        {
+          "subentryid": "",
+          "content": "*Ninth:* For simultaneous progression forward in 4th position, the direction and length of the jump are judged for both feet from the standing point of the back foot, and for simultaneous progression backwards, from the standing point of the front foot (**215a,c**).",
+          "subentryrefs": [215]
+        },
+        {
+          "subentryid": "",
+          "content": "*Tenth:* Jumps from both feet to both feet can also be notated by means of “position writing”. In this case the direction signs in the support columns indicate the landing position of the feet. The progression of the body is indicated by the sign for a straight path containing an empty direction sign, written on the right of the staff. This empty direction sign indicates the direction of the jump (**205b,c,d, 207b,d, 210b, 212b, 214b**). (*Compare with* deviating with the indication of step direction, 275, and with the indication of direction in opening ranks, 278b, and closing ranks, 279a,b.) There are some cases in which one can unmistakably notate a jump only by writing in positions with an additional path sign, *e.g.* if a 2nd position (**205c**) or a 4th position (**205d**) is shifted on a diagonal line by a jump.",
+          "subentryrefs": [205, 207, 210, 212, 214, 275, 278, 279]
+        },
+        {
+          "subentryid": "",
+          "content": "*Eleventh:* A second aid in writing jumps in “position writing” is the “staple”, a vertical angular bracket which indicates that the foot is anchored to its former point of support. This means that it returns to the same spot after the jump (**208b**). (Staple, *see* 59 and 560c—e.) While in the way of writing explained in the tenth instruction, the direction of the jump is expressed by the path sign, in the way of writing with the staple, the direction of the jump must be concluded from the relationship between the starting and finishing positions.",
+          "subentryrefs": [208, 59, 560]
         }
       ]
     },
@@ -5160,6 +5745,71 @@
           "subentryid": "210c",
           "content": "Crossing over while jumping backwards.",
           "subentryrefs": []
+        },
+        {
+          "subentryid": "201–206",
+          "content": "**The direction of a jump.** The direction of a jump is written according to the same rules as the direction of a step (*compare with* problems of supports, 169-178). The meaning of the pin signs in the explanatory sketches beside the examples is explained in Figure 168.",
+          "subentryrefs": [169, 170, 171, 172, 173, 174, 175, 176, 177, 178, 168]
+        },
+        {
+          "subentryid": "",
+          "content": "**In the following examples eleven instructions must be observed.**",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "",
+          "content": "*First:* In order to write and read correctly, it is essential to recognise which leg is the “take-off leg” and which leg is the “landing leg”. In Figure **201a**, one jumps off the right foot and lands on the left, and in Figure **201b** vice versa.",
+          "subentryrefs": [201]
+        },
+        {
+          "subentryid": "",
+          "content": "*Second:* In jumping *from one* leg, the direction is judged from the standing point of the take-off leg.",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "",
+          "content": "*Third:* In jumping *from both* legs simultaneously, the direction is judged from “place”, *i.e.* the point between both feet (**203b, 205a, 206a, 207a, 211c, 212a, 213b**).",
+          "subentryrefs": [203, 205, 206, 207, 211, 212, 213]
+        },
+        {
+          "subentryid": "",
+          "content": "*Fourth:* Te width of open positions on two feet is always judged from the standing point of one foot to that of the other (*see* the principle explained in Figure **173**). (The step-length is dealt with in 649.) In the 2nd position (see Figure **203a**) and the 4th position (*see* Figure **203b**) the right foot is one step-length away from the left, and both are a half step-length from “place” (*compare with* 173a,b).",
+          "subentryrefs": [173, 649, 203]
+        },
+        {
+          "subentryid": "",
+          "content": "*Fifth:* If one leg is lifted before the other, the standing point of the second leg becomes “place”. The release of the first leg can be written either as a leg gesture, as in Figures **204b,c, 205f, 206b, 211d,e, and 213a**; with an action stroke, as in Figsures **209a,b**; or as a preparatory shift of the weight from both feet to one, as in Figures **205e, 211a,b**. The latter way of writing is explained in Figures **175b,c** (*see* 560a,b).",
+          "subentryrefs": [204, 205, 206, 211, 213, 209, 175, 560]
+        },
+        {
+          "subentryid": "",
+          "content": "*Sixth:* Simultaneous landing on both feet in a closed position (*assemblé*) can easily be seen by two identical direction signs in the support columns (**202a, 203b, 204a, 206a,b, 207a,b, 211c,e**).",
+          "subentryrefs": [202, 203, 204, 206, 207, 211]
+        },
+        {
+          "subentryid": "",
+          "content": "*Seventh:* If the feet do not land simultaneously, the landing point of the first foot becomes “place” (**201b, 202b,c, 204b,c, 205f, 208c, 209a,b, 211b,d, 212c**).",
+          "subentryrefs": [201, 202, 204, 205, 208, 209, 211, 212]
+        },
+        {
+          "subentryid": "",
+          "content": "*Eight:* For simultaneous progressions to the right in 2nd position, the direction and the length of the jump are judged for both feet from the standing point of the left foot, and for simultaneous progression to the left, from the standing point of the right foot. This way of writing these movements is visually convincing and can only have one meaning (**214a,d**). (For wide and narrow signs *see* 649.)",
+          "subentryrefs": [214, 649]
+        },
+        {
+          "subentryid": "",
+          "content": "*Ninth:* For simultaneous progression forward in 4th position, the direction and length of the jump are judged for both feet from the standing point of the back foot, and for simultaneous progression backwards, from the standing point of the front foot (**215a,c**).",
+          "subentryrefs": [215]
+        },
+        {
+          "subentryid": "",
+          "content": "*Tenth:* Jumps from both feet to both feet can also be notated by means of “position writing”. In this case the direction signs in the support columns indicate the landing position of the feet. The progression of the body is indicated by the sign for a straight path containing an empty direction sign, written on the right of the staff. This empty direction sign indicates the direction of the jump (**205b,c,d, 207b,d, 210b, 212b, 214b**). (*Compare with* deviating with the indication of step direction, 275, and with the indication of direction in opening ranks, 278b, and closing ranks, 279a,b.) There are some cases in which one can unmistakably notate a jump only by writing in positions with an additional path sign, *e.g.* if a 2nd position (**205c**) or a 4th position (**205d**) is shifted on a diagonal line by a jump.",
+          "subentryrefs": [205, 207, 212, 214, 275, 278, 279]
+        },
+        {
+          "subentryid": "",
+          "content": "*Eleventh:* A second aid in writing jumps in “position writing” is the “staple”, a vertical angular bracket which indicates that the foot is anchored to its former point of support. This means that it returns to the same spot after the jump (**208b**). (Staple, *see* 59 and 560c—e.) While in the way of writing explained in the tenth instruction, the direction of the jump is expressed by the path sign, in the way of writing with the staple, the direction of the jump must be concluded from the relationship between the starting and finishing positions.",
+          "subentryrefs": [208, 59, 560]
         }
       ]
     },
@@ -5196,6 +5846,71 @@
           "subentryid": "211e",
           "content": "Jumping from a crossed to a closed position while travelling to the right beyond the former point of support of the left foot.",
           "subentryrefs": []
+        },
+        {
+          "subentryid": "201–206",
+          "content": "**The direction of a jump.** The direction of a jump is written according to the same rules as the direction of a step (*compare with* problems of supports, 169-178). The meaning of the pin signs in the explanatory sketches beside the examples is explained in Figure 168.",
+          "subentryrefs": [169, 170, 171, 172, 173, 174, 175, 176, 177, 178, 168]
+        },
+        {
+          "subentryid": "",
+          "content": "**In the following examples eleven instructions must be observed.**",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "",
+          "content": "*First:* In order to write and read correctly, it is essential to recognise which leg is the “take-off leg” and which leg is the “landing leg”. In Figure **201a**, one jumps off the right foot and lands on the left, and in Figure **201b** vice versa.",
+          "subentryrefs": [201]
+        },
+        {
+          "subentryid": "",
+          "content": "*Second:* In jumping *from one* leg, the direction is judged from the standing point of the take-off leg.",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "",
+          "content": "*Third:* In jumping *from both* legs simultaneously, the direction is judged from “place”, *i.e.* the point between both feet (**203b, 205a, 206a, 207a, 211c, 212a, 213b**).",
+          "subentryrefs": [203, 205, 206, 207, 212, 213]
+        },
+        {
+          "subentryid": "",
+          "content": "*Fourth:* Te width of open positions on two feet is always judged from the standing point of one foot to that of the other (*see* the principle explained in Figure **173**). (The step-length is dealt with in 649.) In the 2nd position (see Figure **203a**) and the 4th position (*see* Figure **203b**) the right foot is one step-length away from the left, and both are a half step-length from “place” (*compare with* 173a,b).",
+          "subentryrefs": [173, 649, 203]
+        },
+        {
+          "subentryid": "",
+          "content": "*Fifth:* If one leg is lifted before the other, the standing point of the second leg becomes “place”. The release of the first leg can be written either as a leg gesture, as in Figures **204b,c, 205f, 206b, 211d,e, and 213a**; with an action stroke, as in Figsures **209a,b**; or as a preparatory shift of the weight from both feet to one, as in Figures **205e, 211a,b**. The latter way of writing is explained in Figures **175b,c** (*see* 560a,b).",
+          "subentryrefs": [204, 205, 206, 213, 209, 175, 560]
+        },
+        {
+          "subentryid": "",
+          "content": "*Sixth:* Simultaneous landing on both feet in a closed position (*assemblé*) can easily be seen by two identical direction signs in the support columns (**202a, 203b, 204a, 206a,b, 207a,b, 211c,e**).",
+          "subentryrefs": [202, 203, 204, 206, 207]
+        },
+        {
+          "subentryid": "",
+          "content": "*Seventh:* If the feet do not land simultaneously, the landing point of the first foot becomes “place” (**201b, 202b,c, 204b,c, 205f, 208c, 209a,b, 211b,d, 212c**).",
+          "subentryrefs": [201, 202, 204, 205, 208, 209, 212]
+        },
+        {
+          "subentryid": "",
+          "content": "*Eight:* For simultaneous progressions to the right in 2nd position, the direction and the length of the jump are judged for both feet from the standing point of the left foot, and for simultaneous progression to the left, from the standing point of the right foot. This way of writing these movements is visually convincing and can only have one meaning (**214a,d**). (For wide and narrow signs *see* 649.)",
+          "subentryrefs": [214, 649]
+        },
+        {
+          "subentryid": "",
+          "content": "*Ninth:* For simultaneous progression forward in 4th position, the direction and length of the jump are judged for both feet from the standing point of the back foot, and for simultaneous progression backwards, from the standing point of the front foot (**215a,c**).",
+          "subentryrefs": [215]
+        },
+        {
+          "subentryid": "",
+          "content": "*Tenth:* Jumps from both feet to both feet can also be notated by means of “position writing”. In this case the direction signs in the support columns indicate the landing position of the feet. The progression of the body is indicated by the sign for a straight path containing an empty direction sign, written on the right of the staff. This empty direction sign indicates the direction of the jump (**205b,c,d, 207b,d, 210b, 212b, 214b**). (*Compare with* deviating with the indication of step direction, 275, and with the indication of direction in opening ranks, 278b, and closing ranks, 279a,b.) There are some cases in which one can unmistakably notate a jump only by writing in positions with an additional path sign, *e.g.* if a 2nd position (**205c**) or a 4th position (**205d**) is shifted on a diagonal line by a jump.",
+          "subentryrefs": [205, 207, 210, 212, 214, 275, 278, 279]
+        },
+        {
+          "subentryid": "",
+          "content": "*Eleventh:* A second aid in writing jumps in “position writing” is the “staple”, a vertical angular bracket which indicates that the foot is anchored to its former point of support. This means that it returns to the same spot after the jump (**208b**). (Staple, *see* 59 and 560c—e.) While in the way of writing explained in the tenth instruction, the direction of the jump is expressed by the path sign, in the way of writing with the staple, the direction of the jump must be concluded from the relationship between the starting and finishing positions.",
+          "subentryrefs": [208, 59, 560]
         }
       ]
     },
@@ -5222,6 +5937,71 @@
           "subentryid": "212c",
           "content": "Opening to the left into 4th position, starting with a jump on to the right leg.",
           "subentryrefs": []
+        },
+        {
+          "subentryid": "201–206",
+          "content": "**The direction of a jump.** The direction of a jump is written according to the same rules as the direction of a step (*compare with* problems of supports, 169-178). The meaning of the pin signs in the explanatory sketches beside the examples is explained in Figure 168.",
+          "subentryrefs": [169, 170, 171, 172, 173, 174, 175, 176, 177, 178, 168]
+        },
+        {
+          "subentryid": "",
+          "content": "**In the following examples eleven instructions must be observed.**",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "",
+          "content": "*First:* In order to write and read correctly, it is essential to recognise which leg is the “take-off leg” and which leg is the “landing leg”. In Figure **201a**, one jumps off the right foot and lands on the left, and in Figure **201b** vice versa.",
+          "subentryrefs": [201]
+        },
+        {
+          "subentryid": "",
+          "content": "*Second:* In jumping *from one* leg, the direction is judged from the standing point of the take-off leg.",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "",
+          "content": "*Third:* In jumping *from both* legs simultaneously, the direction is judged from “place”, *i.e.* the point between both feet (**203b, 205a, 206a, 207a, 211c, 212a, 213b**).",
+          "subentryrefs": [203, 205, 206, 207, 211, 213]
+        },
+        {
+          "subentryid": "",
+          "content": "*Fourth:* Te width of open positions on two feet is always judged from the standing point of one foot to that of the other (*see* the principle explained in Figure **173**). (The step-length is dealt with in 649.) In the 2nd position (see Figure **203a**) and the 4th position (*see* Figure **203b**) the right foot is one step-length away from the left, and both are a half step-length from “place” (*compare with* 173a,b).",
+          "subentryrefs": [173, 649, 203]
+        },
+        {
+          "subentryid": "",
+          "content": "*Fifth:* If one leg is lifted before the other, the standing point of the second leg becomes “place”. The release of the first leg can be written either as a leg gesture, as in Figures **204b,c, 205f, 206b, 211d,e, and 213a**; with an action stroke, as in Figsures **209a,b**; or as a preparatory shift of the weight from both feet to one, as in Figures **205e, 211a,b**. The latter way of writing is explained in Figures **175b,c** (*see* 560a,b).",
+          "subentryrefs": [204, 205, 206, 211, 213, 209, 175, 560]
+        },
+        {
+          "subentryid": "",
+          "content": "*Sixth:* Simultaneous landing on both feet in a closed position (*assemblé*) can easily be seen by two identical direction signs in the support columns (**202a, 203b, 204a, 206a,b, 207a,b, 211c,e**).",
+          "subentryrefs": [202, 203, 204, 206, 207, 211]
+        },
+        {
+          "subentryid": "",
+          "content": "*Seventh:* If the feet do not land simultaneously, the landing point of the first foot becomes “place” (**201b, 202b,c, 204b,c, 205f, 208c, 209a,b, 211b,d, 212c**).",
+          "subentryrefs": [201, 202, 204, 205, 208, 209, 211]
+        },
+        {
+          "subentryid": "",
+          "content": "*Eight:* For simultaneous progressions to the right in 2nd position, the direction and the length of the jump are judged for both feet from the standing point of the left foot, and for simultaneous progression to the left, from the standing point of the right foot. This way of writing these movements is visually convincing and can only have one meaning (**214a,d**). (For wide and narrow signs *see* 649.)",
+          "subentryrefs": [214, 649]
+        },
+        {
+          "subentryid": "",
+          "content": "*Ninth:* For simultaneous progression forward in 4th position, the direction and length of the jump are judged for both feet from the standing point of the back foot, and for simultaneous progression backwards, from the standing point of the front foot (**215a,c**).",
+          "subentryrefs": [215]
+        },
+        {
+          "subentryid": "",
+          "content": "*Tenth:* Jumps from both feet to both feet can also be notated by means of “position writing”. In this case the direction signs in the support columns indicate the landing position of the feet. The progression of the body is indicated by the sign for a straight path containing an empty direction sign, written on the right of the staff. This empty direction sign indicates the direction of the jump (**205b,c,d, 207b,d, 210b, 212b, 214b**). (*Compare with* deviating with the indication of step direction, 275, and with the indication of direction in opening ranks, 278b, and closing ranks, 279a,b.) There are some cases in which one can unmistakably notate a jump only by writing in positions with an additional path sign, *e.g.* if a 2nd position (**205c**) or a 4th position (**205d**) is shifted on a diagonal line by a jump.",
+          "subentryrefs": [205, 207, 210, 214, 275, 278, 279]
+        },
+        {
+          "subentryid": "",
+          "content": "*Eleventh:* A second aid in writing jumps in “position writing” is the “staple”, a vertical angular bracket which indicates that the foot is anchored to its former point of support. This means that it returns to the same spot after the jump (**208b**). (Staple, *see* 59 and 560c—e.) While in the way of writing explained in the tenth instruction, the direction of the jump is expressed by the path sign, in the way of writing with the staple, the direction of the jump must be concluded from the relationship between the starting and finishing positions.",
+          "subentryrefs": [208, 59, 560]
         }
       ]
     },
@@ -5243,6 +6023,71 @@
           "subentryid": "213b",
           "content": "Landing in front of the middle of the former position, jumping in the manner of a *sissonne*.",
           "subentryrefs": []
+        },
+        {
+          "subentryid": "201–206",
+          "content": "**The direction of a jump.** The direction of a jump is written according to the same rules as the direction of a step (*compare with* problems of supports, 169-178). The meaning of the pin signs in the explanatory sketches beside the examples is explained in Figure 168.",
+          "subentryrefs": [169, 170, 171, 172, 173, 174, 175, 176, 177, 178, 168]
+        },
+        {
+          "subentryid": "",
+          "content": "**In the following examples eleven instructions must be observed.**",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "",
+          "content": "*First:* In order to write and read correctly, it is essential to recognise which leg is the “take-off leg” and which leg is the “landing leg”. In Figure **201a**, one jumps off the right foot and lands on the left, and in Figure **201b** vice versa.",
+          "subentryrefs": [201]
+        },
+        {
+          "subentryid": "",
+          "content": "*Second:* In jumping *from one* leg, the direction is judged from the standing point of the take-off leg.",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "",
+          "content": "*Third:* In jumping *from both* legs simultaneously, the direction is judged from “place”, *i.e.* the point between both feet (**203b, 205a, 206a, 207a, 211c, 212a, 213b**).",
+          "subentryrefs": [203, 205, 206, 207, 211, 212]
+        },
+        {
+          "subentryid": "",
+          "content": "*Fourth:* Te width of open positions on two feet is always judged from the standing point of one foot to that of the other (*see* the principle explained in Figure **173**). (The step-length is dealt with in 649.) In the 2nd position (see Figure **203a**) and the 4th position (*see* Figure **203b**) the right foot is one step-length away from the left, and both are a half step-length from “place” (*compare with* 173a,b).",
+          "subentryrefs": [173, 649, 203]
+        },
+        {
+          "subentryid": "",
+          "content": "*Fifth:* If one leg is lifted before the other, the standing point of the second leg becomes “place”. The release of the first leg can be written either as a leg gesture, as in Figures **204b,c, 205f, 206b, 211d,e, and 213a**; with an action stroke, as in Figsures **209a,b**; or as a preparatory shift of the weight from both feet to one, as in Figures **205e, 211a,b**. The latter way of writing is explained in Figures **175b,c** (*see* 560a,b).",
+          "subentryrefs": [204, 205, 206, 211, 209, 175, 560]
+        },
+        {
+          "subentryid": "",
+          "content": "*Sixth:* Simultaneous landing on both feet in a closed position (*assemblé*) can easily be seen by two identical direction signs in the support columns (**202a, 203b, 204a, 206a,b, 207a,b, 211c,e**).",
+          "subentryrefs": [202, 203, 204, 206, 207, 211]
+        },
+        {
+          "subentryid": "",
+          "content": "*Seventh:* If the feet do not land simultaneously, the landing point of the first foot becomes “place” (**201b, 202b,c, 204b,c, 205f, 208c, 209a,b, 211b,d, 212c**).",
+          "subentryrefs": [201, 202, 204, 205, 208, 209, 211, 212]
+        },
+        {
+          "subentryid": "",
+          "content": "*Eight:* For simultaneous progressions to the right in 2nd position, the direction and the length of the jump are judged for both feet from the standing point of the left foot, and for simultaneous progression to the left, from the standing point of the right foot. This way of writing these movements is visually convincing and can only have one meaning (**214a,d**). (For wide and narrow signs *see* 649.)",
+          "subentryrefs": [214, 649]
+        },
+        {
+          "subentryid": "",
+          "content": "*Ninth:* For simultaneous progression forward in 4th position, the direction and length of the jump are judged for both feet from the standing point of the back foot, and for simultaneous progression backwards, from the standing point of the front foot (**215a,c**).",
+          "subentryrefs": [215]
+        },
+        {
+          "subentryid": "",
+          "content": "*Tenth:* Jumps from both feet to both feet can also be notated by means of “position writing”. In this case the direction signs in the support columns indicate the landing position of the feet. The progression of the body is indicated by the sign for a straight path containing an empty direction sign, written on the right of the staff. This empty direction sign indicates the direction of the jump (**205b,c,d, 207b,d, 210b, 212b, 214b**). (*Compare with* deviating with the indication of step direction, 275, and with the indication of direction in opening ranks, 278b, and closing ranks, 279a,b.) There are some cases in which one can unmistakably notate a jump only by writing in positions with an additional path sign, *e.g.* if a 2nd position (**205c**) or a 4th position (**205d**) is shifted on a diagonal line by a jump.",
+          "subentryrefs": [205, 207, 210, 212, 214, 275, 278, 279]
+        },
+        {
+          "subentryid": "",
+          "content": "*Eleventh:* A second aid in writing jumps in “position writing” is the “staple”, a vertical angular bracket which indicates that the foot is anchored to its former point of support. This means that it returns to the same spot after the jump (**208b**). (Staple, *see* 59 and 560c—e.) While in the way of writing explained in the tenth instruction, the direction of the jump is expressed by the path sign, in the way of writing with the staple, the direction of the jump must be concluded from the relationship between the starting and finishing positions.",
+          "subentryrefs": [208, 59, 560]
         }
       ]
     },
@@ -5274,6 +6119,71 @@
           "subentryid": "214d",
           "content": "Travelling a half step-length to the right in 2nd position.",
           "subentryrefs": []
+        },
+        {
+          "subentryid": "201–206",
+          "content": "**The direction of a jump.** The direction of a jump is written according to the same rules as the direction of a step (*compare with* problems of supports, 169-178). The meaning of the pin signs in the explanatory sketches beside the examples is explained in Figure 168.",
+          "subentryrefs": [169, 170, 171, 172, 173, 174, 175, 176, 177, 178, 168]
+        },
+        {
+          "subentryid": "",
+          "content": "**In the following examples eleven instructions must be observed.**",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "",
+          "content": "*First:* In order to write and read correctly, it is essential to recognise which leg is the “take-off leg” and which leg is the “landing leg”. In Figure **201a**, one jumps off the right foot and lands on the left, and in Figure **201b** vice versa.",
+          "subentryrefs": [201]
+        },
+        {
+          "subentryid": "",
+          "content": "*Second:* In jumping *from one* leg, the direction is judged from the standing point of the take-off leg.",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "",
+          "content": "*Third:* In jumping *from both* legs simultaneously, the direction is judged from “place”, *i.e.* the point between both feet (**203b, 205a, 206a, 207a, 211c, 212a, 213b**).",
+          "subentryrefs": [203, 205, 206, 207, 211, 212, 213]
+        },
+        {
+          "subentryid": "",
+          "content": "*Fourth:* Te width of open positions on two feet is always judged from the standing point of one foot to that of the other (*see* the principle explained in Figure **173**). (The step-length is dealt with in 649.) In the 2nd position (see Figure **203a**) and the 4th position (*see* Figure **203b**) the right foot is one step-length away from the left, and both are a half step-length from “place” (*compare with* 173a,b).",
+          "subentryrefs": [173, 649, 203]
+        },
+        {
+          "subentryid": "",
+          "content": "*Fifth:* If one leg is lifted before the other, the standing point of the second leg becomes “place”. The release of the first leg can be written either as a leg gesture, as in Figures **204b,c, 205f, 206b, 211d,e, and 213a**; with an action stroke, as in Figsures **209a,b**; or as a preparatory shift of the weight from both feet to one, as in Figures **205e, 211a,b**. The latter way of writing is explained in Figures **175b,c** (*see* 560a,b).",
+          "subentryrefs": [204, 205, 206, 211, 213, 209, 175, 560]
+        },
+        {
+          "subentryid": "",
+          "content": "*Sixth:* Simultaneous landing on both feet in a closed position (*assemblé*) can easily be seen by two identical direction signs in the support columns (**202a, 203b, 204a, 206a,b, 207a,b, 211c,e**).",
+          "subentryrefs": [202, 203, 204, 206, 207, 211]
+        },
+        {
+          "subentryid": "",
+          "content": "*Seventh:* If the feet do not land simultaneously, the landing point of the first foot becomes “place” (**201b, 202b,c, 204b,c, 205f, 208c, 209a,b, 211b,d, 212c**).",
+          "subentryrefs": [201, 202, 204, 205, 208, 209, 211, 212]
+        },
+        {
+          "subentryid": "",
+          "content": "*Eight:* For simultaneous progressions to the right in 2nd position, the direction and the length of the jump are judged for both feet from the standing point of the left foot, and for simultaneous progression to the left, from the standing point of the right foot. This way of writing these movements is visually convincing and can only have one meaning (**214a,d**). (For wide and narrow signs *see* 649.)",
+          "subentryrefs": [649]
+        },
+        {
+          "subentryid": "",
+          "content": "*Ninth:* For simultaneous progression forward in 4th position, the direction and length of the jump are judged for both feet from the standing point of the back foot, and for simultaneous progression backwards, from the standing point of the front foot (**215a,c**).",
+          "subentryrefs": [215]
+        },
+        {
+          "subentryid": "",
+          "content": "*Tenth:* Jumps from both feet to both feet can also be notated by means of “position writing”. In this case the direction signs in the support columns indicate the landing position of the feet. The progression of the body is indicated by the sign for a straight path containing an empty direction sign, written on the right of the staff. This empty direction sign indicates the direction of the jump (**205b,c,d, 207b,d, 210b, 212b, 214b**). (*Compare with* deviating with the indication of step direction, 275, and with the indication of direction in opening ranks, 278b, and closing ranks, 279a,b.) There are some cases in which one can unmistakably notate a jump only by writing in positions with an additional path sign, *e.g.* if a 2nd position (**205c**) or a 4th position (**205d**) is shifted on a diagonal line by a jump.",
+          "subentryrefs": [205, 207, 210, 212, 275, 278, 279]
+        },
+        {
+          "subentryid": "",
+          "content": "*Eleventh:* A second aid in writing jumps in “position writing” is the “staple”, a vertical angular bracket which indicates that the foot is anchored to its former point of support. This means that it returns to the same spot after the jump (**208b**). (Staple, *see* 59 and 560c—e.) While in the way of writing explained in the tenth instruction, the direction of the jump is expressed by the path sign, in the way of writing with the staple, the direction of the jump must be concluded from the relationship between the starting and finishing positions.",
+          "subentryrefs": [208, 59, 560]
         }
       ]
     },
@@ -5300,6 +6210,71 @@
           "subentryid": "215c",
           "content": "Travelling a half step-length forwards in 4th position.",
           "subentryrefs": []
+        },
+        {
+          "subentryid": "201–206",
+          "content": "**The direction of a jump.** The direction of a jump is written according to the same rules as the direction of a step (*compare with* problems of supports, 169-178). The meaning of the pin signs in the explanatory sketches beside the examples is explained in Figure 168.",
+          "subentryrefs": [169, 170, 171, 172, 173, 174, 175, 176, 177, 178, 168]
+        },
+        {
+          "subentryid": "",
+          "content": "**In the following examples eleven instructions must be observed.**",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "",
+          "content": "*First:* In order to write and read correctly, it is essential to recognise which leg is the “take-off leg” and which leg is the “landing leg”. In Figure **201a**, one jumps off the right foot and lands on the left, and in Figure **201b** vice versa.",
+          "subentryrefs": [201]
+        },
+        {
+          "subentryid": "",
+          "content": "*Second:* In jumping *from one* leg, the direction is judged from the standing point of the take-off leg.",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "",
+          "content": "*Third:* In jumping *from both* legs simultaneously, the direction is judged from “place”, *i.e.* the point between both feet (**203b, 205a, 206a, 207a, 211c, 212a, 213b**).",
+          "subentryrefs": [203, 205, 206, 207, 211, 212, 213]
+        },
+        {
+          "subentryid": "",
+          "content": "*Fourth:* Te width of open positions on two feet is always judged from the standing point of one foot to that of the other (*see* the principle explained in Figure **173**). (The step-length is dealt with in 649.) In the 2nd position (see Figure **203a**) and the 4th position (*see* Figure **203b**) the right foot is one step-length away from the left, and both are a half step-length from “place” (*compare with* 173a,b).",
+          "subentryrefs": [173, 649, 203]
+        },
+        {
+          "subentryid": "",
+          "content": "*Fifth:* If one leg is lifted before the other, the standing point of the second leg becomes “place”. The release of the first leg can be written either as a leg gesture, as in Figures **204b,c, 205f, 206b, 211d,e, and 213a**; with an action stroke, as in Figsures **209a,b**; or as a preparatory shift of the weight from both feet to one, as in Figures **205e, 211a,b**. The latter way of writing is explained in Figures **175b,c** (*see* 560a,b).",
+          "subentryrefs": [204, 205, 206, 211, 213, 209, 175, 560]
+        },
+        {
+          "subentryid": "",
+          "content": "*Sixth:* Simultaneous landing on both feet in a closed position (*assemblé*) can easily be seen by two identical direction signs in the support columns (**202a, 203b, 204a, 206a,b, 207a,b, 211c,e**).",
+          "subentryrefs": [202, 203, 204, 206, 207, 211]
+        },
+        {
+          "subentryid": "",
+          "content": "*Seventh:* If the feet do not land simultaneously, the landing point of the first foot becomes “place” (**201b, 202b,c, 204b,c, 205f, 208c, 209a,b, 211b,d, 212c**).",
+          "subentryrefs": [201, 202, 204, 205, 208, 209, 211, 212]
+        },
+        {
+          "subentryid": "",
+          "content": "*Eight:* For simultaneous progressions to the right in 2nd position, the direction and the length of the jump are judged for both feet from the standing point of the left foot, and for simultaneous progression to the left, from the standing point of the right foot. This way of writing these movements is visually convincing and can only have one meaning (**214a,d**). (For wide and narrow signs *see* 649.)",
+          "subentryrefs": [214, 649]
+        },
+        {
+          "subentryid": "",
+          "content": "*Ninth:* For simultaneous progression forward in 4th position, the direction and length of the jump are judged for both feet from the standing point of the back foot, and for simultaneous progression backwards, from the standing point of the front foot (**215a,c**).",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "",
+          "content": "*Tenth:* Jumps from both feet to both feet can also be notated by means of “position writing”. In this case the direction signs in the support columns indicate the landing position of the feet. The progression of the body is indicated by the sign for a straight path containing an empty direction sign, written on the right of the staff. This empty direction sign indicates the direction of the jump (**205b,c,d, 207b,d, 210b, 212b, 214b**). (*Compare with* deviating with the indication of step direction, 275, and with the indication of direction in opening ranks, 278b, and closing ranks, 279a,b.) There are some cases in which one can unmistakably notate a jump only by writing in positions with an additional path sign, *e.g.* if a 2nd position (**205c**) or a 4th position (**205d**) is shifted on a diagonal line by a jump.",
+          "subentryrefs": [205, 207, 210, 212, 214, 275, 278, 279]
+        },
+        {
+          "subentryid": "",
+          "content": "*Eleventh:* A second aid in writing jumps in “position writing” is the “staple”, a vertical angular bracket which indicates that the foot is anchored to its former point of support. This means that it returns to the same spot after the jump (**208b**). (Staple, *see* 59 and 560c—e.) While in the way of writing explained in the tenth instruction, the direction of the jump is expressed by the path sign, in the way of writing with the staple, the direction of the jump must be concluded from the relationship between the starting and finishing positions.",
+          "subentryrefs": [208, 59, 560]
         }
       ]
     },
@@ -5313,9 +6288,74 @@
       "outlinerefs": [],
       "detail": [
         {
-          "subentryid": "",
+          "subentryid": "216",
           "content": "First, the right foot lands immediately in front of the former point of support of the left; second, the left foot lands immediately behind the former standing point of the right; third and fourth, jumping directly on to the spot the other foot has just left. (*See* 140.)",
           "subentryrefs": [140]
+        },
+        {
+          "subentryid": "201–206",
+          "content": "**The direction of a jump.** The direction of a jump is written according to the same rules as the direction of a step (*compare with* problems of supports, 169-178). The meaning of the pin signs in the explanatory sketches beside the examples is explained in Figure 168.",
+          "subentryrefs": [169, 170, 171, 172, 173, 174, 175, 176, 177, 178, 168]
+        },
+        {
+          "subentryid": "",
+          "content": "**In the following examples eleven instructions must be observed.**",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "",
+          "content": "*First:* In order to write and read correctly, it is essential to recognise which leg is the “take-off leg” and which leg is the “landing leg”. In Figure **201a**, one jumps off the right foot and lands on the left, and in Figure **201b** vice versa.",
+          "subentryrefs": [201]
+        },
+        {
+          "subentryid": "",
+          "content": "*Second:* In jumping *from one* leg, the direction is judged from the standing point of the take-off leg.",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "",
+          "content": "*Third:* In jumping *from both* legs simultaneously, the direction is judged from “place”, *i.e.* the point between both feet (**203b, 205a, 206a, 207a, 211c, 212a, 213b**).",
+          "subentryrefs": [203, 205, 206, 207, 211, 212, 213]
+        },
+        {
+          "subentryid": "",
+          "content": "*Fourth:* Te width of open positions on two feet is always judged from the standing point of one foot to that of the other (*see* the principle explained in Figure **173**). (The step-length is dealt with in 649.) In the 2nd position (see Figure **203a**) and the 4th position (*see* Figure **203b**) the right foot is one step-length away from the left, and both are a half step-length from “place” (*compare with* 173a,b).",
+          "subentryrefs": [173, 649, 203]
+        },
+        {
+          "subentryid": "",
+          "content": "*Fifth:* If one leg is lifted before the other, the standing point of the second leg becomes “place”. The release of the first leg can be written either as a leg gesture, as in Figures **204b,c, 205f, 206b, 211d,e, and 213a**; with an action stroke, as in Figsures **209a,b**; or as a preparatory shift of the weight from both feet to one, as in Figures **205e, 211a,b**. The latter way of writing is explained in Figures **175b,c** (*see* 560a,b).",
+          "subentryrefs": [204, 205, 206, 211, 213, 209, 175, 560]
+        },
+        {
+          "subentryid": "",
+          "content": "*Sixth:* Simultaneous landing on both feet in a closed position (*assemblé*) can easily be seen by two identical direction signs in the support columns (**202a, 203b, 204a, 206a,b, 207a,b, 211c,e**).",
+          "subentryrefs": [202, 203, 204, 206, 207, 211]
+        },
+        {
+          "subentryid": "",
+          "content": "*Seventh:* If the feet do not land simultaneously, the landing point of the first foot becomes “place” (**201b, 202b,c, 204b,c, 205f, 208c, 209a,b, 211b,d, 212c**).",
+          "subentryrefs": [201, 202, 204, 205, 208, 209, 211, 212]
+        },
+        {
+          "subentryid": "",
+          "content": "*Eight:* For simultaneous progressions to the right in 2nd position, the direction and the length of the jump are judged for both feet from the standing point of the left foot, and for simultaneous progression to the left, from the standing point of the right foot. This way of writing these movements is visually convincing and can only have one meaning (**214a,d**). (For wide and narrow signs *see* 649.)",
+          "subentryrefs": [214, 649]
+        },
+        {
+          "subentryid": "",
+          "content": "*Ninth:* For simultaneous progression forward in 4th position, the direction and length of the jump are judged for both feet from the standing point of the back foot, and for simultaneous progression backwards, from the standing point of the front foot (**215a,c**).",
+          "subentryrefs": [215]
+        },
+        {
+          "subentryid": "",
+          "content": "*Tenth:* Jumps from both feet to both feet can also be notated by means of “position writing”. In this case the direction signs in the support columns indicate the landing position of the feet. The progression of the body is indicated by the sign for a straight path containing an empty direction sign, written on the right of the staff. This empty direction sign indicates the direction of the jump (**205b,c,d, 207b,d, 210b, 212b, 214b**). (*Compare with* deviating with the indication of step direction, 275, and with the indication of direction in opening ranks, 278b, and closing ranks, 279a,b.) There are some cases in which one can unmistakably notate a jump only by writing in positions with an additional path sign, *e.g.* if a 2nd position (**205c**) or a 4th position (**205d**) is shifted on a diagonal line by a jump.",
+          "subentryrefs": [205, 207, 210, 212, 214, 275, 278, 279]
+        },
+        {
+          "subentryid": "",
+          "content": "*Eleventh:* A second aid in writing jumps in “position writing” is the “staple”, a vertical angular bracket which indicates that the foot is anchored to its former point of support. This means that it returns to the same spot after the jump (**208b**). (Staple, *see* 59 and 560c—e.) While in the way of writing explained in the tenth instruction, the direction of the jump is expressed by the path sign, in the way of writing with the staple, the direction of the jump must be concluded from the relationship between the starting and finishing positions.",
+          "subentryrefs": [208, 59, 560]
         }
       ]
     },
