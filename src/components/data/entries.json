@@ -6953,6 +6953,985 @@
       ]
     },
     {
+      "id": 235,
+      "category": "Floor Pattern",      
+      "entrytype": "example",
+      "image": "/img/235.png",
+      "keywords": [],
+      "outline": "I. The six factors of floor patterns",
+      "outlinerefs": [],
+      "detail": [
+        {
+          "subentryid": "The factors which make up floor patterns are:",
+          "content": "",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "First,",
+          "content": "the step direction (*see* Figure 161)",
+          "subentryrefs": [161]
+        },
+        {
+          "subentryid": "Second,",
+          "content": "the starting front (*see* front signs, 854)",
+          "subentryrefs": [854]
+        },
+        {
+          "subentryid": "Third,",
+          "content": "the starting area (*see* area signs, 862–865)",
+          "subentryrefs": [862, 863, 864, 865]
+        },
+        {
+          "subentryid": "Fourth,",
+          "content": "the length of the path",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "Fifth,",
+          "content": "turns (*see* 237-259)",
+          "subentryrefs": [237, 238, 239, 240, 241, 242, 243, 244, 245, 246, 247, 248, 249, 250, 251, 252, 253, 254, 255, 256, 257, 258, 259]
+        },        {
+          "subentryid": "Sixth,",
+          "content": "circular paths (*see* 260–273)",
+          "subentryrefs": [260, 261, 262, 263, 264, 265, 266, 267, 268, 269, 270, 271, 272, 273]
+        },
+        {
+          "subentryid": "From these factors three more can be derived:",
+          "content": "",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "First,",
+          "content": "the direction of the path",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "Second,",
+          "content": "the situation of the path",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "Third,",
+          "content": "the destination of the path",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "235a,b",
+          "content": "*The direction of the path* results from the step direction and the starting front. In Figure **235a**, when facing right-forward and stepping to the right, a path towards the right-backward corner is created. In Figure **235b**, when stepping in the same direction but having another starting front (to the left), a path towards the foreground (downstage) is created.",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "235c,d",
+          "content": "*The situation of the path* results from the direction of the path and the starting area. In Figure **235c** the path travels along close to the left side of the stage because it starts in the left-backward corner. In Figure **235d** the same path travels along close to the right side of the stage because it starts in the right-backward corner.",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "235d,e",
+          "content": "*The destination of the path* results from the direction, the situation, and the length of the path. In Figure **235d** the middle of the right side of the stage is reached with four steps, whereas in Figure **235e**, one arrives at the right-forward corner with eight steps.",
+          "subentryrefs": []
+        }
+      ]
+    },
+    {
+      "id": 236,
+      "category": "Floor Pattern",      
+      "entrytype": "example",
+      "image": "/img/236.png",
+      "keywords": [],
+      "outline": "II. The three basic shapes",
+      "outlinerefs": [],
+      "detail": [
+        {
+          "subentryid": "236",
+          "content": "The three basic shapes from which all floor patterns are composed are, first, a straight line, second, a corner or angle, and third, a curve.",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "",
+          "content": "First: A straight line is created by keeping the same front and step direction (*see* 235a–e).",
+          "subentryrefs": [235]
+        },
+        {
+          "subentryid": "236a,b",
+          "content": "Second: A corner is created by keeping the same front but changing the step direction (**236a**), or by keeping the same step direction but changing the front (**236b**). (Turns, *see* 237–241)",
+          "subentryrefs": [237, 238, 239, 240, 241]
+        },
+        {
+          "subentryid": "236c",
+          "content": "Curved paths are analysed as parts of circles (**236c**). (Circular paths, *see* 260–273)",
+          "subentryrefs": []
+        }
+      ]
+    },
+    {
+      "id": 237,
+      "category": "Floor Pattern",      
+      "entrytype": "symbol",
+      "image": "/img/237.png",
+      "keywords": [],
+      "outline": "III. Turns (237–259)",
+      "outlinerefs": [238, 239, 240, 241, 242, 243, 244, 245, 246, 247, 248, 249, 250, 251, 252, 253, 254, 255, 256, 257, 258, 259],
+      "detail": [
+        {
+          "subentryid": "237–241",
+          "content": "**The four principles** (*compare with* 1–10).",
+          "subentryrefs": [238, 239, 240, 241, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+        },
+        {
+          "subentryid": "237",
+          "content": "First principle of turns: The shape of the sign indicates **the direction of the turn.**",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "237a,b",
+          "content": "The symbol slanting upwards to the left indicates a t*urn to the left* (**237a**). The symbol slanting upwards to the right indicates a *turn to the right* (**237b**).",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "237c",
+          "content": "Both turn signs written one on top of the other (**237c**) in the support column in solo dances indicate a *turn to the right or to the left* according to the choice of the performer, and in group dances they indicate *turns to the right and to the left* (*see* group turns, 289–290).",
+          "subentryrefs": [289, 290]
+        },
+        {
+          "subentryid": "",
+          "content": "If written in a gesture column of a position graph, the combined turn sign indicates the normal, untwisted state of a body part. If written in the actual kinetogram, it means the return to the normal, untwisted state after a twist. In the latter case one should read this symbol as *neither twisted to the right nor to the left.* (*See* 333c, 366e, 396c, 432a, 789f.) **Additional signs: Appendix II 978c.",
+          "subentryrefs": [333, 366, 396, 432, 789, 978]
+        }
+      ]
+    },
+    {
+      "id": 238,
+      "category": "Floor Pattern",      
+      "entrytype": "symbol",
+      "image": "/img/238.png",
+      "keywords": [],
+      "outline": "III. Turns (237–259)",
+      "outlinerefs": [237, 239, 240, 241, 242, 243, 244, 245, 246, 247, 248, 249, 250, 251, 252, 253, 254, 255, 256, 257, 258, 259],
+      "detail": [
+        {
+          "subentryid": "237–241",
+          "content": "**The four principles** (*compare with* 1–10).",
+          "subentryrefs": [237, 239, 240, 241, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+        },
+        {
+          "subentryid": "238",
+          "content": "Second principle of turns: **The degree of the turn** is indicated by the black pin sign in the turn sign (*see* 152a, 154a,b).",
+          "subentryrefs": [152, 154]
+        },
+        {
+          "subentryid": "238a",
+          "content": "Figure **238a** indicates a turn to the right until what was originally on the right is now in front of the body. Figure **238a** always means a 1/4 turn to the right and not a turn to face the right side of the room or stage.",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "238b",
+          "content": "The new front is noted by writing a front sign at the right of the kinetogram (**238b**). ** Other way of writing: Appendix II 1001. The new front results from the starting front, which can be seen from the front sign below the kinetogram, and from the change of front created by the turn. * Old way of writing: Appendix I 955. *Example* **238b** means starting with the front towards the right side of the room, and finishing facing the background after the 1/4 turn to the right. (Front signs, *see* 854.)",
+          "subentryrefs": [1001]
+        },
+        {
+          "subentryid": "Note",
+          "content": "Black pins are placed in the turn sign and flat pins in the front sign for the following reasons. The pin sign in the turn sign indicates the new front in relation to the old front. Therefore, this pin sign is derived from the standard cross of axes (*see* 101b, 124a), because this cross of axes means that all directions relate to the front of the performer at a given moment. In the front  sign, however, the front of the performer is represented in relation to fixed axes. In this case the front sign is derived from the constant cross of axes (see 101d, 124b).",
+          "subentryrefs": [101, 124]
+        },
+        {
+          "subentryid": "238c–f",
+          "content": "*Example* **238c** always means a 3/4 turn to the right, and *Example* **238d** means a 1/4 turn to the right or a 3/4 turn to the left according to choice. Figure **238e** is a survey of turns to the left, and Figure **238f** is a survey of turns to the right.",
+          "subentryrefs": []
+        }
+      ]
+    },
+    {
+      "id": 239,
+      "category": "Floor Pattern",      
+      "entrytype": "symbol",
+      "image": "/img/239.png",
+      "keywords": [],
+      "outline": "III. Turns (237–259)",
+      "outlinerefs": [237, 238, 240, 241, 242, 243, 244, 245, 246, 247, 248, 249, 250, 251, 252, 253, 254, 255, 256, 257, 258, 259],
+      "detail": [
+        {
+          "subentryid": "237–241",
+          "content": "**The four principles** (*compare with* 1–10).",
+          "subentryrefs": [237, 238, 240, 241, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+        },
+        {
+          "subentryid": "239",
+          "content": "Third principle of turns: **The duration of the turn** is indicated by the length of the sign. Figure **239a** shows slow turns, and **239b** shows quick turns.",
+          "subentryrefs": []
+        }
+      ]
+    },
+    {
+      "id": 240,
+      "category": "Floor Pattern",      
+      "entrytype": "example",
+      "image": "/img/240.png",
+      "keywords": [],
+      "outline": "III. Turns (237–259)",
+      "outlinerefs": [237, 238, 239, 241, 242, 243, 244, 245, 246, 247, 248, 249, 250, 251, 252, 253, 254, 255, 256, 257, 258, 259],
+      "detail": [
+        {
+          "subentryid": "237–241",
+          "content": "**The four principles** (*compare with* 1–10).",
+          "subentryrefs": [237, 238, 239, 241, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+        },
+        {
+          "subentryid": "240",
+          "content": "Fourth principle of turns: The position of the sign on the staff indicates **on which foot** the body turns or **which part of the body rotates**.",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "240a–c",
+          "content": "Turn signs in the support columns mean a turn of the whole body. Figure **240a** indicates a 1/2 turn of the whole body to the right on the left foot. The technical term for a right turn on the left foot (**240b**) and a left turn on the right foot is *en dehors*. The technical term for a right turn on the right foot (**240c**) and a left turn on the left foot is *en dedans*.",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "240d,e",
+          "content": "Turn signs in the gesture columns indicate twists of the respective parts of the body around their own longitudinal axes. Figure **240d** shows an inward rotation of the arms, and **240e** shows first an outward and then an inward rotation of the leg. (*See* 333, 366, 368–370, 372, 396, 403–405, 407, 432, 435.)",
+          "subentryrefs": [333, 366, 368, 369, 370, 372, 396, 403, 404, 405, 407, 432, 435]
+        }
+      ]
+    },
+    {
+      "id": 241,
+      "category": "Floor Pattern",      
+      "entrytype": "example",
+      "image": "/img/241.png",
+      "keywords": [],
+      "outline": "III. Turns (237–259)",
+      "outlinerefs": [237, 238, 239, 240, 242, 243, 244, 245, 246, 247, 248, 249, 250, 251, 252, 253, 254, 255, 256, 257, 258, 259],
+      "detail": [
+        {
+          "subentryid": "237–241",
+          "content": "**The four principles** (*compare with* 1–10).",
+          "subentryrefs": [237, 238, 239, 240, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+        },
+        {
+          "subentryid": "241",
+          "content": "*Four indications* are included in each turn sign.",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "First,",
+          "content": "on which foot one turns, or which part of the body rotates.",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "Second,",
+          "content": "how long the turn lasts.",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "Third,",
+          "content": "how far one turns.",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "Fourth,",
+          "content": "to which side one turns.",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "",
+          "content": "*Example* **241** means two fast, full turns to the right on the left foot.",
+          "subentryrefs": []
+        }
+      ]
+    },
+    {
+      "id": 242,
+      "category": "Floor Pattern",      
+      "entrytype": "symbol",
+      "image": "/img/242.png",
+      "keywords": [],
+      "outline": "III. Turns (237–259)",
+      "outlinerefs": [237, 238, 239, 240, 241, 243, 244, 245, 246, 247, 248, 249, 250, 251, 252, 253, 254, 255, 256, 257, 258, 259],
+      "detail": [
+        {
+          "subentryid": "",
+          "content": "For **several complete turns** either a number is written within the turn sign, as in Figure 241, or the appropriate number of pin signs indicating a complete turn are written one above the other, as in Figure **242**.",
+          "subentryrefs": [241]
+        },
+        {
+          "subentryid": "",
+          "content": "If there are full turns plus a *partial turn*, the pin sign for the partial turn is written above those for the full turns. Figure **242** shows 2 1/4 turns.",
+          "subentryrefs": []
+        }
+      ]
+    },
+    {
+      "id": 243,
+      "category": "Floor Pattern",      
+      "entrytype": "example",
+      "image": "/img/243.png",
+      "keywords": [],
+      "outline": "III. Turns (237–259)",
+      "outlinerefs": [237, 238, 239, 240, 241, 242, 244, 245, 246, 247, 248, 249, 250, 251, 252, 253, 254, 255, 256, 257, 258, 259],
+      "detail": [
+        {
+          "subentryid": "243a,b",
+          "content": "A turn sign does not indicate a transference of weight on to the foot in question. The leg on which one turns must be shown previously to be supporting (**243a**). Figure **243b** is *incorrect notation* because one does not know the level of the turn or where the left leg steps before the turn occurs.",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "243c",
+          "content": "In *Example* **243c**, a leg gesture occurs in which the left foot takes only one-third of the weight while the right foot is released (*see* 223b). In this unbalanced situation of the body, a 1/4 turn is performed on a foot which only carries part of the weight.",
+          "subentryrefs": [223]
+        }
+      ]
+    },
+    {
+      "id": 244,
+      "category": "Floor Pattern",      
+      "entrytype": "example",
+      "image": "/img/244.png",
+      "keywords": [],
+      "outline": "III. Turns (237–259)",
+      "outlinerefs": [237, 238, 239, 240, 241, 242, 243, 245, 246, 247, 248, 249, 250, 251, 252, 253, 254, 255, 256, 257, 258, 259],
+      "detail": [
+        {
+          "subentryid": "244",
+          "content": "*Examples of turns.*",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "244a",
+          "content": "Turning on both feet. The right foot crosses over in front to make a left-backward step, and as a result of the turn, the movement ends in fifth position with the left foot in front.",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "244b",
+          "content": "Releasing the right foot while turning (*see* 182c).",
+          "subentryrefs": [182]
+        },
+        {
+          "subentryid": "244c",
+          "content": "Turning on both feet, then placing the right foot beside the left (*see* 175a).",
+          "subentryrefs": [175]
+        },
+        {
+          "subentryid": "244d",
+          "content": "The shift of the whole weight on to the left leg after the turn, by which the right leg becomes free to be placed beside the left, can also be shown by an appropriate support sign. The caret means that it is only a shift of weight and not an actual step (*see* 175b,c). Because of the 1/4 turn, the 2nd position has become a 4th position, therefore, the preparatory shift of weight is forward.",
+          "subentryrefs": [175]
+        },
+        {
+          "subentryid": "244e",
+          "content": "Releasing the right foot while turning, then placing it beside the left to share the weight (*see* 182c).",
+          "subentryrefs": [182]
+        },
+        {
+          "subentryid": "244f",
+          "content": "Sliding the feet together after a turn on both feet.",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "244g",
+          "content": "Before and after the turn both feet have the same points of support, however, they have a different relationship to the front of the dancer, *i.e.* the 2nd position has become a 4th. (*Compare with* 853e,e′.)",
+          "subentryrefs": [853]
+        },
+        {
+          "subentryid": "244h",
+          "content": "All directions after a turn relate to the new front. The path in this example doubles back to the starting point because of the half turn and the constant step direction.",
+          "subentryrefs": []
+        }
+      ]
+    },
+    {
+      "id": 245,
+      "category": "Floor Pattern",      
+      "entrytype": "example",
+      "image": "/img/245.png",
+      "keywords": [],
+      "outline": "III. Turns (237–259)",
+      "outlinerefs": [237, 238, 239, 240, 241, 242, 243, 244, 246, 247, 248, 249, 250, 251, 252, 253, 254, 255, 256, 257, 258, 259],
+      "detail": [
+        {
+          "subentryid": "245–246",
+          "content": "**Turning jumps.** The distinguishing mark of the kinetogram for a turning jump is the simultaneity of a turn and gestures of both legs.",
+          "subentryrefs": [246]
+        },
+        {
+          "subentryid": "245a",
+          "content": "During the turning jump from one foot to the other, the line of gravity changes from the take-off leg to the landing leg. Therefore, the turn sign is written across both support columns.",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "245b",
+          "content": "In a *tour en l'air* one springs from both feet to land on both feet.",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "245c",
+          "content": "In a turning hop on the spot, the line of gravity stays above the former standing point of the jumping leg. Therefore, the turn sign is only written in the support column of the jumping leg, as in a turn on one foot (240a). In a turning hop only a gesture for the jumping leg need be written, because the other leg already carries no weight.",
+          "subentryrefs": [240]
+        },
+        {
+          "subentryid": "Note",
+          "content": "Our American colleagues write the turn sign across both support columns for all kinds of turning jumps.",
+          "subentryrefs": []
+        }
+      ]
+    },
+    {
+      "id": 246,
+      "category": "Floor Pattern",      
+      "entrytype": "example",
+      "image": "/img/246.png",
+      "keywords": [],
+      "outline": "III. Turns (237–259)",
+      "outlinerefs": [237, 238, 239, 240, 241, 242, 243, 244, 245, 247, 248, 249, 250, 251, 252, 253, 254, 255, 256, 257, 258, 259],
+      "detail": [
+        {
+          "subentryid": "245–246",
+          "content": "**Turning jumps.** The distinguishing mark of the kinetogram for a turning jump is the simultaneity of a turn and gestures of both legs.",
+          "subentryrefs": [245]
+        },
+        {
+          "subentryid": "246",
+          "content": "The simplified way of writing turning jumps is to write action strokes in the leg gesture columns instead of direction signs. Figure **246a** shows the basic outline of a turning jump using this way of writing. This is used if one does not wish to specify a particular way of performing the leg gestures, but wishes to leave it to the judgment of the performer. (Action strokes, *see* 5, 126.) It is presumed that leg gestures are chosen appropriate to the harmonious performance of the jump. This way of writing is especially useful for quick, small turning jumps (**246b**). * Old way of writing: Appendix I 908.",
+          "subentryrefs": [5, 126, 908]
+        }
+      ]
+    },
+    {
+      "id": 247,
+      "category": "Floor Pattern",      
+      "entrytype": "example",
+      "image": "/img/247.png",
+      "keywords": [],
+      "outline": "III. Turns (237–259)",
+      "outlinerefs": [237, 238, 239, 240, 241, 242, 243, 244, 245, 246, 248, 249, 250, 251, 252, 253, 254, 255, 256, 257, 258, 259],
+      "detail": [
+        {
+          "subentryid": "247",
+          "content": "**The level of support during a turn** results from the preceding level of support.",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "247a",
+          "content": "Turning on the whole foot with a slightly bent leg.",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "247b",
+          "content": "Turning on the whole foot with a straight leg.",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "247c",
+          "content": "Turning on half-point.",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "247d",
+          "content": "Rising after a low turn.",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "247e",
+          "content": "Lowering after a turn on half-point.",
+          "subentryrefs": []
+        }
+      ]
+    },
+    {
+      "id": 248,
+      "category": "Floor Pattern",      
+      "entrytype": "example",
+      "image": "/img/248.png",
+      "keywords": [],
+      "outline": "III. Turns (237–259)",
+      "outlinerefs": [237, 238, 239, 240, 241, 242, 243, 244, 245, 246, 247, 249, 250, 251, 252, 253, 254, 255, 256, 257, 258, 259],
+      "detail": [
+        {
+          "subentryid": "248",
+          "content": "*Change of the level of support during a turn* can be expressed in several ways. First, both events can be written above one another, with the simultaneity expressed by a vertical bow (**248a,b,d**). The length of the vertical bow indicates how long the simultaneity lasts (*see* 559). Second, the two events can be notated separately; the change of level in the support columns, and the turn beside the staff in the place used for path signs (**248c,e,f**). (Path signs, *see* 262a.)",
+          "subentryrefs": [559, 262]
+        },
+        {
+          "subentryid": "Note",
+          "content": "*Compare with* the way of writing the continuous turn (254c, 268b) and with one of the ways of writing the amalgamated turn (219a, 256a).",
+          "subentryrefs": [254, 268, 219, 256]
+        },
+        {
+          "subentryid": "248a",
+          "content": "Rising while turning. (*See* 757a.) ** Other way of writing: Appendix II 982b.",
+          "subentryrefs": [757, 982]
+        },
+        {
+          "subentryid": "248b",
+          "content": "Bending the knee while turning.",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "248c",
+          "content": "Rising while turning.",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "248d",
+          "content": "Lowering at the end of the turn.",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "248e",
+          "content": "Turning at the end of the rise.",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "248f",
+          "content": "Lifting and lowering twice during a complete turn.",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "248g–i",
+          "content": "A third way to express a simultaneous turn and change of level consists of shading the turn sign.",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "248g",
+          "content": "Rising at the beginning of the turn.",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "248h",
+          "content": "Rising at the beginning and lowering at the end of the turn. * Old way of writing: Appendix I 913b.",
+          "subentryrefs": [913]
+        },
+        {
+          "subentryid": "248i",
+          "content": "Rising in the middle of the turn.",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "Note",
+          "content": "To express rising, at least three strokes must be drawn in order to avoid mistaking this sign for that for “as many quick turns as possible”(*see* 257g,j).",
+          "subentryrefs": [257]
+        }
+      ]
+    },
+    {
+      "id": 249,
+      "category": "Floor Pattern",      
+      "entrytype": "example",
+      "image": "/img/249.png",
+      "keywords": [],
+      "outline": "III. Turns (237–259)",
+      "outlinerefs": [237, 238, 239, 240, 241, 242, 243, 244, 245, 246, 247, 248, 250, 251, 252, 253, 254, 255, 256, 257, 258, 259],
+      "detail": [
+        {
+          "subentryid": "249",
+          "content": "**A circular path on the spot** is similar to a turn because in both cases the front changes without a progression of the body. Nevertheless, it is a genuine circular path because, in contrast to a genuine turn, no friction occurs between the floor and the part of the foot which takes the weight. (*Compare with* 269a, as well as with turn without friction, 254a,b, and continuous turning, 254c.)",
+          "subentryrefs": [269, 254]
+        }
+      ]
+    },
+    {
+      "id": 250,
+      "category": "Floor Pattern",      
+      "entrytype": "example",
+      "image": "/img/250.png",
+      "keywords": [],
+      "outline": "III. Turns (237–259)",
+      "outlinerefs": [237, 238, 239, 240, 241, 242, 243, 244, 245, 246, 247, 248, 249, 251, 252, 253, 254, 255, 256, 257, 258, 259],
+      "detail": [
+        {
+          "subentryid": "250",
+          "content": "**Supporting on parts of the foot while turning.** One or several hooks or dashes are attached either to the preceding support sign (**250a,b,d**) or to the turn sign (**250e,f**) to indicate which part of the foot is taking weight during the turn. (*See* 229, 230.)",
+          "subentryrefs": [229, 230]
+        },
+        {
+          "subentryid": "250a",
+          "content": "Turning on the front part of the foot; on the toes and ball of the foot.",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "250b",
+          "content": "Turning on the heel.",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "250c",
+          "content": "Turning on half-point.",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "250d",
+          "content": "Turning on full point.",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "250e",
+          "content": "Turning on the front part of the foot.",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "250f",
+          "content": "The so-called *promenade* of classical dance; a turn on the ball of the foot, which is interrupted several times by lowering the heel (*compare with* 229a–c).",
+          "subentryrefs": [229]
+        }
+      ]
+    },
+    {
+      "id": 251,
+      "category": "Floor Pattern",      
+      "entrytype": "example",
+      "image": "/img/251.png",
+      "keywords": [],
+      "outline": "III. Turns (237–259)",
+      "outlinerefs": [237, 238, 239, 240, 241, 242, 243, 244, 245, 246, 247, 248, 249, 250, 252, 253, 254, 255, 256, 257, 258, 259],
+      "detail": [
+        {
+          "subentryid": "251",
+          "content": "The *retention in space* (space hold) means the maintenance of the same spatial direction. A spatial direction is understood in this case as a fixed direction, for instance, a compass direction or one of the axes of a room (*see* 217c). This retention is written with the diamond-shaped retention sign (**251b**) (*see* 217f). The consequence of this retention is a change of the body position. If, as in *Example* **251c**, one leg is swung forward and remains in the same compass direction while the rest of the body performs a half turn, this leg is no longer in front but behind the body. In every retention in space a counter movement to the turn direction is concealed. In Figure **251a** this counter movement is made visible. The body performs a 1/2 turn to the right in four 1/8 turn sections, while at the same time the free leg has a sequence of gestures from front to back via the left side, which results in a half-circle to the left in opposition to the turn direction. The spectator does not see this counter action, but only that the leg remains in the same spatial direction.",
+          "subentryrefs": [217]
+        }
+      ]
+    },
+    {
+      "id": 252,
+      "category": "Floor Pattern",      
+      "entrytype": "example",
+      "image": "/img/252.png",
+      "keywords": [],
+      "outline": "III. Turns (237–259)",
+      "outlinerefs": [237, 238, 239, 240, 241, 242, 243, 244, 245, 246, 247, 248, 249, 250, 251, 253, 254, 255, 256, 257, 258, 259],
+      "detail": [
+        {
+          "subentryid": "252",
+          "content": "In an *undeviating curve* one part of the body progresses towards a fixed direction (compass direction or axis of a room) while the rest of the body turns. While a retention in space means keeping a direction which has already been acquired, an undeviating curve means keeping the direction of a progression. It is a combination of a progression and a retention in space, therefore, it is written with a direction sign which contains a space retention sign (**252a**). In Figure **252b**, while the body performs a 1/2 turn to the right, the left leg is lifted steadily towards that side or corner of the room which is in front of the body before the turn and behind the body after the turn. The result of this movement is the same as the result of the retention in space in *Example* 251c. (*See* 780a,c,d.) (*Examples*, 253b, 343 l, 358, 390e,f, 432i, 481f, 497b′,c′.)",
+          "subentryrefs": [251, 780, 253, 343, 358, 390, 432, 481, 497]
+        },
+        {
+          "subentryid": "Note 1",
+          "content": "The symbol for the retention in space placed in a direction sign can also be found in the way of writing an undeviating step (*see* 219a), a circular path performed on a slanting plane (see 285c), and an undeviating straight path (*see* 481f, 497b′,c′).",
+          "subentryrefs": [219, 285, 481, 497]
+        },
+        {
+          "subentryid": "Note 2",
+          "content": "In the front relationship at the beginning of a turn, the symbol for the retention in space is placed in the meeting sign (*see* 622).",
+          "subentryrefs": [622]
+        }
+      ]
+    },
+    {
+      "id": 253,
+      "category": "Floor Pattern",      
+      "entrytype": "example",
+      "image": "/img/253.png",
+      "keywords": [],
+      "outline": "III. Turns (237–259)",
+      "outlinerefs": [237, 238, 239, 240, 241, 242, 243, 244, 245, 246, 247, 248, 249, 250, 251, 252, 254, 255, 256, 257, 258, 259],
+      "detail": [
+        {
+          "subentryid": "253",
+          "content": "*Examples.* Figure **253a** shows the movement known as *fouetté sauté*; the leg which is swung forwards remains in the same compass direction while the body performs a half-turn during a hop. Figure **253b** shows a similar movement, which, however, is performed with an undeviating curve (*see* 252); the leg gesture is made at the same time as the turn. *Example* **253c** shows the jump known as *grand jeté en tournant*. One leg is swung forward before the turn and has a space hold during the turn. The other leg is directed vertically down during the turn and is lifted backwards after the turn. Both leg gestures take place in the same vertical plane. (*Compare with* the *révoltade*, 390f.)",
+          "subentryrefs": [252, 390]
+        }
+      ]
+    },
+    {
+      "id": 254,
+      "category": "Floor Pattern",      
+      "entrytype": "example",
+      "image": "/img/254.png",
+      "keywords": [],
+      "outline": "III. Turns (237–259)",
+      "outlinerefs": [237, 238, 239, 240, 241, 242, 243, 244, 245, 246, 247, 248, 249, 250, 251, 252, 253, 255, 256, 257, 258, 259],
+      "detail": [
+        {
+          "subentryid": "254a,b",
+          "content": "“Turn without friction”. In a normal turn there is friction between the floor and that part of the foot which carries the weight. If the supporting foot does not participate in the turn of the whole body because it is retained in space, no friction occurs. Therefore, the turn without friction is written as a turn plus a space hold for the supporting foot (**254a**, 434c). If there is little space in the leg gesture column, the foot sign below the retention sign can be omitted (**254b**, 434d). If a turn without friction occurs during the preparation for a step, this is a movement in between a circular path and a turn (*see* **254b,f**, 271b, 281c, 390b). * Old way of writing: Appendix I 909.",
+          "subentryrefs": [434, 271, 281, 390, 909]
+        },
+        {
+          "subentryid": "",
+          "content": "A turn without friction is also found in one of the ways of writing trunk wheeling (*see* 432m). (Foot signs, *see* 315i.) (*Examples*, **254c**, 268b, 281c, 490a′ .)",
+          "subentryrefs": [432, 315, 268, 281, 490]
+        },
+        {
+          "subentryid": "254c",
+          "content": "**Continuous turning** consists of turning continuously around one's own axis during a series of steps, which may have various step directions or may be on the spot. The way of writing consists of notating a turn sign of appropriate length beside the kinetogram like a circular path sign. The difference between continuous turning and a circular path is explained in *Examples* 268a,b. (*Compare with* 432m.)",
+          "subentryrefs": [268, 432]
+        },
+        {
+          "subentryid": "",
+          "content": "While in circular paths it is understood that no friction occurs between the foot and the floor, in the case of continuous turning the absence of friction must be indicated by retention signs in the leg gesture columns. *Example* 256a shows a continuous turn which, together with an undeviating step, represents an amalgamated turn. There is friction between the foot and the floor.",
+          "subentryrefs": [256]
+        },
+        {
+          "subentryid": "254d,e",
+          "content": "*The cancellation of a retention in space* can be expressed by the  “broken” space hold sign, which may be drawn as **254d** or **254e** (*see* 789e,e′). *Compare with* the release sign which cancels a contact, and which consists of a “broken” body hold sign (789c,c′).",
+          "subentryrefs": [789]
+        },
+        {
+          "subentryid": "254f",
+          "content": "The turn begins without friction (*see* **254b**) and is continued as an ordinary turn.",
+          "subentryrefs": []
+        }
+      ]
+    },
+    {
+      "id": 255,
+      "category": "Floor Pattern",      
+      "entrytype": "example",
+      "image": "/img/255.png",
+      "keywords": [],
+      "outline": "III. Turns (237–259)",
+      "outlinerefs": [237, 238, 239, 240, 241, 242, 243, 244, 245, 246, 247, 248, 249, 250, 251, 252, 253, 254, 256, 257, 258, 259],
+      "detail": [
+        {
+          "subentryid": "255",
+          "content": "**A twist of the lower part of the body** is expressed as a turn of the whole body during which the front plane of the chest is retained in space. The chest takes no part in the turn; it continually faces the same compass direction. (Front plane of the chest; *see* 442e.) (*Example* 442w.)",
+          "subentryrefs": [442]
+        }
+      ]
+    },
+    {
+      "id": 256,
+      "category": "Floor Pattern",      
+      "entrytype": "example",
+      "image": "/img/256.png",
+      "keywords": [],
+      "outline": "III. Turns (237–259)",
+      "outlinerefs": [237, 238, 239, 240, 241, 242, 243, 244, 245, 246, 247, 248, 249, 250, 251, 252, 253, 254, 255, 257, 258, 259],
+      "detail": [
+        {
+          "subentryid": "256",
+          "content": "**Overlapping of progression and turning.** In addition to the case in which a turn is performed while the centre of gravity is already moving in preparation for a new step (*see Examples* 254b, 271b), and to the fusion of progression and rotation which results in a circular path (*see* 260–273), there are three more cases in which the progression and the turn overlap.",
+          "subentryrefs": [254, 271, 260, 261, 262, 263, 264, 265, 266, 267, 268, 269, 270, 271, 272, 273]
+        },
+        {
+          "subentryid": "256a,b",
+          "content": "In an “amalgamated turn” (*see* 219a, 780b) the body turns while the weight is shifted from one leg to the other. The result is an undeviating step. In *Example* **256a,b**, one starts with a backward step which, as a result of the simultaneous turn, is transformed into a step forwards. The symbol for the retention in space within the support column expresses that the transference of weight travels towards the same compass direction without deviation. In *Example* **256a** the turn sign is placed at the left of the kinetogram, which makes the simultaneity of both events visually clear. (*Compare with* 493f.) In *Example* 256b the step and the turn are written one above the other in the support column, and the simultaneity is expressed by a vertical bow (*compare with* 248a–e).",
+          "subentryrefs": [219, 780, 493]
+        },
+        {
+          "subentryid": "Note",
+          "content": "It should be noted that in an amalgamated turn the weight is shifted gradually from one foot to the other, therefore, one begins to turn on both feet and finishes by turning on one.",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "256c",
+          "content": "An “interwoven turn” can be created in two ways, either by starting to turn on one foot and finishing on both because the second foot takes part of the weight during the turn, or by starting on both feet and finishing on one because the other is released from the floor during the turn. In *Example* **256c** the turn starts on the right foot, continues on both, and finishes on the left while the right is lifted off the floor.",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "256d",
+          "content": "A “blended turn” is expressed by a small vertical bow which connects the support sign with the turn sign. In a blended turn the transference of weight and the turn merge. It is possible that in the upbeat a small turn without friction might be performed and the step direction changed accordingly. Another possibility might be to begin to turn while the weight is shifted, so that a small amalgamated turn results. Both possibilities could be used in one turn. The type of this blending is left to the performer.",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "256e",
+          "content": "This example shows in detail what might occur in the performance of *Example* **256d**.",
+          "subentryrefs": []
+        }
+      ]
+    },
+    {
+      "id": 257,
+      "category": "Floor Pattern",      
+      "entrytype": "example",
+      "image": "/img/257.png",
+      "keywords": [],
+      "outline": "III. Turns (237–259)",
+      "outlinerefs": [237, 238, 239, 240, 241, 242, 243, 244, 245, 246, 247, 248, 249, 250, 251, 252, 253, 254, 255, 256, 258, 259],
+      "detail": [
+        {
+          "subentryid": "257",
+          "content": "**Additional indications for the degree of turn.**",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "257a",
+          "content": "A narrow sign within a turn sign means a small degree of turn, not precisely defined (*see* 280a,g, 397g, 437a, 705a,g).",
+          "subentryrefs": [280, 397, 437, 705]
+        },
+        {
+          "subentryid": "257b",
+          "content": "The double narrow sign within a turn sign means a very small degree of turn.",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "257c",
+          "content": "A wide sign within the turn sign means a large degree of turn (*see* 280b,h, 397h, 705b,h). Space measurement signs within turn signs are found mainly in rotations and twists of body parts. (Space measurement signs, *see* 639–646.)",
+          "subentryrefs": [280, 397, 705, 639, 640, 641, 642, 643, 644, 645, 646]
+        },
+        {
+          "subentryid": "257d",
+          "content": "The “similar sign” within a turn sign indicates that the degree of turn is left to the performer (*see* 834b, 837).",
+          "subentryrefs": [834, 837]
+        },
+        {
+          "subentryid": "257e",
+          "content": "In this example the similar sign is placed within the sign for the normal, untwisted position (*see* 237c, 397i) in order to describe a natural position in which the feet should be approximately parallel but may be slightly turned out according to choice.",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "257f",
+          "content": "The feet are slightly turned out.",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "257g",
+          "content": "Doubling the top and bottom diagonal lines of a turn sign means turning as quickly as possible, *i.e.* making as many full turns as possible within the given time. (*See* 257j, 269a, 765c, 803a,b.) ** Other way of writing: Appendix II 959.",
+          "subentryrefs": [257, 269, 765, 803, 959]
+        },
+        {
+          "subentryid": "257h",
+          "content": "The increase sign placed within a turn or circular path sign (*compare with* 270) indicates an increase of speed of the turn within the course of this movement. (*See* 731d,g, 765a,c,f,i.)",
+          "subentryrefs": [270, 731, 765]
+        },
+        {
+          "subentryid": "257i",
+          "content": "The decrease sign within a turn or circular path sign indicates a decrease of the speed of the turn within the course of this movement. (*See* 257j, 270, 731e,h, 765b,c,g,i.) ",
+          "subentryrefs": [270, 731, 765]
+        },
+        {
+          "subentryid": "257j",
+          "content": "Increase and decrease of the speed of the turn in a multiple *pirouette, e.g.* in ice dancing. (*See* 257g–i, 731d,e, 765a–c, 803a, and *compare with* 269a, 270.)",
+          "subentryrefs": [257, 731, 765, 803, 269, 270]
+        },
+        {
+          "subentryid": "257k",
+          "content": "The symbol which is a combination of the increase and decrease signs indicates an even performance. If this symbol is placed in a turn sign, it means that the speed of the turn does not vary. (*See* 731f, 765e, and *compare with* 765h.)",
+          "subentryrefs": [731, 765]
+        },
+        {
+          "subentryid": "257 l,m",
+          "content": "The small circle (**257 l**) and the equal sign (**257m**) when placed in a turn sign have nothing to do with the degree of the turn.",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "257 l",
+          "content": "Twist of a body part within itself (*see* 218e, 371e, 372a,b, 434g, 435c″). The small circle placed in a turn sign means that the body part in question is fixed at one end so that only the free end can rotate. In this case the circle has nothing to do with the idea of retention in the body. (*Compare with* 217b,e, 332d, 357a, 778b,e,j.)",
+          "subentryrefs": [218, 371, 372, 434, 435, 217, 332, 357, 778]
+        },
+        {
+          "subentryid": "Note",
+          "content": "The small circle placed in a path sign means also that the body part which performs this path is fixed at one end (*see* Appendix II 960a–c).",
+          "subentryrefs": [960]
+        },
+        {
+          "subentryid": "257m",
+          "content": "A body part rotates as a unit, untwisted in itself (*see* 371d, 434f, 435c′, 803c).",
+          "subentryrefs": [371, 434, 435, 803]
+        }
+      ]
+    },
+    {
+      "id": 258,
+      "category": "Floor Pattern",      
+      "entrytype": "example",
+      "image": "/img/258.png",
+      "keywords": [],
+      "outline": "III. Turns (237–259)",
+      "outlinerefs": [237, 238, 239, 240, 241, 242, 243, 244, 245, 246, 247, 248, 249, 250, 251, 252, 253, 254, 255, 256, 257, 259],
+      "detail": [
+        {
+          "subentryid": "258",
+          "content": "**The three types of turns and the twist.**",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "258a,b First:",
+          "content": "*Indicating the degree of the turn* occurs most often. This has been dealt with in *Examples* 238a–d. A *1/4 turn to the right* (**258a**). In this turn the pin sign indicates *the new front in relation to the old front*. Therefore, the pin sign is derived from the *standard cross of axes* (**258b**), which indicates the relationship of directions to the front of the performer.",
+          "subentryrefs": [238]
+        },
+        {
+          "subentryid": "Note",
+          "content": "Also in rotations of body parts a black pin sign placed in a turn sign indicates the angle of the turn, *i.e.* the degree of the rotary motion. (*Examples* under 334b,d, 343p, 397f, 432b.) If written in the symbol for cartwheeling, the black pin sign also gives information about the degree of the change of front (497).",
+          "subentryrefs": [334, 343, 397, 432, 497]
+        },
+        {
+          "subentryid": "258c,d Second:",
+          "content": "In some cases the indication of the degree of the turn is less important than indicating the front which is to be reached. In such cases the turns are *related to a constant* (fixed) *cross of axes*. The flat pin sign in the turn sign indicates the side or corner of the room to which one must turn. (*See* 152b.)",
+          "subentryrefs": [152]
+        },
+        {
+          "subentryid": "",
+          "content": "In group movements this way of writing serves to notate *turning to a common front* (*see* 289, 432c, 491d, 493h).",
+          "subentryrefs": [289, 432, 491, 493]
+        },
+        {
+          "subentryid": "",
+          "content": "In a solo dance this way of writing is needed in cases in which the front before a turn is unknown (*see* 334g).",
+          "subentryrefs": [334]
+        },
+        {
+          "subentryid": "",
+          "content": "The flat pin sign used for these turns is logically derived from the symbol for the constant cross of axes (**258d**).",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "",
+          "content": "Example **258c** means *turn to the right side of the room* (front direction parallel to the right—left axis of the room).",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "258e,f",
+          "content": "The white pin signs establish a relationship to the cross of the body axes (**258f**). Placed in a turn sign, they indicate *the degree of the twist* of a body part. They indicate how far the distal end of a body part is turned or should be turned away from its normal, untwisted state. (*See* 152c, 334a,c,e,f, 397a–f, 432a, 439d–f.) Example **258e** means both legs are turned out by 45 degrees.",
+          "subentryrefs": [152, 334, 397, 432, 439]
+        },
+        {
+          "subentryid": "Note",
+          "content": "Placed in a rotation sign, two pin signs showing opposite directions identify the body axis around which the whole body rotates in a turn, a cartwheel, or a somersault. (*See* 152d. *Examples* under 499a, 503a.) These double pin signs have nothing to do with the degree of the turn.",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "258g,h Third:",
+          "content": "In *turns relating to a focal point*, the indication shows which surface of the body should be directed towards the focal point. Example **258g** means turn to the right until *the focal point is on the right side of the body.* The small black disc (**258h**) placed on a turn sign or outside the actual kinetogram is the sign for a focal point.",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "",
+          "content": "The focal point in a solo dance is usually the centre of any circular path which the dancer may make.",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "Note",
+          "content": "If the black disc appears isolated in one of the columns of the kinetogram (not on a turn sign), it is the sign for the centre of gravity (*see* 509a).",
+          "subentryrefs": [509]
+        },
+        {
+          "subentryid": "",
+          "content": "In group dances the focal point is regarded as the centre of the group unless something else is stated. In group dances, *Example* **258g** means that everyone turns until his right side is towards the centre of the group. (*See* turns relating to a focal point, 290.)",
+          "subentryrefs": [290]
+        },
+        {
+          "subentryid": "",
+          "content": "(Identification of a focal point, *see* 267, 269c,d, 795f,g; focal point sign within a path sign, *see* 272a–h; focal point on a front sign, *see* 260i, 266, 267, 857b–e; focal point in increase and decrease signs, *see* 126e,f.)",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "Note",
+          "content": "If the black disc is placed in or at the outer line of a square or a rectangle, it is part of a body sign (*see* 315j,m, 427g–i, 442 l–n, 443j–q,s,t) or a  “part-of-the-group” sign (293, 301, 878). If placed in a diamond, the black disc forms part of the sign for a retention at a spot (*see* 217d,g,h, 778d,g,h).",
+          "subentryrefs": [315, 427, 442, 443, 293, 301, 878, 217, 778]
+        }
+      ]
+    },
+    {
+      "id": 259,
+      "category": "Floor Pattern",      
+      "entrytype": "example",
+      "image": "/img/259.png",
+      "keywords": [],
+      "outline": "III. Turns (237–259)",
+      "outlinerefs": [237, 238, 239, 240, 241, 242, 243, 244, 245, 246, 247, 248, 249, 250, 251, 252, 253, 254, 255, 256, 257, 258],
+      "detail": [
+        {
+          "subentryid": "259",
+          "content": "**Sixteenth parts ofa whole turn** are written with two pin signs radiating from the same point. Figure **259a** shows 1/16 of a turn. Figure **259b** shows a whole turn plus 1/8, and Figure **259c** shows 15/16 of a turn (*see* 435a). (*Compare with* the respective front signs in 854e.)",
+          "subentryrefs": [435, 854]
+        },
+        {
+          "subentryid": "Note",
+          "content": "This section (237–259) deals only with *turns of the body in an upright position. Turns of the body in slanting and horizontal positions* are dealt with in 491–494. In some of these turns the signs for the *crosses of axes* are written within the turn sign to distinguish between the various possibilities of rotation that can occur.",
+          "subentryrefs": [237, 238, 239, 240, 241, 242, 243, 244, 245, 246, 247, 248, 249, 250, 251, 252, 253, 254, 255, 256, 257, 258, 491, 492, 493, 494]
+        }
+      ]
+    },
+    {
       "id": 314,
       "category": "Body Sign",      
       "entrytype": "symbol",
