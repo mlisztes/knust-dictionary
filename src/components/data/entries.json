@@ -7932,6 +7932,565 @@
       ]
     },
     {
+      "id": 260,
+      "category": "Floor Pattern",      
+      "entrytype": "example",
+      "image": "/img/260.png",
+      "keywords": [],
+      "outline": "IV. Circular paths (260–273)",
+      "outlinerefs": [260, 261, 262, 263, 264, 265, 266, 267, 268, 269, 270, 271, 272, 273],
+      "detail": [
+        {
+          "subentryid": "260a–h",
+          "content": "The *circular path signs* (**260c,d,f,g**) are derived from the turn signs (**260a,b**). The *sign for a straight path* (**260e,h**) is derived from the circular path signs. ** Path signs for limbs: Appendix II 960.",
+          "subentryrefs": [960]
+        },
+        {
+          "subentryid": "Note",
+          "content": "*Compare with* the use of the sign for a straight path for arm gestures, 115e, 557e, 711d, 760h.",
+          "subentryrefs": [115, 557, 711, 760]
+        },
+        {
+          "subentryid": "260f,g,h",
+          "content": "The dotted line (**260f,g,h**) denotes a *passive path, i.e.* a path which is caused by an outside influence such as another person, means of transport, etc. (*see* passive movements and passive paths, 744, 745). This path sign may also denote a *resulting path*, which happens automatically because of other body movements (*see* 402a–c, 491b,c). * Old way of writing: Appendix I 910. (Examples, 283a,b, 287b, 494, 498c, 501d, 502c, 503a′, 780b′.)",
+          "subentryrefs": [744, 745, 402, 491, 910, 283, 287, 494, 498, 501, 502, 503, 780]
+        },
+        {
+          "subentryid": "260i",
+          "content": "The *combined path sign*, composed of both circular path signs, is the symbol for *paths relating to a focal point* (*see* 267 and *compare with* 272a–h). (Front signs, *see* 266.)",
+          "subentryrefs": [267, 272, 266]
+        }
+      ]
+    },
+    {
+      "id": 261,
+      "category": "Floor Pattern",      
+      "entrytype": "example",
+      "image": "/img/261.png",
+      "keywords": [],
+      "outline": "IV. Circular paths (260–273)",
+      "outlinerefs": [260, 261, 262, 263, 264, 265, 266, 267, 268, 269, 270, 271, 272, 273],
+      "detail": [
+        {
+          "subentryid": "261",
+          "content": "The kinetographer divides *all curved paths into segments of circles*. For instance, the path shown in Figure **261** consists of a 1/2 circle to the right (section I), 3/4 of a circle to the left (II), 3/4 of a circle to the right (III), and a 1/4 circle to the left (IV).",
+          "subentryrefs": []
+        }
+      ]
+    },
+    {
+      "id": 262,
+      "category": "Floor Pattern",      
+      "entrytype": "example",
+      "image": "/img/262.png",
+      "keywords": [],
+      "outline": "IV. Circular paths (260–273)",
+      "outlinerefs": [260, 261, 262, 263, 264, 265, 266, 267, 268, 269, 270, 271, 272, 273],
+      "detail": [
+        {
+          "subentryid": "262",
+          "content": "A circular path to the left is written *at the left of the staff*, and a circular path to the *right is written at the right of the staff* (**262a**). The circular path sign describes two interrelated facts: the curving of the path and the change of front. ** Other way of writing: Appendix II 961.",
+          "subentryrefs": [961]
+        },
+        {
+          "subentryid": "",
+          "content": "The *pin sign in a circular path sign* indicates the degree of the turn and, therefore, how much of a circle will be created (*see* 153a,b). However, the pin sign does not show which new front the performer will reach.",
+          "subentryrefs": [153]
+        },
+        {
+          "subentryid": "262b",
+          "content": "a 1/2 circle to the left",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "262c",
+          "content": "a 1/2 circle to the right",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "262d",
+          "content": "a 3/8 of a circle to the right",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "262e",
+          "content": "1/4 of a circle to the right",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "262e,f",
+          "content": "As for turns (*see* 238b), the new front is shown by a front sign (**262e**). The new front results from the previous front and the change of front connected with the circular path (*see* front signs, 854, 855). In *Example* **262f** the pin sign “low” (*see* 131c) is placed in the circular path sign. This is the way of writing the group movement of “turning inside out” (*see* 300a,b). In such cases the pin sign means that the leader of the path of the group progresses without change of front on the diameter of the circular line on which the group is arranged.",
+          "subentryrefs": [238, 854, 855, 131, 300]
+        },
+        {
+          "subentryid": "The Six Factors of Circular Paths",
+          "content": "It is essential to know the six factors of circular paths to avoid making mistakes in reading or writing.",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "First",
+          "content": "The *situation of the circle*, *i.e.* the situation of the centre in relation to the front of the performer. In *Example* **262b** the centre is behind the mover, in Figure **262c** to the right, and in Figure **262e** to the left (see the corresponding floor pattern sketches).",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "Second",
+          "content": "*The direction of the turn*. In Figure **262b** the circling is to the left, and in Figures **262c,e** it is to the right.",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "Third",
+          "content": "*The step direction*. In Figure **262b** the steps are to the left, in Figure **262c** forward, and in Figure **262e** backward.",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "Fourth",
+          "content": "*The direction of the destination*, *i.e.* the straight line to the destination from the starting point, judged from the starting front. In Figure **262b** the destination lies behind the performer, in Figure **262c** to the right, and in **262e** to left-backward.",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "Fifth",
+          "content": "*The angle of the turn*. In a 1/2 circle (Figure **262b,c**) the angle is 180 degrees, and in a quarter circle (**262e**) it is 90 degrees.",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "Sixth",
+          "content": "*The angle of the destination*. This is the angle between the starting direction of the path and the direction of the destination. In a 1/2 circle (Figures **262b,c**) this angle is 90 degrees. In Figure **262c**, if a 1/4 turn were made before the 1/2 circle began, the destination could be reached by a straight path. In a 1/4 circular path (Figure **262e**) the angle of the destination is 45 degrees. An 1/8 of a turn could be made beforehand, and the same destination reached by walking backwards on a straight path.",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "",
+          "content": "All these factors are interrelated in accordance with the law of the situation of the circle and the law of the situation of the destination.",
+          "subentryrefs": []
+        }
+      ]
+    },
+    {
+      "id": 263,
+      "category": "Floor Pattern",      
+      "entrytype": "example",
+      "image": "/img/263.png",
+      "keywords": [],
+      "outline": "IV. Circular paths (260–273)",
+      "outlinerefs": [260, 261, 262, 263, 264, 265, 266, 267, 268, 269, 270, 271, 272, 273],
+      "detail": [
+        {
+          "subentryid": "263",
+          "content": "A circular path sign without a pin sign indicates going around in a circle. It is written if the degree of the turn is irrelevant, for instance, in ballroom dancing to indicate the line of dance.",
+          "subentryrefs": []
+        }
+      ]
+    },
+    {
+      "id": 264,
+      "category": "Floor Pattern",      
+      "entrytype": "example",
+      "image": "/img/264.png",
+      "keywords": [],
+      "outline": "IV. Circular paths (260–273)",
+      "outlinerefs": [260, 261, 262, 263, 264, 265, 266, 267, 268, 269, 270, 271, 272, 273],
+      "detail": [
+        {
+          "subentryid": "264",
+          "content": "*The law of the situation of the circle*. The radius is always at right angles to the step direction. In circling to the right (clockwise), the line at an angle of 90 degrees to the right of the step direction leads to the centre of the circle. In circling to the left (counterclockwise), the line to the centre is at an angle of 90 degrees to the left of the step direction. *Example* **264** shows circling to the right with right-forward diagonal steps, therefore, the centre must be situated at the right side behind the performer.",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "",
+          "content": "It is possible to read and write any curved path correctly and without difficulty if these two laws (**264** *The law of the situation of the circle*, 265 *The law of the situation of the destination*) are understood.",
+          "subentryrefs": [265]
+        }
+      ]
+    },
+    {
+      "id": 265,
+      "category": "Floor Pattern",      
+      "entrytype": "example",
+      "image": "/img/265.png",
+      "keywords": [],
+      "outline": "IV. Circular paths (260–273)",
+      "outlinerefs": [260, 261, 262, 263, 264, 265, 266, 267, 268, 269, 270, 271, 272, 273],
+      "detail": [
+        {
+          "subentryid": "265",
+          "content": "*The law of the situation of the destination*. The angle of the destination is half the angle of the turn. *Example* **265** shows a 3/4 circle to the right with forward steps. It also shows that the same destination can be reached by making a 3/8 turn and then travelling forwards.",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "",
+          "content": "It is possible to read and write any curved path correctly and without difficulty if these two laws (264 *The law of the situation of the circle*, **265** *The law of the situation of the destination*) are understood.",
+          "subentryrefs": [264]
+        }
+      ]
+    },
+    {
+      "id": 266,
+      "category": "Floor Pattern",      
+      "entrytype": "example",
+      "image": "/img/266.png",
+      "keywords": [],
+      "outline": "IV. Circular paths (260–273)",
+      "outlinerefs": [260, 261, 262, 263, 264, 265, 266, 267, 268, 269, 270, 271, 272, 273],
+      "detail": [
+        {
+          "subentryid": "",
+          "content": "**Front indications in circular paths** (*see* 857b–e). In the course of a circular path, *the symbols for turns in relation to a focal point* (*see* 258g) are used as *front signs*. They indicate the front relationship of the performer to the centre of the circle, *i.e.* the situation of the circle. In *Example* **266** the centre is at first at the right side of the performer, then after a 1/4 turn to the left it is behind him, and after another 1/4 turn to the left it is at his left side.",
+          "subentryrefs": [857, 258]
+        },
+        {
+          "subentryid": "Note",
+          "content": "In log rolling ona circular path (*see* 491c), in cartwheel paths (*see* 498c–e), and in somersault paths (*see* 489g, 502d,e), the relationship of the body to the axis of these circular paths is clarified by an indication as to which end, side, or edge of the body is situated nearest to the focal point. (See text for 728.)",
+          "subentryrefs": [491, 498, 489, 502, 728]
+        }
+      ]
+    },
+    {
+      "id": 267,
+      "category": "Floor Pattern",      
+      "entrytype": "example",
+      "image": "/img/267.png",
+      "keywords": [],
+      "outline": "IV. Circular paths (260–273)",
+      "outlinerefs": [260, 261, 262, 263, 264, 265, 266, 267, 268, 269, 270, 271, 272, 273],
+      "detail": [
+        {
+          "subentryid": "267",
+          "content": "**Paths relating to a focal point**. The symbol shown in 260i means that all paths must be related to one particular focal point. If the situation of this point does not result from the context, it must be identified (*see* 269c,d, 795f,g). In this example the focal point is identified as the centre of the room. This focal point is at first situated on the right of the performer (*see* 266) ; the relationship to it results in the following movements.",
+          "subentryrefs": [260, 269, 795, 266]
+        },
+        {
+          "subentryid": "Bar1",
+          "content": "In the tangential step direction forward one will progress clockwise on a circular line.",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "Bar 2",
+          "content": "‘The step direction is radial; one goes away from the focal point without change of front.",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "Bar 3",
+          "content": "Approaching the focal point; no change of front.",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "Bar 4",
+          "content": "In steps in place there is neither progression nor change Of front.",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "Bar 5",
+          "content": "In the tangential step direction backwards one will progress counterclockwise on a circular line.",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "Bar 6",
+          "content": "The step direction is diagonal to the radius (chordic). The progression is counterclockwise around the focal point while going away from it, resulting in a spiral line.",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "Bar 7",
+          "content": "The step direction is diagonal to the radius (chordic). The progression is counterclockwise around the focal point while approaching it, resulting in a spiral line.",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "Bar 8",
+          "content": "The step direction is again diagonal to the radius. The progression is clockwise while going away from the focal point, again creating a spiral line.",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "Bar 9",
+          "content": "Step direction diagonal to the radius. The progression is clockwise while approaching the focal point, again a spiral line.",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "Bar 10",
+          "content": "The focal point is situated in front of the performer after the turn at the end of bar 9. In stepping to the left, progression will be clockwise around the focal point.",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "Note 1",
+          "content": "The same relationships between the step direction and the focal point also exist in ordinary circular paths. However, the possibilities of different step directions are limited if only one direction of the turn is given. If the focal point is to the right side, as in *Example* to the Teft. **267**, in a clockwise circular path only step directions forward, right-forward, left-forward, left, and right are possible. In a counterclockwise circle, only step directions backward, left-backward, right-backward, left, and right can occur.",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "Note 2",
+          "content": "*Compare with* Figure 272, relating to a focal point with the front relationship to it unknown.",
+          "subentryrefs": [272]
+        },
+        {
+          "subentryid": "Note 3",
+          "content": "In Motif Writing the combined circular path sign is used without the identification of a focal point, to express that one may perform a circular path either clockwise or counterclockwise. In full Kinetography such use of this sign is only possible if only one step direction is notated.",
+          "subentryrefs": []
+        }
+      ]
+    },
+    {
+      "id": 268,
+      "category": "Floor Pattern",      
+      "entrytype": "example",
+      "image": "/img/268.png",
+      "keywords": [],
+      "outline": "IV. Circular paths (260–273)",
+      "outlinerefs": [260, 261, 262, 263, 264, 265, 266, 267, 268, 269, 270, 271, 272, 273],
+      "detail": [
+        {
+          "subentryid": "268",
+          "content": "Comparison of *Examples* **268a** and **268b**.",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "268a",
+          "content": "In *Example* **268a**, two *pas de basques* are performed on a clockwise 3/8 circular path.",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "",
+          "content": "First step: moving nearer to the focal point without turning.",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "",
+          "content": "Second step: moving on an inner circular line with a change of front.",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "",
+          "content": "Third step: on the spot without turning.",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "",
+          "content": "Fourth step: away from the focal point without turning.",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "",
+          "content": "Fifth step: moving on an outer circular line with a change of front.",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "",
+          "content": "Sixth step: on the spot without turning.",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "268b",
+          "content": "In *Example* **268b** the same motif is performed while the body makes a 3/4 continuous turn (*see* 254c), in other words, while it turns continuously around its own axis (not around a focal point, as in a circular path).",
+          "subentryrefs": [254]
+        },
+        {
+          "subentryid": "268a,b",
+          "content": "In the two sketches the difference between the two resulting floor patterns can be seen. While in **268a** the basic shape of a 3/8 clockwise circular path is still recognisable, *Example* **268b** results in quite a different floor pattern, which is rather similar to a 1/4 circular path counterclockwise. One would be able to arrive at the same destination and finishing front if one performed a 1/4 circular path counterclockwise with steps backwards.",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "",
+          "content": "",
+          "subentryrefs": []
+        }
+      ]
+    },
+    {
+      "id": 269,
+      "category": "Floor Pattern",      
+      "entrytype": "example",
+      "image": "/img/269.png",
+      "keywords": [],
+      "outline": "IV. Circular paths (260–273)",
+      "outlinerefs": [260, 261, 262, 263, 264, 265, 266, 267, 268, 269, 270, 271, 272, 273],
+      "detail": [
+        {
+          "subentryid": "269a",
+          "content": "In **circling on the spot**, as in turns, no floor pattern is created. In contrast to turns, circular paths on the spot, like other circular paths, are performed without friction between the feet and the floor (*see* 249, 270). If a turn sign with doubled top and bottom diagonal lines is written within a circular path sign, *as many full circles as possible* should be done *in the given time* (257g,j, 765c, 803a,b).",
+          "subentryrefs": [249, 270, 257, 765, 803]
+        },
+        {
+          "subentryid": "269b–d",
+          "content": "The focal point in circular paths in “place”. In circular paths in place, the problem arises whether the focal point is identical to the point of support of one of the feet, or whether it will be found between the two points of support. In *Examples* **269b–d** the motif stays on the same spot. The three circular path signs which are written beside the motif indicate the following ways of performing the circular path in place.",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "269b",
+          "content": "This way of writing means that the focal point is situated between the points of support of the two feet. The sign for a retention on a spot placed in the path sign means that the “motif stays in place” (*see* 481d, 490c, 781a′, and *compare with* 288b, 781a). The consequence is that the focal point must be between the two feet. The right foot must deviate to the right, and the left foot must deviate to the left.",
+          "subentryrefs": [481, 490, 781, 288, 781]
+        },
+        {
+          "subentryid": "269c",
+          "content": "This way of writing means that the point of support of the right foot is identical to the focal point. The right foot stays on the same spot, and the left foot circles around it. (Focal point sign, *see* 258h.) (*Compare with* 490d,e, 503b′.)",
+          "subentryrefs": [258, 490, 503]
+        },
+        {
+          "subentryid": "269d",
+          "content": "This way of writing means that the point of support of the left foot is identical to the focal point. The left foot stays on the same spot, and the right foot performs a circle around it. (Focal point, *see* 258h.) (*Compare with* 490d,e.)",
+          "subentryrefs": [258, 490]
+        },
+        {
+          "subentryid": "Note",
+          "content": "The symbols for the right foot (**269c**) and the left foot (**269d**) are explained under 383d′,d″.",
+          "subentryrefs": [383]
+        },
+        {
+          "subentryid": "",
+          "content": "In closed positions it is understood that the point of rotation is situated between the points of support of both feet. In the exceptional case in which one of the two points of support is identical with the focal point, the way of writing in *Examples* **269c,d** is used.",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "Note 1",
+          "content": "Vertical similar signs as part of repeat signs indicate an optional number of repetitions (*see* 839a).",
+          "subentryrefs": [839]
+        },
+        {
+          "subentryid": "Note 2",
+          "content": "*Compare with* the respective ways of writing circling in place on all fours (490c–e)",
+          "subentryrefs": [490]
+        }
+      ]
+    },
+    {
+      "id": 270,
+      "category": "Floor Pattern",      
+      "entrytype": "example",
+      "image": "/img/270.png",
+      "keywords": [],
+      "outline": "IV. Circular paths (260–273)",
+      "outlinerefs": [260, 261, 262, 263, 264, 265, 266, 267, 268, 269, 270, 271, 272, 273],
+      "detail": [
+        {
+          "subentryid": "270",
+          "content": "The increase sign within a circular path sign indicates the increase of the speed of the turn, and the decrease sign indicates the decrease of the speed of the turn. (*Compare with* 257h–k, 731g,h, and 765f–i.) *Example* **270** shows increasing and decreasing the speed of the turn while circling on the spot.",
+          "subentryrefs": []
+        }
+      ]
+    },
+    {
+      "id": 271,
+      "category": "Floor Pattern",      
+      "entrytype": "example",
+      "image": "/img/271.png",
+      "keywords": [],
+      "outline": "IV. Circular paths (260–273)",
+      "outlinerefs": [260, 261, 262, 263, 264, 265, 266, 267, 268, 269, 270, 271, 272, 273],
+      "detail": [
+        {
+          "subentryid": "271",
+          "content": "**A circular path with a single step** is an actual circular path, *i.e.* itis curved and travels around a focal point, which, however, is very close to the body (**271a**). However, if a frictionless turn is made during the preparation of a step (*see* 254b, 281c), an angular path will result (**271b**). * Old way of writing: Appendix I 909.",
+          "subentryrefs": [254, 281, 909]
+        }
+      ]
+    },
+    {
+      "id": 272,
+      "category": "Floor Pattern",      
+      "entrytype": "example",
+      "image": "/img/272.png",
+      "keywords": [],
+      "outline": "IV. Circular paths (260–273)",
+      "outlinerefs": [260, 261, 262, 263, 264, 265, 266, 267, 268, 269, 270, 271, 272, 273],
+      "detail": [
+        {
+          "subentryid": "272a–d",
+          "content": "**Paths relating to a focal point in cases in which the front relationship to the focal point** (*see* 258h) **is unknown.** (*Compare with* paths related to a focal point, 267; approaching and going away from a focal point, 126e,f; and identification of a focal point, 267, 269c,d, 490d,e, 795f,g.)",
+          "subentryrefs": [258, 267, 126, 269, 490, 795]
+        },
+        {
+          "subentryid": "272a",
+          "content": "Approaching a focal point. (*Compare with* near the focal point, 489g, 491c, 498c–e, 502d,e.)",
+          "subentryrefs": [489, 491, 498, 502]
+        },
+        {
+          "subentryid": "272b",
+          "content": "Going away from a focal point.",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "272c",
+          "content": "Pathway to the left around the focal point.",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "272d",
+          "content": "Pathway to the right around a focal point. This way of writing occurs chiefly in Motif Writing in cases in which the front of the performer and the manner of performance are optional. This way of writing can also be used for movements of objects carried by two people who have different fronts.",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "272e–h",
+          "content": "**The general way of writing spiral paths** is derived from **272a,b.** Specific ways of writing spiral paths are dealt with in 273.",
+          "subentryrefs": [273]
+        },
+        {
+          "subentryid": "272e",
+          "content": "An inward spiral path to the left. While circling to the left, one approaches the focal point. (*Compare with* near the focal point, 489g, 491c, 498c–e, 502d,e.)",
+          "subentryrefs": [489, 491, 498, 502]
+        },
+        {
+          "subentryid": "272f",
+          "content": "An inward spiral path to the right. Approaching the focal point while circling to the right (example, 868g).",
+          "subentryrefs": [868]
+        },
+        {
+          "subentryid": "272g",
+          "content": "An outward spiral path to the left. While circling to the left, one moves away from the focal point.",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "272h",
+          "content": "An outward spiral path to the right. Moving away from the focal point while circling to the right. (*Compare with* following in single file on a spiral path, 296c.)",
+          "subentryrefs": []
+        }
+      ]
+    },
+    {
+      "id": 273,
+      "category": "Floor Pattern",      
+      "entrytype": "example",
+      "image": "/img/273.png",
+      "keywords": [],
+      "outline": "IV. Circular paths (260–273)",
+      "outlinerefs": [260, 261, 262, 263, 264, 265, 266, 267, 268, 269, 270, 271, 272, 273],
+      "detail": [
+        {
+          "subentryid": "273",
+          "content": "**Specific ways of writing spiral paths.**",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "273a",
+          "content": "The narrow sign placed in an increase sign within a circular path sign indicates an inward spiralling path in which the radius becomes gradually smaller. This is the way of writing an equidistant or Archimedean spiral, in which one approaches the focal point with an even rate of diminishing the circular shape. The distance between the winds of the spiral is always the same. (*See* 280k, 705k.)",
+          "subentryrefs": [280, 705]
+        },
+        {
+          "subentryid": "273b",
+          "content": "The wide sign in an increase sign within a circular path sign indicates an outward spiralling path in which the radius becomes gradually larger. (*See* 280 l, 705 l.)",
+          "subentryrefs": [280, 705]
+        },
+        {
+          "subentryid": "273c",
+          "content": "The simple narrow sign in a spiral path means the shortening of the radius (*i.e.* of the distance to the focal point) by 1/6 of the length of the starting radius. Each further degree of narrowness means shortening it by an additional 1/6. The sixth degree of narrowness (*Example* **273c**), therefore, means that by the end of the path, one finishes approximately at the focal point. In this example one should arrive at the focal point after one revolution. This is true whether the path has one or several windings.",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "273d",
+          "content": "In this example, one winds 2 1/2 times to arrive approximately at the focal point.",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "273e",
+          "content": "The narrow sign placed in a double increase sign is the way of writing an inward spiral in which the distance between the winds diminishes. The centre of such a spiral is not fixed like that of the equidistant spiral (**273a**), instead it moves also on a spiral line. (*See* 280m, 705m.)",
+          "subentryrefs": [280, 705]
+        },
+        {
+          "subentryid": "273f",
+          "content": "The wide sign in a doubled increase sign is the way of writing an outward spiral in which the distance between the winds becomes larger. (*See* 280n, 705n.)",
+          "subentryrefs": [280, 705]
+        },
+        {
+          "subentryid": "273g",
+          "content": "In the second type of spiral (**273e,f**) there can also be six degrees of narrowing. The higher the degree of narrowing, the flatter the beginning of the spiral will be, and the more bent the end will be. *Example* **273g** shows a spiral path of this type with two revolutions.",
+          "subentryrefs": []
+        }
+      ]
+    },
+    {
       "id": 314,
       "category": "Body Sign",      
       "entrytype": "symbol",
