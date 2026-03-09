@@ -8491,6 +8491,588 @@
       ]
     },
     {
+      "id": 274,
+      "category": "Floor Pattern",      
+      "entrytype": "example",
+      "image": "/img/274.png",
+      "keywords": [],
+      "outline": "V. Secondary paths (274–279). Secondary paths are those performed in addition to those floor patterns which arise from the step directions, turns, and circular paths. The step directions written in the kinetogram are slightly altered by these paths.",
+      "outlinerefs": [274, 275, 276, 277, 278, 279],
+      "detail": [
+        {
+          "subentryid": "274",
+          "content": "**Deviation towards a side of the room** should be understood as being parallel to the respective axis of a defined space. Because of this relation to fixed axes, the symbol for the constant cross of axes (101d, 124b,e,f, 889c) is written in the path sign. If there are several participants, their deviating paths will be parallel to one another. (*Compare with* 343n.) * Old way of writing: Appendix I 911.",
+          "subentryrefs": [101, 124, 889, 343, 911]
+        },
+        {
+          "subentryid": "274a",
+          "content": "Deviating towards the right-forward corner; moving parallel to the right forward/left-backward axis of the room. (*Compare with* 745a.)",
+          "subentryrefs": [745]
+        },
+        {
+          "subentryid": "274b",
+          "content": "A group which moves on a circular line deviates towards the right-backward corner of the room.",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "274c",
+          "content": "*A circular path which deviates towards one side of the room* should be understood as approaching the respective side of the room with a curved path. The direction of the destination of the circular path is a straight line towards the indicated side of the room. (*See* the dotted arrows in the sketch.) In this example, one should deviate towards the right side of the room on a 1/2 circle turning to the right.",
+          "subentryrefs": []
+        }
+      ]
+    },
+    {
+      "id": 275,
+      "category": "Floor Pattern",      
+      "entrytype": "example",
+      "image": "/img/275.png",
+      "keywords": [],
+      "outline": "V. Secondary paths (274–279). Secondary paths are those performed in addition to those floor patterns which arise from the step directions, turns, and circular paths. The step directions written in the kinetogram are slightly altered by these paths.",
+      "outlinerefs": [274, 276, 277, 278, 279],
+      "detail": [
+        {
+          "subentryid": "275",
+          "content": "**Deviation with indication of the step direction.** An empty direction sign within the sign for a straight path (**275a**) or a circular path (**275b**) indicates the direction of the deviation. As in other movements this direction relates to the front of the performer.",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "275a",
+          "content": "Therefore, different directions of the deviating path result according to the front of individual performers. (*Compare with* walking on hands, 481, and walking on all fours, 486e,f.)",
+          "subentryrefs": [481, 486]
+        },
+        {
+          "subentryid": "275b",
+          "content": "This way of writing is particularly useful for writing deviations on a circular line. In **275b**, in addition to a motif like a pendulum, a deviation to the right is performed on a 1/4 circular path counterclockwise. *Compare with* the same way of writing used for opening and closing ranks (278b, 279a,b) and walking on all fours (490b).",
+          "subentryrefs": [278, 279, 490]
+        }
+      ]
+    },
+    {
+      "id": 276,
+      "category": "Floor Pattern",      
+      "entrytype": "example",
+      "image": "/img/276.png",
+      "keywords": [],
+      "outline": "V. Secondary paths (274–279). Secondary paths are those performed in addition to those floor patterns which arise from the step directions, turns, and circular paths. The step directions written in the kinetogram are slightly altered by these paths.",
+      "outlinerefs": [274, 275, 277, 278, 279],
+      "detail": [
+        {
+          "subentryid": "276",
+          "content": "**Deviation in relation to an area.**",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "276a",
+          "content": "If an area sign within an increase sign is placed in a path sign, one should *approach this area.* (Area signs, *see* 862–865.) * Old way of writing: Appendix I 911. While performing the motif on the spot four times, one should move nearer to the centre of the foreground. The paths of the different participants will converge. (*Compare with* approaching an area, 126c.)",
+          "subentryrefs": [862, 863, 864, 865, 911, 126]
+        },
+        {
+          "subentryid": "276b",
+          "content": "If one should *deviate away from a particular area*, the area sign within a decrease sign will be written in a path sign. While performing the motif four times, one should move away from the foreground. The paths of the different participants will diverge. (*Compare with* 126d.)",
+          "subentryrefs": [126]
+        },
+        {
+          "subentryid": "276c",
+          "content": "If *approaching an area on a curved line* is needed, the area sign within an increase sign is placed in a circular path sign. The direction of the destination of the circular path is a straight line from the starting point of the performer to the particular area, as shown by the dotted arrows in the sketch. (Direction of destination, *see* 265.) In Figure **276c**, one should move nearer to the centre of the foreground with a 1/4 circle to the left.",
+          "subentryrefs": [265]
+        },
+        {
+          "subentryid": "276d",
+          "content": "If one should *deviate away from an area on a curved line*, the area sign within a decrease sign is placed ina circular path sign. In Figure **276d**, one should move away from the centre of the foreground with a 1/4 circular path to the left.",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "276e–h",
+          "content": "One could also move towards or away from a partner. (*Compare with* 126g,h.)",
+          "subentryrefs": [126]
+        },
+        {
+          "subentryid": "276e",
+          "content": "Approaching a partner.",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "276f",
+          "content": "Going away from a partner.",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "276g",
+          "content": "Moving towards a partner on a circular path to the right.",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "276h",
+          "content": "Moving away from a partner with a circular path to the left. (*Compare with* moving away from a fixed point, 126k, and towards a fixed point, 890f.)",
+          "subentryrefs": [126, 890]
+        }
+      ]
+    },
+    {
+      "id": 277,
+      "category": "Floor Pattern",      
+      "entrytype": "example",
+      "image": "/img/277.png",
+      "keywords": [],
+      "outline": "V. Secondary paths (274–279). Secondary paths are those performed in addition to those floor patterns which arise from the step directions, turns, and circular paths. The step directions written in the kinetogram are slightly altered by these paths.",
+      "outlinerefs": [274, 275, 276, 278, 279],
+      "detail": [
+        {
+          "subentryid": "277",
+          "content": "**Reaching a destination.** An area sign written above a path sign and joined to it by a vertical bow expresses that the particular area must be reached by this path. (*Compare with* being transported, 287.)",
+          "subentryrefs": [287]
+        },
+        {
+          "subentryid": "277a",
+          "content": "In this example, a group arranged ona circular line performs a two-bar motif eight times, by which the circle is alternately narrowed and widened. During these sixteen bars the group moves from the left-backward corner to the right-forward corner of the room.",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "277b",
+          "content": "In this example all participants should deviate to arrive in the central area of the room by the end of six performances of a motif in place. As in a deviation to approach an area (**276a**), the paths of the dancers converge. The length of the path varies for each participant, because they begin at different distances from the destination. One of them is already in the central area, and for him no deviation is necessary",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "277c",
+          "content": "In this example the destination must be reached by a circular path. The direction of the destination is a straight line from the starting point of the performer to the destination, the line being a chord of the curved path to the destination. (*Compare with* 276c.)",
+          "subentryrefs": [276]
+        },
+        {
+          "subentryid": "277d",
+          "content": "This example means that the performer should return to the area where he was in bar 1. (*See* the sign for “an area”, 866a.)",
+          "subentryrefs": [866]
+        },
+        {
+          "subentryid": "277e",
+          "content": "Here one should arrive at any place on the periphery of the room (*see* 863f).",
+          "subentryrefs": [863]
+        },
+        {
+          "subentryid": "277f",
+          "content": "Moving to any spot some distance from a partner. (*Compare with* going away from a partner, 276f.)",
+          "subentryrefs": [276]
+        },
+        {
+          "subentryid": "277g",
+          "content": "A series of destinations which should be reached in the course of a 7/8 circular path.",
+          "subentryrefs": []
+        }
+      ]
+    },
+    {
+      "id": 278,
+      "category": "Floor Pattern",      
+      "entrytype": "example",
+      "image": "/img/278.png",
+      "keywords": [],
+      "outline": "V. Secondary paths (274–279). Secondary paths are those performed in addition to those floor patterns which arise from the step directions, turns, and circular paths. The step directions written in the kinetogram are slightly altered by these paths.",
+      "outlinerefs": [274, 275, 276, 277, 279],
+      "detail": [
+        {
+          "subentryid": "278",
+          "content": "**Opening ranks** is the expansion of a group so that the same shape occupies a larger area and the distance between the individual participants becomes greater. It is written with a path sign in which a wide sign in a circle is placed above an increase sign. * Old way of writing: App. I 912a.",
+          "subentryrefs": [912]
+        },
+        {
+          "subentryid": "Note",
+          "content": "The group is regarded as a body which expands. Therefore, the movement is written as an increase of “body-wideness”. (*See* 700c, 705s.)",
+          "subentryrefs": [700, 705]
+        },
+        {
+          "subentryid": "278a",
+          "content": "If no other indications are given, the group expands evenly in all directions. From this example it can be seen that the group can also progress in any direction while this is happening. This example shows a square group which opens ranks while stepping forwards.",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "278b",
+          "content": "The symbol for *opening ranks* placed in a circular path sign means lengthening the group arrangement *on the circular line*, so that, for instance, as in this example, an arrangement on a 1/4 circle becomes an arrangement on 3/4 of a circle.",
+          "subentryrefs": []
+        }
+      ]
+    },
+    {
+      "id": 279,
+      "category": "Floor Pattern",      
+      "entrytype": "example",
+      "image": "/img/279.png",
+      "keywords": [],
+      "outline": "V. Secondary paths (274–279). Secondary paths are those performed in addition to those floor patterns which arise from the step directions, turns, and circular paths. The step directions written in the kinetogram are slightly altered by these paths.",
+      "outlinerefs": [274, 275, 276, 277, 278],
+      "detail": [
+        {
+          "subentryid": "279",
+          "content": "**Closing ranks** is the contraction of a group so that the same shape occupies a smaller area and the distance between the individual participants becomes less. Closing ranks is written with a path sign in which a narrow sign ina circle is written above an increase sign. * Old way of writing: Appendix I 912b.",
+          "subentryrefs": [912]
+        },
+        {
+          "subentryid": "Note",
+          "content": "The group is regarded as a body which contracts. Therefore, the movement is written as an increase in “body-narrowness. (*See* 700a, 705r.)",
+          "subentryrefs": [700, 705]
+        },
+        {
+          "subentryid": "279a,b",
+          "content": "An *empty direction sign* within the sign for closing ranks (**279a,b**) or opening ranks (278b) indicates the direction of the closing or opening of the group. In *Example* **279a** the vertical line drawn through the empty direction sign means that the group moves into a single file (*see* 879g). This example means that while the group moves forward, the people on the left move to the right to line up into a single file.",
+          "subentryrefs": [278, 879]
+        },
+        {
+          "subentryid": "Note",
+          "content": "The preliminary indications written below *Example* 277a, the examples of closing and opening ranks, and later examples of group movements are dealt with in Part N Preliminary Indications; the number of people under 875, 876; the indication for women and men, 877; the part-of-the-group signs 878; and group arrangements, 880.",
+          "subentryrefs": [277, 875, 876, 877, 878, 880]
+        }
+      ]
+    },
+    {
+      "id": 280,
+      "category": "Floor Pattern",      
+      "entrytype": "symbol",
+      "image": "/img/280.png",
+      "keywords": [],
+      "outline": "V′ Narrow and wide signs within turn and path signs (280) (*see* 705)",
+      "outlinerefs": [705],
+      "detail": [
+        {
+          "subentryid": "280",
+          "content": "The following three ideas depend on one another so that if two values are known the third results automatically. These ideas are, first, the degree of the turn, second, the length of the path, and third, the length of the radius.",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "280a",
+          "content": "A narrow sign placed in a turn sign means a small degree of the turn; little change of front (*see* 257a, 397g, 437a, 705a).",
+          "subentryrefs": [257, 397, 437, 705]
+        },
+        {
+          "subentryid": "280b",
+          "content": "A wide sign in a turn sign means a large degree of the turn; much change of front (*see* 257c, 397h, 705b).",
+          "subentryrefs": [257, 397, 705]
+        },
+        {
+          "subentryid": "280c",
+          "content": "A narrow sign placed in the symbol for a straight path means that a short distance is covered. If the number of steps is known, it means small steps (*see* 705c).",
+          "subentryrefs": [705]
+        },
+        {
+          "subentryid": "280d",
+          "content": "A wide sign in the symbol for a straight path means a large distance is covered. If the number of steps is known, it means large steps (*see* 705d).",
+          "subentryrefs": [705]
+        },
+        {
+          "subentryid": "280e",
+          "content": "A narrow sign placed in a circular path sign means a small circle, *i.e.* a small radius or a small distance to the focal point. If the number of steps is known, it means a marked bend of the path and a high degree of change of front (705e). * Old meaning of this sign: Appendix I 949a.",
+          "subentryrefs": [705, 949]
+        },
+        {
+          "subentryid": "280f",
+          "content": "A wide sign in the circular path sign means a large circle, *i.e.* a large radius or a large distance to the focal point. If the number of steps is known, it means a flat curve and a small degree of change of front (*see* 705f). * Old meaning of this sign: Appendix I 949c.",
+          "subentryrefs": [705, 949]
+        },
+        {
+          "subentryid": "280g",
+          "content": "The narrow sign within a turn sign placed in a circular path sign means a circular path with little change of front, *i.e.* a small degree of the turn. The result is a flat curve (*see* 705g).",
+          "subentryrefs": [705]
+        },
+        {
+          "subentryid": "280h",
+          "content": "The wide sign within a turn sign placed in a circular path sign means a circular path with much change of front, *i.e.* with a large degree of the turn. The result is a sharp curve (*see* 705h).",
+          "subentryrefs": [705]
+        },
+        {
+          "subentryid": "280i",
+          "content": "The combination shown in this example indicates that a short distance is covered on a circular path. If the number of steps is known, it means small steps (*see* 705i).",
+          "subentryrefs": [705]
+        },
+        {
+          "subentryid": "280j",
+          "content": "The combination in this example means that a large distance is covered in a circular path. If the number of steps is known, it means large steps (*see* 705j).",
+          "subentryrefs": [705]
+        },
+        {
+          "subentryid": "280k",
+          "content": "If a narrow sign above an increase sign is written in a circular path sign, it means an inward Archimedian spiral (*see* 273a, 705k). (*Examples*, 273c,d.) * Old way of writing: Appendix I 949a.",
+          "subentryrefs": [273, 705, 949]
+        },
+        {
+          "subentryid": "280 l",
+          "content": "If a wide sign above an increase sign is written in a circular path sign, it means an outward Archimedian spiral (*see* 273b, 705 l). * Old way of writing: Appendix I 949c.",
+          "subentryrefs": [273, 705, 949]
+        },
+        {
+          "subentryid": "280m",
+          "content": "The narrow sign in the doubled increase sign is the way of writing an inward spiral in which the distance between the winds diminishes (*see* 273e, 705m). (*Example*, 273g.)",
+          "subentryrefs": [273, 705]
+        },
+        {
+          "subentryid": "280n",
+          "content": "The wide sign in a doubled increase sign is the way of writing an outward spiral in which the distance between the winds becomes larger (*see* 273f, 705n).",
+          "subentryrefs": [273, 705]
+        }
+      ]
+    },
+    {
+      "id": 281,
+      "category": "Floor Pattern",      
+      "entrytype": "example",
+      "image": "/img/281.png",
+      "keywords": [],
+      "outline": "VI. Straightened paths (281)",
+      "outlinerefs": [],
+      "detail": [
+        {
+          "subentryid": "281a",
+          "content": "These are straight paths along which the performer revolves on his own axis. They are written with circular path signs inside the sign for a straight path. That step direction is written which would enable the performer to reach the destination of the straight path without revolving. ** Other way of writing: Appendix II 962a–d.",
+          "subentryrefs": [962]
+        },
+        {
+          "subentryid": "281b",
+          "content": "This example means travel eight steps forwards judged from the starting front, and at the same time revolve once to the right.",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "281c",
+          "content": "In order to progress on a straight line, the step direction must be changed accordingly. This change is shown in *Example* **281c**, in which the movement of **281b** is divided into eight steps, each preceded by a 1/8 frictionless turn (*see* 254b, 271b). To make reading easier, this example is written on a large scale. If the eight steps of *Example* **281c** are performed without the preceding frictionless turns, it will be realised that the result is a counterclockwise circular path without change of front. It should be noticed that straightened paths also occur in  “rolling the group” (301).",
+          "subentryrefs": [254, 271, 301]
+        }
+      ]
+    },
+    {
+      "id": 282,
+      "category": "Floor Pattern",      
+      "entrytype": "example",
+      "image": "/img/282.png",
+      "keywords": [],
+      "outline": "VII. Circular paths without change of front (282)",
+      "outlinerefs": [],
+      "detail": [
+        {
+          "subentryid": "282",
+          "content": "A straightened path can be performed while one is progressing on a true circular path. Ifthe direction of the turn is the same for both paths, the degree of both turns are added together. If one rotates around one’s own axis in the opposite direction to the turn of the true circular path, this rotation diminishes the degree of the turn of the circling. This is often the case in social dances, in which the line of dance is a counterclockwise circular path along which each couple turns in a clockwise direction on its own axis, *i.e.* around the common axis of each couple (*see* 301c).",
+          "subentryrefs": [301]
+        },
+        {
+          "subentryid": "282a",
+          "content": "Ifa true circular path is performed at the same time as a straightened path turning the opposite way, and the degree of the turn is the same for both, a circular path without change of front results. The first way of writing this movement is derived from this knowledge (**282a**). ** Other way of writing: Appendix II 962e.",
+          "subentryrefs": [962]
+        },
+        {
+          "subentryid": "282b",
+          "content": "In solo dances and some cases of group dances a second, simplified way of writing can be used (**282b**). It consists of a circular path sign containing the sign for a retention in space. The degree of the turn must be expressed in this case as a fraction, because the pin in a circular path sign expresses the degree of change of front, and in this case no such change occurs. (*See* 781b.) ** Trunk circling as a circular path without change of front: Appendix II 960n.",
+          "subentryrefs": [781, 960]
+        },
+        {
+          "subentryid": "282c",
+          "content": "In this example the first way of writing is applied to group dancing. It shows 1/4 wheeling without change of front, resulting in a change of the group arrangement from three people side by side to three one behind the other.",
+          "subentryrefs": []
+        }
+      ]
+    },
+    {
+      "id": 283,
+      "category": "Floor Pattern",      
+      "entrytype": "example",
+      "image": "/img/283.png",
+      "keywords": [],
+      "outline": "VIII. Passive paths (283)",
+      "outlinerefs": [],
+      "detail": [
+        {
+          "subentryid": "283",
+          "content": "Passive paths occur if a person or object is carried and moved by another person or object (*e.g.* a vehicle). Passive paths are written with a path sign with a dotted middle line (*see* 260f–h, 744b–d, and compare with passive movements, 126b, 744a).",
+          "subentryrefs": [260, 744, 126]
+        },
+        {
+          "subentryid": "283a",
+          "content": "In this example, a dancer carries his partner from the left side of the stage to the foreground (area signs *below* and *above* the path sign). The way of writing passive paths is the same as for deviating towards a side of the room (274a). The direction of the path is written in relation to the axes of the room.",
+          "subentryrefs": [274]
+        },
+        {
+          "subentryid": "283b",
+          "content": "In this example the dancer lifts his partner (passive path upwards) and lowers her to the floor (passive path downwards). (*Additional examples under* 287b, 494, 498c, 502c, 745a.) (*Compare with* 604.)",
+          "subentryrefs": [287, 494, 498, 502, 745, 604]
+        }
+      ]
+    },
+    {
+      "id": 284,
+      "category": "Floor Pattern",      
+      "entrytype": "example",
+      "image": "/img/284.png",
+      "keywords": [],
+      "outline": "IX. Path signs with brackets (284)",
+      "outlinerefs": [],
+      "detail": [
+        {
+          "subentryid": "284a",
+          "content": "**Special movements at one particular point on the path.** In group dances and sometimes in solo dances there are special movements which only happen at one particular point of the path. (*See* 551.)",
+          "subentryrefs": [551]
+        },
+        {
+          "subentryid": "",
+          "content": "In *Example* **284a**, a file of six people should jump over someone kneeling down. They must jump one after the other when they come to the point on the path where the person is kneeling. To express this the symbols for the two leg gestures which produce the jump are connected to a path sign written to the right of the staff. (*See* meeting from above, 607a,b.)",
+          "subentryrefs": [607]
+        },
+        {
+          "subentryid": "284b",
+          "content": "**Penetration** of one group into another is written with two path signs connected by a horizontal bracket. Each path sign is written to the right of the respective staff. In this example group A is active and penetrates group B. A passive path (*see* 283) is written for group B, which is penetrated. (*Compare with* the complete penetration in 553.)",
+          "subentryrefs": [283, 553]
+        }
+      ]
+    },
+    {
+      "id": 285,
+      "category": "Floor Pattern",      
+      "entrytype": "example",
+      "image": "/img/285.png",
+      "keywords": [],
+      "outline": "",
+      "outlinerefs": [],
+      "detail": [
+        {
+          "subentryid": "",
+          "content": "",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "",
+          "content": "",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "",
+          "content": "",
+          "subentryrefs": []
+        }
+      ]
+    },
+    {
+      "id": 286,
+      "category": "Floor Pattern",      
+      "entrytype": "example",
+      "image": "/img/286.png",
+      "keywords": [],
+      "outline": "",
+      "outlinerefs": [],
+      "detail": [
+        {
+          "subentryid": "",
+          "content": "",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "",
+          "content": "",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "",
+          "content": "",
+          "subentryrefs": []
+        }
+      ]
+    },
+    {
+      "id": 287,
+      "category": "Floor Pattern",      
+      "entrytype": "example",
+      "image": "/img/287.png",
+      "keywords": [],
+      "outline": "",
+      "outlinerefs": [],
+      "detail": [
+        {
+          "subentryid": "",
+          "content": "",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "",
+          "content": "",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "",
+          "content": "",
+          "subentryrefs": []
+        }
+      ]
+    },
+    {
+      "id": 288,
+      "category": "Floor Pattern",      
+      "entrytype": "example",
+      "image": "/img/288.png",
+      "keywords": [],
+      "outline": "",
+      "outlinerefs": [],
+      "detail": [
+        {
+          "subentryid": "",
+          "content": "",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "",
+          "content": "",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "",
+          "content": "",
+          "subentryrefs": []
+        }
+      ]
+    },
+    {
+      "id": 289,
+      "category": "Floor Pattern",      
+      "entrytype": "example",
+      "image": "/img/289.png",
+      "keywords": [],
+      "outline": "",
+      "outlinerefs": [],
+      "detail": [
+        {
+          "subentryid": "",
+          "content": "",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "",
+          "content": "",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "",
+          "content": "",
+          "subentryrefs": []
+        }
+      ]
+    },
+    {
+      "id": 290,
+      "category": "Floor Pattern",      
+      "entrytype": "example",
+      "image": "/img/290.png",
+      "keywords": [],
+      "outline": "",
+      "outlinerefs": [],
+      "detail": [
+        {
+          "subentryid": "",
+          "content": "",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "",
+          "content": "",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "",
+          "content": "",
+          "subentryrefs": []
+        }
+      ]
+    },
+    {
       "id": 314,
       "category": "Body Sign",      
       "entrytype": "symbol",
