@@ -8919,25 +8919,35 @@
     {
       "id": 285,
       "category": "Floor Pattern",      
-      "entrytype": "example",
+      "entrytype": "symbol",
       "image": "/img/285.png",
       "keywords": [],
-      "outline": "",
+      "outline": "X. Climbing (285). Climbing is written with a path sign containing an appropriate direction sign.",
       "outlinerefs": [],
       "detail": [
         {
-          "subentryid": "",
-          "content": "",
+          "subentryid": "285a",
+          "content": "The path ascends forwards, therefore one will climb upwards when stepping forwards. (*See* 586c.)",
+          "subentryrefs": [586]
+        },
+        {
+          "subentryid": "285b",
+          "content": "The area slopes down to the right.",
           "subentryrefs": []
         },
         {
-          "subentryid": "",
-          "content": "",
+          "subentryid": "285c",
+          "content": "*Circular path on a slanting plane.* At the beginning the performer will step forwards up the slope, but, because of a 1/4 circular path to the right, he will finish with the area sloping upwards on his left side. (*Compare with* the undeviating curve, 253b, undeviating steps, 256a,b, and the undeviating straight paths, 480c, 481f, 491b, 497b′,c′.)",
+          "subentryrefs": [253, 256, 480, 481, 491, 497]
+        },
+        {
+          "subentryid": "285d",
+          "content": "A forward, descending spiral path, as on a *spiral staircase.*",
           "subentryrefs": []
         },
         {
-          "subentryid": "",
-          "content": "",
+          "subentryid": "285e",
+          "content": "*Climbing vertically upwards,* *e.g.* on a ladder. A step forwards means a step vertically upwards.",
           "subentryrefs": []
         }
       ]
@@ -8948,23 +8958,13 @@
       "entrytype": "example",
       "image": "/img/286.png",
       "keywords": [],
-      "outline": "",
+      "outline": "XI. Paths through the air (286)",
       "outlinerefs": [],
       "detail": [
         {
-          "subentryid": "",
-          "content": "",
-          "subentryrefs": []
-        },
-        {
-          "subentryid": "",
-          "content": "",
-          "subentryrefs": []
-        },
-        {
-          "subentryid": "",
-          "content": "",
-          "subentryrefs": []
+          "subentryid": "286",
+          "content": "A path through the air is also written with a path sign containing a direction sign. This example shows a  “swallow dive” (“swan dive”). The path of the flight is first forward-high and then vertically down into the water. (*Compare with* 521d.)",
+          "subentryrefs": [521]
         }
       ]
     },
@@ -8974,22 +8974,22 @@
       "entrytype": "example",
       "image": "/img/287.png",
       "keywords": [],
-      "outline": "",
+      "outline": "XII. Being transported (287)",
       "outlinerefs": [],
       "detail": [
         {
-          "subentryid": "",
-          "content": "",
-          "subentryrefs": []
+          "subentryid": "287a",
+          "content": "A person standing *on a wagon* is carried from the right side of the stage to the centre. The path is written with an indication of the destination (*see* 277).",
+          "subentryrefs": [277]
         },
         {
-          "subentryid": "",
-          "content": "",
-          "subentryrefs": []
+          "subentryid": "287b",
+          "content": "Being moved *by a turn-table.* A person standing on a revolving stage is carried 1/4 of a circle as a result of the 1/4 turn of the stage. (*See* passive paths, 260f–h, 744b–d.)",
+          "subentryrefs": [260, 744]
         },
         {
-          "subentryid": "",
-          "content": "",
+          "subentryid": "Note",
+          "content": "In order to understand the sketch for **287b**, one should notice that the result of the 1/4 turn to the right of the turn-table is that at the end of the movement the sector of the turn-table which was at the left of the stage is now in the foreground. To the person being carried, the audience appears to travel to the left (represented by the arrow).",
           "subentryrefs": []
         }
       ]
@@ -9000,23 +9000,18 @@
       "entrytype": "example",
       "image": "/img/288.png",
       "keywords": [],
-      "outline": "",
+      "outline": "XIII. Retention signs within path signs (289)",
       "outlinerefs": [],
       "detail": [
         {
-          "subentryid": "",
-          "content": "",
-          "subentryrefs": []
+          "subentryid": "288a",
+          "content": "This example means that in a straddling walk the body does not sway from side to side, but the centre of gravity moves in a straight line from the starting point to the destination of the path. Technical term  “undeviating path”. (*Compare with* undeviating movements towards an aim, 122b, 780g,h.)",
+          "subentryrefs": [122, 780]
         },
         {
-          "subentryid": "",
-          "content": "",
-          "subentryrefs": []
-        },
-        {
-          "subentryid": "",
-          "content": "",
-          "subentryrefs": []
+          "subentryid": "288b",
+          "content": "If placed in the sign for a straight path, the sign for retention on a spot means that the motif notated “stays in place“. The various changes of points of support cancel each other. (*See* 781a, and *compare with* 269b, 481d, 490c, 781a′.)",
+          "subentryrefs": [781, 269, 481, 490, 781]
         }
       ]
     },
@@ -9026,22 +9021,27 @@
       "entrytype": "example",
       "image": "/img/289.png",
       "keywords": [],
-      "outline": "",
+      "outline": "XIV. Group turns (289–290)",
       "outlinerefs": [],
       "detail": [
         {
-          "subentryid": "",
-          "content": "",
+          "subentryid": "289",
+          "content": "**Turning to a common front.** In group dances, turns relating to the axes of a room (*see* 258c, 152b) result in a common front. This means that individuals who previously had different fronts have the same front after the turn. In order to express the relation to the axes of the room, a flat pin sign is written in the turn sign. (*See* 305, 432c, 491d, 493h, and *compare with* 334g.) * Old way of writing: Appendix I 913.",
+          "subentryrefs": [258, 152, 305, 432, 491, 493, 334, 913]
+        },
+        {
+          "subentryid": "289a",
+          "content": "Turn to the right to face the background.",
           "subentryrefs": []
         },
         {
-          "subentryid": "",
-          "content": "",
+          "subentryid": "289b",
+          "content": "In this example everyone turns to the right until the left side of the room is in front. The starting arrangement is on a circular line with the right side of each person towards the focal point. From the sketch, one can see which turns the individuals must perform. One person does not turn because he already has the desired front.",
           "subentryrefs": []
         },
         {
-          "subentryid": "",
-          "content": "",
+          "subentryid": "289c",
+          "content": "In this example, turning to the right and to the left is understood to mean that each performer chooses that direction of turn which requires the least degree of turn. In this case no one needs to perform more than a 1/2 turn.",
           "subentryrefs": []
         }
       ]
@@ -9052,12 +9052,538 @@
       "entrytype": "example",
       "image": "/img/290.png",
       "keywords": [],
-      "outline": "",
+      "outline": "XIV. Group turns (289–290)",
       "outlinerefs": [],
       "detail": [
         {
+          "subentryid": "290",
+          "content": "**Focusing.** In group dances turns relating to a focal point (*see* 258g) result in each member having a different front, but all having the same front in relation to the the focal point. If nothing else is stated, the focal point is identical to the centre of the group. (*Compare with* identification ofa a focal point, 267, 269c,d, 490d,e, 795f,g.)",
+          "subentryrefs": [258, 267, 269, 490, 795]
+        },
+        {
+          "subentryid": "290a",
+          "content": "Everyone turns to the right until his left side is towards the focal point.",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "290b",
+          "content": "Everyone turns to the left until his back is towards the centre, *i.e.* the focal point is behind the body.",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "290c",
+          "content": "Turning *to the right and the left* so that the focal point is left-backwards of each person. As in turning to a common front, everyone should choose the direction which requires the smallest degree of turn.",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "290d",
+          "content": "Turning to the right and to the left until the focal point is in front. (*Compare with* paths relating to a focal point, 267, 272.)",
+          "subentryrefs": [267, 272]
+        },
+        {
+          "subentryid": "Note",
+          "content": "The symbols for turns in relation to a focal point are also used as front signs for circular paths and group arrangements relating to a focal point (*see* 260i, 266, 267, 857b–e).",
+          "subentryrefs": [260, 266, 267, 857]
+        }
+      ]
+    },
+    {
+      "id": 291,
+      "category": "Floor Pattern",      
+      "entrytype": "example",
+      "image": "/img/291.png",
+      "keywords": [],
+      "outline": "XV. Group paths (291–295). There are four ways in which a solid group can perform circular paths. Each of these ways of performing has its own order and way of writing. For clarity of explanation, the members of the groups in the following examples are arranged in ranks and files.",
+      "outlinerefs": [292, 293, 294, 295],
+      "detail": [
+        {
+          "subentryid": "291",
+          "content": "**Wheeling** is written with the plain circular path sign. During wheeling, the group fans out because the members who are in rows one beside the other must remain in line. The people on the inner side of the circle must reduce the length of their steps accordingly.",
+          "subentryrefs": []
+        }
+      ]
+    },
+    {
+      "id": 292,
+      "category": "Floor Pattern",      
+      "entrytype": "example",
+      "image": "/img/292.png",
+      "keywords": [],
+      "outline": "XV. Group paths (291–295). There are four ways in which a solid group can perform circular paths. Each of these ways of performing has its own order and way of writing. For clarity of explanation, the members of the groups in the following examples are arranged in ranks and files.",
+      "outlinerefs": [291, 293, 294, 295],
+      "detail": [
+        {
+          "subentryid": "292",
+          "content": "**Whirling** is written with a circular path sign with the top and bottom diagonal lines thickened. In whirling, each member of the group performs steps of the same length. As a result the people on the inner side circle more often than those on the outer side, who have a greater distance to cover.",
+          "subentryrefs": []
+        }
+      ]
+    },
+    {
+      "id": 293,
+      "category": "Floor Pattern",      
+      "entrytype": "example",
+      "image": "/img/293.png",
+      "keywords": [],
+      "outline": "XV. Group paths (291–295). There are four ways in which a solid group can perform circular paths. Each of these ways of performing has its own order and way of writing. For clarity of explanation, the members of the groups in the following examples are arranged in ranks and files.",
+      "outlinerefs": [291, 292, 294, 295],
+      "detail": [
+        {
+          "subentryid": "293",
+          "content": "**Shifting the group** is the technical term for the progression of a group on a circular path while the shape of the group and, therefore, the distance and relationship between the members remain the same. This group movement is written with a  “part-of-the-group” sign placed in the path sign. Asa rule, the sign for the person at the centre of the group is used (*see* 878e). This way of writing means that only this person performs exactly the path written in the kinetogram. All the other people must vary the direction and length of their steps so that the original arrangement of the group is maintained. “Shifting” in couple dances, *e.g.* the waltz, is shown in 301c, and “rolling” of a group which is arranged on a circular line is shown in 301b.",
+          "subentryrefs": [878, 301]
+        },
+        {
+          "subentryid": "Note",
+          "content": "The same symbol which is used for the centre of the group (a  “part-of-the-group” sign) when outside the kinetogram or in a path sign, is used as a body sign, *i.e.* the pelvis (*see* 315m), when written within the columns of the staff. * Old way of writing: Appendix I 914.",
+          "subentryrefs": [315, 914]
+        }
+      ]
+    },
+    {
+      "id": 294,
+      "category": "Floor Pattern",      
+      "entrytype": "example",
+      "image": "/img/294.png",
+      "keywords": [],
+      "outline": "XV. Group paths (291–295). There are four ways in which a solid group can perform circular paths. Each of these ways of performing has its own order and way of writing. For clarity of explanation, the members of the groups in the following examples are arranged in ranks and files.",
+      "outlinerefs": [291, 292, 293, 295],
+      "detail": [
+        {
+          "subentryid": "294",
+          "content": "**Individual paths** are written either by doubling the top and bottom lines of the path sign (path sign a) or by adding the symbol for *each individual* below the path sign (path sign b) (*see* signs for the number of people, 876b). In these paths each individual makes his own path, while in the case of the group paths dealt with in 291–293, a path around one common focal point is performed. In individual paths the relationship between the members of the group gradually changes. In this example, because of the 1/2 circular individual paths, the front row becomes the back row, and the people on the left of the group finish on the right.",
+          "subentryrefs": [876, 291, 292, 293]
+        }
+      ]
+    },
+    {
+      "id": 295,
+      "category": "Floor Pattern",      
+      "entrytype": "example",
+      "image": "/img/295.png",
+      "keywords": [],
+      "outline": "XV. Group paths (291–295). There are four ways in which a solid group can perform circular paths. Each of these ways of performing has its own order and way of writing. For clarity of explanation, the members of the groups in the following examples are arranged in ranks and files.",
+      "outlinerefs": [291, 292, 293, 294],
+      "detail": [
+        {
+          "subentryid": "295",
+          "content": "**Common paths** happen if the members ofa group progress in the same direction in spite of having different fronts. This is written with a path sign containing a front sign. This sign means that the people having this front perform the path written in the kinetogram, while the others adjust their steps accordingly so that they all progress in a common direction.",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "295a",
+          "content": "In this example, a group arranged on a 1/2 circle moves towards the foreground.",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "295b",
+          "content": "There can also be common circular paths. In this example, a row of three people, each with a different front, should wheel 1/4 to the right.",
+          "subentryrefs": []
+        }
+      ]
+    },
+    {
+      "id": 296,
+      "category": "Floor Pattern",      
+      "entrytype": "example",
+      "image": "/img/296.png",
+      "keywords": [],
+      "outline": "XVI. Linear formations (296–302). Linear group formations can be straight or curved, and the performers may be one beside the other or one behind the other.",
+      "outlinerefs": [297, 298, 299, 300, 301, 302],
+      "detail": [
+        {
+          "subentryid": "296",
+          "content": "“Following”. If a group arranged in a line one behind the other (file) progresses forwards (**296a**), or if a group arranged in a line one beside the other (rank) progresses sideways, one person will follow the other. Everyone in the line except the leader will come to the point which the person preceding him has left. Following is considered the natural procedure in circular paths and, therefore, is written with the plain circular path sign (**296b**).",
+          "subentryrefs": []
+        },
+        {
           "subentryid": "",
-          "content": "",
+          "content": "It is also understood in spiral paths (*see* 272e–h, 273) that the people arranged in the direction of progression should follow the leader (**296c**). In comparison, Figure **296d** shows the circular path of a following line during which the whole group approaches the focal point. The circular formation is preserved but becomes smaller.",
+          "subentryrefs": [272, 273]
+        }
+      ]
+    },
+    {
+      "id": 297,
+      "category": "Floor Pattern",      
+      "entrytype": "example",
+      "image": "/img/297.png",
+      "keywords": [],
+      "outline": "XVI. Linear formations (296–302). Linear group formations can be straight or curved, and the performers may be one beside the other or one behind the other.",
+      "outlinerefs": [296, 298, 299, 300, 301, 302],
+      "detail": [
+        {
+          "subentryid": "297",
+          "content": "**Parallel paths and wheeling.** If a group arranged on a line one beside the other progresses forwards, parallel paths result. Each person has his own path parallel to those of the others, and the arrangement one beside the other is maintained (**297a**). An analogous procedure is considered natural in circular paths, which are, therefore, written with the plain circular path sign (**297b**). In circular paths, according to this rule, parallel paths become concentric circles. In order to maintain the line formation, people nearer the focal point must take smaller steps; thus wheeling is created.",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "Note",
+          "content": "In wheeling in a column with ranks and files (291), the ranks will wheel and people on the same file will follow one another.",
+          "subentryrefs": [291]
+        }
+      ]
+    },
+    {
+      "id": 298,
+      "category": "Floor Pattern",      
+      "entrytype": "example",
+      "image": "/img/298.png",
+      "keywords": [],
+      "outline": "XVI. Linear formations (296–302). Linear group formations can be straight or curved, and the performers may be one beside the other or one behind the other.",
+      "outlinerefs": [296, 297, 299, 300, 301, 302],
+      "detail": [
+        {
+          "subentryid": "298",
+          "content": "**“Nomination of a leader”.** A symbol written below a path sign and joined to it by avertical bracket (565a) signifies the nomination of a leader. The nomination means that the person indicated by the symbol is the first to perform the path, and that the others must follow him on the same path. In *Example* **298** the member of the group whose front is to the right-backward corner of the room dissolves the circular arrangement of the group by leading off on a straight path (step direction to the right). (Other examples in “rolling up”, 301a, and “winding up”, 302.)",
+          "subentryrefs": [565, 301, 302]
+        }
+      ]
+    },
+    {
+      "id": 299,
+      "category": "Floor Pattern",      
+      "entrytype": "example",
+      "image": "/img/299.png",
+      "keywords": [],
+      "outline": "XVI. Linear formations (296–302). Linear group formations can be straight or curved, and the performers may be one beside the other or one behind the other.",
+      "outlinerefs": [296, 297, 298, 300, 301, 302],
+      "detail": [
+        {
+          "subentryid": "299",
+          "content": "**“Wrapping”.** In wrapping, an arrangement on a straight line or part of a line becomes a circular arrangement. The path of each participant is an inward spiral. Therefore, a wrapping group movement is signified by a spiral-shaped symbol which *narrows in the direction of the turn* and is designed around the pin sign within the path sign. In *Example* **299a** each half of a straight line moves into a semicircular arrangement on a wrapping path, which causes the whole group to finish in a circle. The pin signs indicate the change of front of the people at the ends of the line, and show that each half of the line forms half of a circle.",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "",
+          "content": "The opposite movement is *“unwrapping”*, in which a circular arrangement changes into a straight line, and each participant makes an outward spiral path. This is written with a spiral-shaped symbol which *widens in the direction of the turn* and is designed around the pin sign within the path sign. In *Example* **299b**, a quarter of a circular group unwraps to form a straight line.",
+          "subentryrefs": []
+        }
+      ]
+    },
+    {
+      "id": 300,
+      "category": "Floor Pattern",      
+      "entrytype": "example",
+      "image": "/img/300.png",
+      "keywords": [],
+      "outline": "XVI. Linear formations (296–302). Linear group formations can be straight or curved, and the performers may be one beside the other or one behind the other.",
+      "outlinerefs": [296, 297, 298, 299, 301, 302],
+      "detail": [
+        {
+          "subentryid": "300",
+          "content": "**“Turning inside-out”.** The pin sign “low” placed in the path sign means that one person leads without change of front across the diameter of the circle on which the group is arranged. The leader is identified by the front sign below the “low” pin sign. The people on either side of the leader perform circular paths; those nearer him have longer paths and lesser degrees of turn than those further away. The front sign below the other pin sign identifies the last person on each side to be involved in the movement. These people have the highest degree of turn, and turn on the spot.",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "300a",
+          "content": "In this example half of the circular group “turns itself inside-out” to arrive within the other half.",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "300b",
+          "content": "Here the leader performs a straight path two diameters long passing through the two people opposite him. The others follow him with circular paths, with the exception of the two people opposite him, who perform full turns on the spot. Thus a new circular group is built up beyond the area in which it started, and the new focal point is behind the performers.",
+          "subentryrefs": []
+        }
+      ]
+    },
+    {
+      "id": 301,
+      "category": "Floor Pattern",      
+      "entrytype": "example",
+      "image": "/img/301.png",
+      "keywords": [],
+      "outline": "XVI. Linear formations (296–302). Linear group formations can be straight or curved, and the performers may be one beside the other or one behind the other.",
+      "outlinerefs": [296, 297, 298, 299, 300, 302],
+      "detail": [
+        {
+          "subentryid": "301a",
+          "content": "**“Rolling”.** *Example* **301a** shows the rolling up of a line of people standing beside each other. The person on the right leads (*see* 298) along the front of the group towards the left end of the line. As he turns on his own axis while progressing (*see* 281), he winds the rest of the group around him ina spiral pattern. The staff on the right side of the kinetogram containing retention signs indicates “hesitating following”, *i.e.* each person remains on the spot until it is necessary to join in.",
+          "subentryrefs": [298, 281]
+        },
+        {
+          "subentryid": "Note",
+          "content": "The dotted continuation of the staff on the right means “and so on”, *i.e.* standing still is continued as long as it is necessary in the situation (*see* 791, 895i). It should be noted that this use of the vertical dotted lines has nothing to do with the dotted action stroke, which indicates a passive or resulting movement (*see* 5b, 126b).",
+          "subentryrefs": [791, 895, 5, 126]
+        },
+        {
+          "subentryid": "301b",
+          "content": "**“Rolling on”** of a circular group is written as “shifting the group” (*see* 293) on a straightened path (*see* 281).",
+          "subentryrefs": [293, 281]
+        },
+        {
+          "subentryid": "Note",
+          "content": "The symbol for “any number of people” (see N 875f) in this case means that the path is performed by a group and not by one person.",
+          "subentryrefs": [875]
+        },
+        {
+          "subentryid": "301c",
+          "content": "“Rolling on” is performed in some *couple dances.* In this example, one bar of a waltz is written showing the movements of the man and the woman. The addition of the path sign indicates that the couple “rolls on” as a unit, *i.e.* that in the turns written in the kinetogram the individuals do not turn around their own axes, but around an axis situated between them. This axis progresses on a straight line around which the performers must detour.",
+          "subentryrefs": []
+        }
+      ]
+    },
+    {
+      "id": 302,
+      "category": "Floor Pattern",      
+      "entrytype": "example",
+      "image": "/img/302.png",
+      "keywords": [],
+      "outline": "XVI. Linear formations (296–302). Linear group formations can be straight or curved, and the performers may be one beside the other or one behind the other.",
+      "outlinerefs": [296, 297, 298, 299, 300, 301],
+      "detail": [
+        {
+          "subentryid": "302",
+          "content": "“Winding up”. In winding up, the person at one end of a line who is nominated the leader (*see* 298) turns on the spot while stepping and, therefore, winds the rest of the group around him in a spiral line.",
+          "subentryrefs": [298]
+        }
+      ]
+    },
+    {
+      "id": 303,
+      "category": "Floor Pattern",      
+      "entrytype": "symbol",
+      "image": "/img/303.png",
+      "keywords": [],
+      "outline": "XVII. Relating to the direction of the path and to the general direction of progression (line of dance) (303–310)",
+      "outlinerefs": [304, 305, 306, 307, 308, 309, 310],
+      "detail": [
+        {
+          "subentryid": "303",
+          "content": "**The front in relation to the direction of the path.** In some exceptional cases the indication of the front can only be made in relation to the direction of the path. This can occur, for instance, if a  “following line” (*see*  “following”, 296) has performed a complicated floor pattern so that some people are situated on a curve to the right, others on a curve to the left, and still others on a straight section of the path (*see* sketch 305 I).",
+          "subentryrefs": [296, 305]
+        },
+        {
+          "subentryid": "303a",
+          "content": "The front signs used in these cases are derived from the symbol for the direction of the path (**303a**).",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "303b",
+          "content": "This symbol means that the front is towards the direction of the path. Forward steps will continue the path.",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "303c",
+          "content": "The direction of the path is to the right. Steps to the right will continue the path. The performer is facing to the left of the path.",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "Note",
+          "content": "Compare with the other principle of indicating the front in relation to the general direction of progression (308d).",
+          "subentryrefs": [308]
+        }
+      ]
+    },
+    {
+      "id": 304,
+      "category": "Floor Pattern",      
+      "entrytype": "symbol",
+      "image": "/img/304.png",
+      "keywords": [],
+      "outline": "XVII. Relating to the direction of the path and to the general direction of progression (line of dance) (303–310)",
+      "outlinerefs": [303, 305, 306, 307, 308, 309, 310],
+      "detail": [
+        {
+          "subentryid": "304",
+          "content": "**Turns in relation to the direction of the path.** The arrow within the turn sign indicates which surface or edge of the body should be turned towards the direction of the path.",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "304a",
+          "content": "Turning to the right or to the left until the direction of the path is in front.",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "304b",
+          "content": "Turning to the left until the direction of the path is behind.",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "304c",
+          "content": "Turning to the right until the direction of the path is to the left. The front will finish to the right of the path.",
+          "subentryrefs": []
+        }
+      ]
+    },
+    {
+      "id": 305,
+      "category": "Floor Pattern",      
+      "entrytype": "example",
+      "image": "/img/305.png",
+      "keywords": [],
+      "outline": "XVII. Relating to the direction of the path and to the general direction of progression (line of dance) (303–310)",
+      "outlinerefs": [303, 304, 306, 307, 308, 309, 310],
+      "detail": [
+        {
+          "subentryid": "305",
+          "content": "*Example.* The consequence of the path so far performed is that a united indication of the front for the whole group can only be made by stating that everybody faces the direction of the path (*see* sketch **305 I**). With the first turn everybody faces the same direction (*see* 289); their front directions are then parallel to one another and to the right-backward/left-forward axis of the room (*see* sketch **305 II**). With the second turn everybody faces the direction of the path so that the path can be continued by stepping forwards. The second turn can only be expressed by writing it in relation to the direction of the path.",
+          "subentryrefs": [289]
+        }
+      ]
+    },
+    {
+      "id": 306,
+      "category": "Floor Pattern",      
+      "entrytype": "symbol",
+      "image": "/img/306.png",
+      "keywords": [],
+      "outline": "XVII. Relating to the direction of the path and to the general direction of progression (line of dance) (303–310)",
+      "outlinerefs": [303, 304, 305, 307, 308, 309, 310],
+      "detail": [
+        {
+          "subentryid": "306a",
+          "content": "**Movements in relation to the direction of the path.** The clef shown here means that the direction of the movements should be read in relation to the direction of the path.",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "306b",
+          "content": "Movement in the direction of the path.",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "306c",
+          "content": "Movement to the right of the path.",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "306d",
+          "content": "Movement to the left of the path.",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "306e",
+          "content": "A movement in the opposite direction to that of the path.",
+          "subentryrefs": []
+        }
+      ]
+    },
+    {
+      "id": 307,
+      "category": "Floor Pattern",      
+      "entrytype": "example",
+      "image": "/img/307.png",
+      "keywords": [],
+      "outline": "XVII. Relating to the direction of the path and to the general direction of progression (line of dance) (303–310)",
+      "outlinerefs": [303, 304, 305, 306, 308, 309, 310],
+      "detail": [
+        {
+          "subentryid": "307",
+          "content": "*Example.* The way of writing in Figsures 306b–e can be used if the members of the group should move in the same directions in relation to the direction of the path, in spite of having different fronts in relation to the direction of the path. The starting position of this example is the same arrangement as in sketch 305 II, *i.e.* all have the same front in relation to the fixed axes of the room but different fronts in relation to the direction of the path. Everyone should continue the path with three steps in the direction of the path without changing the front. (*See* the dotted arrow in 305 II.)",
+          "subentryrefs": [306, 305]
+        },
+        {
+          "subentryid": "Note",
+          "content": "In Motif Writing one can describe the shape of the path by writing appropriate signs for straight paths, circular paths, and turns above the symbol for the direction of the path (303a). In this case the turn sign indicates an angle in the path and not a turning movement. (*See* 891c.)",
+          "subentryrefs": [303, 891]
+        }
+      ]
+    },
+    {
+      "id": 308,
+      "category": "Floor Pattern",      
+      "entrytype": "example",
+      "image": "/img/308.png",
+      "keywords": [],
+      "outline": "XVII. Relating to the direction of the path and to the general direction of progression (line of dance) (303–310)",
+      "outlinerefs": [303, 304, 305, 306, 307, 309, 310],
+      "detail": [
+        {
+          "subentryid": "308",
+          "content": "**The front in relation to the general direction of progression.** In ballroom dancing it is usual to give the front direction in relation to the  “line of dance.” This line travels counterclockwise along the four walls of the room.",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "308a",
+          "content": "In sketch **308a** the line of dance is shown as a dotted arrow; it is the general direction of progression, around which the path of the dancers weaves. (Unbroken arrow in the same sketch.)",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "308b–d",
+          "content": "To indicate the front of the performer in relation to the line of dance, front signs with black pins are used. * Old meaning of these front signs: Appendix I 955a,b.",
+          "subentryrefs": [955]
+        },
+        {
+          "subentryid": "308b",
+          "content": "The dancer’s front is in the direction of the line of dance.",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "308c",
+          "content": "“Front” is right-forward in relation to the line of dance. The line of dance is then to the left-in-front of the dancer.",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "308d",
+          "content": "“Front” to the right of the line of dance; the line of dance is to the left of the dancer.",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "Note",
+          "content": "*Compare with* the other principle in defining the front in relation to the direction of the path (303c).",
+          "subentryrefs": [303]
+        },
+        {
+          "subentryid": "308e",
+          "content": "When the ballroom dancer arrives at one corner of the room, the line of dance bends and he must adjust himself to a new general direction of progression which leads along the next wall at right angles to the former direction. He relates his front to this new direction. This is not amovement but is a mental adjustment, and is indicated by means of the symbol for the general direction of progression (**308e**).",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "308f",
+          "content": "The appropriate turn sign is written above this symbol to indicate that the line of dance bends at a right-angle. This indication is written at the right of the kinetogram. After it a new front sign is written indicating the front relationship of the dancer to the new direction of the line of dance.",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "308g",
+          "content": "In this example, a dancer has arrived at a corner of the ballroom. His front is forward in the direction of the section of the line of dance along which he has just travelled (**part I** in the sketch). He now adjusts himself to a new general direction of progression along the next wall (**part II**). Because he performs a 90 degree turn to the right while the line of dance bends 90 degrees to the left, he now has his back towards the new general direction of progression.",
+          "subentryrefs": []
+        }
+      ]
+    },
+    {
+      "id": 309,
+      "category": "Floor Pattern",      
+      "entrytype": "symbol",
+      "image": "/img/309.png",
+      "keywords": [],
+      "outline": "XVII. Relating to the direction of the path and to the general direction of progression (line of dance) (303–310)",
+      "outlinerefs": [303, 304, 305, 306, 307, 308, 310],
+      "detail": [
+        {
+          "subentryid": "309",
+          "content": "**The front in relation to the periphery** of the room can also be expressed by the symbols shown in 308b–d. Figure **309** shows the key used for this purpose, which states that one has one’s “front” forward if one faces the periphery with the centre of the room behind. (Useful for notating skating and circus performances.)",
+          "subentryrefs": [308]
+        }
+      ]
+    },
+    {
+      "id": 310,
+      "category": "Floor Pattern",      
+      "entrytype": "symbol",
+      "image": "/img/310.png",
+      "keywords": [],
+      "outline": "XVII. Relating to the direction of the path and to the general direction of progression (line of dance) (303–310)",
+      "outlinerefs": [303, 304, 305, 306, 307, 308, 309],
+      "detail": [
+        {
+          "subentryid": "310",
+          "content": "**The relationship to the starting front** can be used as a key signature if motives are written beside one another for comparison, and also for a sequence of movement in which the pattern is known but the starting front is unknown or irrelevant. * Old meaning of these front signs: Appendix I 955a,b.",
+          "subentryrefs": [955]
+        }
+      ]
+    },
+    {
+      "id": 311,
+      "category": "Floor Pattern",      
+      "entrytype": "example",
+      "image": "/img/311.png",
+      "keywords": [],
+      "outline": "XVIII. Amalgamation of group paths (311). If a group performs two group paths at the same time, these will amalgamate to form one pattern. Amalgamation is written with a  “community kinetogram”, which can be recognised by the double starting and finishing lines uniting the two staves (*see* the score, 900m,o; connecting lines, 589c,d, 850) and by the large equal sign with angled ends placed between the two staves (*see* analogy signs, 806). This equal sign means that the two paths are performed at the same time by the same group. The step directions of the two paths may contradict one another, so that one movement is reduced or even cancelled by the other. Those step directions which should be performed if each path were done separately are written in the individual staves of the kinetogram. In the amalgamation new step directions often result which do not appear in either kinetogram.",
+      "outlinerefs": [900, 589, 850, 806],
+      "detail": [
+        {
+          "subentryid": "311",
+          "content": "Individual paths while wheeling. While the group wheels 1/8, 1/2 circles are performed as individual paths, both movements being counterclockwise. Because of the wheeling, the individual paths become smaller towards the inner end of the wheeling line. The sum of the changes of front of both paths turning in the same direction is 5/8 of a whole turn. **Sketch I** shows the individual paths, **sketch II** the wheeling, and **sketch III** the amalgamation of both.",
           "subentryrefs": []
         },
         {
@@ -9069,6 +9595,93 @@
           "subentryid": "",
           "content": "",
           "subentryrefs": []
+        }
+      ]
+    },
+    {
+      "id": 312,
+      "category": "Floor Pattern",      
+      "entrytype": "symbol",
+      "image": "/img/312.png",
+      "keywords": [],
+      "outline": "XIX. Floor pattern and arrangement sketches (312–313). Because all the factors which cause the floor pattern can be seen from the kinetogram, the correct floor pattern will automatically emerge without the aid of special floor pattern designs. Nevertheless, in many cases it is better to insert or add floor pattern and arrangement graphs to help the reader.",
+      "outlinerefs": [],
+      "detail": [
+        {
+          "subentryid": "312",
+          "content": "**The starting and finishing positions** of performers are indicated sketches by pin signs (*see* 158). The following signs mean:",
+          "subentryrefs": [158]
+        },
+        {
+          "subentryid": "312a",
+          "content": "starting position of a man",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "312b",
+          "content": "starting position of a woman",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "312c",
+          "content": "starting position of a person of either sex or an object",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "312d",
+          "content": "finishing position of a man",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "312e",
+          "content": "finishing position of a woman",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "312f",
+          "content": "finishing position of a person of either sex or an object ** Other way of writing: Appendix II 963.",
+          "subentryrefs": [963]
+        }
+      ]
+    },
+    {
+      "id": 313,
+      "category": "Floor Pattern",      
+      "entrytype": "example",
+      "image": "/img/313.png",
+      "keywords": [],
+      "outline": "XIX. Floor pattern and arrangement sketches (312–313). Because all the factors which cause the floor pattern can be seen from the kinetogram, the correct floor pattern will automatically emerge without the aid of special floor pattern designs. Nevertheless, in many cases it is better to insert or add floor pattern and arrangement graphs to help the reader.",
+      "outlinerefs": [],
+      "detail": [
+        {
+          "subentryid": "313",
+          "content": "**Arrows indicate paths over the floor** (**313a**). In order to distinguish between the paths of various people, arrows can be drawn with broken or unbroken lines. The path of a group as a unit can be shown by double-headed arrows (**313b**). ** Other way of writing: Appendix II 964b.",
+          "subentryrefs": [964]
+        },
+        {
+          "subentryid": "",
+          "content": "All designs are drawn from the performer’s point of view, the top being towards the audience and the bottom towards the background. The right side of the stage is on the dancer’s right when he faces the audience.",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "",
+          "content": "The sketches can either be completely surrounded by a line, as in **313a,e,f,** or can be left open towards the audience, as in **313c.** The upper line can also be partly drawn in, as in **313b,d.**",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "313c,d",
+          "content": "In the sketches a line indicates the *ground plan of a group arrangement on that line.* Figure **313c** shows a group in a line one beside the other, facing right-forward. If the group is in a line one behind the other, an elongated pin shows in addition to the front of the performers also the ground plan of the group, which may be on a straight, angular, or curved line (**313d**).",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "313e",
+          "content": "A circular line means an arrangement in a circle. Figure **313e** shows eight people in a circle facing the centre.",
+          "subentryrefs": []
+        },
+        {
+          "subentryid": "313f",
+          "content": "Solid groups are shown by filling in or shading the shape of the ground plan (**313f**). (*Compare with* 880.)",
+          "subentryrefs": [880]
         }
       ]
     },
