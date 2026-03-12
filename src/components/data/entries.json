@@ -1,7 +1,7 @@
 [
     {
       "id": 1,
-      "category": "Principle",      
+      "category": "Principles",      
       "entrytype": "symbol",
       "image": "/img/1.png",
       "keywords": ["direction signs"],
@@ -17,7 +17,7 @@
     },
     {
       "id": 2,
-      "category": "Principle",
+      "category": "Principles",
       "entrytype": "symbol",
       "image": "/img/2.png",
       "keywords": ["direction signs"],
@@ -33,7 +33,7 @@
     },
     {
       "id": 3,
-      "category": "Principle",
+      "category": "Principles",
       "entrytype": "symbol",
       "image": "/img/3.png",
       "keywords": [],
@@ -49,7 +49,7 @@
     },
     {
       "id": 4,
-      "category": "Principle",
+      "category": "Principles",
       "entrytype": "symbol",
       "image": "/img/4.png",
       "keywords": ["direction signs", "levels", "shading of direction signs"],
@@ -75,7 +75,7 @@
     },
     {
       "id": 5,
-      "category": "Principle",
+      "category": "Principles",
       "entrytype": "symbol",
       "image": "/img/5.png",
       "keywords": ["vertical dotted lines (passive or resulting movements)", "action stroke (vertical lines of various lengths in the inner and outer columns of the staff)", "passive movements", "resulting movement"],
@@ -96,7 +96,7 @@
     },
     {
       "id": 6,
-      "category": "Principle",
+      "category": "Principles",
       "entrytype": "symbol",
       "image": "/img/6.png",
       "keywords": ["simultaneousness of two actions"],
@@ -117,7 +117,7 @@
     },
     {
       "id": 7,
-      "category": "Principle",
+      "category": "Principles",
       "entrytype": "symbol",
       "image": "/img/7.png",
       "keywords": ["length of signs", "duration of a change"],
@@ -133,7 +133,7 @@
     },
     {
       "id": 8,
-      "category": "Principle",
+      "category": "Principles",
       "entrytype": "symbol",
       "image": "/img/8.png",
       "keywords": [],
@@ -149,7 +149,7 @@
     },
     {
       "id": 9,
-      "category": "Principle",
+      "category": "Principles",
       "entrytype": "symbol",
       "image": "/img/9.png",
       "keywords": ["staff", "column for arm gestures", "columns of the staff", "subsidiary columns of the staff", "subsidiary columns (expanded staff)", "inner subsidiary columns (expanded staff)", "outer subsidiary columns (expanded staff)", "direction of reading and writing (reading direction, writing direction)", "gesture columns", "left half of the body", "leg gestures", "the three staff lines", "right half of the body", "support columns", "upper body (upper part of the body)", "columns for the upper body (columns for the upper part of the body)"],
@@ -195,7 +195,7 @@
     },
     {
       "id": 10,
-      "category": "Principle",
+      "category": "Principles",
       "entrytype": "symbol",
       "image": "/img/10.png",
       "keywords": [],
@@ -2097,7 +2097,7 @@
     },
     {
       "id": 103,
-      "category": "Direction Sign",
+      "category": "Direction Signs",
       "entrytype": "symbol",
       "image": "/img/103.png",
       "keywords": ["direction signs","shading of direction signs", "left direction", "right direction"],
@@ -2123,7 +2123,7 @@
     },
     {
       "id": 104,
-      "category": "Direction Sign",
+      "category": "Direction Signs",
       "entrytype": "symbol",
       "image": "/img/104.png",
       "keywords": ["direction signs"],
@@ -2144,7 +2144,7 @@
     },
     {
       "id": 105,
-      "category": "Direction Sign",
+      "category": "Direction Signs",
       "entrytype": "symbol",
       "image": "/img/105.png",
       "keywords": ["direction signs","duration of a change"],
@@ -2170,7 +2170,7 @@
     },
     {
       "id": 106,
-      "category": "Direction Sign",
+      "category": "Direction Signs",
       "entrytype": "symbol",
       "image": "/img/106.png",
       "keywords": ["direction signs"],
@@ -2191,7 +2191,7 @@
     },
     {
       "id": 107,
-      "category": "Direction Sign",
+      "category": "Direction Signs",
       "entrytype": "example",
       "image": "/img/107.png",
       "keywords": ["direction signs","direction of reading and writing (reading direction, writing direction)"],
@@ -2217,7 +2217,7 @@
     },
     {
       "id": 108,
-      "category": "Direction Sign",
+      "category": "Direction Signs",
       "entrytype": "example",
       "image": "/img/108.png",
       "keywords": ["direction signs"],
@@ -2258,7 +2258,7 @@
     },
     {
       "id": 109,
-      "category": "Direction Sign",
+      "category": "Direction Signs",
       "entrytype": "example",
       "image": "/img/109.png",
       "keywords": ["direction signs"],
@@ -2274,7 +2274,7 @@
     },
     {
       "id": 110,
-      "category": "Direction Sign",
+      "category": "Direction Signs",
       "entrytype": "example",
       "image": "/img/110.png",
       "keywords": ["direction signs","column for arm gestures","leg gestures","levels of arm getures","levels of leg gestures"],
@@ -2295,7 +2295,7 @@
     },
     {
       "id": 111,
-      "category": "Direction Sign",
+      "category": "Direction Signs",
       "entrytype": "example",
       "image": "/img/111.png",
       "keywords": ["direction signs","demi plié","demi pointe (half point)","high supports","knee bend (plié)","levels of steps and supports","low supports","medium level supports","levels of support on the feet","supporting on the whole foot", "knee bend"],
@@ -2321,7 +2321,7 @@
     },
     {
       "id": 112,
-      "category": "Direction Sign",
+      "category": "Direction Signs",
       "entrytype": "example",
       "image": "/img/112.png",
       "keywords": ["direction signs","fluent movements","legato (curved, fluent, flow of movement)","different shading within a single sign","curved shapes (curved gestures)", "change of levels while stepping"],
@@ -2347,7 +2347,7 @@
     },
     {
       "id": 113,
-      "category": "Direction Sign",
+      "category": "Direction Signs",
       "entrytype": "symbol",
       "image": "/img/113.png",
       "keywords": ["direction signs","different shading within a single sign"],
@@ -2373,7 +2373,7 @@
     },
     {
       "id": 114,
-      "category": "Direction Sign",
+      "category": "Direction Signs",
       "entrytype": "example",
       "image": "/img/114.png",
       "keywords": ["direction signs","angular movements","angular shapes"],
@@ -2389,7 +2389,7 @@
     },
     {
       "id": 115,
-      "category": "Direction Sign",
+      "category": "Direction Signs",
       "entrytype": "example",
       "image": "/img/115.png",
       "keywords": ["direction signs","fluent movements","gesture on a straight line","legato (curved, fluent, flow of movement)","phrasing bow","curved shapes (curved gestures)","straight shapes","staccato","straight path for gestures","uninterrupted flow"],
@@ -2430,7 +2430,7 @@
     },
     {
       "id": 116,
-      "category": "Direction Sign",
+      "category": "Direction Signs",
       "entrytype": "example",
       "image": "/img/116.png",
       "keywords": ["direction signs","column for arm gestures","leg gestures","place","place problems in arm gestures","place problems in leg gestures","place problems in steps"],
@@ -2461,7 +2461,7 @@
     },
     {
       "id": 117,
-      "category": "Direction Sign",
+      "category": "Direction Signs",
       "entrytype": "example",
       "image": "/img/117.png",
       "keywords": ["direction signs"],
@@ -2492,7 +2492,7 @@
     },
     {
       "id": 118,
-      "category": "Direction Sign",
+      "category": "Direction Signs",
       "entrytype": "example",
       "image": "/img/118.png",
       "keywords": ["direction signs","vertical bows with pin signs","detours in gestures (pin signs for deviation in gestures)", "pin sign in a vertical bow (position sign in a vertical bow)", "pin sign for minute movements (position sign for minute movements, small movements)"],
@@ -2508,7 +2508,7 @@
     },
     {
       "id": 119,
-      "category": "Direction Sign",
+      "category": "Direction Signs",
       "entrytype": "symbol",
       "image": "/img/119.png",
       "keywords": ["direction signs","between directions","dots below a direction sign","dots between two direction signs"],
@@ -2529,7 +2529,7 @@
     },
     {
       "id": 120,
-      "category": "Direction Sign",
+      "category": "Direction Signs",
       "entrytype": "example",
       "image": "/img/120.png",
       "keywords": ["direction signs"],
@@ -2550,7 +2550,7 @@
     },
     {
       "id": 121,
-      "category": "Direction Sign",
+      "category": "Direction Signs",
       "entrytype": "symbol",
       "image": "/img/121.png",
       "keywords": ["direction signs","between directions","direction signs with pin signs inside","pin sign in direction signs (position sign in direction signs)"],
@@ -2605,7 +2605,7 @@
     },
     {
       "id": 122,
-      "category": "Direction Sign",
+      "category": "Direction Signs",
       "entrytype": "symbol",
       "image": "/img/122.png",
       "keywords": ["direction signs with a retention sign inside (direction signs with a hold sign inside)","retention signs in direction signs (hold signs in direction signs)","undeviating movements", "undeviating movement towards an aim (undeviating aiming)", "undeviating curve"],
@@ -2626,7 +2626,7 @@
     },
     {
       "id": 123,
-      "category": "Direction Sign",
+      "category": "Direction Signs",
       "entrytype": "symbol",
       "image": "/img/123.png",
       "keywords": ["direction signs with a retention sign inside (direction signs with a hold sign inside)","gliding support","retention signs in direction signs (hold signs in direction signs)"],
@@ -2642,7 +2642,7 @@
     },
     {
       "id": 124,
-      "category": "Direction Sign",
+      "category": "Direction Signs",
       "entrytype": "symbol",
       "image": "/img/124.png",
       "keywords": ["relating to the front of the performer (standard cross of axes)","constant cross of axes (fixed axes)","axes of the body", "axes of individual body parts (body-twisted-part key)", "constant axes, axes of a room"],
@@ -2698,7 +2698,7 @@
     },
     {
       "id": 125,
-      "category": "Direction Sign",
+      "category": "Direction Signs",
       "entrytype": "symbol",
       "image": "/img/125.png",
       "keywords": ["aiming at fixed points","fixed point signs","diamond around black disk in square","fixed points","square with diamond and black disc"],
@@ -2739,7 +2739,7 @@
     },
     {
       "id": 126,
-      "category": "Direction Sign",
+      "category": "Direction Signs",
       "entrytype": "symbol",
       "image": "/img/126.png",
       "keywords": ["action stroke (vertical lines of various lengths in the inner and outer columns of the staff)","approaching an aim","approaching an area","approaching a body part","approaching a focal point","approaching a partner","area sign in a path sign","going away from fixed points","decrease sign (decrescendo)","diamond around black disk in square","fixed points","going away from a focal point","going away from an area","going away from a body part","going away from a fixed point","going away from a partner","going away from the point of relation","vertical lines of varios lengths in the inner and outer columns of the staff","vertical dotted lines (passive or resulting movements)","passive movements","resulting movement", "going away from a body part"],
@@ -2815,7 +2815,7 @@
     },
     {
       "id": 127,
-      "category": "Pin Sign",
+      "category": "Pin Signs",
       "entrytype": "symbol",
       "image": "/img/127.png",
       "keywords": ["finishing position in sketches", "levels of pin signs", "starting postition in sketches (beginning)"],
@@ -2871,7 +2871,7 @@
     },
     {
       "id": 128,
-      "category": "Pin Sign",
+      "category": "Pin Signs",
       "entrytype": "symbol",
       "image": "/img/128.png",
       "keywords": [],
@@ -2897,7 +2897,7 @@
     },
     {
       "id": 129,
-      "category": "Pin Sign",
+      "category": "Pin Signs",
       "entrytype": "symbol",
       "image": "/img/129.png",
       "keywords": ["above something or somebody"],
@@ -2928,7 +2928,7 @@
     },
     {
       "id": 130,
-      "category": "Pin Sign",
+      "category": "Pin Signs",
       "entrytype": "symbol",
       "image": "/img/130.png",
       "keywords": ["centre position sign", "inside something", "penetrating without touching", "within something"],
@@ -2949,7 +2949,7 @@
     },
     {
       "id": 131,
-      "category": "Pin Sign",
+      "category": "Pin Signs",
       "entrytype": "symbol",
       "image": "/img/131.png",
       "keywords": ["below something or somebody"],
@@ -2980,7 +2980,7 @@
     },
     {
       "id": 132,
-      "category": "Pin Sign",
+      "category": "Pin Signs",
       "entrytype": "symbol",
       "image": "/img/132.png",
       "keywords": ["inside something"],
@@ -3006,7 +3006,7 @@
     },
     {
       "id": 133,
-      "category": "Pin Sign",
+      "category": "Pin Signs",
       "entrytype": "example",
       "image": "/img/133.png",
       "keywords": ["pin sign beside direction signs (position sign beside direction signs)", "ballet positions"],
@@ -3042,7 +3042,7 @@
     },
     {
       "id": 134,
-      "category": "Pin Sign",
+      "category": "Pin Signs",
       "entrytype": "example",
       "image": "/img/134.png",
       "keywords": ["overcrossing steps and gestures", "pin sign beside direction signs (position sign beside direction signs)", "ballet positions"],
@@ -3078,7 +3078,7 @@
     },
     {
       "id": 135,
-      "category": "Pin Sign",
+      "category": "Pin Signs",
       "entrytype": "example",
       "image": "/img/135.png",
       "keywords": ["astride (2nd position)", "ballet positions", "pin sign beside direction signs (position sign beside direction signs)"],
@@ -3104,7 +3104,7 @@
     },
     {
       "id": 136,
-      "category": "Pin Sign",
+      "category": "Pin Signs",
       "entrytype": "example",
       "image": "/img/136.png",
       "keywords": ["pin sign beside direction signs (position sign beside direction signs)"],
@@ -3136,7 +3136,7 @@
     },
     {
       "id": 137,
-      "category": "Pin Sign",
+      "category": "Pin Signs",
       "entrytype": "example",
       "image": "/img/137.png",
       "keywords": ["active parts of the body in a movement", "battement", "small vertical rectangular bracket (staple)", "changement", "pin signs for the leg (and its parts)", "pin sign beside direction signs (position sign beside direction signs)", "same point of support"],
@@ -3177,7 +3177,7 @@
     },
     {
       "id": 138,
-      "category": "Pin Sign",
+      "category": "Pin Signs",
       "entrytype": "example",
       "image": "/img/138.png",
       "keywords": ["direction of reading and writing (reading direction, writing direction)", "pin sign beside direction signs (position sign beside direction signs)", "reversed position"],
@@ -3193,7 +3193,7 @@
     },
     {
       "id": 139,
-      "category": "Pin Sign",
+      "category": "Pin Signs",
       "entrytype": "sexampleymbol",
       "image": "/img/139.png",
       "keywords": ["pin sign beside direction signs (position sign beside direction signs)", "reversed position"],
@@ -3219,7 +3219,7 @@
     },
     {
       "id": 140,
-      "category": "Pin Sign",
+      "category": "Pin Signs",
       "entrytype": "example",
       "image": "/img/140.png",
       "keywords": ["pin sign beside direction signs (position sign beside direction signs)"],
@@ -3235,7 +3235,7 @@
     },
     {
       "id": 141,
-      "category": "Pin Sign",
+      "category": "Pin Signs",
       "entrytype": "example",
       "image": "/img/141.png",
       "keywords": ["feet slightly apart", "battu", "pin signs for deviation", "entrechat quatre", "pin signs for the leg (and its parts)", "pin sign beside direction signs (position sign beside direction signs)", "reversed position", "slightly open postition", "straddling walk"],
@@ -3301,7 +3301,7 @@
     },
     {
       "id": 142,
-      "category": "Pin Sign",
+      "category": "Pin Signs",
       "entrytype": "example",
       "image": "/img/142.png",
       "keywords": ["column for arm gestures", "black pin with arm signs", "crossing gestures", "pin sign beside direction signs (position sign beside direction signs)"],
@@ -3347,7 +3347,7 @@
     },
     {
       "id": 143,
-      "category": "Pin Sign",
+      "category": "Pin Signs",
       "entrytype": "symbol",
       "image": "/img/143.png",
       "keywords": ["column for arm gestures", "black pin with arm signs", "pin sign beside direction signs (position sign beside direction signs)"],
@@ -3373,7 +3373,7 @@
     },
     {
       "id": 144,
-      "category": "Pin Sign",
+      "category": "Pin Signs",
       "entrytype": "example",
       "image": "/img/144.png",
       "keywords": ["column for arm gestures", "black pin with arm signs", "pin sign beside direction signs (position sign beside direction signs)"],
@@ -3434,7 +3434,7 @@
     },
     {
       "id": 145,
-      "category": "Pin Sign",
+      "category": "Pin Signs",
       "entrytype": "example",
       "image": "/img/145.png",
       "keywords": ["column for arm gestures", "black pin with arm signs", "flat pin with arm signs", "pin signs for deviation", "pin sign beside direction signs (position sign beside direction signs)"],
@@ -3470,7 +3470,7 @@
     },
     {
       "id": 146,
-      "category": "Pin Sign",
+      "category": "Pin Signs",
       "entrytype": "example",
       "image": "/img/146.png",
       "keywords": ["column for arm gestures", "black pin with arm signs", "crossing steps", "overcrossing steps and gestures", "pin sign beside direction signs (position sign beside direction signs)"],
@@ -3491,7 +3491,7 @@
     },
     {
       "id": 147,
-      "category": "Pin Sign",
+      "category": "Pin Signs",
       "entrytype": "example",
       "image": "/img/147.png",
       "keywords": ["pin sign beside direction signs (position sign beside direction signs)"],
@@ -3517,7 +3517,7 @@
     },
     {
       "id": 148,
-      "category": "Pin Sign",
+      "category": "Pin Signs",
       "entrytype": "symbol",
       "image": "/img/148.png",
       "keywords": ["shifting body sections", "shifting the chest", "shifting the head", "pin sign beside direction signs (position sign beside direction signs)", "pin sign indicating shifts (position sign indicating shifts)", "shifting the pelvis"],
@@ -3548,7 +3548,7 @@
     },
     {
       "id": 149,
-      "category": "Pin Sign",
+      "category": "Pin Signs",
       "entrytype": "symbol",
       "image": "/img/149.png",
       "keywords": ["direction signs with pin signs inside", "pin sign in direction signs (position sign in direction signs)"],
@@ -3564,7 +3564,7 @@
     },
     {
       "id": 150,
-      "category": "Pin Sign",
+      "category": "Pin Signs",
       "entrytype": "example",
       "image": "/img/150.png",
       "keywords": ["above something or somebody", "active parts of the body in a movement", "addressing", "narrow sign in a horizontal bow (grasping, surrounding)", "jump over something or somebody", "meeting from above", "pin sign near an addressing sign (position sign near an addressing sign)", "pin sign in grasping and surrounding (position sign in grasping and surrounding)", "pin sign in meeting from above or below (position sign in meeting from above or below)", "pin sign next to relation signs (position sign next to relation signs)", "pin sign near a touching sign (position sign near a touching sign)", "relationship without bodily contact", "touching (horizontal bows)"],
@@ -3600,7 +3600,7 @@
     },
     {
       "id": 151,
-      "category": "Pin Sign",
+      "category": "Pin Signs",
       "entrytype": "example",
       "image": "/img/151.png",
       "keywords": ["body signs (parts of the body) below a pin sign", "vertical bows with pin signs", "curving out parts of the body (bulging out parts of the body, displacing a joint)", "continuation of an activity", "increase sign (crescendo)", "detours in gestures (pin signs for deviation in gestures)", "pin sign above body signs (position sign above body signs)", "pin sign in the increase sign (position sign in the increase sign)", "isolated pin sign (isolated position sign)", "pin sign in a vertical bow (position sign in a vertical bow)", "pin sign for minute movements (position sign for minute movements, small movements)", "pin sign in a tension sign (position sign in a tension sign)", "pin sign below the trill sign (position sign below the trill sign)", "pressing", "pulling", "rond detour in gesture", "tortillé", "tremolo or trill", "vibrating", "wavy line", "wrist"],
@@ -3656,7 +3656,7 @@
     },
     {
       "id": 152,
-      "category": "Pin Sign",
+      "category": "Pin Signs",
       "entrytype": "symbol",
       "image": "/img/152.png",
       "keywords": ["axis of revolution", "degree of turn or twist (amount of turn or twist)", "pin sign in cartwheel signs (position sign in cartwheel signs)", "black pin sign in turn signs (black position sign in turn signs)", "flat pin sign in turn signs (flat position sign in turn signs)", "white pin sign in turn signs (white position sign in turn signs)", "turns to a common front (turns in relation to constant axes, turns relating to areas of the room)"],
@@ -3702,7 +3702,7 @@
     },
     {
       "id": 153,
-      "category": "Pin Sign",
+      "category": "Pin Signs",
       "entrytype": "symbol",
       "image": "/img/153.png",
       "keywords": ["circular paths (curved paths)", "degree of turn in circular paths (amount of turn in circular paths)", "pin sign in a circular path signs (position sign in a circular path signs)", "degree of turn or twist (amount of turn or twist)"],
@@ -3738,7 +3738,7 @@
     },
     {
       "id": 154,
-      "category": "Pin Sign",
+      "category": "Pin Signs",
       "entrytype": "symbol",
       "image": "/img/154.png",
       "keywords": ["between degrees of a turn", "circular paths (curved paths)", "degree of turn or twist (amount of turn or twist)", "pin sign in a circular path signs (position sign in a circular path signs)", "black pin sign in turn signs (black position sign in turn signs)", "degree of turn in circular paths (amount of turn in circular paths)", "degree of turn, in between"],
@@ -3759,7 +3759,7 @@
     },
     {
       "id": 155,
-      "category": "Pin Sign",
+      "category": "Pin Signs",
       "entrytype": "symbol",
       "image": "/img/155.png",
       "keywords": ["secret turn (diamond around a pin sign)", "pin sign in a diamond (position sign in a diamond)"],
@@ -3775,7 +3775,7 @@
     },
     {
       "id": 156,
-      "category": "Pin Sign",
+      "category": "Pin Signs",
       "entrytype": "symbol",
       "image": "/img/156.png",
       "keywords": ["between front indications", "front signs (facing pins, direction of the front, square with a pin sign, stage direction)", "pin sign in a square (position sign in a square)"],
@@ -3801,7 +3801,7 @@
     },
     {
       "id": 157,
-      "category": "Pin Sign",
+      "category": "Pin Signs",
       "entrytype": "symbol",
       "image": "/img/157.png",
       "keywords": ["cast identification", "circles (as parts of symbols) around pin signs (pin sign in a circle, position sign in a circle", "couple (pair)", "each couple in couples (each pair in pairs)", "identification of the sexes", "man", "identification of people (persons)", "woman"],
@@ -3842,7 +3842,7 @@
     },
     {
       "id": 158,
-      "category": "Pin Sign",
+      "category": "Pin Signs",
       "entrytype": "example",
       "image": "/img/158.png",
       "keywords": ["arrangement graphs", "finishing position in sketches", "floor pattern and arrangement sketch (plan, stage plan)", "identification of the sexes", "man", "identification of people (persons)", "elongated pin sign (elongated position sign)", "pin sign in floor pattern and arrangement sketches (position sign in floor pattern and arrangement sketches)", "group arrangements (formations)", "pin signs in sketches", "starting postition in sketches (beginning)", "wedge-shaped symbols", "woman"],
@@ -3903,7 +3903,7 @@
     },
     {
       "id": 159,
-      "category": "Pin Sign",
+      "category": "Pin Signs",
       "entrytype": "symbol",
       "image": "/img/159.png",
       "keywords": ["parts of the head", "pin sign in body signs (position sign in body signs)", "pin sign in the head sign (position sign in the head sign)"],
@@ -6954,7 +6954,7 @@
     },
     {
       "id": 235,
-      "category": "Floor Pattern",      
+      "category": "Floor Patterns",      
       "entrytype": "example",
       "image": "/img/235.png",
       "keywords": [],
@@ -7034,7 +7034,7 @@
     },
     {
       "id": 236,
-      "category": "Floor Pattern",      
+      "category": "Floor Patterns",      
       "entrytype": "example",
       "image": "/img/236.png",
       "keywords": [],
@@ -7065,7 +7065,7 @@
     },
     {
       "id": 237,
-      "category": "Floor Pattern",      
+      "category": "Floor Patterns",      
       "entrytype": "symbol",
       "image": "/img/237.png",
       "keywords": [],
@@ -7101,7 +7101,7 @@
     },
     {
       "id": 238,
-      "category": "Floor Pattern",      
+      "category": "Floor Patterns",      
       "entrytype": "symbol",
       "image": "/img/238.png",
       "keywords": [],
@@ -7142,7 +7142,7 @@
     },
     {
       "id": 239,
-      "category": "Floor Pattern",      
+      "category": "Floor Patterns",      
       "entrytype": "symbol",
       "image": "/img/239.png",
       "keywords": [],
@@ -7163,7 +7163,7 @@
     },
     {
       "id": 240,
-      "category": "Floor Pattern",      
+      "category": "Floor Patterns",      
       "entrytype": "example",
       "image": "/img/240.png",
       "keywords": [],
@@ -7194,7 +7194,7 @@
     },
     {
       "id": 241,
-      "category": "Floor Pattern",      
+      "category": "Floor Patterns",      
       "entrytype": "example",
       "image": "/img/241.png",
       "keywords": [],
@@ -7240,7 +7240,7 @@
     },
     {
       "id": 242,
-      "category": "Floor Pattern",      
+      "category": "Floor Patterns",      
       "entrytype": "symbol",
       "image": "/img/242.png",
       "keywords": [],
@@ -7261,7 +7261,7 @@
     },
     {
       "id": 243,
-      "category": "Floor Pattern",      
+      "category": "Floor Patterns",      
       "entrytype": "example",
       "image": "/img/243.png",
       "keywords": [],
@@ -7282,7 +7282,7 @@
     },
     {
       "id": 244,
-      "category": "Floor Pattern",      
+      "category": "Floor Patterns",      
       "entrytype": "example",
       "image": "/img/244.png",
       "keywords": [],
@@ -7338,7 +7338,7 @@
     },
     {
       "id": 245,
-      "category": "Floor Pattern",      
+      "category": "Floor Patterns",      
       "entrytype": "example",
       "image": "/img/245.png",
       "keywords": [],
@@ -7374,7 +7374,7 @@
     },
     {
       "id": 246,
-      "category": "Floor Pattern",      
+      "category": "Floor Patterns",      
       "entrytype": "example",
       "image": "/img/246.png",
       "keywords": [],
@@ -7395,7 +7395,7 @@
     },
     {
       "id": 247,
-      "category": "Floor Pattern",      
+      "category": "Floor Patterns",      
       "entrytype": "example",
       "image": "/img/247.png",
       "keywords": [],
@@ -7436,7 +7436,7 @@
     },
     {
       "id": 248,
-      "category": "Floor Pattern",      
+      "category": "Floor Patterns",      
       "entrytype": "example",
       "image": "/img/248.png",
       "keywords": [],
@@ -7512,7 +7512,7 @@
     },
     {
       "id": 249,
-      "category": "Floor Pattern",      
+      "category": "Floor Patterns",      
       "entrytype": "example",
       "image": "/img/249.png",
       "keywords": [],
@@ -7528,7 +7528,7 @@
     },
     {
       "id": 250,
-      "category": "Floor Pattern",      
+      "category": "Floor Patterns",      
       "entrytype": "example",
       "image": "/img/250.png",
       "keywords": [],
@@ -7574,7 +7574,7 @@
     },
     {
       "id": 251,
-      "category": "Floor Pattern",      
+      "category": "Floor Patterns",      
       "entrytype": "example",
       "image": "/img/251.png",
       "keywords": [],
@@ -7590,7 +7590,7 @@
     },
     {
       "id": 252,
-      "category": "Floor Pattern",      
+      "category": "Floor Patterns",      
       "entrytype": "example",
       "image": "/img/252.png",
       "keywords": [],
@@ -7616,7 +7616,7 @@
     },
     {
       "id": 253,
-      "category": "Floor Pattern",      
+      "category": "Floor Patterns",      
       "entrytype": "example",
       "image": "/img/253.png",
       "keywords": [],
@@ -7632,7 +7632,7 @@
     },
     {
       "id": 254,
-      "category": "Floor Pattern",      
+      "category": "Floor Patterns",      
       "entrytype": "example",
       "image": "/img/254.png",
       "keywords": [],
@@ -7673,7 +7673,7 @@
     },
     {
       "id": 255,
-      "category": "Floor Pattern",      
+      "category": "Floor Patterns",      
       "entrytype": "example",
       "image": "/img/255.png",
       "keywords": [],
@@ -7689,7 +7689,7 @@
     },
     {
       "id": 256,
-      "category": "Floor Pattern",      
+      "category": "Floor Patterns",      
       "entrytype": "example",
       "image": "/img/256.png",
       "keywords": [],
@@ -7730,7 +7730,7 @@
     },
     {
       "id": 257,
-      "category": "Floor Pattern",      
+      "category": "Floor Patterns",      
       "entrytype": "example",
       "image": "/img/257.png",
       "keywords": [],
@@ -7821,7 +7821,7 @@
     },
     {
       "id": 258,
-      "category": "Floor Pattern",      
+      "category": "Floor Patterns",      
       "entrytype": "example",
       "image": "/img/258.png",
       "keywords": [],
@@ -7912,7 +7912,7 @@
     },
     {
       "id": 259,
-      "category": "Floor Pattern",      
+      "category": "Floor Patterns",      
       "entrytype": "example",
       "image": "/img/259.png",
       "keywords": [],
@@ -7933,7 +7933,7 @@
     },
     {
       "id": 260,
-      "category": "Floor Pattern",      
+      "category": "Floor Patterns",      
       "entrytype": "example",
       "image": "/img/260.png",
       "keywords": [],
@@ -7964,7 +7964,7 @@
     },
     {
       "id": 261,
-      "category": "Floor Pattern",      
+      "category": "Floor Patterns",      
       "entrytype": "example",
       "image": "/img/261.png",
       "keywords": [],
@@ -7980,7 +7980,7 @@
     },
     {
       "id": 262,
-      "category": "Floor Pattern",      
+      "category": "Floor Patterns",      
       "entrytype": "example",
       "image": "/img/262.png",
       "keywords": [],
@@ -8066,7 +8066,7 @@
     },
     {
       "id": 263,
-      "category": "Floor Pattern",      
+      "category": "Floor Patterns",      
       "entrytype": "example",
       "image": "/img/263.png",
       "keywords": [],
@@ -8082,7 +8082,7 @@
     },
     {
       "id": 264,
-      "category": "Floor Pattern",      
+      "category": "Floor Patterns",      
       "entrytype": "example",
       "image": "/img/264.png",
       "keywords": [],
@@ -8103,7 +8103,7 @@
     },
     {
       "id": 265,
-      "category": "Floor Pattern",      
+      "category": "Floor Patterns",      
       "entrytype": "example",
       "image": "/img/265.png",
       "keywords": [],
@@ -8124,7 +8124,7 @@
     },
     {
       "id": 266,
-      "category": "Floor Pattern",      
+      "category": "Floor Patterns",      
       "entrytype": "example",
       "image": "/img/266.png",
       "keywords": [],
@@ -8145,7 +8145,7 @@
     },
     {
       "id": 267,
-      "category": "Floor Pattern",      
+      "category": "Floor Patterns",      
       "entrytype": "example",
       "image": "/img/267.png",
       "keywords": [],
@@ -8226,7 +8226,7 @@
     },
     {
       "id": 268,
-      "category": "Floor Pattern",      
+      "category": "Floor Patterns",      
       "entrytype": "example",
       "image": "/img/268.png",
       "keywords": [],
@@ -8292,7 +8292,7 @@
     },
     {
       "id": 269,
-      "category": "Floor Pattern",      
+      "category": "Floor Patterns",      
       "entrytype": "example",
       "image": "/img/269.png",
       "keywords": [],
@@ -8348,7 +8348,7 @@
     },
     {
       "id": 270,
-      "category": "Floor Pattern",      
+      "category": "Floor Patterns",      
       "entrytype": "example",
       "image": "/img/270.png",
       "keywords": [],
@@ -8364,7 +8364,7 @@
     },
     {
       "id": 271,
-      "category": "Floor Pattern",      
+      "category": "Floor Patterns",      
       "entrytype": "example",
       "image": "/img/271.png",
       "keywords": [],
@@ -8373,14 +8373,14 @@
       "detail": [
         {
           "subentryid": "271",
-          "content": "**A circular path with a single step** is an actual circular path, *i.e.* itis curved and travels around a focal point, which, however, is very close to the body (**271a**). However, if a frictionless turn is made during the preparation of a step (*see* 254b, 281c), an angular path will result (**271b**). * Old way of writing: Appendix I 909.",
+          "content": "**A circular path with a single step** is an actual circular path, *i.e.* it is curved and travels around a focal point, which, however, is very close to the body (**271a**). However, if a frictionless turn is made during the preparation of a step (*see* 254b, 281c), an angular path will result (**271b**). * Old way of writing: Appendix I 909.",
           "subentryrefs": [254, 281, 909]
         }
       ]
     },
     {
       "id": 272,
-      "category": "Floor Pattern",      
+      "category": "Floor Patterns",      
       "entrytype": "example",
       "image": "/img/272.png",
       "keywords": [],
@@ -8441,7 +8441,7 @@
     },
     {
       "id": 273,
-      "category": "Floor Pattern",      
+      "category": "Floor Patterns",      
       "entrytype": "example",
       "image": "/img/273.png",
       "keywords": [],
@@ -8492,7 +8492,7 @@
     },
     {
       "id": 274,
-      "category": "Floor Pattern",      
+      "category": "Floor Patterns",      
       "entrytype": "example",
       "image": "/img/274.png",
       "keywords": [],
@@ -8523,7 +8523,7 @@
     },
     {
       "id": 275,
-      "category": "Floor Pattern",      
+      "category": "Floor Patterns",      
       "entrytype": "example",
       "image": "/img/275.png",
       "keywords": [],
@@ -8549,7 +8549,7 @@
     },
     {
       "id": 276,
-      "category": "Floor Pattern",      
+      "category": "Floor Patterns",      
       "entrytype": "example",
       "image": "/img/276.png",
       "keywords": [],
@@ -8610,7 +8610,7 @@
     },
     {
       "id": 277,
-      "category": "Floor Pattern",      
+      "category": "Floor Patterns",      
       "entrytype": "example",
       "image": "/img/277.png",
       "keywords": [],
@@ -8661,7 +8661,7 @@
     },
     {
       "id": 278,
-      "category": "Floor Pattern",      
+      "category": "Floor Patterns",      
       "entrytype": "example",
       "image": "/img/278.png",
       "keywords": [],
@@ -8692,7 +8692,7 @@
     },
     {
       "id": 279,
-      "category": "Floor Pattern",      
+      "category": "Floor Patterns",      
       "entrytype": "example",
       "image": "/img/279.png",
       "keywords": [],
@@ -8723,7 +8723,7 @@
     },
     {
       "id": 280,
-      "category": "Floor Pattern",      
+      "category": "Floor Patterns",      
       "entrytype": "symbol",
       "image": "/img/280.png",
       "keywords": [],
@@ -8809,7 +8809,7 @@
     },
     {
       "id": 281,
-      "category": "Floor Pattern",      
+      "category": "Floor Patterns",      
       "entrytype": "example",
       "image": "/img/281.png",
       "keywords": [],
@@ -8835,7 +8835,7 @@
     },
     {
       "id": 282,
-      "category": "Floor Pattern",      
+      "category": "Floor Patterns",      
       "entrytype": "example",
       "image": "/img/282.png",
       "keywords": [],
@@ -8866,7 +8866,7 @@
     },
     {
       "id": 283,
-      "category": "Floor Pattern",      
+      "category": "Floor Patterns",      
       "entrytype": "example",
       "image": "/img/283.png",
       "keywords": [],
@@ -8892,7 +8892,7 @@
     },
     {
       "id": 284,
-      "category": "Floor Pattern",      
+      "category": "Floor Patterns",      
       "entrytype": "example",
       "image": "/img/284.png",
       "keywords": [],
@@ -8918,7 +8918,7 @@
     },
     {
       "id": 285,
-      "category": "Floor Pattern",      
+      "category": "Floor Patterns",      
       "entrytype": "symbol",
       "image": "/img/285.png",
       "keywords": [],
@@ -8954,7 +8954,7 @@
     },
     {
       "id": 286,
-      "category": "Floor Pattern",      
+      "category": "Floor Patterns",      
       "entrytype": "example",
       "image": "/img/286.png",
       "keywords": [],
@@ -8970,7 +8970,7 @@
     },
     {
       "id": 287,
-      "category": "Floor Pattern",      
+      "category": "Floor Patterns",      
       "entrytype": "example",
       "image": "/img/287.png",
       "keywords": [],
@@ -8996,7 +8996,7 @@
     },
     {
       "id": 288,
-      "category": "Floor Pattern",      
+      "category": "Floor Patterns",      
       "entrytype": "example",
       "image": "/img/288.png",
       "keywords": [],
@@ -9017,7 +9017,7 @@
     },
     {
       "id": 289,
-      "category": "Floor Pattern",      
+      "category": "Floor Patterns",      
       "entrytype": "example",
       "image": "/img/289.png",
       "keywords": [],
@@ -9048,7 +9048,7 @@
     },
     {
       "id": 290,
-      "category": "Floor Pattern",      
+      "category": "Floor Patterns",      
       "entrytype": "example",
       "image": "/img/290.png",
       "keywords": [],
@@ -9089,7 +9089,7 @@
     },
     {
       "id": 291,
-      "category": "Floor Pattern",      
+      "category": "Floor Patterns",      
       "entrytype": "example",
       "image": "/img/291.png",
       "keywords": [],
@@ -9105,7 +9105,7 @@
     },
     {
       "id": 292,
-      "category": "Floor Pattern",      
+      "category": "Floor Patterns",      
       "entrytype": "example",
       "image": "/img/292.png",
       "keywords": [],
@@ -9121,7 +9121,7 @@
     },
     {
       "id": 293,
-      "category": "Floor Pattern",      
+      "category": "Floor Patterns",      
       "entrytype": "example",
       "image": "/img/293.png",
       "keywords": [],
@@ -9142,7 +9142,7 @@
     },
     {
       "id": 294,
-      "category": "Floor Pattern",      
+      "category": "Floor Patterns",      
       "entrytype": "example",
       "image": "/img/294.png",
       "keywords": [],
@@ -9158,7 +9158,7 @@
     },
     {
       "id": 295,
-      "category": "Floor Pattern",      
+      "category": "Floor Patterns",      
       "entrytype": "example",
       "image": "/img/295.png",
       "keywords": [],
@@ -9184,7 +9184,7 @@
     },
     {
       "id": 296,
-      "category": "Floor Pattern",      
+      "category": "Floor Patterns",      
       "entrytype": "example",
       "image": "/img/296.png",
       "keywords": [],
@@ -9205,7 +9205,7 @@
     },
     {
       "id": 297,
-      "category": "Floor Pattern",      
+      "category": "Floor Patterns",      
       "entrytype": "example",
       "image": "/img/297.png",
       "keywords": [],
@@ -9226,7 +9226,7 @@
     },
     {
       "id": 298,
-      "category": "Floor Pattern",      
+      "category": "Floor Patterns",      
       "entrytype": "example",
       "image": "/img/298.png",
       "keywords": [],
@@ -9242,7 +9242,7 @@
     },
     {
       "id": 299,
-      "category": "Floor Pattern",      
+      "category": "Floor Patterns",      
       "entrytype": "example",
       "image": "/img/299.png",
       "keywords": [],
@@ -9263,7 +9263,7 @@
     },
     {
       "id": 300,
-      "category": "Floor Pattern",      
+      "category": "Floor Patterns",      
       "entrytype": "example",
       "image": "/img/300.png",
       "keywords": [],
@@ -9289,7 +9289,7 @@
     },
     {
       "id": 301,
-      "category": "Floor Pattern",      
+      "category": "Floor Patterns",      
       "entrytype": "example",
       "image": "/img/301.png",
       "keywords": [],
@@ -9325,7 +9325,7 @@
     },
     {
       "id": 302,
-      "category": "Floor Pattern",      
+      "category": "Floor Patterns",      
       "entrytype": "example",
       "image": "/img/302.png",
       "keywords": [],
@@ -9341,7 +9341,7 @@
     },
     {
       "id": 303,
-      "category": "Floor Pattern",      
+      "category": "Floor Patterns",      
       "entrytype": "symbol",
       "image": "/img/303.png",
       "keywords": [],
@@ -9377,7 +9377,7 @@
     },
     {
       "id": 304,
-      "category": "Floor Pattern",      
+      "category": "Floor Patterns",      
       "entrytype": "symbol",
       "image": "/img/304.png",
       "keywords": [],
@@ -9408,7 +9408,7 @@
     },
     {
       "id": 305,
-      "category": "Floor Pattern",      
+      "category": "Floor Patterns",      
       "entrytype": "example",
       "image": "/img/305.png",
       "keywords": [],
@@ -9424,7 +9424,7 @@
     },
     {
       "id": 306,
-      "category": "Floor Pattern",      
+      "category": "Floor Patterns",      
       "entrytype": "symbol",
       "image": "/img/306.png",
       "keywords": [],
@@ -9460,7 +9460,7 @@
     },
     {
       "id": 307,
-      "category": "Floor Pattern",      
+      "category": "Floor Patterns",      
       "entrytype": "example",
       "image": "/img/307.png",
       "keywords": [],
@@ -9481,7 +9481,7 @@
     },
     {
       "id": 308,
-      "category": "Floor Pattern",      
+      "category": "Floor Patterns",      
       "entrytype": "example",
       "image": "/img/308.png",
       "keywords": [],
@@ -9542,7 +9542,7 @@
     },
     {
       "id": 309,
-      "category": "Floor Pattern",      
+      "category": "Floor Patterns",      
       "entrytype": "symbol",
       "image": "/img/309.png",
       "keywords": [],
@@ -9558,7 +9558,7 @@
     },
     {
       "id": 310,
-      "category": "Floor Pattern",      
+      "category": "Floor Patterns",      
       "entrytype": "symbol",
       "image": "/img/310.png",
       "keywords": [],
@@ -9574,7 +9574,7 @@
     },
     {
       "id": 311,
-      "category": "Floor Pattern",      
+      "category": "Floor Patterns",      
       "entrytype": "example",
       "image": "/img/311.png",
       "keywords": [],
@@ -9600,7 +9600,7 @@
     },
     {
       "id": 312,
-      "category": "Floor Pattern",      
+      "category": "Floor Patterns",      
       "entrytype": "symbol",
       "image": "/img/312.png",
       "keywords": [],
@@ -9646,7 +9646,7 @@
     },
     {
       "id": 313,
-      "category": "Floor Pattern",      
+      "category": "Floor Patterns",      
       "entrytype": "example",
       "image": "/img/313.png",
       "keywords": [],
@@ -9687,7 +9687,7 @@
     },
     {
       "id": 314,
-      "category": "Body Sign",      
+      "category": "Body Signs",      
       "entrytype": "symbol",
       "image": "/img/314.png",
       "keywords": ["diagonal dashes attached to short vertical lines (parts of the arms)", "horizontal dashes attached to or across short vertical lines (parts of the legs)"],
@@ -9708,7 +9708,7 @@
     },
     {
       "id": 315,
-      "category": "Body Sign",      
+      "category": "Body Signs",      
       "entrytype": "symbol",
       "image": "/img/315.png",
       "keywords": ["ankle", "black disk in a square or in a rectangle or on their outlines (square with black disk)", "letter C (head sign)", "chest", "circles (as parts of symbols) in and at square or rectangle", "cross shaped symbols", "elbow", "foot", "hand", "hand signs", "head", "hip sign (plus sign inside the staff)", "knee", "signs for parts of the leg", "basic signs for the limbs", "diagonal dashes attached to short vertical lines (parts of the arms)", "horizontal dashes attached to or across short vertical lines (parts of the legs)", "narrow sign in or at a square", "pelvis", "shoulder", "shoulder section", "square with a body sign (body sign in a square)", "signs for the trunk and its sections (signs for the torso and its sections)", "upper body (upper part of the body)", "waist", "wrist"],
@@ -9904,7 +9904,7 @@
     },
     {
       "id": 316,
-      "category": "Body Sign",      
+      "category": "Body Signs",      
       "entrytype": "symbol",
       "image": "/img/316.png",
       "keywords": ["dot above a joint sign", "arm signs", "back of the hand", "below a joint", "augmented body sections", "reversed signs for body sections", "letter C (head sign) in a square with stroke (planes and edges of the head)", "letter C (head sign) with pin signs", "circles (as parts of symbols) in and at square or rectangle", "vertical double lines above or below a body sign", "fingers", "parts of the fingers (finger segment)", "planes and edges of the foot", "forearm (lower arm)", "back of the hand", "palm of the hand", "planes and edges of the hand", "hand signs with dots", "parts of the head", "sign for the heel", "modifications of basic signs for the limbs", "planes and edges of the limbs", "regions or sections of the limbs", "signs for the arm (and its parts)", "dash attached to body signs", "diagonal dashes attached to short vertical lines (parts of the arms)", "diagonal dashes attached to short vertical double line (limb signs)", "diagonal dashes attached to basic sign for the planes and edges of the hand", "horizontal dashes attached to or across short vertical lines (parts of the legs)", "horizontal dashes attached to basic sign for the planes and edges of the foot", "little finger edge", "letter C (head sign) with a narrow sign", "narrow sign in or at a square", "neck and its parts", "outer edge", "reversed body signs", "black disk in a square or in a rectangle or on their outlines (square with black disk)", "square with a body sign (body sign in a square)", "letter C (head sign) in a square", "thumb-edge of the hand", "tip of the fingers", "tip of the toes", "movable parts of the trunk (movable parts of the torso)", "planes and edges of the trunk and its parts (planes and edges of the torso and its parts)", "signs for the trunk and its sections (signs for the torso and its sections)"],
@@ -10135,7 +10135,7 @@
     },
     {
       "id": 317,
-      "category": "Body Sign",      
+      "category": "Body Signs",      
       "entrytype": "example",
       "image": "/img/317.png",
       "keywords": ["body signs (parts of the body) below a direction sign", "caret (small angular bracket)", "double lines between body sign and direction sign", "duration of a change", "elbow", "movements of the forearm", "knee gestures", "same body part performing", "wrist"],
@@ -10180,7 +10180,7 @@
     },
     {
       "id": 318,
-      "category": "Body Sign",      
+      "category": "Body Signs",      
       "entrytype": "example",
       "image": "/img/318.png",
       "keywords": ["body signs (parts of the body) below a pin sign", "curving out parts of the body (bulging out parts of the body, displacing a joint)", "planes and edges of the hand", "pin sign in the increase sign (position sign in the increase sign)", "pin sign for minute movements (position sign for minute movements, small movements)", "thumb-edge of the hand"],
@@ -10211,7 +10211,7 @@
     },
     {
       "id": 319,
-      "category": "Body Sign",      
+      "category": "Body Signs",      
       "entrytype": "example",
       "image": "/img/319.png",
       "keywords": ["body signs (parts of the body) in inclusion bow", "body signs (parts of the body) in a vertical bow", "vertical bows with body signs", "vertical bows with straight midddle part (inclusion bow)", "curving out parts of the body (bulging out parts of the body, displacing a joint)", "circle above an inclusion bow", "back of the hand", "palm of the hand", "inclusion of the hip (participation of the hip)", "leading with joints", "leading with planes and edges", "planes and edges of the leg (and its parts)"],
@@ -10282,7 +10282,7 @@
     },
     {
       "id": 320,
-      "category": "Body Sign",      
+      "category": "Body Signs",      
       "entrytype": "example",
       "image": "/img/320.png",
       "keywords": ["body signs (parts of the body) in conjunction with relation signs"],
@@ -10298,7 +10298,7 @@
     },
     {
       "id": 321,
-      "category": "Body Sign",      
+      "category": "Body Signs",      
       "entrytype": "symbol",
       "image": "/img/321.png",
       "keywords": ["body signs (parts of the body) below space measurement signs", "lateral narrowing of the hand", "lateral spreading of the hand"],
@@ -10344,7 +10344,7 @@
     },
     {
       "id": 322,
-      "category": "Body Sign",      
+      "category": "Body Signs",      
       "entrytype": "example",
       "image": "/img/322.png",
       "keywords": ["automatic cancellation", "cancellation of bending or stretching", "cancellation of directions for parts of the arm", "cancellation of directions for the head", "cancellation of directions for parts of the leg", "decrease sign (decrescendo)", "retention in space (space hold, empty diamond)", "knee gestures", "movements of the lower leg"],
@@ -10395,7 +10395,7 @@
     },
     {
       "id": 323,
-      "category": "Body Sign",      
+      "category": "Body Signs",      
       "entrytype": "example",
       "image": "/img/323.png",
       "keywords": ["body signs (parts of the body) with retention signs (hold signs)", "caret (small angular bracket)", "cancellation of rigid carriage", "rigid carriage (circle above body sign)", "decrease sign (decrescendo)", "retention at a spot of relationship (diamond around black disk)", "retention in space (space hold, empty diamond)", "rigid knee", "retention signs above body signs (hold signs above body signs)", "stiff knees", "retention in the body (body hold)", "cancellation of contacts"],
@@ -10421,7 +10421,7 @@
     },
     {
       "id": 324,
-      "category": "Body Sign",      
+      "category": "Body Signs",      
       "entrytype": "symbol",
       "image": "/img/324.png",
       "keywords": ["body signs (parts of the body) below a strength measurement sign (strength measurement signs above body signs)"],
@@ -10442,7 +10442,7 @@
     },
     {
       "id": 325,
-      "category": "Body Sign",      
+      "category": "Body Signs",      
       "entrytype": "example",
       "image": "/img/325.png",
       "keywords": ["body signs (parts of the body) in support columns", "kneeling"],
@@ -10458,7 +10458,7 @@
     },
     {
       "id": 326,
-      "category": "Body Sign",      
+      "category": "Body Signs",      
       "entrytype": "symbol",
       "image": "/img/326.png",
       "keywords": ["letter C (head sign)", "circular gestures (circling) of the head", "head", "circling the head", "tilting the head (bending the head)", "rolling the head"],
@@ -10504,7 +10504,7 @@
     },
     {
       "id": 327,
-      "category": "Body Sign",      
+      "category": "Body Signs",      
       "entrytype": "example",
       "image": "/img/327.png",
       "keywords": ["body signs (parts of the body) with retention signs (hold signs)", "vertical bows with straight midddle part (inclusion bow)", "letter C (head sign)", "letter C (head sign) in inclusion bow", "head", "the head in upper body movements", "inclusion of the head (participation of the head)", "upper body (upper part of the body)"],
@@ -10535,7 +10535,7 @@
     },
     {
       "id": 328,
-      "category": "Body Sign",      
+      "category": "Body Signs",      
       "entrytype": "example",
       "image": "/img/328.png",
       "keywords": ["letter C (head sign)", "head", "the head in tilts of the trunk (the head in tilts of the torso)"],
@@ -10556,7 +10556,7 @@
     },
     {
       "id": 329,
-      "category": "Body Sign",      
+      "category": "Body Signs",      
       "entrytype": "example",
       "image": "/img/329.png",
       "keywords": ["letter C (head sign)", "cancellation of directions for the head", "head", "the head in tilts of the trunk (the head in tilts of the torso)"],
@@ -10587,7 +10587,7 @@
     },
     {
       "id": 330,
-      "category": "Body Sign",      
+      "category": "Body Signs",      
       "entrytype": "symbol",
       "image": "/img/330.png",
       "keywords": ["shifting body sections", "letter C (head sign)", "head", "shifting the head", "pin sign indicating shifts (position sign indicating shifts)", "pin sign for minute movements (position sign for minute movements)"],
@@ -10603,7 +10603,7 @@
     },
     {
       "id": 331,
-      "category": "Body Sign",      
+      "category": "Body Signs",      
       "entrytype": "symbol",
       "image": "/img/331.png",
       "keywords": ["letter C (head sign)", "head", "nodding the head", "isolated pin sign (isolated position sign)", "pin sign for minute movements (position sign for minute movements, small movements)"],
@@ -10619,7 +10619,7 @@
     },
     {
       "id": 332,
-      "category": "Body Sign",      
+      "category": "Body Signs",      
       "entrytype": "example",
       "image": "/img/332.png",
       "keywords": ["body signs (parts of the body) with retention signs (hold signs)", "letter C (head sign)", "circle in gesture column", "retention at a spot (spot hold, diamond around black disk)", "head", "retentions for the head", "the head in tilts of the trunk (the head in tilts of the torso)", "retention in the body (body hold)", "retention signs in vertical brackets (hold signs in vertical brackets)"],
@@ -10650,7 +10650,7 @@
     },
     {
       "id": 333,
-      "category": "Body Sign",      
+      "category": "Body Signs",      
       "entrytype": "symbol",
       "image": "/img/333.png",
       "keywords": ["letter C (head sign)", "head", "rotations of the head", "turns around the chief axis of a body part", "untwisted (unrotated, cancellation of rotation, turn neither to the right nor left)", "cancellation of twist (turn, rotation)"],
@@ -10676,7 +10676,7 @@
     },
     {
       "id": 334,
-      "category": "Body Sign",      
+      "category": "Body Signs",      
       "entrytype": "symbol",
       "image": "/img/334.png",
       "keywords": ["letter C (head sign)", "degree of turn or twist (amount of turn or twist)", "head", "rotations of the head", "black pin sign in turn signs (black position sign in turn signs)", "flat pin sign in turn signs (flat position sign in turn signs)", "white pin sign in turn signs (white position sign in turn signs, sign for twist)", "turns to a common front (turns in relation to constant axes, turns relating to areas of the room)", "cancellation of twist (turn, rotation)"],
@@ -10717,7 +10717,7 @@
     },
     {
       "id": 335,
-      "category": "Body Sign",      
+      "category": "Body Signs",      
       "entrytype": "symbol",
       "image": "/img/335.png",
       "keywords": ["letter C (head sign)", "relating to the front of individual body sections (front-of-twisted-part key)", "head", "rotations of the head", "spiral head tilt", "tilting and rotating the head", "skew head-tilt or bend"],
@@ -10748,7 +10748,7 @@
     },
     {
       "id": 336,
-      "category": "Body Sign",      
+      "category": "Body Signs",      
       "entrytype": "symbol",
       "image": "/img/336.png",
       "keywords": ["letter C (head sign)", "head", "rotations of the head", "tilting and rotating the head", "neither outward nor inward rotation, neither to the right nor to the left"],
@@ -10764,7 +10764,7 @@
     },
     {
       "id": 337,
-      "category": "Body Sign",      
+      "category": "Body Signs",      
       "entrytype": "example",
       "image": "/img/337.png",
       "keywords": ["letter C (head sign)", "head", "rotations of the head", "tilting and rotating the head"],
@@ -10780,7 +10780,7 @@
     },
     {
       "id": 338,
-      "category": "Body Sign",      
+      "category": "Body Signs",      
       "entrytype": "symbol",
       "image": "/img/338.png",
       "keywords": ["letter C (head sign)", "letter C (head sign) in a square", "letter C (head sign) in a square with stroke (planes and edges of the head)", "face", "head", "dash attached to body signs", "square with a body sign (body sign in a square)"],
@@ -10821,7 +10821,7 @@
     },
     {
       "id": 339,
-      "category": "Body Sign",      
+      "category": "Body Signs",      
       "entrytype": "example",
       "image": "/img/339.png",
       "keywords": ["letter C (head sign)", "letter C (head sign) in a square with stroke (planes and edges of the head)", "directing the face", "head"],
@@ -10857,7 +10857,7 @@
     },
     {
       "id": 340,
-      "category": "Body Sign",      
+      "category": "Body Signs",      
       "entrytype": "symbol",
       "image": "/img/340.png",
       "keywords": ["letter C (head sign)", "letter C (head sign) in a square with stroke (planes and edges of the head)", "cancellation of directions for the face", "directing the face", "head"],
@@ -10883,7 +10883,7 @@
     },
     {
       "id": 341,
-      "category": "Body Sign",      
+      "category": "Body Signs",      
       "entrytype": "example",
       "image": "/img/341.png",
       "keywords": ["addressing", "caret (small angular bracket)", "letter C (head sign)", "letter C (head sign) in a square with stroke (planes and edges of the head)", "circle in gesture column", "retention at a spot of relationship (diamond around black disk)", "retention in space (space hold, empty diamond)", "addressing the face (looking at)", "directing the face", "following with the eyes", "head", "looking towards", "relationship without bodily contact", "retention in the body (body hold)", "same body part performing"],
@@ -10909,7 +10909,7 @@
     },
     {
       "id": 342,
-      "category": "Body Sign",      
+      "category": "Body Signs",      
       "entrytype": "symbol",
       "image": "/img/342.png",
       "keywords": ["letter C (head sign)", "cartwheeling body parts: head", "contracting the neck", "head", "rotations of the head", "somersault of the head"],
@@ -10950,7 +10950,7 @@
     },
     {
       "id": 343,
-      "category": "Body Sign",      
+      "category": "Body Signs",      
       "entrytype": "example",
       "image": "/img/343.png",
       "keywords": ["letter C (head sign)", "axes of the body", "axes of individual body parts (body-twisted-part key)", "constant axes, axes of a room", "relating to the front of the performer (standard cross of axes)", "constant cross of axes (fixed axes)", "head", "using clefs for the head", "spiral head tilt", "head wheeling", "black pin sign in turn signs (black position sign in turn signs)", "white pin sign in turn signs (white position sign in turn signs)", "skew head-tilt or bend", "turn signs with body axes sign", "turns relating to the standard cross of axes (turns around a vertical axis)", "cancellation of twist (turn, rotation)", "undeviating curve"],
@@ -11056,7 +11056,7 @@
     },
     {
       "id": 344,
-      "category": "Body Sign",      
+      "category": "Body Signs",      
       "entrytype": "symbol",
       "image": "/img/344.png",
       "keywords": ["Adam’s apple", "back of the head", "base of the skull", "beard", "bridge of nose", "letter C (head sign) with pin signs", "cheek", "chin", "corners of the mouth (sides of the mouth)", "crown of the head", "ear", "eye", "eyeball", "forehead", "head", "parts of the head", "letter C (head sign) with a narrow sign", "letter C (head sign) with a wide sign", "jaw", "lip", "lower jaw (chin)", "moustache", "mouth", "parts in the mouth", "nose", "parietal bone", "pin sign in body signs (position sign in body signs)", "pin sign in the head sign (position sign in the head sign)", "root of the nose", "teeth", "temple", "throat", "tongue", "top of the head", "whiskers"],
@@ -11272,7 +11272,7 @@
     },
     {
       "id": 345,
-      "category": "Body Sign",      
+      "category": "Body Signs",      
       "entrytype": "symbol",
       "image": "/img/345.png",
       "keywords": ["body signs (parts of the body) with double lines", "vertical double lines above or below a body sign", "head", "letter C (head sign) above a double line", "dash attached to body signs", "neck and its parts", "planes and edges of the neck", "teeth"],
@@ -11308,7 +11308,7 @@
     },
     {
       "id": 346,
-      "category": "Body Sign",      
+      "category": "Body Signs",      
       "entrytype": "example",
       "image": "/img/346.png",
       "keywords": ["biting", "letter C (head sign) with pin signs", "ear", "forehead", "grimace", "head", "parts of the head", "letter C (head sign) with a narrow sign", "parts in the mouth", "corners of the mouth (sides of the mouth)", "nose", "pin sign in body signs (position sign in body signs)", "pin sign in the head sign (position sign in the head sign)"],
@@ -11354,7 +11354,7 @@
     },
     {
       "id": 347,
-      "category": "Body Sign",      
+      "category": "Body Signs",      
       "entrytype": "example",
       "image": "/img/347.png",
       "keywords": ["column for arm gestures", "movements of the arm and its parts"],
@@ -11370,7 +11370,7 @@
     },
     {
       "id": 348,
-      "category": "Body Sign",      
+      "category": "Body Signs",      
       "entrytype": "symbol",
       "image": "/img/348.png",
       "keywords": ["movements of the arm and its parts", "elbow", "fingers", "hand", "hand signs", "diagonal dashes attached to short vertical lines (parts of the arms)", "shoulder", "wrist"],
@@ -11466,7 +11466,7 @@
     },
     {
       "id": 349,
-      "category": "Body Sign",      
+      "category": "Body Signs",      
       "entrytype": "example",
       "image": "/img/349.png",
       "keywords": ["movements of the arm and its parts", "elbow", "hand"],
@@ -11482,7 +11482,7 @@
     },
     {
       "id": 350,
-      "category": "Body Sign",      
+      "category": "Body Signs",      
       "entrytype": "example",
       "image": "/img/350.png",
       "keywords": ["movements of the arm and its parts", "movements of the forearm", "hand"],
@@ -11508,7 +11508,7 @@
     },
     {
       "id": 351,
-      "category": "Body Sign",      
+      "category": "Body Signs",      
       "entrytype": "example",
       "image": "/img/351.png",
       "keywords": ["movements of the arm and its parts", "caret (small angular bracket)", "movements of the shoulder"],
@@ -11529,7 +11529,7 @@
     },
     {
       "id": 352,
-      "category": "Body Sign",      
+      "category": "Body Signs",      
       "entrytype": "example",
       "image": "/img/352.png",
       "keywords": ["movements of the arm and its parts", "caret (small angular bracket)", "automatic cancellation", "divided column", "elbow", "movements of the forearm"],
@@ -11555,7 +11555,7 @@
     },
     {
       "id": 353,
-      "category": "Body Sign",      
+      "category": "Body Signs",      
       "entrytype": "example",
       "image": "/img/353.png",
       "keywords": ["movements of the arm and its parts", "cancellation of directions for parts of the arm", "movements of the forearm", "hand"],
@@ -11571,7 +11571,7 @@
     },
     {
       "id": 354,
-      "category": "Body Sign",      
+      "category": "Body Signs",      
       "entrytype": "example",
       "image": "/img/354.png",
       "keywords": ["movements of the arm and its parts", "cancellation of directions for parts of the arm", "hand", "hand signs with dots", "pin sign above body signs (position sign above body signs)", "isolated pin sign (isolated position sign)", "pin sign in a vertical bow (position sign in a vertical bow)", "pin sign for minute movements (position sign for minute movements, small movements)", "body signs (parts of the body) below a strength measurement sign (strength measurement signs above body signs)", "tremolo or trill", "vibrating", "wavy line"],
@@ -11607,7 +11607,7 @@
     },
     {
       "id": 355,
-      "category": "Body Sign",      
+      "category": "Body Signs",      
       "entrytype": "example",
       "image": "/img/355.png",
       "keywords": ["movements of the arm and its parts", "body signs (parts of the body) in a vertical bow", "vertical bows with decrease sign", "vertical bows with increase sign", "central guidance or leading", "leading with joints", "guidance or leading people (persons)", "inward succession", "outward succession", "wrist"],
@@ -11643,7 +11643,7 @@
     },
     {
       "id": 356,
-      "category": "Body Sign",      
+      "category": "Body Signs",      
       "entrytype": "example",
       "image": "/img/356.png",
       "keywords": ["movements of the arm and its parts", "body signs (parts of the body) in addition bracket", "body signs (parts of the body) in inclusion bow", "vertical bows with straight midddle part (inclusion bow)", "curving out parts of the body (bulging out parts of the body, displacing a joint)", "cancellation of bending or stretching", "cancellation of directions for parts of the arm", "circle above or in an addition bracket", "inclusion of the hip (participation of the hip)", "inclusion of the hip and shoulder (participation of the hip and shoulder)", "inclusion of the shoulder (participation of the shoulder)", "inclusion of the shoulder area (participation of the shoulder area)", "leading with joints", "retention signs above vertical brackets (hold signs above vertical brackets)", "leading with the right half of the body", "wrist"],
@@ -11679,7 +11679,7 @@
     },
     {
       "id": 357,
-      "category": "Body Sign",      
+      "category": "Body Signs",      
       "entrytype": "example",
       "image": "/img/357.png",
       "keywords": ["circular gestures (circling) of the arm (arm circling)", "movements of the arm and its parts", "retentions for the arm (and its parts)", "cancellation of directions for parts of the arm", "cancellation of rigid carriage", "rigid carriage (circle above body sign)", "circle in gesture column", "retention at a spot (spot hold, diamond around black disk)", "retention in space (space hold, empty diamond)", "hand", "retention in the body (body hold)", "retention signs above body signs (hold signs above body signs)", "retention signs in vertical brackets (hold signs in vertical brackets)"],
@@ -11720,7 +11720,7 @@
     },
     {
       "id": 358,
-      "category": "Body Sign",      
+      "category": "Body Signs",      
       "entrytype": "example",
       "image": "/img/358.png",
       "keywords": ["movements of the arm and its parts", "retentions for the arm (and its parts)", "retention at a spot of relationship (diamond around black disk)", "direction signs with a retention sign inside (direction signs with a hold sign inside)", "undeviating curve"],
@@ -11736,7 +11736,7 @@
     },
     {
       "id": 359,
-      "category": "Body Sign",      
+      "category": "Body Signs",      
       "entrytype": "example",
       "image": "/img/359.png",
       "keywords": ["movements of the arm and its parts", "vertical bows with straight midddle part (inclusion bow)", "cancellation of directions for the chest", "axes of the body", "axes of individual body parts (body-twisted-part key)", "constant axes, axes of a room", "relating to the front of the performer (standard cross of axes)", "relating to the front of individual body sections (front-of-twisted-part key)", "relating to the front of the untwisted end of the body (stance)", "constant cross of axes (fixed axes)"],
@@ -11822,7 +11822,7 @@
     },
     {
       "id": 360,
-      "category": "Body Sign",      
+      "category": "Body Signs",      
       "entrytype": "symbol",
       "image": "/img/360.png",
       "keywords": ["dot above a joint sign", "movements of the arm and its parts", "below a joint", "dots with body signs", "forearm (lower arm)", "regions or sections of the limbs", "diagonal dashes attached to short vertical lines (parts of the arms)", "palm-section of the hand", "upper arm"],
@@ -11888,7 +11888,7 @@
     },
     {
       "id": 361,
-      "category": "Body Sign",      
+      "category": "Body Signs",      
       "entrytype": "example",
       "image": "/img/361.png",
       "keywords": ["movements of the arm and its parts", "below a joint", "dots with body signs", "folding the arms", "interweaving the arms", "regions or sections of the limbs"],
@@ -11929,7 +11929,7 @@
     },
     {
       "id": 362,
-      "category": "Body Sign",      
+      "category": "Body Signs",      
       "entrytype": "symbol",
       "image": "/img/362.png",
       "keywords": ["movements of the arm and its parts", "dots with body signs", "fingers", "movements of the fingers", "parts of the fingers (finger segment)", "hand signs with dots", "diagonal dashes attached to short vertical lines (parts of the arms)", "thumb"],
@@ -12040,7 +12040,7 @@
     },
     {
       "id": 363,
-      "category": "Body Sign",      
+      "category": "Body Signs",      
       "entrytype": "symbol",
       "image": "/img/363.png",
       "keywords": ["movements of the arm and its parts", "dots with body signs", "fingers", "parts of the fingers (finger segment)", "hand signs with dots", "diagonal dashes attached to short vertical lines (parts of the arms)"],
@@ -12086,7 +12086,7 @@
     },
     {
       "id": 364,
-      "category": "Body Sign",      
+      "category": "Body Signs",      
       "entrytype": "example",
       "image": "/img/364.png",
       "keywords": ["movements of the arm and its parts", "arm signs", "body signs (parts of the body) with double lines", "circle above doubled relation sign", "vertical double lines above or below a body sign", "forearm (lower arm)", "regions or sections of the limbs", "signs for the arm (and its parts)", "diagonal dashes attached to short vertical double line (limb signs)", "pin sign in body signs (position sign in body signs)", "retention signs above relation signs (hold signs above relation signs)", "upper arm", "cancellation of contacts"],
@@ -12202,7 +12202,7 @@
     },
     {
       "id": 365,
-      "category": "Body Sign",      
+      "category": "Body Signs",      
       "entrytype": "symbol",
       "image": "/img/365.png",
       "keywords": ["movements of the arm and its parts", "dots with body signs", "parts of the fingers (finger segment)", "planes and edges of the fingers", "signs for the fingers (and their parts and surfaces)", "diagonal dashes attached to short vertical double line (limb signs)"],
@@ -12248,7 +12248,7 @@
     },
     {
       "id": 366,
-      "category": "Body Sign",      
+      "category": "Body Signs",      
       "entrytype": "example",
       "image": "/img/366.png",
       "keywords": ["rotation of the arm and its parts (twisting the arm, turning the arm)", "neither outward nor inward rotation, neither to the right nor to the left", "untwisted (unrotated, cancellation of rotation, turn neither to the right nor left)", "cancellation of twist (turn, rotation)"],
@@ -12289,7 +12289,7 @@
     },
     {
       "id": 367,
-      "category": "Body Sign",      
+      "category": "Body Signs",      
       "entrytype": "example",
       "image": "/img/367.png",
       "keywords": ["rotation of the arm and its parts (twisting the arm, turning the arm)", "rotation of the wrist"],
@@ -12310,7 +12310,7 @@
     },
     {
       "id": 368,
-      "category": "Body Sign",      
+      "category": "Body Signs",      
       "entrytype": "symbol",
       "image": "/img/368.png",
       "keywords": ["rotation of the arm and its parts (twisting the arm, turning the arm)", "rotation of the forearm", "rotation of the hand", "rotation of the wrist"],
@@ -12331,7 +12331,7 @@
     },
     {
       "id": 369,
-      "category": "Body Sign",      
+      "category": "Body Signs",      
       "entrytype": "example",
       "image": "/img/369.png",
       "keywords": ["rotation of the arm and its parts (twisting the arm, turning the arm)", "pulling out the shoulder area", "rotation of the upper body"],
@@ -12367,7 +12367,7 @@
     },
     {
       "id": 370,
-      "category": "Body Sign",      
+      "category": "Body Signs",      
       "entrytype": "example",
       "image": "/img/370.png",
       "keywords": ["rotation of the arm and its parts (twisting the arm, turning the arm)", "retention in space (space hold, empty diamond)", "rotations of the elbow (turning the elbow)"],
@@ -12388,7 +12388,7 @@
     },
     {
       "id": 371,
-      "category": "Body Sign",      
+      "category": "Body Signs",      
       "entrytype": "example",
       "image": "/img/371.png",
       "keywords": ["rotation of the arm and its parts (twisting the arm, turning the arm)", "rotation of the arm as a unit", "arm twisted in itself", "rigid carriage (circle above body sign)", "circle in a turn sign", "equal sign in a turn sign", "rotation of the forearm", "retention signs above body signs (hold signs above body signs)", "twist of a body part within itself", "cancellation of twist (turn, rotation)", "retention in the body (body hold)"],
@@ -12429,7 +12429,7 @@
     },
     {
       "id": 372,
-      "category": "Body Sign",      
+      "category": "Body Signs",      
       "entrytype": "symbol",
       "image": "/img/372.png",
       "keywords": ["rotation of the arm and its parts (twisting the arm, turning the arm)", "circle in a turn sign", "fanning fingers", "fanning hands", "rotation of the fingers (twist of the fingers)", "twist of the hand", "twist of a body part within itself"],
@@ -12480,7 +12480,7 @@
     },
     {
       "id": 373,
-      "category": "Body Sign",      
+      "category": "Body Signs",      
       "entrytype": "example",
       "image": "/img/373.png",
       "keywords": ["rotation of the arm and its parts (twisting the arm, turning the arm)", "circular gestures (circling) of the arm (arm circling)"],
@@ -12496,7 +12496,7 @@
     },
     {
       "id": 374,
-      "category": "Body Sign",      
+      "category": "Body Signs",      
       "entrytype": "example",
       "image": "/img/374.png",
       "keywords": ["rotation of the arm and its parts (twisting the arm, turning the arm)", "circle in a turn sign", "fanning hands", "rotation of the forearm", "twist of the hand", "neither outward nor inward rotation, neither to the right nor to the left", "untwisted (unrotated, cancellation of rotation, turn neither to the right nor left)", "twist of a body part within itself", "cancellation of twist (turn, rotation)"],
@@ -12522,7 +12522,7 @@
     },
     {
       "id": 375,
-      "category": "Body Sign",      
+      "category": "Body Signs",      
       "entrytype": "symbol",
       "image": "/img/375.png",
       "keywords": ["planes and edges of the arm (and its parts)", "body signs (parts of the body) with a dash", "circles (as parts of symbols) in signs for planes and edges of the hand", "dots with body signs", "edges of the hand", "tip of the fingers", "back of the hand", "palm of the hand", "planes and edges of the hand", "dash attached to body signs", "little finger edge", "little finger edge", "thumb-edge of the hand"],
@@ -12613,7 +12613,7 @@
     },
     {
       "id": 376,
-      "category": "Body Sign",      
+      "category": "Body Signs",      
       "entrytype": "symbol",
       "image": "/img/376.png",
       "keywords": ["planes and edges of the arm (and its parts)", "circles (as parts of symbols) in signs for planes and edges of the hand", "dots with body signs", "planes and edges of the fingers", "back of the hand", "palm of the hand", "planes and edges of the hand", "dash attached to body signs", "diagonal dashes attached to basic sign for the planes and edges of the hand", "planes and edges of the palm-section of the hand", "thumb-edge of the hand", "tip of the fingers"],
@@ -12669,7 +12669,7 @@
     },
     {
       "id": 377,
-      "category": "Body Sign",      
+      "category": "Body Signs",      
       "entrytype": "example",
       "image": "/img/377.png",
       "keywords": ["planes and edges of the arm (and its parts)", "body signs (parts of the body) in a vertical bow", "circular gestures (circling) of the arm (arm circling)", "back of the hand", "palm of the hand", "planes and edges of the hand", "leading with joints", "thumb-edge of the hand"],
@@ -12725,7 +12725,7 @@
     },
     {
       "id": 378,
-      "category": "Body Sign",      
+      "category": "Body Signs",      
       "entrytype": "example",
       "image": "/img/378.png",
       "keywords": ["planes and edges of the arm (and its parts)", "back of the hand", "palm of the hand", "planes and edges of the hand"],
@@ -12746,7 +12746,7 @@
     },
     {
       "id": 379,
-      "category": "Body Sign",      
+      "category": "Body Signs",      
       "entrytype": "symbol",
       "image": "/img/379.png",
       "keywords": ["planes and edges of the arm (and its parts)", "body signs (parts of the body) with a dash", "dots with body signs", "edges of the arm and its parts", "planes and edges of the limbs", "dash attached to body signs", "little finger edge", "planes and edges of joints", "square with a body sign (body sign in a square)"],
@@ -12862,7 +12862,7 @@
     },
     {
       "id": 380,
-      "category": "Body Sign",      
+      "category": "Body Signs",      
       "entrytype": "example",
       "image": "/img/380.png",
       "keywords": ["planes and edges of the arm (and its parts)", "body signs (parts of the body) in addition bracket", "body signs (parts of the body) in a vertical bow", "gesture on a straight line", "back of the hand", "palm of the hand", "planes and edges of the hand", "leading with planes and edges", "signs for the arm (and its parts)", "guidance or leading people (persons)", "straight shapes", "straight path for gestures", "tip of the fingers"],
@@ -12893,7 +12893,7 @@
     },
     {
       "id": 381,
-      "category": "Body Sign",      
+      "category": "Body Signs",      
       "entrytype": "example",
       "image": "/img/381.png",
       "keywords": ["planes and edges of the arm (and its parts)", "back of the hand", "body signs (parts of the body) in addition bracket", "body signs (parts of the body) in a vertical bow", "circles (as parts of symbols) in signs for planes and edges of the hand", "planes and edges of the hand", "leading with planes and edges", "little finger edge", "thumb-edge of the hand"],
@@ -12919,7 +12919,7 @@
     },
     {
       "id": 382,
-      "category": "Body Sign",      
+      "category": "Body Signs",      
       "entrytype": "example",
       "image": "/img/382.png",
       "keywords": ["leg gestures"],
@@ -12935,7 +12935,7 @@
     },
     {
       "id": 383,
-      "category": "Body Sign",      
+      "category": "Body Signs",      
       "entrytype": "symbol",
       "image": "/img/383.png",
       "keywords": ["ankle", "foot", "hip sign (plus sign inside the staff)", "knee", "signs for parts of the leg", "horizontal dashes attached to or across short vertical lines (parts of the legs)"],
@@ -13036,7 +13036,7 @@
     },
     {
       "id": 384,
-      "category": "Body Sign",      
+      "category": "Body Signs",      
       "entrytype": "example",
       "image": "/img/384.png",
       "keywords": ["caret (small angular bracket)", "cancellation of directions for parts of the leg", "movements of the hip", "gestures of parts of the leg"],
@@ -13072,7 +13072,7 @@
     },
     {
       "id": 385,
-      "category": "Body Sign",      
+      "category": "Body Signs",      
       "entrytype": "example",
       "image": "/img/385.png",
       "keywords": ["body signs (parts of the body) below a direction sign", "foot", "movements of the foot", "knee gestures", "gestures of parts of the leg", "movements of the lower leg", "movements of the thigh (and its regions)"],
@@ -13098,7 +13098,7 @@
     },
     {
       "id": 386,
-      "category": "Body Sign",      
+      "category": "Body Signs",      
       "entrytype": "example",
       "image": "/img/386.png",
       "keywords": ["caret (small angular bracket)", "automatic cancellation", "divided column", "knee gestures", "gestures of parts of the leg", "movements of the lower leg", "same body part performing", "movements of the thigh (and its regions)"],
@@ -13129,7 +13129,7 @@
     },
     {
       "id": 387,
-      "category": "Body Sign",      
+      "category": "Body Signs",      
       "entrytype": "example",
       "image": "/img/387.png",
       "keywords": ["body signs (parts of the body) below a pin sign", "cancellation of directions for parts of the leg", "knee gestures", "gestures of parts of the leg", "pin signs for the leg (and its parts)", "isolated pin sign (isolated position sign)", "pin sign for minute movements (position sign for minute movements, small movements)", "shaking"],
@@ -13150,7 +13150,7 @@
     },
     {
       "id": 388,
-      "category": "Body Sign",      
+      "category": "Body Signs",      
       "entrytype": "example",
       "image": "/img/388.png",
       "keywords": ["caret (small angular bracket)", "circular gestures (circling) of the leg (rond de jambe)", "inward leg circling (inward circling of the leg, rond de jambe en dedans)", "outward leg circling (outward circling of the leg, rond de jambe en dehors)", "gestures of parts of the leg", "pin signs for the leg (and its parts)", "movements of the lower leg", "pin sign in a vertical bow (position sign in a vertical bow)", "pin sign for minute movements (position sign for minute movements, small movements)", "rond de jambe en l’air"],
@@ -13171,7 +13171,7 @@
     },
     {
       "id": 389,
-      "category": "Body Sign",      
+      "category": "Body Signs",      
       "entrytype": "example",
       "image": "/img/389.png",
       "keywords": ["body signs (parts of the body) in addition bracket", "body signs (parts of the body) in inclusion bow", "body signs (parts of the body) in a vertical bow", "vertical bows with increase sign", "vertical bows with straight midddle part (inclusion bow)", "caret (small angular bracket)", "vertical rectangular bracket (addition bracket)", "curving out parts of the body (bulging out parts of the body, displacing a joint)", "central guidance or leading", "circle above an inclusion bow", "inclusion of the hip (participation of the hip)", "leading with the hip", "inclusion of the hip and shoulder (participation of the hip and shoulder)", "leading with the knee", "leading with body sections", "leading with joints", "gestures of parts of the leg", "retention signs above vertical brackets (hold signs above vertical brackets)", "leading with the right half of the body", "outward succession"],
@@ -13252,7 +13252,7 @@
     },
     {
       "id": 390,
-      "category": "Body Sign",      
+      "category": "Body Signs",      
       "entrytype": "example",
       "image": "/img/390.png",
       "keywords": ["aerial turns", "caret (small angular bracket)", "cancellation of rigid carriage", "rigid carriage (circle above body sign)", "circle in gesture column", "retention at a spot of relationship (diamond around black disk)", "retention in space (space hold, empty diamond)", "direction signs with a retention sign inside (direction signs with a hold sign inside)", "double circle", "foot", "planes and edges of the foot", "turns without friction (blind turns)", "rigid knee", "gestures of parts of the leg", "retentions for the leg (and its parts)", "retention signs above body signs (hold signs above body signs)", "revoltade", "same body part performing", "stiff knees", "undeviating curve", "retention in the body (body hold)"],
@@ -13293,7 +13293,7 @@
     },
     {
       "id": 391,
-      "category": "Body Sign",      
+      "category": "Body Signs",      
       "entrytype": "example",
       "image": "/img/391.png",
       "keywords": ["axes of the body", "constant cross of axes (fixed axes)", "clefs for the leg (and its parts)", "gestures of parts of the leg"],
@@ -13314,7 +13314,7 @@
     },
     {
       "id": 392,
-      "category": "Body Sign",      
+      "category": "Body Signs",      
       "entrytype": "example",
       "image": "/img/392.png",
       "keywords": ["caret (small angular bracket)", "knee gestures", "gestures of parts of the leg", "resulting leg rotation", "movements of the lower leg"],
@@ -13335,7 +13335,7 @@
     },
     {
       "id": 393,
-      "category": "Body Sign",      
+      "category": "Body Signs",      
       "entrytype": "example",
       "image": "/img/393.png",
       "keywords": ["dot above a joint sign", "below a joint", "dots with body signs", "hip sign with dot", "knee gestures", "gestures of parts of the leg", "signs for parts of the leg", "regions or sections of the limbs", "horizontal dashes attached to or across short vertical lines (parts of the legs)", "regions of the lower leg", "signs for the thigh (and its regions)"],
@@ -13411,7 +13411,7 @@
     },
     {
       "id": 394,
-      "category": "Body Sign",      
+      "category": "Body Signs",      
       "entrytype": "symbol",
       "image": "/img/394.png",
       "keywords": ["dots with body signs", "signs for parts of the leg", "horizontal dashes attached to or across short vertical lines (parts of the legs)", "signs for the toes"],
@@ -13462,7 +13462,7 @@
     },
     {
       "id": 395,
-      "category": "Body Sign",      
+      "category": "Body Signs",      
       "entrytype": "example",
       "image": "/img/395.png",
       "keywords": ["body signs (parts of the body) with double lines", "circle above doubled relation sign", "vertical double lines above or below a body sign", "signs for the leg (and its parts)", "signs for parts of the leg", "regions or sections of the limbs", "horizontal dashes attached to short vertical double line (limb signs)", "regions of the lower leg", "symbols for the lower leg", "pin sign in body signs (position sign in body signs)", "retention signs above relation signs (hold signs above relation signs)", "body signs (parts of the body) below a strength measurement sign (strength measurement signs above body signs)", "signs for the thigh (and its regions)"],
@@ -13568,7 +13568,7 @@
     },
     {
       "id": 396,
-      "category": "Body Sign",      
+      "category": "Body Signs",      
       "entrytype": "example",
       "image": "/img/396.png",
       "keywords": ["inward leg rotation (inward rotation of the leg, leg rotation en dedans)", "outward leg rotation (outward rotation of the leg, leg rotation en dehors)", "rotation of the leg (and its parts)", "neither outward nor inward rotation, neither to the right nor to the left", "parallel feet", "untwisted (unrotated, cancellation of rotation, turn neither to the right nor left)", "cancellation of twist (turn, rotation)"],
@@ -13594,7 +13594,7 @@
     },
     {
       "id": 397,
-      "category": "Body Sign",      
+      "category": "Body Signs",      
       "entrytype": "example",
       "image": "/img/397.png",
       "keywords": ["degree of turn or twist (amount of turn or twist)", "outward leg rotation (outward rotation of the leg, leg rotation en dehors)", "rotation of the leg (and its parts)", "narrow sign in a turn sign", "parallel feet", "black pin sign in turn signs (black position sign in turn signs)", "white pin sign in turn signs (white position sign in turn signs, sign for twist)", "wide sign in a turn sign"],
@@ -13655,7 +13655,7 @@
     },
     {
       "id": 398,
-      "category": "Body Sign",      
+      "category": "Body Signs",      
       "entrytype": "example",
       "image": "/img/398.png",
       "keywords": ["vertical bows with straight midddle part (inclusion bow)", "retention in space (space hold, empty diamond)", "inclusion of the pelvis (participation of the pelvis)", "rotation of the leg (and its parts)"],
@@ -13701,7 +13701,7 @@
     },
     {
       "id": 399,
-      "category": "Body Sign",      
+      "category": "Body Signs",      
       "entrytype": "example",
       "image": "/img/399.png",
       "keywords": ["gliding touch (brushing)", "circular gestures (circling) of the leg (rond de jambe)", "inward leg circling (inward circling of the leg, rond de jambe en dedans)", "inward leg rotation (inward rotation of the leg, leg rotation en dedans)", "outward leg circling (outward circling of the leg, rond de jambe en dehors)", "outward leg rotation (outward rotation of the leg, leg rotation en dehors)", "rotation of the leg (and its parts)", "simultaneousness of two actions", "tortillé", "sliding"],
@@ -13732,7 +13732,7 @@
     },
     {
       "id": 400,
-      "category": "Body Sign",      
+      "category": "Body Signs",      
       "entrytype": "example",
       "image": "/img/400.png",
       "keywords": ["caret (small angular bracket)", "cancellation of directions for parts of the leg", "movements of the hip", "knee gestures", "rotation of the leg (and its parts)", "resulting leg rotation", "neither outward nor inward rotation, neither to the right nor to the left"],
@@ -13758,7 +13758,7 @@
     },
     {
       "id": 401,
-      "category": "Body Sign",      
+      "category": "Body Signs",      
       "entrytype": "example",
       "image": "/img/401.png",
       "keywords": ["body signs (parts of the body) in inclusion bow", "vertical bows with straight midddle part (inclusion bow)", "retention in space (space hold, empty diamond)", "inclusion of the hip (participation of the hip)", "inclusion of the pelvis (participation of the pelvis)", "inclusion of the hip and shoulder (participation of the hip and shoulder)", "leading with the right half of the body"],
@@ -13794,7 +13794,7 @@
     },
     {
       "id": 402,
-      "category": "Body Sign",      
+      "category": "Body Signs",      
       "entrytype": "example",
       "image": "/img/402.png",
       "keywords": ["rotation of the leg (and its parts)", "travelling by means of twist (turn, rotation)"],
@@ -13810,7 +13810,7 @@
     },
     {
       "id": 403,
-      "category": "Body Sign",      
+      "category": "Body Signs",      
       "entrytype": "example",
       "image": "/img/403.png",
       "keywords": ["bow-legged", "caret (small angular bracket)", "rotation of the knee", "knock-kneed", "rotation of the leg (and its parts)", "neither outward nor inward rotation, neither to the right nor to the left", "untwisted (unrotated, cancellation of rotation, turn neither to the right nor left)", "cancellation of twist (turn, rotation)"],
@@ -13841,7 +13841,7 @@
     },
     {
       "id": 404,
-      "category": "Body Sign",      
+      "category": "Body Signs",      
       "entrytype": "example",
       "image": "/img/404.png",
       "keywords": ["rotation of the ankle (turning the ankle, twisting the ankle)", "rotation of the leg (and its parts)", "rotation of the lower leg", "neither outward nor inward rotation, neither to the right nor to the left", "untwisted (unrotated, cancellation of rotation, turn neither to the right nor left)", "cancellation of twist (turn, rotation)"],
@@ -13867,7 +13867,7 @@
     },
     {
       "id": 405,
-      "category": "Body Sign",      
+      "category": "Body Signs",      
       "entrytype": "example",
       "image": "/img/405.png",
       "keywords": ["rolling the ankle", "walking on the edges of the feet", "rotation of the foot (turning the foot)", "walking on the inner edge of the foot", "rotation of the leg (and its parts)", "neither outward nor inward rotation, neither to the right nor to the left", "untwisted (unrotated, cancellation of rotation, turn neither to the right nor left)", "cancellation of twist (turn, rotation)"],
@@ -13903,7 +13903,7 @@
     },
     {
       "id": 406,
-      "category": "Body Sign",      
+      "category": "Body Signs",      
       "entrytype": "example",
       "image": "/img/406.png",
       "keywords": ["caret (small angular bracket)", "circular gestures (circling) of the foot", "foot circling", "rotation of the leg (and its parts)"],
@@ -13919,7 +13919,7 @@
     },
     {
       "id": 407,
-      "category": "Body Sign",      
+      "category": "Body Signs",      
       "entrytype": "symbol",
       "image": "/img/407.png",
       "keywords": ["dots with body signs", "rotation of the leg (and its parts)", "neither outward nor inward rotation, neither to the right nor to the left", "rotation of the toes"],
@@ -13950,7 +13950,7 @@
     },
     {
       "id": 408,
-      "category": "Body Sign",      
+      "category": "Body Signs",      
       "entrytype": "symbol",
       "image": "/img/408.png",
       "keywords": ["body signs (parts of the body) with a dash", "circles (as parts of symbols) in signs for planes and edges of the foot", "dots with body signs", "edges of the foot", "planes and edges of the foot", "instep (top of the foot)", "sign for the heel", "inner edge of the foot", "dash attached to body signs", "sole of foot"],
@@ -14026,7 +14026,7 @@
     },
     {
       "id": 409,
-      "category": "Body Sign",      
+      "category": "Body Signs",      
       "entrytype": "symbol",
       "image": "/img/409.png",
       "keywords": ["circles (as parts of symbols) in signs for planes and edges of the foot", "dots with body signs", "planes and edges of the foot", "instep (top of the foot)", "sign for the heel", "inner edge of the foot", "dash attached to body signs", "horizontal dashes attached to basic sign for the planes and edges of the foot", "sole of foot"],
@@ -14067,7 +14067,7 @@
     },
     {
       "id": 410,
-      "category": "Body Sign",      
+      "category": "Body Signs",      
       "entrytype": "example",
       "image": "/img/410.png",
       "keywords": ["bending the ankle (flexing the ankle)", "circles (as parts of symbols) in signs for planes and edges of the foot", "planes and edges of the foot", "contact with parts of the foot in gestures", "inner edge of the foot", "touching the floor with the instep (top of the foot)", "kneeling", "body signs (parts of the body) below a strength measurement sign (strength measurement signs above body signs)"],
@@ -14123,7 +14123,7 @@
     },
     {
       "id": 411,
-      "category": "Body Sign",      
+      "category": "Body Signs",      
       "entrytype": "example",
       "image": "/img/411.png",
       "keywords": ["back of the knee", "body signs (parts of the body) with a dash", "body signs (parts of the body) in a vertical bow", "dots with body signs", "edges of the leg and its parts", "handstand", "kneecap", "planes and edges of the knee", "leading with planes and edges", "planes and edges of the leg (and its parts)", "planes and edges of the limbs", "back of the lower leg", "planes and edges of joints", "outside surface of the thigh (and its regions)"],
@@ -14189,7 +14189,7 @@
     },
     {
       "id": 412,
-      "category": "Body Sign",      
+      "category": "Body Signs",      
       "entrytype": "example",
       "image": "/img/412.png",
       "keywords": ["body signs (parts of the body) in inclusion bow", "vertical bows with straight midddle part (inclusion bow)", "letter C (head sign) in a square with stroke (planes and edges of the head)", "leading with the right half of the body", "rotation of the shoulder region", "upper body (upper part of the body)", "columns for the upper body (columns for the upper part of the body)"],
@@ -14275,7 +14275,7 @@
     },
     {
       "id": 413,
-      "category": "Body Sign",      
+      "category": "Body Signs",      
       "entrytype": "example",
       "image": "/img/413.png",
       "keywords": ["cancellation of directions for the upper body", "circle in gesture column", "upper body (upper part of the body)", "retention in the body (body hold)"],
@@ -14301,7 +14301,7 @@
     },
     {
       "id": 414,
-      "category": "Body Sign",      
+      "category": "Body Signs",      
       "entrytype": "example",
       "image": "/img/414.png",
       "keywords": ["curving out parts of the body (bulging out parts of the body, displacing a joint)", "contracting the trunk (contracting the torso)", "place problems in movements of the upper part of the body", "upper body (upper part of the body)"],
@@ -14327,7 +14327,7 @@
     },
     {
       "id": 415,
-      "category": "Body Sign",      
+      "category": "Body Signs",      
       "entrytype": "example",
       "image": "/img/415.png",
       "keywords": ["pulling out the shoulder area", "simultaneousness of two actions", "rotation of the upper body", "upper body (upper part of the body)"],
@@ -14358,7 +14358,7 @@
     },
     {
       "id": 416,
-      "category": "Body Sign",      
+      "category": "Body Signs",      
       "entrytype": "example",
       "image": "/img/416.png",
       "keywords": ["body signs (parts of the body) in inclusion bow", "vertical bows with straight midddle part (inclusion bow)", "inclusion of the shoulder area (participation of the shoulder area)", "pulling out the shoulder area", "leading with the right half of the body", "upper body (upper part of the body)"],
@@ -14414,7 +14414,7 @@
     },
     {
       "id": 417,
-      "category": "Body Sign",      
+      "category": "Body Signs",      
       "entrytype": "example",
       "image": "/img/417.png",
       "keywords": ["body signs (parts of the body) in inclusion bow", "vertical bows with straight midddle part (inclusion bow)", "circle in an inclusion bow", "empty inclusion bow", "inclusion bow with white and/or black disk", "inclusion of the upper body (inclusion of the upper part of the body)"],
@@ -14465,7 +14465,7 @@
     },
     {
       "id": 418,
-      "category": "Body Sign",      
+      "category": "Body Signs",      
       "entrytype": "symbol",
       "image": "/img/418.png",
       "keywords": ["black disk in a square or in a rectangle or on their outlines (square with black disk)", "letter C (head sign) in a rectangle", "letter C (head sign) in a square", "chest", "circles (as parts of symbols) in and at square or rectangle", "lungs", "narrow sign in a chest sign (narrow sign in a circle placed in a square)", "narrow sign in or at a rectangle", "narrow sign in or at a square", "pelvis", "pelvis plus waist", "shoulder section", "square with a body sign (body sign in a square)", "combined sections of the trunk (torso)", "signs for the trunk and its sections (signs for the torso and its sections)", "waist", "chest plus waist"],
@@ -14556,7 +14556,7 @@
     },
     {
       "id": 419,
-      "category": "Body Sign",      
+      "category": "Body Signs",      
       "entrytype": "example",
       "image": "/img/419.png",
       "keywords": ["caret (small angular bracket)", "bridge position", "letter C (head sign) in a rectangle", "cancellation of directions for the trunk (torso)", "candle position", "inclination of the chest", "head", "inverted positions", "shifting the pelvis", "reversed body signs", "sideways up", "bending the spine", "stretching the spine", "trunk inclination (trunk bends with a straight spine, trunk tilts, torso inclination)", "trunk bends with a flexed spine (torso bends with a flexed spine)", "trunk circling (torso circling)", "rotation of the trunk and its sections (rotation of the torso and its sections)"],
@@ -14662,7 +14662,7 @@
     },
     {
       "id": 420,
-      "category": "Body Sign",      
+      "category": "Body Signs",      
       "entrytype": "example",
       "image": "/img/420.png",
       "keywords": ["caret (small angular bracket)", "letter C (head sign) in a rectangle", "inclination of the chest"],
@@ -14683,7 +14683,7 @@
     },
     {
       "id": 421,
-      "category": "Body Sign",      
+      "category": "Body Signs",      
       "entrytype": "symbol",
       "image": "/img/421.png",
       "keywords": ["letter C (head sign) in a rectangle", "inclination of the shoulder section"],
@@ -14709,7 +14709,7 @@
     },
     {
       "id": 422,
-      "category": "Body Sign",      
+      "category": "Body Signs",      
       "entrytype": "example",
       "image": "/img/422.png",
       "keywords": ["narrow sign in or at a rectangle", "inclination of the pelvis", "pelvis plus waist"],
@@ -14735,7 +14735,7 @@
     },
     {
       "id": 423,
-      "category": "Body Sign",      
+      "category": "Body Signs",      
       "entrytype": "example",
       "image": "/img/423.png",
       "keywords": ["shifting body sections", "caret (small angular bracket)", "cancellation of directions for the pelvis", "shift of the centre of gravity", "shifting the chest", "at a large or at a small scale (diamond around space measurement sign)", "narrow sign in a diamond", "shifting the pelvis", "pin sign in the increase sign (position sign in the increase sign)", "pin sign indicating shifts (position sign indicating shifts)", "pin sign for minute movements (position sign for minute movements, small movements)", "shifting the shoulder section", "shifting the whole trunk (shifting the whole torso)", "wide sign in a diamond"],
@@ -14776,7 +14776,7 @@
     },
     {
       "id": 424,
-      "category": "Body Sign",      
+      "category": "Body Signs",      
       "entrytype": "symbol",
       "image": "/img/424.png",
       "keywords": ["cancellation of directions for the trunk (torso)", "pin sign above body signs (position sign above body signs)", "pin sign in the increase sign (position sign in the increase sign)", "pin sign for minute movements (position sign for minute movements, small movements)", "minute inclinations of the trunk (torso)"],
@@ -14792,7 +14792,7 @@
     },
     {
       "id": 425,
-      "category": "Body Sign",      
+      "category": "Body Signs",      
       "entrytype": "example",
       "image": "/img/425.png",
       "keywords": ["body signs (parts of the body) in inclusion bow", "vertical bows with straight midddle part (inclusion bow)", "cabriole", "inclusion of the chest (participation of the chest)", "inclusion of the trunk (participation of the trunk, participation of the torso)", "retentions for the trunk and its sections (retentions for the torso and its sections)"],
@@ -14828,7 +14828,7 @@
     },
     {
       "id": 426,
-      "category": "Body Sign",      
+      "category": "Body Signs",      
       "entrytype": "symbol",
       "image": "/img/426.png",
       "keywords": ["body signs (parts of the body) in a vertical bow", "letter C (head sign) in vertical bow", "leading with the head", "leading with body sections", "leading with the pelvis", "successive inclination of the trunk (torso)"],
@@ -14859,7 +14859,7 @@
     },
     {
       "id": 427,
-      "category": "Body Sign",      
+      "category": "Body Signs",      
       "entrytype": "symbol",
       "image": "/img/427.png",
       "keywords": ["reversed signs for body sections", "letter C (head sign) in a rectangle", "chest plus waist", "circles (as parts of symbols) in and at square or rectangle", "narrow sign in or at a rectangle", "narrow sign in or at a square", "pin sign in body signs (position sign in body signs)", "reversed body signs", "square with a body sign (body sign in a square)", "reversed signs for the trunk and its sections (reversed signs for the torso and its sections)", "signs for the trunk and its sections (signs for the torso and its sections)", "pelvis plus waist"],
@@ -14915,7 +14915,7 @@
     },
     {
       "id": 428,
-      "category": "Body Sign",      
+      "category": "Body Signs",      
       "entrytype": "example",
       "image": "/img/428.png",
       "keywords": ["reversed signs for body sections", "caret (small angular bracket)", "letter C (head sign) in a rectangle", "cancellation of directions for the chest", "inverted positions", "narrow sign in or at a rectangle", "circling of the pelvis", "reversed body signs", "same body part performing", "reversed signs for the trunk and its sections (reversed signs for the torso and its sections)"],
@@ -14946,7 +14946,7 @@
     },
     {
       "id": 429,
-      "category": "Body Sign",      
+      "category": "Body Signs",      
       "entrytype": "example",
       "image": "/img/429.png",
       "keywords": ["circle in gesture column", "retention at a spot of relationship (diamond around black disk)", "retention in space (space hold, empty diamond)", "retention in the body (body hold)", "retention signs above relation signs (hold signs above relation signs)", "trunk inclination (trunk bends with a straight spine, trunk tilts, torso inclination)", "retentions for the trunk and its sections (retentions for the torso and its sections)"],
@@ -14972,7 +14972,7 @@
     },
     {
       "id": 430,
-      "category": "Body Sign",      
+      "category": "Body Signs",      
       "entrytype": "example",
       "image": "/img/430.png",
       "keywords": ["retentions for the chest", "circle in gesture column", "retention at a spot (spot hold, diamond around black disk)", "retention in space (space hold, empty diamond)", "retention in the body (body hold)", "retention for the shoulder section", "trunk inclination (trunk bends with a straight spine, trunk tilts, torso inclination)", "retentions for the trunk and its sections (retentions for the torso and its sections)"],
@@ -14998,7 +14998,7 @@
     },
     {
       "id": 431,
-      "category": "Body Sign",      
+      "category": "Body Signs",      
       "entrytype": "example",
       "image": "/img/431.png",
       "keywords": ["axes of the body", "constant axes, axes of a room", "constant cross of axes (fixed axes)", "trunk inclination (trunk bends with a straight spine, trunk tilts, torso inclination)", "use of clefs with the trunk (torso)"],
@@ -15019,7 +15019,7 @@
     },
     {
       "id": 432,
-      "category": "Body Sign",      
+      "category": "Body Signs",      
       "entrytype": "example",
       "image": "/img/432.png",
       "keywords": ["body signs (parts of the body) in a vertical bow", "vertical bows with decrease sign", "vertical bows with increase sign", "caret (small angular bracket)", "letter C (head sign) in vertical bow", "relating to the front of the performer (standard cross of axes)", "relating to the front of the untwisted end of the body (stance)", "turns to a common front (turns in relation to constant axes, turns relating to areas of the room)", "degree of turn or twist (amount of turn or twist)", "retention in space (space hold, empty diamond)", "direction signs with a retention sign inside (direction signs with a hold sign inside)", "group turns", "leading with the head", "leading with body sections", "neither outward nor inward rotation, neither to the right nor to the left", "leading with the pelvis", "black pin sign in turn signs (black position sign in turn signs)", "flat pin sign in turn signs (flat position sign in turn signs)", "white pin sign in turn signs (white position sign in turn signs, sign for twist)", "same body part performing", "inward succession", "outward succession", "trunk circling (torso circling)", "use of clefs with the trunk (torso)", "rotation of the trunk and its sections (rotation of the torso and its sections)", "spiral inclination of the trunk (torso)", "successive twist of the trunk (torso)", "undeviating tilt of the trunk (torso)", "trunk wheeling (torso wheeling)", "turns relating to the standard cross of axes (turns around a vertical axis)", "cancellation of twist (turn, rotation)", "undeviating curve"],
@@ -15150,7 +15150,7 @@
     },
     {
       "id": 433,
-      "category": "Body Sign",      
+      "category": "Body Signs",      
       "entrytype": "example",
       "image": "/img/433.png",
       "keywords": ["body signs (parts of the body) in inclusion bow", "vertical bows with straight midddle part (inclusion bow)", "circle in gesture column", "relating to the front of individual body sections (front-of-twisted-part key)", "rotations of the head", "letter C (head sign) in a rectangle", "inclusion of the trunk (participation of the trunk, participation of the torso)", "retention in the body (body hold)", "rotation of the trunk and its sections (rotation of the torso and its sections)"],
@@ -15181,7 +15181,7 @@
     },
     {
       "id": 434,
-      "category": "Body Sign",      
+      "category": "Body Signs",      
       "entrytype": "example",
       "image": "/img/434.png",
       "keywords": ["movable parts of the chest", "rigid carriage (circle above body sign)", "circle in a turn sign", "retention in space (space hold, empty diamond)", "equal sign in a turn sign", "turns without friction (blind turns)", "retention signs above body signs (hold signs above body signs)", "whole spine", "rotation of the trunk and its sections (rotation of the torso and its sections)", "twist of a body part within itself", "retention in the body (body hold)"],
@@ -15227,7 +15227,7 @@
     },
     {
       "id": 435,
-      "category": "Body Sign",      
+      "category": "Body Signs",      
       "entrytype": "example",
       "image": "/img/435.png",
       "keywords": ["letter C (head sign) in a rectangle", "movable parts of the chest", "rotation of the chest (turning the chest)", "rigid carriage (circle above body sign)", "circle in gesture column", "circle in a turn sign", "relating to the front of individual body sections (front-of-twisted-part key)", "equal sign in a turn sign", "retention in the body (body hold)", "retention signs above body signs (hold signs above body signs)", "dorsal spine", "twist of a body part within itself", "degree of turn or twist (amount of turn or twist)"],
@@ -15283,7 +15283,7 @@
     },
     {
       "id": 436,
-      "category": "Body Sign",      
+      "category": "Body Signs",      
       "entrytype": "example",
       "image": "/img/436.png",
       "keywords": ["caret (small angular bracket)", "rotation of the chest (turning the chest)", "chest wheeling", "relating to the front of the performer (standard cross of axes)", "relating to the front of the untwisted end of the body (stance)", "neither outward nor inward rotation, neither to the right nor to the left", "same body part performing", "turns relating to the standard cross of axes (turns around a vertical axis)"],
@@ -15314,7 +15314,7 @@
     },
     {
       "id": 437,
-      "category": "Body Sign",      
+      "category": "Body Signs",      
       "entrytype": "example",
       "image": "/img/437.png",
       "keywords": ["body signs (parts of the body) in inclusion bow", "vertical bows with straight midddle part (inclusion bow)", "letter C (head sign) in a rectangle", "letter C (head sign) in a square with stroke (planes and edges of the head)", "inclusion of the chest (participation of the chest)", "retention in space (space hold, empty diamond)", "épaulement", "rotations of the head", "narrow sign in a turn sign", "rotation of the shoulder section"],
@@ -15350,7 +15350,7 @@
     },
     {
       "id": 438,
-      "category": "Body Sign",      
+      "category": "Body Signs",      
       "entrytype": "symbol",
       "image": "/img/438.png",
       "keywords": ["cartwheeling body parts: pelvis", "rotation of the pelvis", "somersault of the pelvis", "turns around the chief axis of a body part"],
@@ -15381,7 +15381,7 @@
     },
     {
       "id": 439,
-      "category": "Body Sign",      
+      "category": "Body Signs",      
       "entrytype": "example",
       "image": "/img/439.png",
       "keywords": ["caret (small angular bracket)", "retention at a spot of relationship (diamond around black disk)", "free leg during rotation of the pelvis", "rotation of the pelvis", "retention in the body (body hold)", "degree of turn or twist (amount of turn or twist)"],
@@ -15437,7 +15437,7 @@
     },
     {
       "id": 440,
-      "category": "Body Sign",      
+      "category": "Body Signs",      
       "entrytype": "example",
       "image": "/img/440.png",
       "keywords": ["augmented body sections", "body signs (parts of the body) in support columns", "letter C (head sign) in a rectangle", "leaning against", "pin sign in leaning against (position sign in leaning against)", "square with a body sign (body sign in a square)", "signs for the trunk and its sections (signs for the torso and its sections)"],
@@ -15553,7 +15553,7 @@
     },
     {
       "id": 441,
-      "category": "Body Sign",      
+      "category": "Body Signs",      
       "entrytype": "example",
       "image": "/img/441.png",
       "keywords": ["reversed sign for augmented body sections", "between directions", "reversed signs for body sections", "body signs (parts of the body) in support columns", "direction signs with pin signs inside", "elbow stand", "inverted positions", "pin sign in direction signs (position sign in direction signs)", "reversed body signs", "square with a body sign (body sign in a square)", "supine situation"],
@@ -15604,7 +15604,7 @@
     },
     {
       "id": 442,
-      "category": "Body Sign",      
+      "category": "Body Signs",      
       "entrytype": "example",
       "image": "/img/442.png",
       "keywords": ["back", "black disk in a square or in a rectangle or on their outlines (square with black disk)", "body signs (parts of the body) with a dash", "body signs (parts of the body) in support columns", "caret (small angular bracket)", "planes and edges of the chest", "retention in space (space hold, empty diamond)", "edges of the trunk and its parts (edges of the torso and its parts)", "dash attached to body signs", "narrow sign in or at a square", "planes and edges of the pelvis", "pin sign in body signs (position sign in body signs)", "planes and edges of the trunk and its parts (planes and edges of the torso and its parts)", "front of the shoulder section", "square with a body sign (body sign in a square)", "signs for the trunk and its sections (signs for the torso and its sections)", "planes and edges of the waist"],
@@ -15780,7 +15780,7 @@
     },
     {
       "id": 443,
-      "category": "Body Sign",      
+      "category": "Body Signs",      
       "entrytype": "symbol",
       "image": "/img/443.png",
       "keywords": ["abdominal wall", "movable parts of the back", "black disk in a square or in a rectangle or on their outlines (square with black disk)", "breast-bone (sternum)", "buttock", "movable parts of the chest", "circles (as parts of symbols) in and at square or rectangle", "dorsal spine", "lumbar spine", "narrow sign in or at a rectangle", "narrow sign in or at a square", "movable parts of the trunk (movable parts of the torso)", "pin sign in body signs (position sign in body signs)", "shoulder area", "whole spine", "square with a body sign (body sign in a square)", "signs for the trunk and its sections (signs for the torso and its sections)"],
@@ -15946,7 +15946,7 @@
     },
     {
       "id": 444,
-      "category": "Body Sign",      
+      "category": "Body Signs",      
       "entrytype": "symbol",
       "image": "/img/444.png",
       "keywords": ["abdominal wall", "breast-bone (sternum)", "movable parts of the chest", "circles (as parts of symbols) in and at square or rectangle", "dorsal spine", "narrow sign in or at a rectangle", "narrow sign in or at a square", "movable parts of the trunk (movable parts of the torso)", "place problems for movable parts of the trunk (movable parts of the torso)", "sideways", "lumbar spine", "stretching the spine", "whole spine"],
@@ -16012,7 +16012,7 @@
     },
     {
       "id": 445,
-      "category": "Body Sign",      
+      "category": "Body Signs",      
       "entrytype": "symbol",
       "image": "/img/445.png",
       "keywords": ["breathing", "circles (as parts of symbols) in and at square or rectangle", "lungs", "narrow sign in a chest sign (narrow sign in a circle placed in a square)", "narrow sign in or at a square", "movable parts of the trunk (movable parts of the torso)", "pin sign in body signs (position sign in body signs)", "signs for the trunk and its sections (signs for the torso and its sections)"],

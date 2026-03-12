@@ -15,10 +15,11 @@ const Header = ({ onClick }) => {
   };
 
   const categories = [
-    "Direction Sign",
-    "Pin Sign",
+    "Direction Signs",
+    "Pin Signs",
     "Supports",
-    "Body Sign",
+    "Floor Patterns",
+    "Body Signs",
     "Analogy and Canon Signs",
     "The Score",
     "Old Ways of Writing",
@@ -26,12 +27,13 @@ const Header = ({ onClick }) => {
   ];
 
   const dropdownItems = [
-    ["Principle", 10],
+    ["Principles", 10],
     ["The Alphabet", 91],
-    ["Direction Sign", 24],
-    ["Pin Sign", 33],
+    ["Direction Signs", 24],
+    ["Pin Signs", 33],
     ["Supports", 75],
-    ["Body Sign", 132],
+    ["Floor Patterns", 79],
+    ["Body Signs", 132],
     ["Analogy and Canon Signs", 58],
     ["The Score", 8],
     ["Old Ways of Writing", 53],
